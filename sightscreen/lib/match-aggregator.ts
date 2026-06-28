@@ -1,7 +1,11 @@
+import { LEAGUE_METADATA, LEAGUE_ORDER } from "@/lib/league";
 import type {
   H2HSeasonRow,
   H2HStats,
   H2HTeamSummary,
+  LeagueCode,
+  LeagueStats,
+  LeagueTeamRow,
   MatchJson,
   MatchSummary,
   SeasonStats,
@@ -19,6 +23,8 @@ import {
   sortMatchesByDateDesc,
 } from "@/lib/utils";
 
+type LeagueFilter = LeagueCode | "all";
+
 function isTeamInMatch(match: MatchJson, teamName: string): boolean {
   return match.teams.team1 === teamName || match.teams.team2 === teamName;
 }
@@ -33,6 +39,12 @@ function getTeamInningsScores(match: MatchJson, teamName: string) {
 
 function summarizeMatches(matches: MatchJson[]): MatchSummary[] {
   return matches.map((match) => matchToSummary(match));
+}
+
+function sortLeagues(leagues: Iterable<LeagueCode>): LeagueCode[] {
+  return Array.from(new Set(leagues)).sort(
+    (left, right) => LEAGUE_ORDER.indexOf(left) - LEAGUE_ORDER.indexOf(right),
+  );
 }
 
 function computeTeamPerformance(teamName: string, matches: MatchJson[]): TeamPerformanceRow {
@@ -83,10 +95,29 @@ function computeTeamPerformance(teamName: string, matches: MatchJson[]): TeamPer
   };
 }
 
+export function filterMatchesByLeague(league: LeagueFilter, matches: MatchJson[]): MatchJson[] {
+  if (league === "all") {
+    return matches;
+  }
+  return matches.filter((match) => match.league === league);
+}
+
+export function getLeagueMetadata(league: LeagueCode) {
+  return LEAGUE_METADATA[league];
+}
+
+export function getAllLeagues(matches: MatchJson[]): LeagueCode[] {
+  return sortLeagues(matches.map((match) => match.league));
+}
+
 export function getAllTeams(matches: MatchJson[]): string[] {
   return Array.from(
     new Set(matches.flatMap((match) => [match.teams.team1, match.teams.team2])),
   ).sort((a, b) => a.localeCompare(b));
+}
+
+export function getTeamsByLeague(league: LeagueCode, matches: MatchJson[]): string[] {
+  return getAllTeams(filterMatchesByLeague(league, matches));
 }
 
 export function getAllSeasons(matches: MatchJson[]): string[] {
@@ -95,30 +126,45 @@ export function getAllSeasons(matches: MatchJson[]): string[] {
   );
 }
 
+export function getSeasonsByLeague(league: LeagueCode, matches: MatchJson[]): string[] {
+  return getAllSeasons(filterMatchesByLeague(league, matches));
+}
+
 export function getAllVenues(matches: MatchJson[]): string[] {
   return Array.from(new Set(matches.map((match) => match.venue))).sort((a, b) =>
     a.localeCompare(b),
   );
 }
 
-export function getAllH2HPairs(matches: MatchJson[]): { slug: string; team1: string; team2: string }[] {
-  const pairs = new Map<string, { slug: string; team1: string; team2: string }>();
+export function getVenuesByLeague(league: LeagueCode, matches: MatchJson[]): string[] {
+  return getAllVenues(filterMatchesByLeague(league, matches));
+}
+
+export function getAllH2HPairs(
+  matches: MatchJson[],
+): { slug: string; team1: string; team2: string; leagues: LeagueCode[] }[] {
+  const pairs = new Map<string, { slug: string; team1: string; team2: string; leagues: Set<LeagueCode> }>();
 
   for (const match of matches) {
     const [team1, team2] = [match.teams.team1, match.teams.team2].sort((a, b) =>
       a.localeCompare(b),
     );
     const slug = buildH2HSlug(team1, team2);
-    pairs.set(slug, { slug, team1, team2 });
+    const existing = pairs.get(slug) ?? { slug, team1, team2, leagues: new Set<LeagueCode>() };
+    existing.leagues.add(match.league);
+    pairs.set(slug, existing);
   }
 
-  return Array.from(pairs.values()).sort((a, b) => a.slug.localeCompare(b.slug));
+  return Array.from(pairs.values())
+    .map((pair) => ({ ...pair, leagues: sortLeagues(pair.leagues) }))
+    .sort((a, b) => a.slug.localeCompare(b.slug));
 }
 
 export function getTeamStats(teamName: string, matches: MatchJson[]): TeamStats {
   const teamMatches = matches.filter((match) => isTeamInMatch(match, teamName));
   const performance = computeTeamPerformance(teamName, teamMatches);
   const seasons = teamMatches.map((match) => seasonFromDate(match.date));
+  const leagues = sortLeagues(teamMatches.map((match) => match.league));
   const seasonRange =
     seasons.length === 0
       ? ""
@@ -127,19 +173,28 @@ export function getTeamStats(teamName: string, matches: MatchJson[]): TeamStats 
   const opponentCounts = new Map<string, number>();
 
   for (const match of teamMatches) {
-    const season = seasonFromDate(match.date);
-    const seasonMatches = perSeason.get(season) ?? [];
+    const seasonKey = `${match.league}:${seasonFromDate(match.date)}`;
+    const seasonMatches = perSeason.get(seasonKey) ?? [];
     seasonMatches.push(match);
-    perSeason.set(season, seasonMatches);
+    perSeason.set(seasonKey, seasonMatches);
 
     const opponent = match.teams.team1 === teamName ? match.teams.team2 : match.teams.team1;
     opponentCounts.set(opponent, (opponentCounts.get(opponent) ?? 0) + 1);
   }
 
   const seasonBreakdown: TeamSeasonRow[] = Array.from(perSeason.entries())
-    .map(([season, seasonMatches]) => ({ season, ...computeTeamPerformance(teamName, seasonMatches) }))
-    .sort((a, b) => Number(b.season) - Number(a.season))
-    .map(({ season, matchesPlayed, wins, losses, ties, winPct }) => ({
+    .map(([seasonKey, seasonMatches]) => {
+      const [league, season] = seasonKey.split(":") as [LeagueCode, string];
+      return { league, season, ...computeTeamPerformance(teamName, seasonMatches) };
+    })
+    .sort((a, b) => {
+      if (a.league !== b.league) {
+        return LEAGUE_ORDER.indexOf(a.league) - LEAGUE_ORDER.indexOf(b.league);
+      }
+      return Number(b.season) - Number(a.season);
+    })
+    .map(({ league, season, matchesPlayed, wins, losses, ties, winPct }) => ({
+      league,
       season,
       matchesPlayed,
       wins,
@@ -164,6 +219,8 @@ export function getTeamStats(teamName: string, matches: MatchJson[]): TeamStats 
   return {
     teamName,
     slug: slugifySegment(teamName),
+    leagues,
+    primaryLeague: leagues[0] ?? null,
     seasonRange,
     matchesPlayed: performance.matchesPlayed,
     wins: performance.wins,
@@ -178,8 +235,14 @@ export function getTeamStats(teamName: string, matches: MatchJson[]): TeamStats 
   };
 }
 
-export function getSeasonStats(season: string, matches: MatchJson[]): SeasonStats {
-  const seasonMatches = matches.filter((match) => seasonFromDate(match.date) === season);
+export function getSeasonStats(
+  season: string,
+  matches: MatchJson[],
+  league: LeagueFilter = "all",
+): SeasonStats {
+  const seasonMatches = filterMatchesByLeague(league, matches).filter(
+    (match) => seasonFromDate(match.date) === season,
+  );
   const teams = getAllTeams(seasonMatches);
   const leaderboard = teams
     .map((teamName) => computeTeamPerformance(teamName, seasonMatches))
@@ -194,6 +257,7 @@ export function getSeasonStats(season: string, matches: MatchJson[]): SeasonStat
     });
 
   return {
+    league,
     season,
     matchesPlayed: seasonMatches.length,
     leaderboard,
@@ -201,8 +265,8 @@ export function getSeasonStats(season: string, matches: MatchJson[]): SeasonStat
   };
 }
 
-export function getVenueStats(venue: string, matches: MatchJson[]): VenueStats {
-  const venueMatches = matches.filter((match) => match.venue === venue);
+export function getVenueStats(venue: string, matches: MatchJson[], league: LeagueFilter = "all"): VenueStats {
+  const venueMatches = filterMatchesByLeague(league, matches).filter((match) => match.venue === venue);
   const teams = getAllTeams(venueMatches);
   const teamPerformance = teams
     .map((teamName) => computeTeamPerformance(teamName, venueMatches))
@@ -245,6 +309,7 @@ export function getVenueStats(venue: string, matches: MatchJson[]): VenueStats {
   return {
     venue,
     slug: slugifySegment(venue),
+    leagues: sortLeagues(matches.filter((match) => match.venue === venue).map((match) => match.league)),
     matchesPlayed: venueMatches.length,
     avgScore: inningsCount === 0 ? 0 : totalScore / inningsCount,
     homeTeam: homeTeamRow
@@ -289,14 +354,15 @@ export function getH2HStats(team1: string, team2: string, matches: MatchJson[]):
   const bySeason = new Map<string, MatchJson[]>();
 
   for (const match of h2hMatches) {
-    const season = seasonFromDate(match.date);
-    const seasonMatches = bySeason.get(season) ?? [];
+    const seasonKey = `${match.league}:${seasonFromDate(match.date)}`;
+    const seasonMatches = bySeason.get(seasonKey) ?? [];
     seasonMatches.push(match);
-    bySeason.set(season, seasonMatches);
+    bySeason.set(seasonKey, seasonMatches);
   }
 
   const seriesBreakdown: H2HSeasonRow[] = Array.from(bySeason.entries())
-    .map(([season, seasonMatches]) => {
+    .map(([seasonKey, seasonMatches]) => {
+      const [, season] = seasonKey.split(":");
       const team1Summary = computeTeamPerformance(team1, seasonMatches);
       const team2Summary = computeTeamPerformance(team2, seasonMatches);
       return {
@@ -315,9 +381,55 @@ export function getH2HStats(team1: string, team2: string, matches: MatchJson[]):
     team1,
     team2,
     slug: buildH2HSlug(team1, team2),
+    leagues: sortLeagues(h2hMatches.map((match) => match.league)),
     matchesPlayed: h2hMatches.length,
     summaries: [computeH2HTeamSummary(team1, h2hMatches), computeH2HTeamSummary(team2, h2hMatches)],
     seriesBreakdown,
     matchSummaries: sortMatchesByDateAsc(summarizeMatches(h2hMatches)),
+  };
+}
+
+export function getLeagueStats(league: LeagueCode, matches: MatchJson[]): LeagueStats {
+  const leagueMatches = filterMatchesByLeague(league, matches);
+  const teams = getTeamsByLeague(league, matches);
+  const seasons = getSeasonsByLeague(league, matches);
+  const leaderboard: LeagueTeamRow[] = teams
+    .map((teamName) => computeTeamPerformance(teamName, leagueMatches))
+    .map((team) => ({
+      teamName: team.teamName,
+      slug: team.slug,
+      matchesPlayed: team.matchesPlayed,
+      wins: team.wins,
+      losses: team.losses,
+      winPct: team.winPct,
+      avgScore: team.avgScore,
+    }))
+    .sort((a, b) => {
+      if (b.winPct === a.winPct) {
+        if (b.wins === a.wins) {
+          return a.teamName.localeCompare(b.teamName);
+        }
+        return b.wins - a.wins;
+      }
+      return b.winPct - a.winPct;
+    });
+
+  const seasonBreakdown = seasons.map((season) => {
+    const seasonStats = getSeasonStats(season, matches, league);
+    return {
+      season,
+      matchesPlayed: seasonStats.matchesPlayed,
+      teams: seasonStats.leaderboard.length,
+    };
+  });
+
+  return {
+    metadata: getLeagueMetadata(league),
+    matchesPlayed: leagueMatches.length,
+    teams,
+    seasons,
+    leaderboard,
+    seasonBreakdown,
+    matchSummaries: sortMatchesByDateDesc(summarizeMatches(leagueMatches)),
   };
 }

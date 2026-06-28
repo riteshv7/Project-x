@@ -1,0 +1,1361 @@
+{
+  "match_id": "1152535",
+  "date": "2019-01-09",
+  "venue": "Melbourne Cricket Ground",
+  "teams": {
+    "team1": "Melbourne Stars",
+    "team2": "Perth Scorchers"
+  },
+  "result": {
+    "winner": "Perth Scorchers",
+    "margin": "6 wickets",
+    "margin_type": "wickets"
+  },
+  "innings": [
+    {
+      "innings_number": 1,
+      "batting_team": "Melbourne Stars",
+      "bowling_team": "Perth Scorchers",
+      "final_score": 146,
+      "wickets": 6,
+      "overs": 20.0,
+      "win_probability_curve": [
+        {
+          "over": 0,
+          "ball": 0,
+          "probability": 0.48
+        },
+        {
+          "over": 0,
+          "ball": 1,
+          "probability": 0.488
+        },
+        {
+          "over": 0,
+          "ball": 2,
+          "probability": 0.484
+        },
+        {
+          "over": 0,
+          "ball": 3,
+          "probability": 0.475
+        },
+        {
+          "over": 0,
+          "ball": 4,
+          "probability": 0.477
+        },
+        {
+          "over": 0,
+          "ball": 5,
+          "probability": 0.469
+        },
+        {
+          "over": 0,
+          "ball": 6,
+          "probability": 0.47
+        },
+        {
+          "over": 1,
+          "ball": 0,
+          "probability": 0.463
+        },
+        {
+          "over": 1,
+          "ball": 1,
+          "probability": 0.464
+        },
+        {
+          "over": 1,
+          "ball": 2,
+          "probability": 0.457
+        },
+        {
+          "over": 1,
+          "ball": 3,
+          "probability": 0.45
+        },
+        {
+          "over": 1,
+          "ball": 4,
+          "probability": 0.443
+        },
+        {
+          "over": 1,
+          "ball": 5,
+          "probability": 0.436
+        },
+        {
+          "over": 2,
+          "ball": 0,
+          "probability": 0.461
+        },
+        {
+          "over": 2,
+          "ball": 1,
+          "probability": 0.454
+        },
+        {
+          "over": 2,
+          "ball": 2,
+          "probability": 0.447
+        },
+        {
+          "over": 2,
+          "ball": 3,
+          "probability": 0.456
+        },
+        {
+          "over": 2,
+          "ball": 4,
+          "probability": 0.457
+        },
+        {
+          "over": 2,
+          "ball": 5,
+          "probability": 0.45
+        },
+        {
+          "over": 3,
+          "ball": 0,
+          "probability": 0.451
+        },
+        {
+          "over": 3,
+          "ball": 1,
+          "probability": 0.468
+        },
+        {
+          "over": 3,
+          "ball": 2,
+          "probability": 0.461
+        },
+        {
+          "over": 3,
+          "ball": 3,
+          "probability": 0.487
+        },
+        {
+          "over": 3,
+          "ball": 4,
+          "probability": 0.512
+        },
+        {
+          "over": 3,
+          "ball": 5,
+          "probability": 0.513
+        },
+        {
+          "over": 4,
+          "ball": 0,
+          "probability": 0.514
+        },
+        {
+          "over": 4,
+          "ball": 1,
+          "probability": 0.515
+        },
+        {
+          "over": 4,
+          "ball": 2,
+          "probability": 0.516
+        },
+        {
+          "over": 4,
+          "ball": 3,
+          "probability": 0.517
+        },
+        {
+          "over": 4,
+          "ball": 4,
+          "probability": 0.525
+        },
+        {
+          "over": 4,
+          "ball": 5,
+          "probability": 0.518
+        },
+        {
+          "over": 4,
+          "ball": 6,
+          "probability": 0.527
+        },
+        {
+          "over": 5,
+          "ball": 0,
+          "probability": 0.52
+        },
+        {
+          "over": 5,
+          "ball": 1,
+          "probability": 0.561
+        },
+        {
+          "over": 5,
+          "ball": 2,
+          "probability": 0.562
+        },
+        {
+          "over": 5,
+          "ball": 3,
+          "probability": 0.563
+        },
+        {
+          "over": 5,
+          "ball": 4,
+          "probability": 0.572
+        },
+        {
+          "over": 5,
+          "ball": 5,
+          "probability": 0.596
+        },
+        {
+          "over": 6,
+          "ball": 0,
+          "probability": 0.589
+        },
+        {
+          "over": 6,
+          "ball": 1,
+          "probability": 0.59
+        },
+        {
+          "over": 6,
+          "ball": 2,
+          "probability": 0.591
+        },
+        {
+          "over": 6,
+          "ball": 3,
+          "probability": 0.592
+        },
+        {
+          "over": 6,
+          "ball": 4,
+          "probability": 0.593
+        },
+        {
+          "over": 6,
+          "ball": 5,
+          "probability": 0.602
+        },
+        {
+          "over": 7,
+          "ball": 0,
+          "probability": 0.595
+        },
+        {
+          "over": 7,
+          "ball": 1,
+          "probability": 0.588
+        },
+        {
+          "over": 7,
+          "ball": 2,
+          "probability": 0.596
+        },
+        {
+          "over": 7,
+          "ball": 3,
+          "probability": 0.597
+        },
+        {
+          "over": 7,
+          "ball": 4,
+          "probability": 0.605
+        },
+        {
+          "over": 7,
+          "ball": 5,
+          "probability": 0.598
+        },
+        {
+          "over": 7,
+          "ball": 6,
+          "probability": 0.599
+        },
+        {
+          "over": 8,
+          "ball": 0,
+          "probability": 0.6
+        },
+        {
+          "over": 8,
+          "ball": 1,
+          "probability": 0.609
+        },
+        {
+          "over": 8,
+          "ball": 2,
+          "probability": 0.633
+        },
+        {
+          "over": 8,
+          "ball": 3,
+          "probability": 0.641
+        },
+        {
+          "over": 8,
+          "ball": 4,
+          "probability": 0.558
+        },
+        {
+          "over": 8,
+          "ball": 5,
+          "probability": 0.559
+        },
+        {
+          "over": 9,
+          "ball": 0,
+          "probability": 0.552
+        },
+        {
+          "over": 9,
+          "ball": 1,
+          "probability": 0.553
+        },
+        {
+          "over": 9,
+          "ball": 2,
+          "probability": 0.546
+        },
+        {
+          "over": 9,
+          "ball": 3,
+          "probability": 0.555
+        },
+        {
+          "over": 9,
+          "ball": 4,
+          "probability": 0.548
+        },
+        {
+          "over": 9,
+          "ball": 5,
+          "probability": 0.462
+        },
+        {
+          "over": 10,
+          "ball": 0,
+          "probability": 0.455
+        },
+        {
+          "over": 10,
+          "ball": 1,
+          "probability": 0.463
+        },
+        {
+          "over": 10,
+          "ball": 2,
+          "probability": 0.456
+        },
+        {
+          "over": 10,
+          "ball": 3,
+          "probability": 0.465
+        },
+        {
+          "over": 10,
+          "ball": 4,
+          "probability": 0.458
+        },
+        {
+          "over": 10,
+          "ball": 5,
+          "probability": 0.451
+        },
+        {
+          "over": 10,
+          "ball": 6,
+          "probability": 0.46
+        },
+        {
+          "over": 11,
+          "ball": 0,
+          "probability": 0.461
+        },
+        {
+          "over": 11,
+          "ball": 1,
+          "probability": 0.453
+        },
+        {
+          "over": 11,
+          "ball": 2,
+          "probability": 0.454
+        },
+        {
+          "over": 11,
+          "ball": 3,
+          "probability": 0.447
+        },
+        {
+          "over": 11,
+          "ball": 4,
+          "probability": 0.44
+        },
+        {
+          "over": 11,
+          "ball": 5,
+          "probability": 0.441
+        },
+        {
+          "over": 12,
+          "ball": 0,
+          "probability": 0.434
+        },
+        {
+          "over": 12,
+          "ball": 1,
+          "probability": 0.435
+        },
+        {
+          "over": 12,
+          "ball": 2,
+          "probability": 0.428
+        },
+        {
+          "over": 12,
+          "ball": 3,
+          "probability": 0.429
+        },
+        {
+          "over": 12,
+          "ball": 4,
+          "probability": 0.43
+        },
+        {
+          "over": 12,
+          "ball": 5,
+          "probability": 0.431
+        },
+        {
+          "over": 12,
+          "ball": 6,
+          "probability": 0.439
+        },
+        {
+          "over": 13,
+          "ball": 0,
+          "probability": 0.432
+        },
+        {
+          "over": 13,
+          "ball": 1,
+          "probability": 0.457
+        },
+        {
+          "over": 13,
+          "ball": 2,
+          "probability": 0.458
+        },
+        {
+          "over": 13,
+          "ball": 3,
+          "probability": 0.467
+        },
+        {
+          "over": 13,
+          "ball": 4,
+          "probability": 0.468
+        },
+        {
+          "over": 13,
+          "ball": 5,
+          "probability": 0.493
+        },
+        {
+          "over": 14,
+          "ball": 0,
+          "probability": 0.518
+        },
+        {
+          "over": 14,
+          "ball": 1,
+          "probability": 0.511
+        },
+        {
+          "over": 14,
+          "ball": 2,
+          "probability": 0.536
+        },
+        {
+          "over": 14,
+          "ball": 3,
+          "probability": 0.545
+        },
+        {
+          "over": 14,
+          "ball": 4,
+          "probability": 0.546
+        },
+        {
+          "over": 14,
+          "ball": 5,
+          "probability": 0.586
+        },
+        {
+          "over": 14,
+          "ball": 6,
+          "probability": 0.594
+        },
+        {
+          "over": 15,
+          "ball": 0,
+          "probability": 0.595
+        },
+        {
+          "over": 15,
+          "ball": 1,
+          "probability": 0.604
+        },
+        {
+          "over": 15,
+          "ball": 2,
+          "probability": 0.605
+        },
+        {
+          "over": 15,
+          "ball": 3,
+          "probability": 0.606
+        },
+        {
+          "over": 15,
+          "ball": 4,
+          "probability": 0.629
+        },
+        {
+          "over": 15,
+          "ball": 5,
+          "probability": 0.546
+        },
+        {
+          "over": 16,
+          "ball": 0,
+          "probability": 0.539
+        },
+        {
+          "over": 16,
+          "ball": 1,
+          "probability": 0.532
+        },
+        {
+          "over": 16,
+          "ball": 2,
+          "probability": 0.446
+        },
+        {
+          "over": 16,
+          "ball": 3,
+          "probability": 0.447
+        },
+        {
+          "over": 16,
+          "ball": 4,
+          "probability": 0.448
+        },
+        {
+          "over": 16,
+          "ball": 5,
+          "probability": 0.456
+        },
+        {
+          "over": 16,
+          "ball": 6,
+          "probability": 0.457
+        },
+        {
+          "over": 17,
+          "ball": 0,
+          "probability": 0.45
+        },
+        {
+          "over": 17,
+          "ball": 1,
+          "probability": 0.443
+        },
+        {
+          "over": 17,
+          "ball": 2,
+          "probability": 0.468
+        },
+        {
+          "over": 17,
+          "ball": 3,
+          "probability": 0.46
+        },
+        {
+          "over": 17,
+          "ball": 4,
+          "probability": 0.461
+        },
+        {
+          "over": 17,
+          "ball": 5,
+          "probability": 0.47
+        },
+        {
+          "over": 18,
+          "ball": 0,
+          "probability": 0.471
+        },
+        {
+          "over": 18,
+          "ball": 1,
+          "probability": 0.472
+        },
+        {
+          "over": 18,
+          "ball": 2,
+          "probability": 0.388
+        },
+        {
+          "over": 18,
+          "ball": 3,
+          "probability": 0.396
+        },
+        {
+          "over": 18,
+          "ball": 4,
+          "probability": 0.389
+        },
+        {
+          "over": 18,
+          "ball": 5,
+          "probability": 0.311
+        },
+        {
+          "over": 18,
+          "ball": 6,
+          "probability": 0.318
+        },
+        {
+          "over": 18,
+          "ball": 7,
+          "probability": 0.312
+        },
+        {
+          "over": 19,
+          "ball": 0,
+          "probability": 0.319
+        },
+        {
+          "over": 19,
+          "ball": 1,
+          "probability": 0.327
+        },
+        {
+          "over": 19,
+          "ball": 2,
+          "probability": 0.328
+        },
+        {
+          "over": 19,
+          "ball": 3,
+          "probability": 0.329
+        },
+        {
+          "over": 19,
+          "ball": 4,
+          "probability": 0.33
+        },
+        {
+          "over": 19,
+          "ball": 5,
+          "probability": 0.331
+        }
+      ],
+      "key_moments": [
+        {
+          "over": 9,
+          "ball": 4,
+          "swing": 0.086,
+          "probability_before": 0.548,
+          "probability_after": 0.462,
+          "description": "Wicket"
+        },
+        {
+          "over": 16,
+          "ball": 1,
+          "swing": 0.086,
+          "probability_before": 0.532,
+          "probability_after": 0.446,
+          "description": "Wicket"
+        },
+        {
+          "over": 18,
+          "ball": 1,
+          "swing": 0.084,
+          "probability_before": 0.472,
+          "probability_after": 0.388,
+          "description": "Wicket"
+        },
+        {
+          "over": 15,
+          "ball": 4,
+          "swing": 0.083,
+          "probability_before": 0.629,
+          "probability_after": 0.546,
+          "description": "Wicket"
+        },
+        {
+          "over": 8,
+          "ball": 3,
+          "swing": 0.083,
+          "probability_before": 0.641,
+          "probability_after": 0.558,
+          "description": "Wicket"
+        }
+      ],
+      "phases": {
+        "powerplay": {
+          "overs": "1-6",
+          "runs": 45,
+          "wickets": 0,
+          "run_rate": 7.5,
+          "required_run_rate": null
+        },
+        "middle": {
+          "overs": "7-15",
+          "runs": 68,
+          "wickets": 2,
+          "run_rate": 7.56,
+          "required_run_rate": null
+        },
+        "death": {
+          "overs": "16-20",
+          "runs": 33,
+          "wickets": 4,
+          "run_rate": 6.6,
+          "required_run_rate": null
+        }
+      },
+      "pressure_index": 0.984,
+      "match_shape": null
+    },
+    {
+      "innings_number": 2,
+      "batting_team": "Perth Scorchers",
+      "bowling_team": "Melbourne Stars",
+      "final_score": 147,
+      "wickets": 4,
+      "overs": 17.67,
+      "win_probability_curve": [
+        {
+          "over": 0,
+          "ball": 0,
+          "probability": 0.65
+        },
+        {
+          "over": 0,
+          "ball": 1,
+          "probability": 0.654
+        },
+        {
+          "over": 0,
+          "ball": 2,
+          "probability": 0.671
+        },
+        {
+          "over": 0,
+          "ball": 3,
+          "probability": 0.657
+        },
+        {
+          "over": 0,
+          "ball": 4,
+          "probability": 0.645
+        },
+        {
+          "over": 0,
+          "ball": 5,
+          "probability": 0.646
+        },
+        {
+          "over": 1,
+          "ball": 0,
+          "probability": 0.648
+        },
+        {
+          "over": 1,
+          "ball": 1,
+          "probability": 0.635
+        },
+        {
+          "over": 1,
+          "ball": 2,
+          "probability": 0.622
+        },
+        {
+          "over": 1,
+          "ball": 3,
+          "probability": 0.695
+        },
+        {
+          "over": 1,
+          "ball": 4,
+          "probability": 0.683
+        },
+        {
+          "over": 1,
+          "ball": 5,
+          "probability": 0.684
+        },
+        {
+          "over": 2,
+          "ball": 0,
+          "probability": 0.672
+        },
+        {
+          "over": 2,
+          "ball": 1,
+          "probability": 0.659
+        },
+        {
+          "over": 2,
+          "ball": 2,
+          "probability": 0.66
+        },
+        {
+          "over": 2,
+          "ball": 3,
+          "probability": 0.662
+        },
+        {
+          "over": 2,
+          "ball": 4,
+          "probability": 0.663
+        },
+        {
+          "over": 2,
+          "ball": 5,
+          "probability": 0.65
+        },
+        {
+          "over": 3,
+          "ball": 0,
+          "probability": 0.636
+        },
+        {
+          "over": 3,
+          "ball": 1,
+          "probability": 0.638
+        },
+        {
+          "over": 3,
+          "ball": 2,
+          "probability": 0.639
+        },
+        {
+          "over": 3,
+          "ball": 3,
+          "probability": 0.655
+        },
+        {
+          "over": 3,
+          "ball": 4,
+          "probability": 0.699
+        },
+        {
+          "over": 3,
+          "ball": 5,
+          "probability": 0.686
+        },
+        {
+          "over": 4,
+          "ball": 0,
+          "probability": 0.687
+        },
+        {
+          "over": 4,
+          "ball": 1,
+          "probability": 0.716
+        },
+        {
+          "over": 4,
+          "ball": 2,
+          "probability": 0.756
+        },
+        {
+          "over": 4,
+          "ball": 3,
+          "probability": 0.757
+        },
+        {
+          "over": 4,
+          "ball": 4,
+          "probability": 0.758
+        },
+        {
+          "over": 4,
+          "ball": 5,
+          "probability": 0.759
+        },
+        {
+          "over": 5,
+          "ball": 0,
+          "probability": 0.773
+        },
+        {
+          "over": 5,
+          "ball": 1,
+          "probability": 0.761
+        },
+        {
+          "over": 5,
+          "ball": 2,
+          "probability": 0.75
+        },
+        {
+          "over": 5,
+          "ball": 3,
+          "probability": 0.751
+        },
+        {
+          "over": 5,
+          "ball": 4,
+          "probability": 0.788
+        },
+        {
+          "over": 5,
+          "ball": 5,
+          "probability": 0.822
+        },
+        {
+          "over": 6,
+          "ball": 0,
+          "probability": 0.823
+        },
+        {
+          "over": 6,
+          "ball": 1,
+          "probability": 0.824
+        },
+        {
+          "over": 6,
+          "ball": 2,
+          "probability": 0.824
+        },
+        {
+          "over": 6,
+          "ball": 3,
+          "probability": 0.825
+        },
+        {
+          "over": 6,
+          "ball": 4,
+          "probability": 0.826
+        },
+        {
+          "over": 6,
+          "ball": 5,
+          "probability": 0.816
+        },
+        {
+          "over": 7,
+          "ball": 0,
+          "probability": 0.817
+        },
+        {
+          "over": 7,
+          "ball": 1,
+          "probability": 0.818
+        },
+        {
+          "over": 7,
+          "ball": 2,
+          "probability": 0.808
+        },
+        {
+          "over": 7,
+          "ball": 3,
+          "probability": 0.797
+        },
+        {
+          "over": 7,
+          "ball": 4,
+          "probability": 0.82
+        },
+        {
+          "over": 7,
+          "ball": 5,
+          "probability": 0.821
+        },
+        {
+          "over": 8,
+          "ball": 0,
+          "probability": 0.821
+        },
+        {
+          "over": 8,
+          "ball": 1,
+          "probability": 0.811
+        },
+        {
+          "over": 8,
+          "ball": 2,
+          "probability": 0.822
+        },
+        {
+          "over": 8,
+          "ball": 3,
+          "probability": 0.823
+        },
+        {
+          "over": 8,
+          "ball": 4,
+          "probability": 0.823
+        },
+        {
+          "over": 8,
+          "ball": 5,
+          "probability": 0.824
+        },
+        {
+          "over": 9,
+          "ball": 0,
+          "probability": 0.824
+        },
+        {
+          "over": 9,
+          "ball": 1,
+          "probability": 0.813
+        },
+        {
+          "over": 9,
+          "ball": 2,
+          "probability": 0.846
+        },
+        {
+          "over": 9,
+          "ball": 3,
+          "probability": 0.836
+        },
+        {
+          "over": 9,
+          "ball": 4,
+          "probability": 0.836
+        },
+        {
+          "over": 9,
+          "ball": 5,
+          "probability": 0.847
+        },
+        {
+          "over": 10,
+          "ball": 0,
+          "probability": 0.847
+        },
+        {
+          "over": 10,
+          "ball": 1,
+          "probability": 0.837
+        },
+        {
+          "over": 10,
+          "ball": 2,
+          "probability": 0.868
+        },
+        {
+          "over": 10,
+          "ball": 3,
+          "probability": 0.815
+        },
+        {
+          "over": 10,
+          "ball": 4,
+          "probability": 0.827
+        },
+        {
+          "over": 10,
+          "ball": 5,
+          "probability": 0.828
+        },
+        {
+          "over": 11,
+          "ball": 0,
+          "probability": 0.815
+        },
+        {
+          "over": 11,
+          "ball": 1,
+          "probability": 0.815
+        },
+        {
+          "over": 11,
+          "ball": 2,
+          "probability": 0.802
+        },
+        {
+          "over": 11,
+          "ball": 3,
+          "probability": 0.787
+        },
+        {
+          "over": 11,
+          "ball": 4,
+          "probability": 0.801
+        },
+        {
+          "over": 11,
+          "ball": 5,
+          "probability": 0.785
+        },
+        {
+          "over": 12,
+          "ball": 0,
+          "probability": 0.785
+        },
+        {
+          "over": 12,
+          "ball": 1,
+          "probability": 0.784
+        },
+        {
+          "over": 12,
+          "ball": 2,
+          "probability": 0.798
+        },
+        {
+          "over": 12,
+          "ball": 3,
+          "probability": 0.863
+        },
+        {
+          "over": 12,
+          "ball": 4,
+          "probability": 0.863
+        },
+        {
+          "over": 12,
+          "ball": 5,
+          "probability": 0.862
+        },
+        {
+          "over": 13,
+          "ball": 0,
+          "probability": 0.862
+        },
+        {
+          "over": 13,
+          "ball": 1,
+          "probability": 0.862
+        },
+        {
+          "over": 13,
+          "ball": 2,
+          "probability": 0.861
+        },
+        {
+          "over": 13,
+          "ball": 3,
+          "probability": 0.802
+        },
+        {
+          "over": 13,
+          "ball": 4,
+          "probability": 0.817
+        },
+        {
+          "over": 13,
+          "ball": 5,
+          "probability": 0.832
+        },
+        {
+          "over": 14,
+          "ball": 0,
+          "probability": 0.831
+        },
+        {
+          "over": 14,
+          "ball": 1,
+          "probability": 0.83
+        },
+        {
+          "over": 14,
+          "ball": 2,
+          "probability": 0.812
+        },
+        {
+          "over": 14,
+          "ball": 3,
+          "probability": 0.828
+        },
+        {
+          "over": 14,
+          "ball": 4,
+          "probability": 0.894
+        },
+        {
+          "over": 14,
+          "ball": 5,
+          "probability": 0.905
+        },
+        {
+          "over": 14,
+          "ball": 6,
+          "probability": 0.932
+        },
+        {
+          "over": 15,
+          "ball": 0,
+          "probability": 0.962
+        },
+        {
+          "over": 15,
+          "ball": 1,
+          "probability": 0.963
+        },
+        {
+          "over": 15,
+          "ball": 2,
+          "probability": 0.968
+        },
+        {
+          "over": 15,
+          "ball": 3,
+          "probability": 0.972
+        },
+        {
+          "over": 15,
+          "ball": 4,
+          "probability": 0.986
+        },
+        {
+          "over": 15,
+          "ball": 5,
+          "probability": 0.987
+        },
+        {
+          "over": 16,
+          "ball": 0,
+          "probability": 0.989
+        },
+        {
+          "over": 16,
+          "ball": 1,
+          "probability": 0.99
+        },
+        {
+          "over": 16,
+          "ball": 2,
+          "probability": 0.989
+        },
+        {
+          "over": 16,
+          "ball": 3,
+          "probability": 0.983
+        },
+        {
+          "over": 16,
+          "ball": 4,
+          "probability": 0.975
+        },
+        {
+          "over": 16,
+          "ball": 5,
+          "probability": 0.973
+        },
+        {
+          "over": 17,
+          "ball": 0,
+          "probability": 0.975
+        },
+        {
+          "over": 17,
+          "ball": 1,
+          "probability": 0.976
+        },
+        {
+          "over": 17,
+          "ball": 2,
+          "probability": 0.988
+        },
+        {
+          "over": 17,
+          "ball": 3,
+          "probability": 0.99
+        },
+        {
+          "over": 17,
+          "ball": 4,
+          "probability": 0.993
+        },
+        {
+          "over": 17,
+          "ball": 5,
+          "probability": 0.994
+        }
+      ],
+      "key_moments": [
+        {
+          "over": 1,
+          "ball": 2,
+          "swing": 0.073,
+          "probability_before": 0.622,
+          "probability_after": 0.695,
+          "description": "Boundary"
+        },
+        {
+          "over": 14,
+          "ball": 3,
+          "swing": 0.067,
+          "probability_before": 0.828,
+          "probability_after": 0.894,
+          "description": "Boundary"
+        },
+        {
+          "over": 12,
+          "ball": 2,
+          "swing": 0.065,
+          "probability_before": 0.798,
+          "probability_after": 0.863,
+          "description": "Boundary"
+        },
+        {
+          "over": 13,
+          "ball": 2,
+          "swing": 0.059,
+          "probability_before": 0.861,
+          "probability_after": 0.802,
+          "description": "Wicket"
+        },
+        {
+          "over": 10,
+          "ball": 2,
+          "swing": 0.053,
+          "probability_before": 0.868,
+          "probability_after": 0.815,
+          "description": "Wicket"
+        }
+      ],
+      "phases": {
+        "powerplay": {
+          "overs": "1-6",
+          "runs": 46,
+          "wickets": 0,
+          "run_rate": 7.67,
+          "required_run_rate": 7.52
+        },
+        "middle": {
+          "overs": "7-15",
+          "runs": 75,
+          "wickets": 2,
+          "run_rate": 8.33,
+          "required_run_rate": 7.56
+        },
+        "death": {
+          "overs": "16-20",
+          "runs": 26,
+          "wickets": 2,
+          "run_rate": 5.2,
+          "required_run_rate": 3.15
+        }
+      },
+      "pressure_index": 0.383,
+      "match_shape": 0.994,
+      "target": 147
+    }
+  ]
+}

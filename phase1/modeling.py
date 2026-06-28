@@ -128,7 +128,11 @@ def calibration_bins(y_true: np.ndarray, y_pred: np.ndarray) -> pd.DataFrame:
     return grouped
 
 
-def plot_calibration_curve(calibration_df: pd.DataFrame, output_path: Path) -> None:
+def plot_calibration_curve(
+    calibration_df: pd.DataFrame,
+    output_path: Path,
+    title: str = "IPL Logistic Regression Calibration Curve",
+) -> None:
     output_path.parent.mkdir(parents=True, exist_ok=True)
     plt.figure(figsize=(7, 7))
     plt.plot([0, 1], [0, 1], linestyle="--", color="gray", label="Perfect calibration")
@@ -143,7 +147,7 @@ def plot_calibration_curve(calibration_df: pd.DataFrame, output_path: Path) -> N
     plt.ylim(0, 1)
     plt.xlabel("Predicted win probability")
     plt.ylabel("Actual win rate")
-    plt.title("IPL Logistic Regression Calibration Curve")
+    plt.title(title)
     plt.legend()
     plt.grid(alpha=0.2)
     plt.tight_layout()

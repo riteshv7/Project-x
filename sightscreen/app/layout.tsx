@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { SiteHeader } from "@/app/components/site-header";
 import "../styles/globals.css";
 
 const geistSans = Geist({
@@ -30,7 +31,10 @@ export default function RootLayout({
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable}`}
     >
-      <body className="page-shell min-h-screen text-foreground">{children}</body>
+      <body className="page-shell min-h-screen text-foreground">
+        <SiteHeader />
+        {children}
+      </body>
     </html>
   );
 }

@@ -1,0 +1,606 @@
+{
+  "match_id": "1355607",
+  "date": "2023-08-02",
+  "venue": "Sophia Gardens, Cardiff",
+  "teams": {
+    "team1": "Welsh Fire",
+    "team2": "Manchester Originals"
+  },
+  "result": {
+    "winner": "Welsh Fire",
+    "margin": "9 runs",
+    "margin_type": "runs"
+  },
+  "innings": [
+    {
+      "innings_number": 1,
+      "batting_team": "Welsh Fire",
+      "bowling_team": "Manchester Originals",
+      "final_score": 94,
+      "wickets": 3,
+      "overs": 6.67,
+      "win_probability_curve": [
+        {
+          "over": 0,
+          "ball": 0,
+          "probability": 0.48
+        },
+        {
+          "over": 0,
+          "ball": 1,
+          "probability": 0.488
+        },
+        {
+          "over": 0,
+          "ball": 2,
+          "probability": 0.524
+        },
+        {
+          "over": 0,
+          "ball": 3,
+          "probability": 0.509
+        },
+        {
+          "over": 0,
+          "ball": 4,
+          "probability": 0.534
+        },
+        {
+          "over": 0,
+          "ball": 5,
+          "probability": 0.524
+        },
+        {
+          "over": 1,
+          "ball": 0,
+          "probability": 0.548
+        },
+        {
+          "over": 1,
+          "ball": 1,
+          "probability": 0.557
+        },
+        {
+          "over": 1,
+          "ball": 2,
+          "probability": 0.58
+        },
+        {
+          "over": 1,
+          "ball": 3,
+          "probability": 0.619
+        },
+        {
+          "over": 1,
+          "ball": 4,
+          "probability": 0.618
+        },
+        {
+          "over": 1,
+          "ball": 5,
+          "probability": 0.532
+        },
+        {
+          "over": 2,
+          "ball": 0,
+          "probability": 0.523
+        },
+        {
+          "over": 2,
+          "ball": 1,
+          "probability": 0.522
+        },
+        {
+          "over": 2,
+          "ball": 2,
+          "probability": 0.53
+        },
+        {
+          "over": 2,
+          "ball": 3,
+          "probability": 0.53
+        },
+        {
+          "over": 2,
+          "ball": 4,
+          "probability": 0.553
+        },
+        {
+          "over": 2,
+          "ball": 5,
+          "probability": 0.561
+        },
+        {
+          "over": 3,
+          "ball": 0,
+          "probability": 0.584
+        },
+        {
+          "over": 3,
+          "ball": 1,
+          "probability": 0.576
+        },
+        {
+          "over": 3,
+          "ball": 2,
+          "probability": 0.583
+        },
+        {
+          "over": 3,
+          "ball": 3,
+          "probability": 0.582
+        },
+        {
+          "over": 3,
+          "ball": 4,
+          "probability": 0.574
+        },
+        {
+          "over": 4,
+          "ball": 0,
+          "probability": 0.573
+        },
+        {
+          "over": 4,
+          "ball": 1,
+          "probability": 0.596
+        },
+        {
+          "over": 4,
+          "ball": 2,
+          "probability": 0.596
+        },
+        {
+          "over": 4,
+          "ball": 3,
+          "probability": 0.604
+        },
+        {
+          "over": 4,
+          "ball": 4,
+          "probability": 0.611
+        },
+        {
+          "over": 4,
+          "ball": 5,
+          "probability": 0.648
+        },
+        {
+          "over": 5,
+          "ball": 0,
+          "probability": 0.655
+        },
+        {
+          "over": 5,
+          "ball": 1,
+          "probability": 0.654
+        },
+        {
+          "over": 5,
+          "ball": 2,
+          "probability": 0.69
+        },
+        {
+          "over": 5,
+          "ball": 3,
+          "probability": 0.689
+        },
+        {
+          "over": 5,
+          "ball": 4,
+          "probability": 0.722
+        },
+        {
+          "over": 6,
+          "ball": 0,
+          "probability": 0.741
+        },
+        {
+          "over": 6,
+          "ball": 1,
+          "probability": 0.759
+        },
+        {
+          "over": 6,
+          "ball": 2,
+          "probability": 0.776
+        },
+        {
+          "over": 6,
+          "ball": 3,
+          "probability": 0.71
+        },
+        {
+          "over": 6,
+          "ball": 4,
+          "probability": 0.702
+        },
+        {
+          "over": 6,
+          "ball": 5,
+          "probability": 0.709
+        },
+        {
+          "over": 6,
+          "ball": 6,
+          "probability": 0.715
+        },
+        {
+          "over": 7,
+          "ball": 0,
+          "probability": 0.715
+        },
+        {
+          "over": 7,
+          "ball": 1,
+          "probability": 0.708
+        },
+        {
+          "over": 7,
+          "ball": 2,
+          "probability": 0.727
+        },
+        {
+          "over": 7,
+          "ball": 3,
+          "probability": 0.652
+        },
+        {
+          "over": 7,
+          "ball": 4,
+          "probability": 0.659
+        }
+      ],
+      "key_moments": [
+        {
+          "over": 1,
+          "ball": 4,
+          "swing": 0.086,
+          "probability_before": 0.618,
+          "probability_after": 0.532,
+          "description": "Wicket"
+        },
+        {
+          "over": 7,
+          "ball": 2,
+          "swing": 0.075,
+          "probability_before": 0.727,
+          "probability_after": 0.652,
+          "description": "Wicket"
+        },
+        {
+          "over": 6,
+          "ball": 2,
+          "swing": 0.067,
+          "probability_before": 0.776,
+          "probability_after": 0.71,
+          "description": "Wicket"
+        },
+        {
+          "over": 1,
+          "ball": 2,
+          "swing": 0.039,
+          "probability_before": 0.58,
+          "probability_after": 0.619,
+          "description": "Boundary"
+        },
+        {
+          "over": 4,
+          "ball": 4,
+          "swing": 0.037,
+          "probability_before": 0.611,
+          "probability_after": 0.648,
+          "description": "Boundary"
+        }
+      ],
+      "phases": {
+        "powerplay": {
+          "overs": "1-6",
+          "runs": 76,
+          "wickets": 1,
+          "run_rate": 12.67,
+          "required_run_rate": null
+        },
+        "middle": {
+          "overs": "7-15",
+          "runs": 18,
+          "wickets": 2,
+          "run_rate": 2.0,
+          "required_run_rate": null
+        },
+        "death": {
+          "overs": "16-20",
+          "runs": 0,
+          "wickets": 0,
+          "run_rate": 0.0,
+          "required_run_rate": null
+        }
+      },
+      "pressure_index": 0.772,
+      "match_shape": null
+    },
+    {
+      "innings_number": 2,
+      "batting_team": "Manchester Originals",
+      "bowling_team": "Welsh Fire",
+      "final_score": 85,
+      "wickets": 4,
+      "overs": 6.67,
+      "win_probability_curve": [
+        {
+          "over": 0,
+          "ball": 0,
+          "probability": 0.94
+        },
+        {
+          "over": 0,
+          "ball": 1,
+          "probability": 0.916
+        },
+        {
+          "over": 0,
+          "ball": 2,
+          "probability": 0.883
+        },
+        {
+          "over": 0,
+          "ball": 3,
+          "probability": 0.89
+        },
+        {
+          "over": 0,
+          "ball": 4,
+          "probability": 0.885
+        },
+        {
+          "over": 1,
+          "ball": 0,
+          "probability": 0.903
+        },
+        {
+          "over": 1,
+          "ball": 1,
+          "probability": 0.919
+        },
+        {
+          "over": 1,
+          "ball": 2,
+          "probability": 0.933
+        },
+        {
+          "over": 1,
+          "ball": 3,
+          "probability": 0.944
+        },
+        {
+          "over": 1,
+          "ball": 4,
+          "probability": 0.948
+        },
+        {
+          "over": 2,
+          "ball": 0,
+          "probability": 0.957
+        },
+        {
+          "over": 2,
+          "ball": 1,
+          "probability": 0.957
+        },
+        {
+          "over": 2,
+          "ball": 2,
+          "probability": 0.958
+        },
+        {
+          "over": 2,
+          "ball": 3,
+          "probability": 0.963
+        },
+        {
+          "over": 2,
+          "ball": 4,
+          "probability": 0.963
+        },
+        {
+          "over": 2,
+          "ball": 5,
+          "probability": 0.961
+        },
+        {
+          "over": 3,
+          "ball": 0,
+          "probability": 0.962
+        },
+        {
+          "over": 3,
+          "ball": 1,
+          "probability": 0.962
+        },
+        {
+          "over": 3,
+          "ball": 2,
+          "probability": 0.969
+        },
+        {
+          "over": 3,
+          "ball": 3,
+          "probability": 0.969
+        },
+        {
+          "over": 3,
+          "ball": 4,
+          "probability": 0.968
+        },
+        {
+          "over": 4,
+          "ball": 0,
+          "probability": 0.966
+        },
+        {
+          "over": 4,
+          "ball": 1,
+          "probability": 0.966
+        },
+        {
+          "over": 4,
+          "ball": 2,
+          "probability": 0.967
+        },
+        {
+          "over": 4,
+          "ball": 3,
+          "probability": 0.967
+        },
+        {
+          "over": 4,
+          "ball": 4,
+          "probability": 0.977
+        },
+        {
+          "over": 5,
+          "ball": 0,
+          "probability": 0.981
+        },
+        {
+          "over": 5,
+          "ball": 1,
+          "probability": 0.98
+        },
+        {
+          "over": 5,
+          "ball": 2,
+          "probability": 0.986
+        },
+        {
+          "over": 5,
+          "ball": 3,
+          "probability": 0.986
+        },
+        {
+          "over": 5,
+          "ball": 4,
+          "probability": 0.987
+        },
+        {
+          "over": 6,
+          "ball": 0,
+          "probability": 0.988
+        },
+        {
+          "over": 6,
+          "ball": 1,
+          "probability": 0.99
+        },
+        {
+          "over": 6,
+          "ball": 2,
+          "probability": 0.986
+        },
+        {
+          "over": 6,
+          "ball": 3,
+          "probability": 0.99
+        },
+        {
+          "over": 6,
+          "ball": 4,
+          "probability": 0.986
+        },
+        {
+          "over": 7,
+          "ball": 0,
+          "probability": 0.987
+        },
+        {
+          "over": 7,
+          "ball": 1,
+          "probability": 0.991
+        },
+        {
+          "over": 7,
+          "ball": 2,
+          "probability": 0.992
+        },
+        {
+          "over": 7,
+          "ball": 3,
+          "probability": 0.993
+        },
+        {
+          "over": 7,
+          "ball": 4,
+          "probability": 0.994
+        }
+      ],
+      "key_moments": [
+        {
+          "over": 0,
+          "ball": 1,
+          "swing": 0.033,
+          "probability_before": 0.916,
+          "probability_after": 0.883,
+          "description": "Wicket"
+        },
+        {
+          "over": 0,
+          "ball": 0,
+          "swing": 0.024,
+          "probability_before": 0.94,
+          "probability_after": 0.916,
+          "description": "Wicket"
+        },
+        {
+          "over": 0,
+          "ball": 4,
+          "swing": 0.019,
+          "probability_before": 0.885,
+          "probability_after": 0.903,
+          "description": "Boundary"
+        },
+        {
+          "over": 1,
+          "ball": 0,
+          "swing": 0.016,
+          "probability_before": 0.903,
+          "probability_after": 0.919,
+          "description": "Boundary"
+        },
+        {
+          "over": 1,
+          "ball": 1,
+          "swing": 0.014,
+          "probability_before": 0.919,
+          "probability_after": 0.933,
+          "description": "Boundary"
+        }
+      ],
+      "phases": {
+        "powerplay": {
+          "overs": "1-6",
+          "runs": 59,
+          "wickets": 2,
+          "run_rate": 9.83,
+          "required_run_rate": 3.87
+        },
+        "middle": {
+          "overs": "7-15",
+          "runs": 26,
+          "wickets": 2,
+          "run_rate": 2.89,
+          "required_run_rate": 1.8
+        },
+        "death": {
+          "overs": "16-20",
+          "runs": 0,
+          "wickets": 0,
+          "run_rate": 0.0,
+          "required_run_rate": NaN
+        }
+      },
+      "pressure_index": 0.077,
+      "match_shape": 0.994,
+      "target": 95
+    }
+  ]
+}

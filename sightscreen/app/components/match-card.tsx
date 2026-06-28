@@ -1,7 +1,8 @@
 import Link from "next/link";
 
+import { LeagueBadge } from "@/app/components/league-badge";
 import type { MatchSummary } from "@/lib/types";
-import { formatDisplayDate } from "@/lib/utils";
+import { formatDisplayDate, formatLeagueLabel } from "@/lib/utils";
 
 export function MatchCard({ match }: { match: MatchSummary }) {
   return (
@@ -11,12 +12,15 @@ export function MatchCard({ match }: { match: MatchSummary }) {
     >
       <div className="flex items-start justify-between gap-4">
         <div>
-          <p className="section-title">{match.season}</p>
+          <div className="flex items-center gap-2">
+            <LeagueBadge league={match.league} />
+            <p className="section-title">{formatLeagueLabel(match.league)} {match.season}</p>
+          </div>
           <h2 className="mt-3 text-2xl font-semibold tracking-[-0.03em] text-accent-ink">
             {match.teams.team1} vs {match.teams.team2}
           </h2>
         </div>
-        <span className="rounded-full bg-accent-soft px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-accent-ink">
+        <span className="rounded-full border border-card-border bg-white/70 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-accent-ink">
           Match
         </span>
       </div>

@@ -1,44 +1,65 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
 
-import type { MatchJson, MatchSummary } from "@/lib/types";
+import { LEAGUE_ORDER } from "@/lib/league";
+import type { LeagueCode, MatchJson, MatchSummary } from "@/lib/types";
 import { matchToSummary, sortMatchesByDateDesc } from "@/lib/utils";
 
-const matchesDir = path.join(process.cwd(), "public", "matches");
+const matchesRootDir = path.join(process.cwd(), "..", "analysis", "matches");
 let allMatchesPromise: Promise<MatchJson[]> | null = null;
 let allSummariesPromise: Promise<MatchSummary[]> | null = null;
 
-async function readMatchFile(filePath: string): Promise<MatchJson> {
+async function readMatchFile(filePath: string, league: LeagueCode): Promise<MatchJson> {
   const source = await fs.readFile(filePath, "utf8");
   const normalized = source.replace(/\bNaN\b/g, "null");
-  return JSON.parse(normalized) as MatchJson;
+  const match = JSON.parse(normalized) as Omit<MatchJson, "league"> & Partial<Pick<MatchJson, "league">>;
+  return {
+    ...match,
+    league,
+  };
 }
 
 export async function getMatchIds(): Promise<string[]> {
-  const files = await fs.readdir(matchesDir);
-  return files
-    .filter((file) => file.endsWith(".json"))
-    .map((file) => file.replace(/\.json$/, ""))
-    .sort();
+  const ids: string[] = [];
+
+  for (const league of LEAGUE_ORDER) {
+    const leagueDir = path.join(matchesRootDir, league);
+    const files = await fs.readdir(leagueDir);
+    ids.push(
+      ...files
+        .filter((file) => file.endsWith(".json"))
+        .map((file) => file.replace(/\.json$/, "")),
+    );
+  }
+
+  return ids.sort();
 }
 
 export async function getMatch(matchId: string): Promise<MatchJson | null> {
-  try {
-    return await readMatchFile(path.join(matchesDir, `${matchId}.json`));
-  } catch {
-    return null;
+  for (const league of LEAGUE_ORDER) {
+    try {
+      return await readMatchFile(path.join(matchesRootDir, league, `${matchId}.json`), league);
+    } catch {
+      continue;
+    }
   }
+
+  return null;
 }
 
 export async function getAllMatches(): Promise<MatchJson[]> {
   if (!allMatchesPromise) {
     allMatchesPromise = (async () => {
-      const ids = await getMatchIds();
       const matches: MatchJson[] = [];
 
-      for (const matchId of ids) {
-        const match = await getMatch(matchId);
-        if (match) {
+      for (const league of LEAGUE_ORDER) {
+        const leagueDir = path.join(matchesRootDir, league);
+        const files = (await fs.readdir(leagueDir))
+          .filter((file) => file.endsWith(".json"))
+          .sort();
+
+        for (const file of files) {
+          const match = await readMatchFile(path.join(leagueDir, file), league);
           matches.push(match);
         }
       }

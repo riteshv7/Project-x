@@ -33,7 +33,7 @@ export async function generateMetadata({
 
   return {
     title: teamName,
-    description: `Lifetime IPL record, season breakdown, and match archive for ${teamName}.`,
+    description: `League context, season breakdown, and full match archive for ${teamName}.`,
   };
 }
 

@@ -1,12 +1,13 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
+import { LeagueBadge } from "@/app/components/league-badge";
 import { MatchCard } from "@/app/components/match-card";
 import { BackLink, HeroCard, PageFrame, StatPill } from "@/app/components/section-shell";
 import { TableCard } from "@/app/components/table-card";
 import { getAllMatches } from "@/lib/data";
 import { getAllH2HPairs, getH2HStats } from "@/lib/match-aggregator";
-import { formatAverage, formatPercentage } from "@/lib/utils";
+import { formatAverage, formatLeagueLabel, formatPercentage } from "@/lib/utils";
 
 export const dynamicParams = false;
 
@@ -30,7 +31,7 @@ export async function generateMetadata({
 
   return {
     title: `${pair.team1} vs ${pair.team2}`,
-    description: `Complete IPL head-to-head record for ${pair.team1} and ${pair.team2}.`,
+    description: `Complete head-to-head record for ${pair.team1} and ${pair.team2}.`,
   };
 }
 
@@ -55,7 +56,19 @@ export default async function H2HPage({
       <HeroCard
         eyebrow="Head To Head"
         title={`${stats.team1} vs ${stats.team2}`}
-        description={<p>Complete record, split both ways, with the full series history by season.</p>}
+        description={
+          <div className="space-y-3">
+            <div className="flex flex-wrap gap-2">
+              {stats.leagues.map((league) => (
+                <LeagueBadge key={league} league={league} />
+              ))}
+            </div>
+            <p>
+              Complete record, split both ways, with the full series history by season across{" "}
+              {stats.leagues.map((league) => formatLeagueLabel(league)).join(", ")}.
+            </p>
+          </div>
+        }
         aside={
           <>
             <StatPill label="Matches" value={stats.matchesPlayed} />

@@ -1,4 +1,4 @@
-"""Reconstruct pre-delivery batting state for an IPL match."""
+"""Reconstruct pre-delivery batting state for a match."""
 
 from __future__ import annotations
 
@@ -7,18 +7,26 @@ from typing import Any
 from .schema import OUTPUT_COLUMNS
 
 RETIRED_NOT_WICKET = {"retired hurt", "retired not out"}
+T20_NORMALIZED_BALLS = 120
 
 
-def _safe_rate(numerator: int, legal_balls: int) -> float:
+def _safe_rate(numerator: int, legal_balls: float) -> float:
     if legal_balls <= 0:
         return 0.0
     return numerator * 6 / legal_balls
 
 
-def _safe_required_rate(runs_required: int, balls_remaining: int) -> float | None:
+def _safe_required_rate(runs_required: int, balls_remaining: float) -> float | None:
     if balls_remaining <= 0:
         return 0.0
     return runs_required * 6 / balls_remaining
+
+
+def _scaled_ball_value(ball_count: int, scale_factor: float) -> int | float:
+    scaled = ball_count * scale_factor
+    if float(scaled).is_integer():
+        return int(scaled)
+    return round(scaled, 6)
 
 
 def _delivery_outcome(delivery: dict[str, Any]) -> tuple[bool, bool, str | None, str | None, int]:
@@ -34,7 +42,11 @@ def _delivery_outcome(delivery: dict[str, Any]) -> tuple[bool, bool, str | None,
     return is_legal, is_wicket, dismissal_kind, player_out, wicket_increment
 
 
-def build_match_rows(match: dict) -> tuple[list[dict[str, Any]], dict[str, Any]]:
+def build_match_rows(
+    match: dict,
+    league: str | None = None,
+    normalize_to_t20: bool = False,
+) -> tuple[list[dict[str, Any]], dict[str, Any]]:
     """Convert one raw match into dataset rows and basic match metadata."""
     data = match["data"]
     info = data["info"]
@@ -42,6 +54,16 @@ def build_match_rows(match: dict) -> tuple[list[dict[str, Any]], dict[str, Any]]
     innings_list = data["innings"][:2]
     if len(innings_list) < 2:
         raise ValueError(f"Match {match['match_id']} does not contain two innings")
+
+    overs_per_innings = int(info.get("overs", 20))
+    balls_per_over = int(info.get("balls_per_over", 6))
+    total_legal_balls = overs_per_innings * balls_per_over
+    scale_factor = (
+        T20_NORMALIZED_BALLS / total_legal_balls
+        if normalize_to_t20 and total_legal_balls > 0
+        else 1.0
+    )
+    normalized_total_balls = total_legal_balls * scale_factor
 
     rows: list[dict[str, Any]] = []
     innings_totals: list[int] = []
@@ -65,8 +87,9 @@ def build_match_rows(match: dict) -> tuple[list[dict[str, Any]], dict[str, Any]]
                     delivery
                 )
 
-                balls_remaining = 120 - legal_balls
-                current_run_rate = _safe_rate(score, legal_balls)
+                normalized_legal_balls = _scaled_ball_value(legal_balls, scale_factor)
+                balls_remaining = round(normalized_total_balls - float(normalized_legal_balls), 6)
+                current_run_rate = _safe_rate(score, float(normalized_legal_balls))
 
                 if innings_index == 2:
                     assert target is not None
@@ -98,7 +121,7 @@ def build_match_rows(match: dict) -> tuple[list[dict[str, Any]], dict[str, Any]]
                     "player_out": player_out,
                     "score_before": score,
                     "wickets_before": wickets,
-                    "legal_balls_before": legal_balls,
+                    "legal_balls_before": normalized_legal_balls,
                     "balls_remaining": balls_remaining,
                     "wickets_in_hand": 10 - wickets,
                     "current_run_rate": current_run_rate,
@@ -107,6 +130,8 @@ def build_match_rows(match: dict) -> tuple[list[dict[str, Any]], dict[str, Any]]
                     "required_run_rate": required_run_rate,
                     "batting_team_won": int(info["outcome"]["winner"] == batting_team),
                 }
+                if league is not None:
+                    row["league"] = league
                 rows.append(row)
 
                 score += runs_total
@@ -124,8 +149,11 @@ def build_match_rows(match: dict) -> tuple[list[dict[str, Any]], dict[str, Any]]
         "winner": info["outcome"]["winner"],
         "innings_totals": innings_totals,
     }
+    column_order = OUTPUT_COLUMNS[:]
+    if league is not None:
+        column_order = OUTPUT_COLUMNS[:4] + ["league"] + OUTPUT_COLUMNS[4:]
     for row in rows:
-        ordered = {column: row[column] for column in OUTPUT_COLUMNS}
+        ordered = {column: row[column] for column in column_order}
         row.clear()
         row.update(ordered)
     return rows, metadata

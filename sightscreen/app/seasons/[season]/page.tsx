@@ -2,18 +2,18 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
-import { MatchCard } from "@/app/components/match-card";
+import { LeagueBadge } from "@/app/components/league-badge";
 import { BackLink, HeroCard, PageFrame, StatPill } from "@/app/components/section-shell";
-import { TableCard } from "@/app/components/table-card";
 import { getAllMatches } from "@/lib/data";
-import { getAllSeasons, getSeasonStats } from "@/lib/match-aggregator";
-import { formatAverage, formatPercentage } from "@/lib/utils";
+import { getAllLeagues, getLeagueMetadata, getSeasonStats } from "@/lib/match-aggregator";
+import { formatLeagueLabel } from "@/lib/utils";
 
 export const dynamicParams = false;
 
 export async function generateStaticParams() {
   const matches = await getAllMatches();
-  return getAllSeasons(matches).map((season) => ({ season }));
+  const seasons = Array.from(new Set(matches.map((match) => new Date(match.date).getUTCFullYear().toString())));
+  return seasons.sort((a, b) => Number(b) - Number(a)).map((season) => ({ season }));
 }
 
 export async function generateMetadata({
@@ -23,80 +23,63 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { season } = await params;
   return {
-    title: `IPL ${season}`,
-    description: `Season leaderboard and match archive for IPL ${season}.`,
+    title: `${season} seasons`,
+    description: `League chooser for ${season} across the Sightscreen archive.`,
   };
 }
 
-export default async function SeasonDetailPage({
+export default async function SeasonChooserPage({
   params,
 }: {
   params: Promise<{ season: string }>;
 }) {
   const { season } = await params;
   const matches = await getAllMatches();
+  const options = getAllLeagues(matches)
+    .map((league) => ({
+      league,
+      stats: getSeasonStats(season, matches, league),
+    }))
+    .filter((entry) => entry.stats.matchesPlayed > 0);
 
-  if (!getAllSeasons(matches).includes(season)) {
+  if (options.length === 0) {
     notFound();
   }
-
-  const stats = getSeasonStats(season, matches);
 
   return (
     <PageFrame>
       <BackLink href="/seasons">← Back to seasons</BackLink>
       <HeroCard
-        eyebrow="Season Page"
-        title={`IPL ${season} Season`}
-        description={<p>{stats.matchesPlayed} matches, ranked by win percentage.</p>}
+        eyebrow="Season Picker"
+        title={`Choose a league for ${season}`}
+        description={<p>The same year can exist in multiple competitions. Pick the league-specific season page you want.</p>}
         aside={
           <>
-            <StatPill label="Matches" value={stats.matchesPlayed} />
-            <StatPill label="Teams" value={stats.leaderboard.length} />
+            <StatPill label="Leagues" value={options.length} />
+            <StatPill label="Total Matches" value={options.reduce((sum, option) => sum + option.stats.matchesPlayed, 0)} />
           </>
         }
       />
 
-      <section className="mt-8">
-        <TableCard title="Leaderboard" subtitle="Season table">
-          <table className="min-w-full divide-y divide-card-border text-sm">
-            <thead className="bg-white/80 text-left text-muted">
-              <tr>
-                <th className="px-4 py-3 font-medium">Team</th>
-                <th className="px-4 py-3 font-medium">Matches</th>
-                <th className="px-4 py-3 font-medium">Wins</th>
-                <th className="px-4 py-3 font-medium">Losses</th>
-                <th className="px-4 py-3 font-medium">Win %</th>
-                <th className="px-4 py-3 font-medium">Avg Score</th>
-                <th className="px-4 py-3 font-medium">Avg Opposition</th>
-              </tr>
-            </thead>
-            <tbody className="divide-y divide-card-border bg-white/55">
-              {stats.leaderboard.map((team) => (
-                <tr key={team.slug}>
-                  <td className="px-4 py-3 font-medium text-foreground">
-                    <Link href={`/teams/${team.slug}`} className="transition hover:text-accent-ink">
-                      {team.teamName}
-                    </Link>
-                  </td>
-                  <td className="px-4 py-3 text-foreground">{team.matchesPlayed}</td>
-                  <td className="px-4 py-3 text-foreground">{team.wins}</td>
-                  <td className="px-4 py-3 text-foreground">{team.losses}</td>
-                  <td className="px-4 py-3 text-foreground">{formatPercentage(team.winPct)}</td>
-                  <td className="px-4 py-3 text-foreground">{formatAverage(team.avgScore)}</td>
-                  <td className="px-4 py-3 text-foreground">
-                    {formatAverage(team.avgOppositionScore)}
-                  </td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </TableCard>
-      </section>
-
       <section className="mt-8 grid gap-5 md:grid-cols-2 xl:grid-cols-3">
-        {stats.matchSummaries.map((match) => (
-          <MatchCard key={match.match_id} match={match} />
+        {options.map(({ league, stats }) => (
+          <Link
+            key={league}
+            href={`/seasons/${getLeagueMetadata(league).slug}/${season}`}
+            className="glass-card rounded-[1.75rem] p-6 transition duration-200 hover:-translate-y-1 hover:border-accent/30"
+          >
+            <div className="flex items-center gap-3">
+              <LeagueBadge league={league} />
+              <p className="section-title">{formatLeagueLabel(league)}</p>
+            </div>
+            <h2 className="mt-3 text-2xl font-semibold tracking-[-0.03em] text-accent-ink">
+              {formatLeagueLabel(league)} {season}
+            </h2>
+            <div className="mt-6 grid gap-3 text-sm text-muted sm:grid-cols-2">
+              <StatPill label="Matches" value={stats.matchesPlayed} />
+              <StatPill label="Teams" value={stats.leaderboard.length} />
+            </div>
+          </Link>
         ))}
       </section>
     </PageFrame>

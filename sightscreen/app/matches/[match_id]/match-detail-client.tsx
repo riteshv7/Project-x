@@ -12,6 +12,7 @@ import {
   YAxis,
 } from "recharts";
 
+import { LeagueBadge } from "@/app/components/league-badge";
 import type {
   BatterScorecardRow,
   BowlerScorecardRow,
@@ -21,6 +22,7 @@ import type {
 } from "@/lib/types";
 import {
   formatDisplayDate,
+  formatLeagueLabel,
   formatResultText,
   formatScore,
   inningsChartData,
@@ -499,6 +501,12 @@ export function MatchDetailClient({ match }: { match: MatchJson }) {
         <p className="section-title">Match Header</p>
         <div className="mt-4 flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
           <div>
+            <div className="mb-3 flex items-center gap-3">
+              <LeagueBadge league={match.league} />
+              <span className="text-sm font-medium text-muted">
+                {formatLeagueLabel(match.league)} {new Date(match.date).getUTCFullYear()}
+              </span>
+            </div>
             <h1 className="text-4xl font-semibold tracking-[-0.04em] text-accent-ink sm:text-5xl">
               {match.teams.team1} vs {match.teams.team2}
             </h1>

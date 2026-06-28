@@ -3,11 +3,12 @@
 import Link from "next/link";
 import { useState } from "react";
 
+import { LeagueBadge } from "@/app/components/league-badge";
 import { MatchCard } from "@/app/components/match-card";
 import { GridSection, HeroCard, StatPill } from "@/app/components/section-shell";
 import { TableCard } from "@/app/components/table-card";
 import type { TeamStats } from "@/lib/types";
-import { formatAverage, formatPercentage } from "@/lib/utils";
+import { formatAverage, formatLeagueLabel, formatPercentage } from "@/lib/utils";
 
 type ResultFilter = "all" | "won" | "lost";
 
@@ -27,10 +28,18 @@ export function TeamPageClient({ stats }: { stats: TeamStats }) {
         eyebrow="Team Page"
         title={stats.teamName}
         description={
-          <p>
-            Season range {stats.seasonRange}. A full match log, recent form, and lifetime team read
-            built from every precomputed IPL bundle in Sightscreen.
-          </p>
+          <div className="space-y-3">
+            <div className="flex flex-wrap gap-2">
+              {stats.leagues.map((league) => (
+                <LeagueBadge key={league} league={league} />
+              ))}
+            </div>
+            <p>
+              Season range {stats.seasonRange}. {stats.teamName} plays in{" "}
+              {stats.leagues.map((league) => formatLeagueLabel(league)).join(", ")} and this page
+              is filtered to those league matches only.
+            </p>
+          </div>
         }
         aside={
           <>
@@ -105,7 +114,9 @@ export function TeamPageClient({ stats }: { stats: TeamStats }) {
             <tbody className="divide-y divide-card-border bg-white/55">
               {stats.seasonBreakdown.map((row) => (
                 <tr key={row.season}>
-                  <td className="px-4 py-3 font-medium text-foreground">{row.season}</td>
+                  <td className="px-4 py-3 font-medium text-foreground">
+                    {formatLeagueLabel(row.league)} {row.season}
+                  </td>
                   <td className="px-4 py-3 text-foreground">{row.matchesPlayed}</td>
                   <td className="px-4 py-3 text-foreground">{row.wins}</td>
                   <td className="px-4 py-3 text-foreground">{row.losses}</td>

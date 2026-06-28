@@ -1,13 +1,11 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { notFound } from "next/navigation";
 
-import { MatchCard } from "@/app/components/match-card";
 import { BackLink, HeroCard, PageFrame, StatPill } from "@/app/components/section-shell";
-import { TableCard } from "@/app/components/table-card";
+import { VenuePageClient } from "@/app/venues/[venue_name]/venue-page-client";
 import { getAllMatches } from "@/lib/data";
 import { getAllVenues, getVenueStats } from "@/lib/match-aggregator";
-import { formatAverage, formatPercentage, slugifySegment } from "@/lib/utils";
+import { formatAverage, formatLeagueLabel, slugifySegment } from "@/lib/utils";
 
 export const dynamicParams = false;
 
@@ -51,6 +49,7 @@ export default async function VenueDetailPage({
   }
 
   const stats = getVenueStats(venue, matches);
+  const venueMatches = matches.filter((match) => match.venue === venue);
 
   return (
     <PageFrame>
@@ -58,65 +57,24 @@ export default async function VenueDetailPage({
       <HeroCard
         eyebrow="Venue Page"
         title={stats.venue}
-        description={<p>All-time scoring levels, common matchups, and team records at this ground.</p>}
+        description={
+          <p>
+            All-time scoring levels, common matchups, and league context for this ground across{" "}
+            {stats.leagues.map((league) => formatLeagueLabel(league)).join(", ")}.
+          </p>
+        }
         aside={
           <>
             <StatPill label="Matches" value={stats.matchesPlayed} />
             <StatPill label="Avg Score" value={formatAverage(stats.avgScore)} />
             <StatPill
-              label="Home Team"
-              value={stats.homeTeam ? `${stats.homeTeam.teamName} (${formatPercentage(stats.homeTeam.winPct)})` : "—"}
-            />
-            <StatPill
-              label="Common Pairing"
-              value={
-                stats.mostCommonPairing
-                  ? `${stats.mostCommonPairing.label} (${stats.mostCommonPairing.matchesPlayed})`
-                  : "—"
-              }
+              label="Leagues"
+              value={stats.leagues.map((league) => formatLeagueLabel(league)).join(", ")}
             />
           </>
         }
       />
-
-      <section className="mt-8">
-        <TableCard title="Venue Table" subtitle="Team performance at this venue">
-          <table className="min-w-full divide-y divide-card-border text-sm">
-            <thead className="bg-white/80 text-left text-muted">
-              <tr>
-                <th className="px-4 py-3 font-medium">Team</th>
-                <th className="px-4 py-3 font-medium">Matches</th>
-                <th className="px-4 py-3 font-medium">Wins</th>
-                <th className="px-4 py-3 font-medium">Losses</th>
-                <th className="px-4 py-3 font-medium">Win %</th>
-                <th className="px-4 py-3 font-medium">Avg Score</th>
-              </tr>
-            </thead>
-            <tbody className="divide-y divide-card-border bg-white/55">
-              {stats.teamPerformance.map((team) => (
-                <tr key={team.slug}>
-                  <td className="px-4 py-3 font-medium text-foreground">
-                    <Link href={`/teams/${team.slug}`} className="transition hover:text-accent-ink">
-                      {team.teamName}
-                    </Link>
-                  </td>
-                  <td className="px-4 py-3 text-foreground">{team.matchesPlayed}</td>
-                  <td className="px-4 py-3 text-foreground">{team.wins}</td>
-                  <td className="px-4 py-3 text-foreground">{team.losses}</td>
-                  <td className="px-4 py-3 text-foreground">{formatPercentage(team.winPct)}</td>
-                  <td className="px-4 py-3 text-foreground">{formatAverage(team.avgScore)}</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </TableCard>
-      </section>
-
-      <section className="mt-8 grid gap-5 md:grid-cols-2 xl:grid-cols-3">
-        {stats.matchSummaries.map((match) => (
-          <MatchCard key={match.match_id} match={match} />
-        ))}
-      </section>
+      <VenuePageClient venue={venue} matches={venueMatches} />
     </PageFrame>
   );
 }

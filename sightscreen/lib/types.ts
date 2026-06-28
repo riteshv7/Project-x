@@ -1,3 +1,14 @@
+export type LeagueCode = "IPL" | "BBL" | "PSL" | "SA20" | "HUNDRED";
+
+export interface LeagueMetadata {
+  code: LeagueCode;
+  slug: string;
+  name: string;
+  badge: string;
+  description: string;
+  shortLabel: string;
+}
+
 export interface WinProbabilityPoint {
   over: number;
   ball: number;
@@ -83,6 +94,7 @@ export interface MatchResult {
 
 export interface MatchJson {
   match_id: string;
+  league: LeagueCode;
   date: string;
   venue: string;
   teams: {
@@ -99,6 +111,7 @@ export interface MatchJson {
 
 export interface MatchSummary {
   match_id: string;
+  league: LeagueCode;
   date: string;
   season: string;
   venue: string;
@@ -112,6 +125,7 @@ export interface MatchSummary {
 }
 
 export interface TeamSeasonRow {
+  league: LeagueCode;
   season: string;
   matchesPlayed: number;
   wins: number;
@@ -123,6 +137,8 @@ export interface TeamSeasonRow {
 export interface TeamStats {
   teamName: string;
   slug: string;
+  leagues: LeagueCode[];
+  primaryLeague: LeagueCode | null;
   seasonRange: string;
   matchesPlayed: number;
   wins: number;
@@ -153,6 +169,7 @@ export interface TeamPerformanceRow {
 }
 
 export interface SeasonStats {
+  league: LeagueCode | "all";
   season: string;
   matchesPlayed: number;
   leaderboard: TeamPerformanceRow[];
@@ -162,6 +179,7 @@ export interface SeasonStats {
 export interface VenueStats {
   venue: string;
   slug: string;
+  leagues: LeagueCode[];
   matchesPlayed: number;
   avgScore: number;
   homeTeam: {
@@ -204,8 +222,35 @@ export interface H2HStats {
   team1: string;
   team2: string;
   slug: string;
+  leagues: LeagueCode[];
   matchesPlayed: number;
   summaries: [H2HTeamSummary, H2HTeamSummary];
   seriesBreakdown: H2HSeasonRow[];
+  matchSummaries: MatchSummary[];
+}
+
+export interface LeagueSeasonRow {
+  season: string;
+  matchesPlayed: number;
+  teams: number;
+}
+
+export interface LeagueTeamRow {
+  teamName: string;
+  slug: string;
+  matchesPlayed: number;
+  wins: number;
+  losses: number;
+  winPct: number;
+  avgScore: number;
+}
+
+export interface LeagueStats {
+  metadata: LeagueMetadata;
+  matchesPlayed: number;
+  teams: string[];
+  seasons: string[];
+  leaderboard: LeagueTeamRow[];
+  seasonBreakdown: LeagueSeasonRow[];
   matchSummaries: MatchSummary[];
 }

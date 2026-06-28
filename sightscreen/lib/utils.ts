@@ -1,4 +1,5 @@
 import type { InningsAnalysis, KeyMoment, MatchJson, MatchSummary } from "@/lib/types";
+import { LEAGUE_METADATA } from "@/lib/league";
 
 export function seasonFromDate(date: string): string {
   return new Date(date).getUTCFullYear().toString();
@@ -48,6 +49,7 @@ export function buildScoreline(match: MatchJson): string {
 export function matchToSummary(match: MatchJson): MatchSummary {
   return {
     match_id: match.match_id,
+    league: match.league,
     date: match.date,
     season: seasonFromDate(match.date),
     venue: match.venue,
@@ -137,4 +139,8 @@ export function formatAverage(value: number): string {
 
 export function formatPercentage(value: number): string {
   return `${value.toFixed(1)}%`;
+}
+
+export function formatLeagueLabel(league: MatchJson["league"] | MatchSummary["league"]): string {
+  return LEAGUE_METADATA[league].shortLabel;
 }
