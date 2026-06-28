@@ -732,7 +732,122 @@
         }
       },
       "pressure_index": 0.794,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 25,
+            "balls": 19,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "run out by LR Shukla",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "GJ Bailey",
+            "runs": 30,
+            "balls": 27,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "run out by BJ Hodge",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 52,
+            "balls": 36,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by LR Shukla, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 40,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 21,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AB Dinda",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Anureet Singh",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "AB Agarkar",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 0,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Kartik",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "BJ Hodge",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "BAW Mendis",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Hussey",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 168,
+          "byes": 4,
+          "legbyes": 3,
+          "wides": 13,
+          "noballs": 0,
+          "total": 188
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1530,114 @@
       },
       "pressure_index": 0.973,
       "match_shape": 0.973,
-      "target": 189
+      "target": 189,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "BB McCullum",
+            "runs": 81,
+            "balls": 47,
+            "fours": 11,
+            "sixes": 3,
+            "dismissal": "bowled by SB Jakati",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SC Ganguly",
+            "runs": 4,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by M Muralitharan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 71,
+            "balls": 44,
+            "fours": 4,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 3,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by M Muralitharan, MS Dhoni",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 25,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JA Morkel",
+            "overs": 3.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Tyagi",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "SB Jakati",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 3.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 13.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 184,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 0,
+          "noballs": 1,
+          "total": 189
+        }
+      }
     }
   ]
 }

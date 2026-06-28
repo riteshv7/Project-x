@@ -692,7 +692,150 @@
         }
       },
       "pressure_index": 0.822,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "S Dhawan",
+            "runs": 24,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by JD Ryder, bowled by Yuvraj Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DB Ravi Teja",
+            "runs": 30,
+            "balls": 27,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by MR Marsh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 12,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by R Sharma",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 30,
+            "balls": 30,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by R Sharma, bowled by MR Marsh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DT Christian",
+            "runs": 10,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Yuvraj Singh",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "B Chipli",
+            "runs": 18,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "S Sohal",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by MR Marsh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Mishra",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by B Kumar, bowled by MR Marsh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DW Steyn",
+            "runs": 11,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by CJ Ferguson, bowled by WD Parnell",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "SB Wagh",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "WD Parnell",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Sharma",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "MR Marsh",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 4,
+            "economy": 6.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 135,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 1,
+          "noballs": 0,
+          "total": 136
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1335,7 +1478,123 @@
       },
       "pressure_index": 0.174,
       "match_shape": 0.99,
-      "target": 137
+      "target": 137,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JD Ryder",
+            "runs": 35,
+            "balls": 20,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "bowled by PP Ojha",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 49,
+            "balls": 42,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "lbw, bowled by A Mishra",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SC Ganguly",
+            "runs": 32,
+            "balls": 31,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KC Sangakkara, bowled by DT Christian",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by DT Christian",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "CJ Ferguson",
+            "runs": 15,
+            "balls": 8,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 3.0,
+            "runs_conceded": 13,
+            "wickets": 1,
+            "economy": 4.33,
+            "maidens": 0
+          },
+          {
+            "name": "JP Duminy",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "DT Christian",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 3.2,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 7.8,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 134,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 1,
+          "total": 137
+        }
+      }
     }
   ]
 }

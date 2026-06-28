@@ -702,7 +702,150 @@
         }
       },
       "pressure_index": 0.653,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JC Buttler",
+            "runs": 8,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Mohammed Siraj, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 7,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by Mohammed Siraj",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 17,
+            "balls": 9,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught and bowled by Mohammed Siraj",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "DJ Mitchell",
+            "runs": 16,
+            "balls": 24,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by GJ Maxwell, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 27,
+            "balls": 21,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "bowled by PWH de Silva",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Parag",
+            "runs": 56,
+            "balls": 31,
+            "fours": 3,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SS Prabhudessai, bowled by PWH de Silva",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TA Boult",
+            "runs": 5,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Kohli, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Prasidh Krishna",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by SS Prabhudessai",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Shahbaz Ahmed",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Siraj",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hazlewood",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 4.75,
+            "maidens": 1
+          },
+          {
+            "name": "PWH de Silva",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "GJ Maxwell",
+            "overs": 1.0,
+            "runs_conceded": 4,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 141,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 3,
+          "noballs": 0,
+          "total": 144
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1538,168 @@
       },
       "pressure_index": 0.801,
       "match_shape": 0.74,
-      "target": 145
+      "target": 145,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "V Kohli",
+            "runs": 9,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by R Parag, bowled by M Prasidh Krishna",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RM Patidar",
+            "runs": 16,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by R Ashwin",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 23,
+            "balls": 21,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by JC Buttler, bowled by KR Sen",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by D Padikkal, bowled by KR Sen",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "runs": 17,
+            "balls": 27,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by R Parag, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Prabhudessai",
+            "runs": 2,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Parag, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 6,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by M Prasidh Krishna, YS Chahal",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "PWH de Silva",
+            "runs": 18,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught and bowled by KR Sen",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "HV Patel",
+            "runs": 8,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by R Parag, bowled by KR Sen",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mohammed Siraj",
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KR Sen, bowled by M Prasidh Krishna",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JR Hazlewood",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "M Prasidh Krishna",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 3,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "KR Sen",
+            "overs": 3.3,
+            "runs_conceded": 20,
+            "wickets": 4,
+            "economy": 5.71,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Mitchell",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 5.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 104,
+          "byes": 1,
+          "legbyes": 4,
+          "wides": 6,
+          "noballs": 0,
+          "total": 115
+        }
+      }
     }
   ]
 }

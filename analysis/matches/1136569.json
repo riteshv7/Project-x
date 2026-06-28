@@ -712,7 +712,150 @@
         }
       },
       "pressure_index": 0.582,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SA Yadav",
+            "runs": 53,
+            "balls": 32,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by R Tewatia",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "E Lewis",
+            "runs": 48,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 4,
+            "dismissal": "caught by JJ Roy, bowled by R Tewatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 44,
+            "balls": 23,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "bowled by DT Christian",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 18,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by JJ Roy, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by DT Christian",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 11,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by R Tewatia, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SS Iyer, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Dananjaya",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "M Markande",
+            "runs": 4,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 2,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "S Nadeem",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "DT Christian",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 2,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "R Tewatia",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "GJ Maxwell",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 184,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 5,
+          "noballs": 0,
+          "total": 194
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1538,114 @@
       },
       "pressure_index": 0.734,
       "match_shape": 0.996,
-      "target": 195
+      "target": 195,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JJ Roy",
+            "runs": 91,
+            "balls": 53,
+            "fours": 6,
+            "sixes": 6,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 15,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by Mustafizur Rahman",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 47,
+            "balls": 25,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "caught by KA Pollard, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 13,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught and bowled by KH Pandya",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 27,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "HH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Dananjaya",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 0,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "Mustafizur Rahman",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Markande",
+            "overs": 3.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 193,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 0,
+          "total": 195
+        }
+      }
     }
   ]
 }

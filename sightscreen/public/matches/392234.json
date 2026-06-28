@@ -697,7 +697,168 @@
         }
       },
       "pressure_index": 0.691,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "GJ Bailey",
+            "runs": 15,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "run out by Yuvraj Singh",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 32,
+            "balls": 23,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "bowled by RR Powar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 20,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by B Lee, bowled by WA Mota",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 4,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by IK Pathan, bowled by S Sreesanth",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by S Sreesanth",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JDP Oram",
+            "runs": 17,
+            "balls": 21,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by IK Pathan",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "MS Gony",
+            "runs": 7,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 8,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by LA Pomersbach, bowled by IK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "L Balaji",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "T Thushara",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by SM Katich, KC Sangakkara",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "M Muralitharan",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Lee",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "RR Powar",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "S Sreesanth",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "WA Mota",
+            "overs": 2.0,
+            "runs_conceded": 8,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 109,
+          "byes": 3,
+          "legbyes": 2,
+          "wides": 2,
+          "noballs": 0,
+          "total": 116
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1390,7 +1551,159 @@
       },
       "pressure_index": 0.975,
       "match_shape": 0.876,
-      "target": 117
+      "target": 117,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "S Sohal",
+            "runs": 3,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PA Patel, bowled by T Thushara",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SM Katich",
+            "runs": 8,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by M Muralitharan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "LA Pomersbach",
+            "runs": 26,
+            "balls": 32,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by SK Raina, bowled by M Muralitharan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 6,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SK Raina",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 7,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by R Ashwin",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "WA Mota",
+            "runs": 5,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by R Ashwin",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 14,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JDP Oram, bowled by T Thushara",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Lee",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JDP Oram, bowled by SK Raina",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 4,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RR Powar",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MS Gony",
+            "overs": 2.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "T Thushara",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 8,
+            "wickets": 2,
+            "economy": 2.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 13,
+            "wickets": 2,
+            "economy": 3.25,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 86,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 3,
+          "noballs": 0,
+          "total": 92
+        }
+      }
     }
   ]
 }

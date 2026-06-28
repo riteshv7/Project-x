@@ -702,7 +702,168 @@
         }
       },
       "pressure_index": 0.839,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MJ Lumb",
+            "runs": 15,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by RJ Harris, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RJ Harris, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 58,
+            "balls": 36,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by Anirudh Singh, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "FY Fazal",
+            "runs": 36,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by AA Bilakhia, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 5,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by VVS Laxman, bowled by RJ Harris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AA Jhunjhunwala",
+            "runs": 11,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by VVS Laxman, bowled by Harmeet Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AS Raut",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Harmeet Singh",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SK Warne",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by RP Singh",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "M Morkel",
+            "runs": 7,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AP Dole",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by A Symonds, bowled by RJ Harris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Trivedi",
+            "runs": 9,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by DR Smith",
+            "dismissal_type": "bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "RJ Harris",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "DR Smith",
+            "overs": 2.5,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 7.76,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 3,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "Harmeet Singh",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "A Symonds",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 3.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 12.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 147,
+          "byes": 2,
+          "legbyes": 4,
+          "wides": 6,
+          "noballs": 0,
+          "total": 159
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1410,7 +1571,150 @@
       },
       "pressure_index": 0.601,
       "match_shape": 0.906,
-      "target": 160
+      "target": 160,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "VVS Laxman",
+            "runs": 6,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by YK Pathan, bowled by AP Dole",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AC Gilchrist",
+            "runs": 34,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by MJ Lumb, bowled by AP Dole",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 73,
+            "balls": 44,
+            "fours": 8,
+            "sixes": 2,
+            "dismissal": "caught by AS Raut, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Symonds",
+            "runs": 15,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by FY Fazal, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Anirudh Singh",
+            "runs": 9,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by NV Ojha, bowled by SK Warne",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DR Smith",
+            "runs": 4,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AP Dole, bowled by SK Warne",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AA Bilakhia",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AS Raut, bowled by SK Warne",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RJ Harris",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SK Warne",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RP Singh",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by M Morkel, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "YK Pathan",
+            "overs": 2.0,
+            "runs_conceded": 3,
+            "wickets": 0,
+            "economy": 1.5,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 3.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 13.33,
+            "maidens": 0
+          },
+          {
+            "name": "AP Dole",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 2,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 2.5,
+            "runs_conceded": 16,
+            "wickets": 3,
+            "economy": 5.65,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 4,
+            "economy": 5.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 147,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 6,
+          "noballs": 1,
+          "total": 157
+        }
+      }
     }
   ]
 }

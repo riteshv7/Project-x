@@ -337,7 +337,97 @@
         }
       },
       "pressure_index": 0.802,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "V Kohli",
+            "runs": 56,
+            "balls": 29,
+            "fours": 6,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 28,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 4,
+            "dismissal": "caught by MEK Hussey, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 5,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RA Jadeja, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MC Henriques",
+            "runs": 12,
+            "balls": 3,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "R Ashwin",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "CH Morris",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "JO Holder",
+            "overs": 1.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 20.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 2.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 14.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 101,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 2,
+          "noballs": 0,
+          "total": 106
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -660,12 +750,120 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.169,
       "match_shape": 0.983,
-      "target": 107
+      "target": 107,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MEK Hussey",
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KL Rahul, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Vijay",
+            "runs": 32,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by CH Gayle, bowled by R Rampaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Vinay Kumar, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 11,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by SS Tiwary, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 24,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by JD Unadkat, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 7,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by Z Khan",
+            "dismissal_type": "caught and bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "R Rampaul",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Z Khan",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 4,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 1.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 19.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 80,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 0,
+          "total": 82
+        }
+      }
     }
   ]
 }

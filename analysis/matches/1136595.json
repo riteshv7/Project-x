@@ -692,7 +692,159 @@
         }
       },
       "pressure_index": 0.603,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 53,
+            "balls": 41,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught and bowled by RA Jadeja",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 5,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SN Thakur, bowled by L Ngidi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 8,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by RA Jadeja",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by MS Dhoni, bowled by Harbhajan Singh",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 7,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DJ Willey, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "C de Grandhomme",
+            "runs": 8,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SK Raina, bowled by DJ Willey",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Ashwin",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by MS Dhoni, bowled by Harbhajan Singh",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "TG Southee",
+            "runs": 36,
+            "balls": 26,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "UT Yadav",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Mohammed Siraj",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DJ Willey",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "L Ngidi",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 3,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 123,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 1,
+          "noballs": 0,
+          "total": 127
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1330,7 +1482,123 @@
       },
       "pressure_index": 0.33,
       "match_shape": 0.989,
-      "target": 128
+      "target": 128,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SR Watson",
+            "runs": 11,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by UT Yadav",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 32,
+            "balls": 25,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by Mohammed Siraj, bowled by M Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 25,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by TG Southee, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DR Shorey",
+            "runs": 8,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Mandeep Singh, bowled by C de Grandhomme",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 31,
+            "balls": 22,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 14,
+            "balls": 17,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TG Southee",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 9.67,
+            "maidens": 1
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 3.0,
+            "runs_conceded": 15,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Siraj",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "C de Grandhomme",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Ashwin",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 5.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 121,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 3,
+          "noballs": 1,
+          "total": 128
+        }
+      }
     }
   ]
 }

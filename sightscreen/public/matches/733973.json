@@ -712,7 +712,132 @@
         }
       },
       "pressure_index": 0.918,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CA Pujara",
+            "runs": 19,
+            "balls": 18,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by CM Gautam, bowled by CJ Anderson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by RG Sharma",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 59,
+            "balls": 47,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 45,
+            "balls": 26,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by BR Dunk, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Bailey",
+            "runs": 15,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by CJ Anderson, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 16,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by BR Dunk, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MG Johnson",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 3.3,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "CJ Anderson",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 2.3,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 12.8,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 155,
+          "byes": 1,
+          "legbyes": 6,
+          "wides": 5,
+          "noballs": 1,
+          "total": 168
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1380,7 +1505,124 @@
       },
       "pressure_index": 0.968,
       "match_shape": 0.95,
-      "target": 169
+      "target": 169,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "BR Dunk",
+            "runs": 5,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CM Gautam",
+            "runs": 33,
+            "balls": 29,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "lbw, bowled by R Dhawan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 8,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Sandeep Sharma",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 39,
+            "balls": 34,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by WP Saha, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CJ Anderson",
+            "runs": 35,
+            "balls": 25,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by DA Miller, bowled by R Dhawan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 28,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AP Tare",
+            "runs": 16,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 3.1,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 9.16,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "MG Johnson",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Dhawan",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 164,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 3,
+          "noballs": 0,
+          "total": 170
+        }
+      }
     }
   ]
 }

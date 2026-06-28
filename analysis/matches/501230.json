@@ -717,7 +717,142 @@
         }
       },
       "pressure_index": 0.794,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JH Kallis",
+            "runs": 11,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by IK Pathan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SP Goswami",
+            "runs": 22,
+            "balls": 20,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by NV Ojha, bowled by AB Agarkar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 18,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Y Venugopal Rao, bowled by JR Hopes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Tiwary",
+            "runs": 61,
+            "balls": 47,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 5,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by IK Pathan, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by NV Ojha, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RN ten Doeschate",
+            "runs": 19,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by IK Pathan, bowled by M Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Lee",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by Y Nagar, NV Ojha",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "L Balaji",
+            "runs": 3,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "AB Agarkar",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hopes",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 140,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 6,
+          "noballs": 0,
+          "total": 148
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1550,159 @@
       },
       "pressure_index": 0.85,
       "match_shape": 0.717,
-      "target": 149
+      "target": 149,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by L Balaji",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 34,
+            "balls": 23,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by L Balaji, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JR Hopes",
+            "runs": 25,
+            "balls": 30,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by MK Tiwary, bowled by Iqbal Abdulla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 9,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by RN ten Doeschate, bowled by Iqbal Abdulla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TR Birt",
+            "runs": 8,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Shakib Al Hasan, bowled by YK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 19,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "run out by SP Goswami, B Lee",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by B Lee, bowled by Iqbal Abdulla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Y Nagar",
+            "runs": 19,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by SP Goswami, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Morkel",
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "UT Yadav",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Lee",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 2,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 3,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 2.0,
+            "runs_conceded": 6,
+            "wickets": 1,
+            "economy": 3.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 124,
+          "byes": 3,
+          "legbyes": 0,
+          "wides": 4,
+          "noballs": 0,
+          "total": 131
+        }
+      }
     }
   ]
 }

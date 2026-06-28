@@ -707,7 +707,105 @@
         }
       },
       "pressure_index": 0.747,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RD Gaikwad",
+            "runs": 32,
+            "balls": 27,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by Shivam Mavi, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 86,
+            "balls": 58,
+            "fours": 7,
+            "sixes": 3,
+            "dismissal": "caught by VR Iyer, bowled by Shivam Mavi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 31,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "lbw, bowled by SP Narine",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "MM Ali",
+            "runs": 37,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shivam Mavi",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "LH Ferguson",
+            "overs": 4.0,
+            "runs_conceded": 56,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "VR Iyer",
+            "overs": 1.0,
+            "runs_conceded": 5,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 186,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 1,
+          "total": 192
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1430,7 +1528,151 @@
       },
       "pressure_index": 0.58,
       "match_shape": 0.625,
-      "target": 193
+      "target": 193,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Shubman Gill",
+            "runs": 51,
+            "balls": 43,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by DL Chahar",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "VR Iyer",
+            "runs": 50,
+            "balls": 32,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "caught by RA Jadeja, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by F du Plessis, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RA Jadeja, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 4,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DL Chahar, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 9,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by AT Rayudu, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by RA Jadeja",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MM Ali, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LH Ferguson",
+            "runs": 18,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Shivam Mavi",
+            "runs": 20,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by DL Chahar, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hazlewood",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 3,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 9.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 156,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 8,
+          "noballs": 1,
+          "total": 165
+        }
+      }
     }
   ]
 }

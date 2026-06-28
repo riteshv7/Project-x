@@ -707,7 +707,141 @@
         }
       },
       "pressure_index": 0.575,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JD Ryder",
+            "runs": 19,
+            "balls": 12,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by S Anirudha, bowled by DE Bollinger",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MD Mishra",
+            "runs": 2,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SB Jakati, bowled by DE Bollinger",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Manhas",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by KMDN Kulasekara",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 10,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by R Ashwin, bowled by TG Southee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 62,
+            "balls": 43,
+            "fours": 3,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 31,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by S Anirudha, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MR Marsh",
+            "runs": 11,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by R Ashwin, bowled by DE Bollinger",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JE Taylor",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KMDN Kulasekara",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "DE Bollinger",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 3,
+            "economy": 5.25,
+            "maidens": 1
+          },
+          {
+            "name": "TG Southee",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "SB Jakati",
+            "overs": 2.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 3.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 5.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 136,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 4,
+          "noballs": 0,
+          "total": 141
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1534,113 @@
       },
       "pressure_index": 0.502,
       "match_shape": 0.991,
-      "target": 142
+      "target": 142,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MEK Hussey",
+            "runs": 9,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by M Kartik",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Vijay",
+            "runs": 31,
+            "balls": 31,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by M Manhas, bowled by JD Ryder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 63,
+            "balls": 44,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SK Raina",
+            "runs": 34,
+            "balls": 25,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AC Thomas",
+            "overs": 3.3,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.86,
+            "maidens": 1
+          },
+          {
+            "name": "JE Taylor",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "M Kartik",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 1
+          },
+          {
+            "name": "MR Marsh",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Sharma",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "JD Ryder",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 137,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 5,
+          "noballs": 1,
+          "total": 145
+        }
+      }
     }
   ]
 }

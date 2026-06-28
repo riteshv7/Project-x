@@ -727,7 +727,150 @@
         }
       },
       "pressure_index": 0.805,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PD Salt",
+            "runs": 32,
+            "balls": 16,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "stumped by MS Dhoni, bowled by Noor Ahmad",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 31,
+            "balls": 30,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by R Ravindra, bowled by Noor Ahmad",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 27,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by RD Gaikwad, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RM Patidar",
+            "runs": 51,
+            "balls": 32,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "caught by SM Curran, bowled by M Pathirana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LS Livingstone",
+            "runs": 10,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by Noor Ahmad",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JM Sharma",
+            "runs": 12,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by RA Jadeja, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TH David",
+            "runs": 22,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DJ Hooda, bowled by M Pathirana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KK Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "SM Curran",
+            "overs": 3.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 11.33,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 3,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 3.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 12.33,
+            "maidens": 0
+          },
+          {
+            "name": "M Pathirana",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 185,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 8,
+          "noballs": 0,
+          "total": 196
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1558,159 @@
       },
       "pressure_index": 0.125,
       "match_shape": 0.25,
-      "target": 197
+      "target": 197,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "R Ravindra",
+            "runs": 41,
+            "balls": 31,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "bowled by Yash Dayal",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 5,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by PD Salt, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RD Gaikwad",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MS Bhandage, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 4,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JM Sharma, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SM Curran",
+            "runs": 8,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KH Pandya, bowled by LS Livingstone",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dube",
+            "runs": 19,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by Yash Dayal",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 25,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by PD Salt, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 11,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by PD Salt, bowled by LS Livingstone",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 30,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Noor Ahmad",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hazlewood",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 3,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Dayal",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "LS Livingstone",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Suyash Sharma",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 143,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 0,
+          "total": 146
+        }
+      }
     }
   ]
 }

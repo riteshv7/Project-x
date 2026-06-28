@@ -722,7 +722,140 @@
         }
       },
       "pressure_index": 0.985,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by FH Edwards",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 25,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught and bowled by RG Sharma",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "ML Hayden",
+            "runs": 49,
+            "balls": 33,
+            "fours": 8,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 22,
+            "balls": 22,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Shoaib Ahmed, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JDP Oram",
+            "runs": 41,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 13,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by RP Singh, bowled by Y Venugopal Rao",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 8,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by RP Singh",
+            "dismissal_type": "caught and bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "FH Edwards",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "DR Smith",
+            "overs": 1.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 17.0,
+            "maidens": 0
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "RG Sharma",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "Shoaib Ahmed",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 158,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 4,
+          "noballs": 3,
+          "total": 165
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1538,131 @@
       },
       "pressure_index": 0.366,
       "match_shape": 0.99,
-      "target": 166
+      "target": 166,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 44,
+            "balls": 19,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "caught by M Muralitharan, bowled by SK Raina",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Gibbs",
+            "runs": 69,
+            "balls": 55,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "VVS Laxman",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JDP Oram, bowled by SK Raina",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 18,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by MS Dhoni, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DR Smith",
+            "runs": 12,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by M Muralitharan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AA Bilakhia",
+            "runs": 12,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "L Balaji",
+            "overs": 3.3,
+            "runs_conceded": 41,
+            "wickets": 1,
+            "economy": 11.71,
+            "maidens": 0
+          },
+          {
+            "name": "MS Gony",
+            "overs": 1.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 20.0,
+            "maidens": 0
+          },
+          {
+            "name": "JA Morkel",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "Joginder Sharma",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "JDP Oram",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 159,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 5,
+          "total": 169
+        }
+      }
     }
   ]
 }

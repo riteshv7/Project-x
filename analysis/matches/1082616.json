@@ -692,7 +692,149 @@
         }
       },
       "pressure_index": 0.92,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "M Vohra",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by NB Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HM Amla",
+            "runs": 65,
+            "balls": 40,
+            "fours": 9,
+            "sixes": 2,
+            "dismissal": "caught and bowled by SS Agarwal",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "SE Marsh",
+            "runs": 30,
+            "balls": 24,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by SK Raina, bowled by AJ Tye",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 31,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "lbw, bowled by RA Jadeja",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 34,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by AJ Finch, bowled by DR Smith",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 7,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by BB McCullum, bowled by AJ Tye",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MM Sharma",
+            "runs": 4,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "WP Saha",
+            "runs": 10,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by Basil Thampi",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SS Agarwal",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "NB Singh",
+            "overs": 2.0,
+            "runs_conceded": 7,
+            "wickets": 1,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 1.0,
+            "runs_conceded": 6,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Basil Thampi",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "AJ Tye",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 2,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "DR Smith",
+            "overs": 1.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 18.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 183,
+          "byes": 1,
+          "legbyes": 3,
+          "wides": 1,
+          "noballs": 0,
+          "total": 188
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1390,7 +1532,150 @@
       },
       "pressure_index": 0.457,
       "match_shape": 0.447,
-      "target": 189
+      "target": 189,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "BB McCullum",
+            "runs": 6,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Sandeep Sharma",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AJ Finch",
+            "runs": 13,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by MP Stoinis, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 32,
+            "balls": 24,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by GJ Maxwell, bowled by AR Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 58,
+            "balls": 44,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 9,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by KC Cariappa",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "DR Smith",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by MP Stoinis, bowled by AR Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Nath",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by KC Cariappa",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AJ Tye",
+            "runs": 22,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by Sandeep Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Basil Thampi",
+            "runs": 11,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "KC Cariappa",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "MP Stoinis",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 155,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 0,
+          "total": 162
+        }
+      }
     }
   ]
 }

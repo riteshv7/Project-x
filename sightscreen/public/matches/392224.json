@@ -682,7 +682,159 @@
         }
       },
       "pressure_index": 0.827,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "M Vijay",
+            "runs": 5,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by JH Kallis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "ML Hayden",
+            "runs": 60,
+            "balls": 38,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "caught by R Vinay Kumar, bowled by A Kumble",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 13,
+            "balls": 10,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by RE van der Merwe, bowled by JH Kallis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 18,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by RE van der Merwe",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "JDP Oram",
+            "runs": 7,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MV Boucher, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 2,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by A Kumble",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 9,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by A Kumble, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SB Jakati",
+            "runs": 7,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "L Balaji",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Kumble, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Muralitharan",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by P Kumar",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Kumble",
+            "overs": 4.0,
+            "runs_conceded": 12,
+            "wickets": 2,
+            "economy": 3.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "P Kumar",
+            "overs": 3.4,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 9.55,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 4.5,
+            "maidens": 1
+          },
+          {
+            "name": "RE van der Merwe",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "B Akhil",
+            "overs": 1.0,
+            "runs_conceded": 2,
+            "wickets": 0,
+            "economy": 2.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 125,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 1,
+          "noballs": 0,
+          "total": 129
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1365,7 +1517,159 @@
       },
       "pressure_index": 0.628,
       "match_shape": 0.848,
-      "target": 130
+      "target": 130,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 6,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by JA Morkel",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by JA Morkel",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "R Dravid",
+            "runs": 8,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by S Badrinath, bowled by S Tyagi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LRPL Taylor",
+            "runs": 46,
+            "balls": 50,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by MS Dhoni, bowled by JDP Oram",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 38,
+            "balls": 35,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by JDP Oram, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MV Boucher",
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by ML Hayden, bowled by M Muralitharan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RE van der Merwe",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by M Muralitharan, MS Dhoni",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "B Akhil",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Tyagi, bowled by JDP Oram",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Kumar",
+            "runs": 12,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Vinay Kumar",
+            "runs": 6,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JA Morkel",
+            "overs": 4.0,
+            "runs_conceded": 13,
+            "wickets": 2,
+            "economy": 3.25,
+            "maidens": 0
+          },
+          {
+            "name": "S Tyagi",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "SB Jakati",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "JDP Oram",
+            "overs": 1.4,
+            "runs_conceded": 12,
+            "wickets": 2,
+            "economy": 7.2,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 124,
+          "byes": 4,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 0,
+          "total": 132
+        }
+      }
     }
   ]
 }

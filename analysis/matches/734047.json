@@ -732,7 +732,124 @@
         }
       },
       "pressure_index": 0.497,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "V Sehwag",
+            "runs": 122,
+            "balls": 57,
+            "fours": 12,
+            "sixes": 8,
+            "dismissal": "caught by F du Plessis, bowled by A Nehra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Vohra",
+            "runs": 34,
+            "balls": 31,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by SK Raina, bowled by IC Pandey",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 13,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by SK Raina, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 38,
+            "balls": 19,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "run out by MS Dhoni",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "GJ Bailey",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by A Nehra",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 6,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by DR Smith, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MG Johnson",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Nehra",
+            "overs": 4.0,
+            "runs_conceded": 51,
+            "wickets": 2,
+            "economy": 12.75,
+            "maidens": 0
+          },
+          {
+            "name": "IC Pandey",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 215,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 8,
+          "noballs": 1,
+          "total": 226
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1450,7 +1567,150 @@
       },
       "pressure_index": 0.586,
       "match_shape": 0.691,
-      "target": 227
+      "target": 227,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DR Smith",
+            "runs": 7,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Sandeep Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by GJ Bailey, bowled by MG Johnson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 87,
+            "balls": 24,
+            "fours": 12,
+            "sixes": 6,
+            "dismissal": "run out by GJ Bailey",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 11,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by GJ Maxwell, WP Saha",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 27,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by MG Johnson, bowled by P Awana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Sehwag, bowled by P Awana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 42,
+            "balls": 30,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 10,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by WP Saha, bowled by AR Patel",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "MM Sharma",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MG Johnson",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Sandeep Sharma",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "P Awana",
+            "overs": 4.0,
+            "runs_conceded": 59,
+            "wickets": 2,
+            "economy": 14.75,
+            "maidens": 0
+          },
+          {
+            "name": "Karanveer Singh",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "GJ Maxwell",
+            "overs": 1.0,
+            "runs_conceded": 4,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 186,
+          "byes": 4,
+          "legbyes": 4,
+          "wides": 6,
+          "noballs": 2,
+          "total": 202
+        }
+      }
     }
   ]
 }

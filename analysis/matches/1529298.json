@@ -732,7 +732,124 @@
         }
       },
       "pressure_index": 0.552,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Priyansh Arya",
+            "runs": 56,
+            "balls": 32,
+            "fours": 2,
+            "sixes": 6,
+            "dismissal": "caught by SU Parakh, bowled by M Tiwari",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Simran Singh",
+            "runs": 18,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by Auqib Nabi, bowled by Mukesh Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 59,
+            "balls": 36,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "C Connolly",
+            "runs": 38,
+            "balls": 27,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by DA Miller, bowled by M Tiwari",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by M Tiwari, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shashank Singh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AR Patel, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Suryansh Shedge",
+            "runs": 21,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MA Starc",
+            "overs": 4.0,
+            "runs_conceded": 57,
+            "wickets": 2,
+            "economy": 14.25,
+            "maidens": 0
+          },
+          {
+            "name": "Auqib Nabi",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "L Ngidi",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mukesh Kumar",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "M Tiwari",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 193,
+          "byes": 4,
+          "legbyes": 0,
+          "wides": 11,
+          "noballs": 2,
+          "total": 210
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1425,7 +1542,142 @@
       },
       "pressure_index": 0.506,
       "match_shape": 0.992,
-      "target": 211
+      "target": 211,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KL Rahul",
+            "runs": 9,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by M Jansen, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abishek Porel",
+            "runs": 5,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Yash Thakur",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SU Parakh",
+            "runs": 13,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by YS Chahal, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "T Stubbs",
+            "runs": 12,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by C Connolly",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 56,
+            "balls": 30,
+            "fours": 8,
+            "sixes": 2,
+            "dismissal": "caught by BJ Dwarshuis, bowled by MP Stoinis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 51,
+            "balls": 28,
+            "fours": 3,
+            "sixes": 4,
+            "dismissal": "caught by P Simran Singh, bowled by BJ Dwarshuis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ashutosh Sharma",
+            "runs": 24,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by P Dubey, bowled by Yash Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Tiwari",
+            "runs": 18,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Auqib Nabi",
+            "runs": 10,
+            "balls": 1,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Arshdeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Thakur",
+            "overs": 4.0,
+            "runs_conceded": 55,
+            "wickets": 2,
+            "economy": 13.75,
+            "maidens": 0
+          },
+          {
+            "name": "M Jansen",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 0,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "BJ Dwarshuis",
+            "overs": 4.0,
+            "runs_conceded": 51,
+            "wickets": 1,
+            "economy": 12.75,
+            "maidens": 0
+          },
+          {
+            "name": "MP Stoinis",
+            "overs": 3.0,
+            "runs_conceded": 44,
+            "wickets": 1,
+            "economy": 14.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 198,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 17,
+          "noballs": 1,
+          "total": 216
+        }
+      }
     }
   ]
 }

@@ -702,7 +702,132 @@
         }
       },
       "pressure_index": 0.916,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "M Vijay",
+            "runs": 31,
+            "balls": 29,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by NL McCullum, bowled by AC Thomas",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MEK Hussey",
+            "runs": 61,
+            "balls": 48,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "caught by MK Pandey, bowled by JE Taylor",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by AC Thomas",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 26,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "stumped by RV Uthappa, bowled by R Sharma",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JD Ryder, bowled by JE Taylor",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 11,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "S Anirudha",
+            "runs": 7,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by JE Taylor",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "NL McCullum",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "JE Taylor",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 3,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "AC Thomas",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Kartik",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Sharma",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 138,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 3,
+          "noballs": 0,
+          "total": 142
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1520,168 @@
       },
       "pressure_index": 0.902,
       "match_shape": 0.779,
-      "target": 143
+      "target": 143,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JD Ryder",
+            "runs": 15,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by R Ashwin",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MD Mishra",
+            "runs": 9,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by JA Morkel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 12,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by JA Morkel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by R Ashwin",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 34,
+            "balls": 43,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SB Jakati, bowled by JA Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Manhas",
+            "runs": 20,
+            "balls": 23,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by MS Dhoni, bowled by DE Bollinger",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NL McCullum",
+            "runs": 15,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SB Jakati, bowled by DE Bollinger",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Sharma",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by MS Dhoni",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "JE Taylor",
+            "runs": 2,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by A Mukund",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "M Kartik",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AC Thomas",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JA Morkel",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 3,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "DE Bollinger",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 4.75,
+            "maidens": 1
+          },
+          {
+            "name": "S Randiv",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "SB Jakati",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 110,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 2,
+          "noballs": 2,
+          "total": 117
+        }
+      }
     }
   ]
 }

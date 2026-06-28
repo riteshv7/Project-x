@@ -75,3 +75,102 @@ export interface MatchSummary {
   resultText: string;
   scoreline: string;
 }
+
+export interface TeamSeasonRow {
+  season: string;
+  matchesPlayed: number;
+  wins: number;
+  losses: number;
+  ties: number;
+  winPct: number;
+}
+
+export interface TeamStats {
+  teamName: string;
+  slug: string;
+  seasonRange: string;
+  matchesPlayed: number;
+  wins: number;
+  losses: number;
+  ties: number;
+  winPct: number;
+  avgScore: number;
+  avgOppositionScore: number;
+  seasonBreakdown: TeamSeasonRow[];
+  opponents: {
+    teamName: string;
+    slug: string;
+    matchesPlayed: number;
+  }[];
+  matchSummaries: MatchSummary[];
+}
+
+export interface TeamPerformanceRow {
+  teamName: string;
+  slug: string;
+  matchesPlayed: number;
+  wins: number;
+  losses: number;
+  ties: number;
+  winPct: number;
+  avgScore: number;
+  avgOppositionScore: number;
+}
+
+export interface SeasonStats {
+  season: string;
+  matchesPlayed: number;
+  leaderboard: TeamPerformanceRow[];
+  matchSummaries: MatchSummary[];
+}
+
+export interface VenueStats {
+  venue: string;
+  slug: string;
+  matchesPlayed: number;
+  avgScore: number;
+  homeTeam: {
+    teamName: string;
+    slug: string;
+    matchesPlayed: number;
+    winPct: number;
+  } | null;
+  mostCommonPairing: {
+    label: string;
+    matchesPlayed: number;
+  } | null;
+  teamPerformance: TeamPerformanceRow[];
+  matchSummaries: MatchSummary[];
+}
+
+export interface H2HTeamSummary {
+  teamName: string;
+  slug: string;
+  matchesPlayed: number;
+  wins: number;
+  losses: number;
+  ties: number;
+  winPct: number;
+  avgScore: number;
+  avgOppositionScore: number;
+}
+
+export interface H2HSeasonRow {
+  season: string;
+  matchesPlayed: number;
+  team1Wins: number;
+  team2Wins: number;
+  ties: number;
+  team1WinPct: number;
+  team2WinPct: number;
+}
+
+export interface H2HStats {
+  team1: string;
+  team2: string;
+  slug: string;
+  matchesPlayed: number;
+  summaries: [H2HTeamSummary, H2HTeamSummary];
+  seriesBreakdown: H2HSeasonRow[];
+  matchSummaries: MatchSummary[];
+}

@@ -712,7 +712,123 @@
         }
       },
       "pressure_index": 0.729,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CH Gayle",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by B Kumar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 75,
+            "balls": 51,
+            "fours": 7,
+            "sixes": 3,
+            "dismissal": "bowled by B Kumar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 82,
+            "balls": 42,
+            "fours": 7,
+            "sixes": 6,
+            "dismissal": "caught by EJG Morgan, bowled by Mustafizur Rahman",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 19,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "caught by NV Ojha, bowled by Mustafizur Rahman",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 8,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SN Khan",
+            "runs": 35,
+            "balls": 10,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Nehra",
+            "overs": 2.1,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 9.69,
+            "maidens": 0
+          },
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 55,
+            "wickets": 2,
+            "economy": 13.75,
+            "maidens": 0
+          },
+          {
+            "name": "Mustafizur Rahman",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "MC Henriques",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 4.0,
+            "runs_conceded": 57,
+            "wickets": 0,
+            "economy": 14.25,
+            "maidens": 0
+          },
+          {
+            "name": "A Ashish Reddy",
+            "overs": 1.5,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 13.64,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 220,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 1,
+          "total": 227
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1531,133 @@
       },
       "pressure_index": 0.175,
       "match_shape": 0.27,
-      "target": 228
+      "target": 228,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 58,
+            "balls": 25,
+            "fours": 4,
+            "sixes": 5,
+            "dismissal": "caught by AF Milne, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 8,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Parvez Rasool",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MC Henriques",
+            "runs": 19,
+            "balls": 23,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Parvez Rasool, bowled by AF Milne",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AB de Villiers, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 6,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AB de Villiers, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 22,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Ashish Reddy",
+            "runs": 32,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "bowled by SR Watson",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KV Sharma",
+            "runs": 26,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AF Milne",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "Parvez Rasool",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 2,
+            "economy": 10.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 171,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 9,
+          "noballs": 0,
+          "total": 182
+        }
+      }
     }
   ]
 }

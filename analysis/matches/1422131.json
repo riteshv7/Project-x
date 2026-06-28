@@ -722,7 +722,124 @@
         }
       },
       "pressure_index": 0.759,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PP Shaw",
+            "runs": 43,
+            "balls": 27,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by MS Dhoni, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 52,
+            "balls": 34,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "caught by M Pathirana, bowled by Mustafizur Rahman",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 51,
+            "balls": 32,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "caught by RD Gaikwad, bowled by M Pathirana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MR Marsh",
+            "runs": 18,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by M Pathirana",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "T Stubbs",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by M Pathirana",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 7,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Abishek Porel",
+            "runs": 9,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "TU Deshpande",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mustafizur Rahman",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 1,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "M Pathirana",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 3,
+            "economy": 7.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 180,
+          "byes": 2,
+          "legbyes": 3,
+          "wides": 5,
+          "noballs": 2,
+          "total": 191
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1445,7 +1562,149 @@
       },
       "pressure_index": 0.229,
       "match_shape": 0.283,
-      "target": 192
+      "target": 192,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RD Gaikwad",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RR Pant, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Ravindra",
+            "runs": 2,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by T Stubbs, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 45,
+            "balls": 30,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by DA Warner, bowled by Mukesh Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Mitchell",
+            "runs": 34,
+            "balls": 26,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught and bowled by AR Patel",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "S Dube",
+            "runs": 18,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by T Stubbs, bowled by Mukesh Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Sameer Rizvi",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KK Ahmed, bowled by Mukesh Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 21,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 37,
+            "balls": 16,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KK Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 1
+          },
+          {
+            "name": "I Sharma",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "A Nortje",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 0,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "Rasikh Salam",
+            "overs": 2.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "MR Marsh",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mukesh Kumar",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 3,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 158,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 8,
+          "noballs": 1,
+          "total": 171
+        }
+      }
     }
   ]
 }

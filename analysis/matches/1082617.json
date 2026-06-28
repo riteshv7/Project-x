@@ -692,7 +692,168 @@
         }
       },
       "pressure_index": 0.784,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SP Narine",
+            "runs": 34,
+            "balls": 17,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "caught by YS Chahal, bowled by STR Binny",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 14,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by KM Jadhav, bowled by TS Mills",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 11,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by S Badree",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 15,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by S Badree, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 8,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by KM Jadhav, bowled by YS Chahal",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 15,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by TS Mills, bowled by P Negi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "C de Grandhomme",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Kohli, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CR Woakes",
+            "runs": 18,
+            "balls": 21,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by Mandeep Singh, bowled by TS Mills",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NM Coulter-Nile",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AB de Villiers, bowled by P Negi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "runs": 4,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by S Aravind",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "UT Yadav",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Badree",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "TS Mills",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "S Aravind",
+            "overs": 3.3,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 7.71,
+            "maidens": 0
+          },
+          {
+            "name": "STR Binny",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 3,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "P Negi",
+            "overs": 3.0,
+            "runs_conceded": 15,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 123,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 8,
+          "noballs": 0,
+          "total": 131
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1075,12 +1236,157 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.886,
       "match_shape": 0.805,
-      "target": 132
+      "target": 132,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CH Gayle",
+            "runs": 7,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by NM Coulter-Nile, bowled by CR Woakes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by NM Coulter-Nile",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 8,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by NM Coulter-Nile",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 9,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by CR Woakes, bowled by NM Coulter-Nile",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 8,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by CR Woakes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Badree",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by CR Woakes",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "P Negi",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by C de Grandhomme",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "TS Mills",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Kuldeep Yadav, bowled by C de Grandhomme",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Aravind",
+            "runs": 5,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "YS Chahal",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by C de Grandhomme",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "NM Coulter-Nile",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 3,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 3.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "CR Woakes",
+            "overs": 2.0,
+            "runs_conceded": 6,
+            "wickets": 3,
+            "economy": 3.0,
+            "maidens": 0
+          },
+          {
+            "name": "C de Grandhomme",
+            "overs": 1.4,
+            "runs_conceded": 4,
+            "wickets": 3,
+            "economy": 2.4,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 42,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 2,
+          "noballs": 2,
+          "total": 49
+        }
+      }
     }
   ]
 }

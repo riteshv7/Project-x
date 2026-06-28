@@ -712,7 +712,106 @@
         }
       },
       "pressure_index": 0.641,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MP Stoinis",
+            "runs": 38,
+            "balls": 27,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "bowled by Rashid Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 78,
+            "balls": 49,
+            "fours": 6,
+            "sixes": 3,
+            "dismissal": "lbw, bowled by Sandeep Sharma",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 21,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 42,
+            "balls": 21,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RR Pant",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "JO Holder",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 1,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "S Nadeem",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 181,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 2,
+          "total": 189
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1514,159 @@
       },
       "pressure_index": 0.525,
       "match_shape": 0.436,
-      "target": 190
+      "target": 190,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PK Garg",
+            "runs": 17,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "bowled by MP Stoinis",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by K Rabada",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 21,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by A Nortje, bowled by MP Stoinis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 67,
+            "balls": 45,
+            "fours": 5,
+            "sixes": 4,
+            "dismissal": "caught by K Rabada, bowled by MP Stoinis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JO Holder",
+            "runs": 11,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by P Dubey, bowled by AR Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 33,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by KMA Paul, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 11,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by AR Patel, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Goswami",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MP Stoinis, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Nadeem",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Sandeep Sharma",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "R Ashwin",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 4,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "A Nortje",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "MP Stoinis",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 3,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "P Dubey",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 166,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 5,
+          "noballs": 0,
+          "total": 172
+        }
+      }
     }
   ]
 }

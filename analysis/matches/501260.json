@@ -717,7 +717,105 @@
         }
       },
       "pressure_index": 0.663,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PC Valthaty",
+            "runs": 20,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by SS Tiwary, bowled by CK Langeveldt",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AC Gilchrist",
+            "runs": 106,
+            "balls": 53,
+            "fours": 8,
+            "sixes": 9,
+            "dismissal": "caught by CH Gayle, bowled by CK Langeveldt",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SE Marsh",
+            "runs": 79,
+            "balls": 49,
+            "fours": 7,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JJ van der Wath",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "CK Langeveldt",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 2,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "CH Gayle",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "S Aravind",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mithun",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "V Kohli",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 205,
+          "byes": 7,
+          "legbyes": 14,
+          "wides": 4,
+          "noballs": 2,
+          "total": 232
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1325,7 +1423,160 @@
       },
       "pressure_index": 0.037,
       "match_shape": 0.076,
-      "target": 233
+      "target": 233,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CH Gayle",
+            "runs": 0,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by RJ Harris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 6,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DJ Hussey, bowled by SJ Srivastava",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 11,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by RJ Harris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 34,
+            "balls": 27,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by AC Gilchrist, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AUK Pathan",
+            "runs": 7,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by DJ Hussey, bowled by PC Valthaty",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Kaif",
+            "runs": 15,
+            "balls": 11,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "stumped by AC Gilchrist, bowled by PP Chawla",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "KB Arun Karthik",
+            "runs": 6,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JJ van der Wath",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by PP Chawla",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "A Mithun",
+            "runs": 10,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by DJ Hussey, bowled by RJ Harris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CK Langeveldt",
+            "runs": 8,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by SJ Srivastava",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Aravind",
+            "runs": 11,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 3.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 3.67,
+            "maidens": 1
+          },
+          {
+            "name": "RJ Harris",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 3,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "SJ Srivastava",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "PC Valthaty",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 4,
+            "economy": 4.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 112,
+          "byes": 4,
+          "legbyes": 1,
+          "wides": 4,
+          "noballs": 0,
+          "total": 121
+        }
+      }
     }
   ]
 }

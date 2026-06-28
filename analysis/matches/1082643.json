@@ -677,7 +677,168 @@
         }
       },
       "pressure_index": 0.855,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DR Smith",
+            "runs": 54,
+            "balls": 33,
+            "fours": 7,
+            "sixes": 2,
+            "dismissal": "lbw, bowled by Rashid Khan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 61,
+            "balls": 40,
+            "fours": 5,
+            "sixes": 4,
+            "dismissal": "caught by NV Ojha, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Dhawan, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DJ Hooda, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 20,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AJ Finch",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Rashid Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JP Faulkner",
+            "runs": 8,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Mohammed Siraj",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "PJ Sangwan",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Mohammed Siraj",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Ankit Soni",
+            "runs": 0,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by S Kaul",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "P Kumar",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by B Kumar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MM Patel",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by B Kumar",
+            "dismissal_type": "bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 3.2,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Siraj",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 4,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammad Nabi",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 5.67,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 3,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "MC Henriques",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 148,
+          "byes": 1,
+          "legbyes": 3,
+          "wides": 2,
+          "noballs": 0,
+          "total": 154
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1305,7 +1466,105 @@
       },
       "pressure_index": 0.463,
       "match_shape": 0.996,
-      "target": 155
+      "target": 155,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 69,
+            "balls": 52,
+            "fours": 9,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 18,
+            "balls": 11,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by JP Faulkner, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MC Henriques",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 63,
+            "balls": 44,
+            "fours": 9,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Sangwan",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "MM Patel",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "Ankit Soni",
+            "overs": 2.1,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 14.31,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 154,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 1,
+          "noballs": 0,
+          "total": 158
+        }
+      }
     }
   ]
 }

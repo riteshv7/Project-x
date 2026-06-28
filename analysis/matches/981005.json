@@ -702,7 +702,150 @@
         }
       },
       "pressure_index": 0.969,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "HM Amla",
+            "runs": 30,
+            "balls": 27,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by GJ Bailey, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Vijay",
+            "runs": 59,
+            "balls": 41,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "bowled by R Ashwin",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Ashwin, bowled by A Zampa",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Gurkeerat Singh",
+            "runs": 51,
+            "balls": 30,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by DL Chahar, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by R Ashwin",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SS Tiwary, bowled by NLTC Perera",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "F Behardien",
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Dhawan",
+            "runs": 11,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KJ Abbott",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "AB Dinda",
+            "overs": 3.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 5.33,
+            "maidens": 0
+          },
+          {
+            "name": "DL Chahar",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "NLTC Perera",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 4,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Zampa",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 168,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 0,
+          "total": 172
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1558,141 @@
       },
       "pressure_index": 0.599,
       "match_shape": 0.615,
-      "target": 173
+      "target": 173,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 19,
+            "balls": 15,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "UT Khawaja",
+            "runs": 30,
+            "balls": 29,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by DA Miller, bowled by Gurkeerat Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Bailey",
+            "runs": 9,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "stumped by WP Saha, bowled by AR Patel",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 17,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by F Behardien, bowled by Gurkeerat Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 64,
+            "balls": 32,
+            "fours": 4,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by R Dhawan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NLTC Perera",
+            "runs": 23,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by WP Saha, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "KJ Abbott",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "Gurkeerat Singh",
+            "overs": 2.0,
+            "runs_conceded": 15,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Dhawan",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 165,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 7,
+          "noballs": 0,
+          "total": 173
+        }
+      }
     }
   ]
 }

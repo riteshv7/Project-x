@@ -707,7 +707,132 @@
         }
       },
       "pressure_index": 0.941,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "M Vijay",
+            "runs": 42,
+            "balls": 34,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "bowled by RA Jadeja",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "M Vohra",
+            "runs": 38,
+            "balls": 23,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by KD Karthik, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 15,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by DJ Bravo",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by DJ Bravo",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 20,
+            "balls": 25,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RA Jadeja, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 33,
+            "balls": 22,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by AJ Finch, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 4,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Sangwan",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "S Ladda",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 4,
+            "economy": 5.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 154,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 0,
+          "total": 161
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1330,7 +1455,132 @@
       },
       "pressure_index": 0.403,
       "match_shape": 0.987,
-      "target": 162
+      "target": 162,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AJ Finch",
+            "runs": 74,
+            "balls": 47,
+            "fours": 12,
+            "sixes": 0,
+            "dismissal": "stumped by WP Saha, bowled by P Sahu",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by WP Saha, bowled by Sandeep Sharma",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 20,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by MG Johnson, bowled by MP Stoinis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 41,
+            "balls": 26,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 8,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by MG Johnson",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 11,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by MM Sharma, bowled by MG Johnson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "MG Johnson",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 2.4,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "MP Stoinis",
+            "overs": 2.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "P Sahu",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 156,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 3,
+          "noballs": 0,
+          "total": 162
+        }
+      }
     }
   ]
 }

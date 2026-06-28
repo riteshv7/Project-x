@@ -692,7 +692,159 @@
         }
       },
       "pressure_index": 0.618,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "G Gambhir",
+            "runs": 25,
+            "balls": 19,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by MEK Hussey, bowled by CH Morris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 25,
+            "balls": 22,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "run out by DJ Bravo, MS Dhoni",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 2,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RA Jadeja, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Tiwary",
+            "runs": 13,
+            "balls": 18,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MM Sharma, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DB Das",
+            "runs": 19,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "lbw, bowled by R Ashwin",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "R Bhatia",
+            "runs": 1,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by RA Jadeja",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "LR Shukla",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by RA Jadeja",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SMSM Senanayake",
+            "runs": 7,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SP Narine",
+            "runs": 13,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by MM Sharma, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "L Balaji",
+            "runs": 9,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JA Morkel",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 3.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 4.33,
+            "maidens": 0
+          },
+          {
+            "name": "CH Morris",
+            "overs": 3.0,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 1
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 3,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 115,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 1,
+          "noballs": 0,
+          "total": 119
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1350,7 +1502,141 @@
       },
       "pressure_index": 0.662,
       "match_shape": 0.95,
-      "target": 120
+      "target": 120,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MEK Hussey",
+            "runs": 40,
+            "balls": 51,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by YK Pathan, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 11,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SMSM Senanayake, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Vijay",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by SMSM Senanayake",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 7,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SP Narine, bowled by YK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 9,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by EJG Morgan",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 6,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by JH Kallis",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 36,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 7,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "SMSM Senanayake",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 1.1,
+            "runs_conceded": 9,
+            "wickets": 1,
+            "economy": 7.71,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 118,
+          "byes": 1,
+          "legbyes": 4,
+          "wides": 1,
+          "noballs": 0,
+          "total": 124
+        }
+      }
     }
   ]
 }

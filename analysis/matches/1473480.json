@@ -702,7 +702,168 @@
         }
       },
       "pressure_index": 0.735,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SK Rasheed",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Abhishek Sharma, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SM Curran",
+            "runs": 9,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Aniket Verma, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Mhatre",
+            "runs": 30,
+            "balls": 19,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by Ishan Kishan, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 21,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by PHKD Mendis",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "D Brevis",
+            "runs": 42,
+            "balls": 25,
+            "fours": 1,
+            "sixes": 4,
+            "dismissal": "caught by PHKD Mendis, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dube",
+            "runs": 12,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Abhishek Sharma, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 22,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Abhishek Sharma, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 6,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Abhishek Sharma, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Kamboj",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by H Klaasen, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Noor Ahmad",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Mohammed Shami, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Ahmed",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 2.5,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 7.41,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 4,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Zeeshan Ansari",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "PHKD Mendis",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 8.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 147,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 2,
+          "noballs": 2,
+          "total": 154
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1385,7 +1546,132 @@
       },
       "pressure_index": 0.694,
       "match_shape": 0.986,
-      "target": 155
+      "target": 155,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Abhishek Sharma",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Mhatre, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 44,
+            "balls": 34,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by SM Curran, bowled by Noor Ahmad",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TM Head",
+            "runs": 19,
+            "balls": 16,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by A Kamboj",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 7,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DJ Hooda, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Aniket Verma",
+            "runs": 19,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by DJ Hooda, bowled by Noor Ahmad",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PHKD Mendis",
+            "runs": 32,
+            "balls": 21,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "runs": 19,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KK Ahmed",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Kamboj",
+            "overs": 3.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 5.33,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 2,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 3.4,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "SM Curran",
+            "overs": 2.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Pathirana",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 140,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 11,
+          "noballs": 2,
+          "total": 155
+        }
+      }
     }
   ]
 }

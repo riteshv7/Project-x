@@ -722,7 +722,168 @@
         }
       },
       "pressure_index": 0.831,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by R Ashwin, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 81,
+            "balls": 36,
+            "fours": 10,
+            "sixes": 5,
+            "dismissal": "stumped by MS Dhoni, bowled by R Ashwin",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 20,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by R Ravindra, bowled by Noor Ahmad",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Parag",
+            "runs": 37,
+            "balls": 28,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "bowled by M Pathirana",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Dhruv Jurel",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by M Pathirana, bowled by Noor Ahmad",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PWH de Silva",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Shankar, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 19,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by R Ashwin, bowled by M Pathirana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Archer",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RD Gaikwad, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "K Kartikeya",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by KK Ahmed",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "M Theekshana",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "TU Deshpande",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KK Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 2,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "J Overton",
+            "overs": 2.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 15.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Pathirana",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 2.0,
+            "runs_conceded": 10,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 172,
+          "byes": 2,
+          "legbyes": 0,
+          "wides": 8,
+          "noballs": 0,
+          "total": 182
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1576,141 @@
       },
       "pressure_index": 0.472,
       "match_shape": 0.396,
-      "target": 183
+      "target": 183,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "R Ravindra",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Dhruv Jurel, bowled by JC Archer",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RD Gaikwad",
+            "runs": 63,
+            "balls": 44,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": "caught by YBK Jaiswal, bowled by PWH de Silva",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 23,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by SO Hetmyer, bowled by PWH de Silva",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dube",
+            "runs": 18,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by R Parag, bowled by PWH de Silva",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 9,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by PWH de Silva",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 32,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 16,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by SO Hetmyer, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "J Overton",
+            "runs": 11,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JC Archer",
+            "overs": 3.0,
+            "runs_conceded": 13,
+            "wickets": 1,
+            "economy": 4.33,
+            "maidens": 1
+          },
+          {
+            "name": "TU Deshpande",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 0,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Theekshana",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "PWH de Silva",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 4,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "K Kartikeya",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 172,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 0,
+          "total": 176
+        }
+      }
     }
   ]
 }

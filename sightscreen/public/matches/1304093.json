@@ -722,7 +722,124 @@
         }
       },
       "pressure_index": 0.787,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JC Buttler",
+            "runs": 22,
+            "balls": 25,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by Shivam Mavi, bowled by TG Southee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by UT Yadav",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 54,
+            "balls": 48,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": "caught by RK Singh, bowled by Shivam Mavi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 13,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RK Singh, bowled by AS Roy",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Parag",
+            "runs": 19,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by AS Roy, bowled by TG Southee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 6,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 27,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 1
+          },
+          {
+            "name": "AS Roy",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "Shivam Mavi",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "TG Southee",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 2,
+            "economy": 11.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 143,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 5,
+          "noballs": 2,
+          "total": 152
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1420,7 +1537,106 @@
       },
       "pressure_index": 0.736,
       "match_shape": 0.992,
-      "target": 153
+      "target": 153,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "B Indrajith",
+            "runs": 15,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by R Ashwin, bowled by M Prasidh Krishna",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AJ Finch",
+            "runs": 4,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by KR Sen",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 34,
+            "balls": 32,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by SV Samson, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 48,
+            "balls": 37,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RK Singh",
+            "runs": 42,
+            "balls": 23,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Prasidh Krishna",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "KR Sen",
+            "overs": 3.1,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 8.84,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 143,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 11,
+          "noballs": 0,
+          "total": 158
+        }
+      }
     }
   ]
 }

@@ -697,7 +697,140 @@
         }
       },
       "pressure_index": 0.668,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "TL Suman",
+            "runs": 5,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AL Menaria, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 31,
+            "balls": 35,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by SR Watson, bowled by A Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 2,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by LRPL Taylor, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 58,
+            "balls": 47,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "stumped by PR Shah, bowled by SK Warne",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 20,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by SR Watson",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JEC Franklin",
+            "runs": 11,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AA Chavan",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 3,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "J Botha",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Singh",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "AL Menaria",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 128,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 0,
+          "total": 133
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1175,12 +1308,92 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.159,
       "match_shape": 0.998,
-      "target": 134
+      "target": 134,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SR Watson",
+            "runs": 89,
+            "balls": 47,
+            "fours": 9,
+            "sixes": 6,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Dravid",
+            "runs": 43,
+            "balls": 32,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MM Patel",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 2.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "JEC Franklin",
+            "overs": 0.1,
+            "runs_conceded": 4,
+            "wickets": 0,
+            "economy": 24.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 132,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 0,
+          "total": 134
+        }
+      }
     }
   ]
 }

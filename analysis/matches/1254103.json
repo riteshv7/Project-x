@@ -702,7 +702,167 @@
         }
       },
       "pressure_index": 0.981,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "E Lewis",
+            "runs": 58,
+            "balls": 37,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "caught by KS Bharat, bowled by GHS Garton",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YBK Jaiswal",
+            "runs": 31,
+            "balls": 22,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by Mohammed Siraj, bowled by DT Christian",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 19,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by D Padikkal, bowled by Shahbaz Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Lomror",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by KS Bharat, bowled by YS Chahal",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "LS Livingstone",
+            "runs": 6,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AB de Villiers, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by D Padikkal, bowled by Shahbaz Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Parag",
+            "runs": 9,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Kohli, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CH Morris",
+            "runs": 14,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by D Padikkal, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Kartik Tyagi",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "C Sakariya",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AB de Villiers, bowled by HV Patel",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "GHS Garton",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Siraj",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "GJ Maxwell",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 3,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "DT Christian",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "overs": 2.0,
+            "runs_conceded": 10,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 145,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 0,
+          "total": 149
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1315,7 +1475,122 @@
       },
       "pressure_index": 0.289,
       "match_shape": 0.995,
-      "target": 150
+      "target": 150,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "V Kohli",
+            "runs": 25,
+            "balls": 20,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "run out by R Parag",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 22,
+            "balls": 17,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by Mustafizur Rahman",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KS Bharat",
+            "runs": 44,
+            "balls": 35,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by Anuj Rawat, bowled by Mustafizur Rahman",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 50,
+            "balls": 30,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 4,
+            "balls": 1,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "CH Morris",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "Kartik Tyagi",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "C Sakariya",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mustafizur Rahman",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "R Tewatia",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "MK Lomror",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Parag",
+            "overs": 0.1,
+            "runs_conceded": 4,
+            "wickets": 0,
+            "economy": 24.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 145,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 6,
+          "noballs": 0,
+          "total": 153
+        }
+      }
     }
   ]
 }

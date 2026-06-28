@@ -712,7 +712,159 @@
         }
       },
       "pressure_index": 0.817,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 37,
+            "balls": 32,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "bowled by AS Joseph",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "PP Shaw",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AS Joseph, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MR Marsh",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Mohammed Shami",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SN Khan",
+            "runs": 30,
+            "balls": 34,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by J Little, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Rossouw",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Tewatia, bowled by AS Joseph",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abishek Porel",
+            "runs": 20,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "bowled by Rashid Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 36,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by DA Miller, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Aman Hakim Khan",
+            "runs": 8,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by HH Pandya, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Nortje",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 3,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "J Little",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "AS Joseph",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Dayal",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 3,
+            "economy": 7.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 147,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 11,
+          "noballs": 0,
+          "total": 162
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1365,7 +1517,115 @@
       },
       "pressure_index": 0.573,
       "match_shape": 0.993,
-      "target": 163
+      "target": 163,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WP Saha",
+            "runs": 14,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by A Nortje",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 14,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by A Nortje",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "B Sai Sudharsan",
+            "runs": 62,
+            "balls": 48,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 5,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Abishek Porel, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 29,
+            "balls": 23,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by MR Marsh",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 31,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KK Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mukesh Kumar",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Nortje",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 2,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "MR Marsh",
+            "overs": 3.1,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 7.58,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 155,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 4,
+          "noballs": 2,
+          "total": 163
+        }
+      }
     }
   ]
 }

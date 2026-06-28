@@ -702,7 +702,150 @@
         }
       },
       "pressure_index": 0.886,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RD Rickelton",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RM Patidar, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 22,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by JM Sharma, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Naman Dhir",
+            "runs": 47,
+            "balls": 32,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "bowled by Rasikh Salam",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Kohli, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 57,
+            "balls": 42,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "bowled by B Kumar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "WG Jacks",
+            "runs": 10,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JG Bethell, bowled by R Shepherd",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Bawa",
+            "runs": 16,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RM Patidar, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "C Bosch",
+            "runs": 5,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DL Chahar",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 4,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hazlewood",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "Rasikh Salam",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Shepherd",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "Suyash Sharma",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 160,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 3,
+          "noballs": 0,
+          "total": 166
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1435,7 +1578,159 @@
       },
       "pressure_index": 0.977,
       "match_shape": 0.789,
-      "target": 167
+      "target": 167,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JG Bethell",
+            "runs": 27,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Tilak Varma, bowled by C Bosch",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RA Bawa, bowled by DL Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 12,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by RD Rickelton, bowled by DL Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RM Patidar",
+            "runs": 8,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RD Rickelton, bowled by C Bosch",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 73,
+            "balls": 46,
+            "fours": 4,
+            "sixes": 5,
+            "dismissal": "caught by Tilak Varma, bowled by AM Ghazanfar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Sharma",
+            "runs": 18,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by Naman Dhir, bowled by C Bosch",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TH David",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RD Rickelton, bowled by C Bosch",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Shepherd",
+            "runs": 4,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Tilak Varma, bowled by RA Bawa",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Rasikh Salam",
+            "runs": 3,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "B Kumar",
+            "runs": 7,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "C Bosch",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 4,
+            "economy": 6.5,
+            "maidens": 1
+          },
+          {
+            "name": "WG Jacks",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "AM Ghazanfar",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Bawa",
+            "overs": 3.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 152,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 11,
+          "noballs": 1,
+          "total": 167
+        }
+      }
     }
   ]
 }

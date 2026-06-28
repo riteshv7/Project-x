@@ -702,7 +702,150 @@
         }
       },
       "pressure_index": 0.554,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MJ Santner, bowled by Mukesh Choudhary",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Brevis",
+            "runs": 4,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by Mukesh Choudhary",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Mukesh Choudhary",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 32,
+            "balls": 21,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by Mukesh Choudhary, bowled by MJ Santner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 51,
+            "balls": 43,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "HR Shokeen",
+            "runs": 25,
+            "balls": 25,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 14,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by S Dube, bowled by M Theekshana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DR Sams",
+            "runs": 5,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by DJ Bravo",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "JD Unadkat",
+            "runs": 19,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mukesh Choudhary",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 3,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "MJ Santner",
+            "overs": 3.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 5.33,
+            "maidens": 0
+          },
+          {
+            "name": "M Theekshana",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "D Pretorius",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 150,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 0,
+          "total": 155
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1558,142 @@
       },
       "pressure_index": 0.92,
       "match_shape": 0.696,
-      "target": 156
+      "target": 156,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RD Gaikwad",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Tilak Varma, bowled by DR Sams",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MJ Santner",
+            "runs": 11,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by JD Unadkat, bowled by DR Sams",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 30,
+            "balls": 25,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by D Brevis, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 40,
+            "balls": 35,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by KA Pollard, bowled by DR Sams",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dube",
+            "runs": 13,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Ishan Kishan, bowled by DR Sams",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 3,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Tilak Varma, bowled by RP Meredith",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 28,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "D Pretorius",
+            "runs": 22,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by JD Unadkat",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DR Sams",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 4,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "RP Meredith",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 2,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "HR Shokeen",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 5.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 148,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 7,
+          "noballs": 0,
+          "total": 156
+        }
+      }
     }
   ]
 }

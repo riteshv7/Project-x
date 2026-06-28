@@ -712,7 +712,150 @@
         }
       },
       "pressure_index": 0.623,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 13,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SA Yadav, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by M Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MC Henriques",
+            "runs": 6,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by UT Yadav",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 51,
+            "balls": 43,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by Shakib Al Hasan, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 6,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by UT Yadav, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 37,
+            "balls": 28,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by PP Chawla, bowled by M Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Ashish Reddy",
+            "runs": 13,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by Shakib Al Hasan, RV Uthappa",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "KV Sharma",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "B Kumar",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 2,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 3,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 134,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 1,
+          "total": 142
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1365,7 +1508,105 @@
       },
       "pressure_index": 0.313,
       "match_shape": 0.995,
-      "target": 143
+      "target": 143,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 38,
+            "balls": 34,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by A Ashish Reddy",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 90,
+            "balls": 60,
+            "fours": 13,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AD Russell",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Mustafizur Rahman",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 11,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "BB Sran",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "Mustafizur Rahman",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 2.2,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 10.29,
+            "maidens": 0
+          },
+          {
+            "name": "MC Henriques",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Ashish Reddy",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 141,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 0,
+          "total": 146
+        }
+      }
     }
   ]
 }

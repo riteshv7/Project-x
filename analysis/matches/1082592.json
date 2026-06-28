@@ -712,7 +712,150 @@
         }
       },
       "pressure_index": 0.887,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 19,
+            "balls": 14,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by Imran Tahir",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 38,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "lbw, bowled by Imran Tahir",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Imran Tahir",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "N Rana",
+            "runs": 34,
+            "balls": 28,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by R Bhatia, bowled by A Zampa",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 10,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by R Bhatia",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by R Bhatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 27,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by MA Agarwal, bowled by BA Stokes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 35,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "TG Southee",
+            "runs": 7,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by MS Dhoni, AB Dinda",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AB Dinda",
+            "overs": 4.0,
+            "runs_conceded": 57,
+            "wickets": 0,
+            "economy": 14.25,
+            "maidens": 0
+          },
+          {
+            "name": "DL Chahar",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "BA Stokes",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Imran Tahir",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 3,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Zampa",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 4.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 176,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 6,
+          "noballs": 0,
+          "total": 184
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1543,114 @@
       },
       "pressure_index": 0.755,
       "match_shape": 0.877,
-      "target": 185
+      "target": 185,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 60,
+            "balls": 34,
+            "fours": 6,
+            "sixes": 3,
+            "dismissal": "caught by N Rana, bowled by TG Southee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by MJ McClenaghan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SPD Smith",
+            "runs": 84,
+            "balls": 54,
+            "fours": 7,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "BA Stokes",
+            "runs": 21,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by TG Southee, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 12,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TG Southee",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "MJ McClenaghan",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 1.5,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 16.36,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 183,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 0,
+          "total": 187
+        }
+      }
     }
   ]
 }

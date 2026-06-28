@@ -692,7 +692,150 @@
         }
       },
       "pressure_index": 0.645,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 11,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by SL Malinga",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AJ Finch",
+            "runs": 10,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by DR Smith, bowled by MG Johnson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 29,
+            "balls": 29,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by AT Rayudu, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 33,
+            "balls": 29,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "lbw, bowled by Harbhajan Singh",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AD Mathews",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by SR Tendulkar",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "KW Richardson",
+            "runs": 8,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Harbhajan Singh, bowled by MG Johnson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 11,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Harbhajan Singh, bowled by AN Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Parvez Rasool",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "B Kumar",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DR Smith, bowled by AN Ahmed",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MG Johnson",
+            "overs": 4.0,
+            "runs_conceded": 8,
+            "wickets": 2,
+            "economy": 2.0,
+            "maidens": 0
+          },
+          {
+            "name": "AN Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "GJ Maxwell",
+            "overs": 1.0,
+            "runs_conceded": 5,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 108,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 0,
+          "noballs": 1,
+          "total": 112
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1350,7 +1493,132 @@
       },
       "pressure_index": 0.309,
       "match_shape": 0.985,
-      "target": 113
+      "target": 113,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DR Smith",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by AB Dinda",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 17,
+            "balls": 25,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by MK Pandey, bowled by Yuvraj Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 15,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by BAW Mendis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 37,
+            "balls": 41,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by AB Dinda, bowled by KW Richardson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 26,
+            "balls": 23,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by AD Mathews, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 13,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AB Dinda",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 2,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "B Kumar",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "KW Richardson",
+            "overs": 3.5,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.3,
+            "maidens": 0
+          },
+          {
+            "name": "BAW Mendis",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 3.75,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "Parvez Rasool",
+            "overs": 1.0,
+            "runs_conceded": 5,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 112,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 4,
+          "noballs": 0,
+          "total": 116
+        }
+      }
     }
   ]
 }

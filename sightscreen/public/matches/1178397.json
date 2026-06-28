@@ -702,7 +702,115 @@
         }
       },
       "pressure_index": 0.767,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 70,
+            "balls": 62,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JM Bairstow",
+            "runs": 1,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Ashwin, bowled by Mujeeb Ur Rahman",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 26,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by KL Rahul, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mohammad Nabi",
+            "runs": 12,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 19,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by KK Nair, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 14,
+            "balls": 3,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AS Rajpoot",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "Mujeeb Ur Rahman",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "SM Curran",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 142,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 3,
+          "noballs": 0,
+          "total": 150
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1375,7 +1483,115 @@
       },
       "pressure_index": 0.482,
       "match_shape": 0.962,
-      "target": 151
+      "target": 151,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KL Rahul",
+            "runs": 71,
+            "balls": 53,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 16,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by DJ Hooda, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 55,
+            "balls": 43,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by V Shankar, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DJ Hooda, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DJ Hooda, bowled by S Kaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SM Curran",
+            "runs": 5,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammad Nabi",
+            "overs": 3.5,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.96,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 150,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 0,
+          "noballs": 0,
+          "total": 151
+        }
+      }
     }
   ]
 }

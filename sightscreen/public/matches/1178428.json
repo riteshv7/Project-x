@@ -717,7 +717,159 @@
         }
       },
       "pressure_index": 0.402,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Dhawan, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LS Livingstone",
+            "runs": 14,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by I Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 5,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MK Lomror",
+            "runs": 8,
+            "balls": 3,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by RR Pant, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Gopal",
+            "runs": 12,
+            "balls": 18,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by RR Pant, bowled by A Mishra",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "R Parag",
+            "runs": 50,
+            "balls": 49,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by SE Rutherford, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RR Pant, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "K Gowtham",
+            "runs": 6,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by I Sharma, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "IS Sodhi",
+            "runs": 6,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Mishra, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VR Aaron",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 3,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 3,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "KMA Paul",
+            "overs": 3.1,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 4.74,
+            "maidens": 0
+          },
+          {
+            "name": "SE Rutherford",
+            "overs": 0.5,
+            "runs_conceded": 2,
+            "wickets": 0,
+            "economy": 2.4,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 106,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 9,
+          "noballs": 0,
+          "total": 115
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1285,7 +1437,140 @@
       },
       "pressure_index": 0.174,
       "match_shape": 0.987,
-      "target": 116
+      "target": 116,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PP Shaw",
+            "runs": 8,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by IS Sodhi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 16,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by R Parag, bowled by IS Sodhi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 53,
+            "balls": 38,
+            "fours": 2,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 15,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by LS Livingstone, bowled by S Gopal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CA Ingram",
+            "runs": 12,
+            "balls": 23,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by IS Sodhi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SE Rutherford",
+            "runs": 11,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by LS Livingstone, bowled by S Gopal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "K Gowtham",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "VR Aaron",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "O Thomas",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "IS Sodhi",
+            "overs": 3.1,
+            "runs_conceded": 26,
+            "wickets": 3,
+            "economy": 8.21,
+            "maidens": 1
+          },
+          {
+            "name": "S Gopal",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Parag",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "STR Binny",
+            "overs": 1.0,
+            "runs_conceded": 6,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 116,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 1,
+          "noballs": 0,
+          "total": 121
+        }
+      }
     }
   ]
 }

@@ -707,7 +707,115 @@
         }
       },
       "pressure_index": 0.874,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Blizzard",
+            "runs": 37,
+            "balls": 23,
+            "fours": 8,
+            "sixes": 0,
+            "dismissal": "caught by V Sehwag, bowled by S Nadeem",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 14,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by IK Pathan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 59,
+            "balls": 39,
+            "fours": 7,
+            "sixes": 2,
+            "dismissal": "caught by V Sehwag, bowled by JR Hopes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 49,
+            "balls": 32,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by Y Venugopal Rao, bowled by M Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 9,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Symonds",
+            "runs": 4,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 49,
+            "wickets": 1,
+            "economy": 12.25,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 1
+          },
+          {
+            "name": "AB Agarkar",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "S Nadeem",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hopes",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 1,
+            "economy": 11.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 172,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 0,
+          "total": 178
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1523,168 @@
       },
       "pressure_index": 0.183,
       "match_shape": 0.393,
-      "target": 179
+      "target": 179,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "V Sehwag",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by MM Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Harbhajan Singh",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "CA Ingram",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SL Malinga",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 1,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AT Rayudu, bowled by MM Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 37,
+            "balls": 27,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "bowled by DS Kulkarni",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JR Hopes",
+            "runs": 55,
+            "balls": 44,
+            "fours": 10,
+            "sixes": 0,
+            "dismissal": "run out by TL Suman, AT Rayudu",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 23,
+            "balls": 18,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by SL Malinga",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Y Nagar",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MM Patel, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB Agarkar",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "M Morkel",
+            "runs": 10,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by A Symonds, bowled by KA Pollard",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Nadeem",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MM Patel, bowled by KA Pollard",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 3.2,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 5.4,
+            "maidens": 1
+          },
+          {
+            "name": "MM Patel",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 2.3,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 9.6,
+            "maidens": 0
+          },
+          {
+            "name": "A Symonds",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 137,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 6,
+          "noballs": 2,
+          "total": 146
+        }
+      }
     }
   ]
 }

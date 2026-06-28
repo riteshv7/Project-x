@@ -737,7 +737,150 @@
         }
       },
       "pressure_index": 0.946,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "HM Amla",
+            "runs": 25,
+            "balls": 27,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by G Gambhir, bowled by C de Grandhomme",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Vohra",
+            "runs": 28,
+            "balls": 19,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 9,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by SP Narine",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 25,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by RV Uthappa, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 28,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by MK Pandey, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 25,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by CR Woakes, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MM Sharma",
+            "runs": 10,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SA Yadav, bowled by CR Woakes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SP Narine, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VR Aaron",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by G Gambhir, bowled by CR Woakes",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 4,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "CR Woakes",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 3.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "C de Grandhomme",
+            "overs": 2.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 154,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 13,
+          "noballs": 2,
+          "total": 170
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1335,7 +1478,113 @@
       },
       "pressure_index": 0.307,
       "match_shape": 0.996,
-      "target": 171
+      "target": 171,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SP Narine",
+            "runs": 37,
+            "balls": 18,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "caught by AR Patel, bowled by VR Aaron",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 72,
+            "balls": 49,
+            "fours": 11,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 26,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "bowled by AR Patel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 25,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "GJ Maxwell",
+            "overs": 1.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 18.0,
+            "maidens": 0
+          },
+          {
+            "name": "VR Aaron",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "MP Stoinis",
+            "overs": 1.3,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 160,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 5,
+          "noballs": 0,
+          "total": 171
+        }
+      }
     }
   ]
 }

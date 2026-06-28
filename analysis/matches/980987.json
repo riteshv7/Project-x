@@ -697,7 +697,113 @@
         }
       },
       "pressure_index": 0.77,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CH Gayle",
+            "runs": 6,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by DS Kulkarni",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 109,
+            "balls": 55,
+            "fours": 6,
+            "sixes": 8,
+            "dismissal": "caught by DJ Bravo, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 129,
+            "balls": 51,
+            "fours": 10,
+            "sixes": 12,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SR Watson",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by P Kumar",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 2,
+            "economy": 11.25,
+            "maidens": 1
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaushik",
+            "overs": 3.0,
+            "runs_conceded": 50,
+            "wickets": 0,
+            "economy": 16.67,
+            "maidens": 0
+          },
+          {
+            "name": "PV Tambe",
+            "overs": 2.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 3.0,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 15.33,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "DR Smith",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 244,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 1,
+          "total": 248
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1375,7 +1481,192 @@
       },
       "pressure_index": 0.021,
       "match_shape": 0.045,
-      "target": 249
+      "target": 249,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DR Smith",
+            "runs": 7,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by S Aravind",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 11,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by AB de Villiers, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 21,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught and bowled by CJ Jordan",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AB de Villiers, bowled by CJ Jordan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AJ Finch",
+            "runs": 37,
+            "balls": 36,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by S Aravind, bowled by Sachin Baby",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by YS Chahal",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AD Nath",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by YS Chahal",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "P Kumar",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by CJ Jordan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DS Kulkarni",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by CJ Jordan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "PV Tambe",
+            "runs": 7,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "S Kaushik",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Aravind, bowled by Sachin Baby",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "STR Binny",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "S Aravind",
+            "overs": 3.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 3,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 1.0,
+            "runs_conceded": 3,
+            "wickets": 0,
+            "economy": 3.0,
+            "maidens": 0
+          },
+          {
+            "name": "CJ Jordan",
+            "overs": 3.0,
+            "runs_conceded": 11,
+            "wickets": 4,
+            "economy": 3.67,
+            "maidens": 0
+          },
+          {
+            "name": "VR Aaron",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "V Kohli",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "CH Gayle",
+            "overs": 2.0,
+            "runs_conceded": 3,
+            "wickets": 0,
+            "economy": 1.5,
+            "maidens": 0
+          },
+          {
+            "name": "Sachin Baby",
+            "overs": 0.4,
+            "runs_conceded": 4,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 92,
+          "byes": 1,
+          "legbyes": 3,
+          "wides": 5,
+          "noballs": 3,
+          "total": 104
+        }
+      }
     }
   ]
 }

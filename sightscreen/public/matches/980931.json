@@ -727,7 +727,114 @@
         }
       },
       "pressure_index": 0.771,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "V Kohli",
+            "runs": 80,
+            "balls": 62,
+            "fours": 7,
+            "sixes": 2,
+            "dismissal": "caught by AM Rahane, bowled by NLTC Perera",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KL Rahul",
+            "runs": 7,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by I Sharma, bowled by NLTC Perera",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 83,
+            "balls": 46,
+            "fours": 6,
+            "sixes": 4,
+            "dismissal": "caught by Ankit Sharma, bowled by NLTC Perera",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SN Khan",
+            "runs": 2,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "I Sharma",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 0,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "NLTC Perera",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 3,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Ankit Sharma",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "M Ashwin",
+            "overs": 2.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 14.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 173,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 11,
+          "noballs": 1,
+          "total": 185
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1435,7 +1542,159 @@
       },
       "pressure_index": 0.447,
       "match_shape": 0.551,
-      "target": 186
+      "target": 186,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 60,
+            "balls": 46,
+            "fours": 8,
+            "sixes": 0,
+            "dismissal": "stumped by KL Rahul, bowled by T Shamsi",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by HV Patel, bowled by KW Richardson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KP Pietersen",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "retired hurt",
+            "dismissal_type": "retired hurt"
+          },
+          {
+            "name": "SPD Smith",
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by V Kohli",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 41,
+            "balls": 38,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by AB de Villiers, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NLTC Perera",
+            "runs": 34,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by Mandeep Singh, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Bhatia",
+            "runs": 21,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by SR Watson, bowled by KW Richardson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by HV Patel, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ankit Sharma",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "M Ashwin",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AB de Villiers, bowled by KW Richardson",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "STR Binny",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "KW Richardson",
+            "overs": 3.0,
+            "runs_conceded": 13,
+            "wickets": 3,
+            "economy": 4.33,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "T Shamsi",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 7.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 165,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 6,
+          "noballs": 0,
+          "total": 172
+        }
+      }
     }
   ]
 }

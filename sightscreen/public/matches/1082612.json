@@ -722,7 +722,123 @@
         }
       },
       "pressure_index": 0.831,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "HM Amla",
+            "runs": 104,
+            "balls": 59,
+            "fours": 8,
+            "sixes": 6,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SE Marsh",
+            "runs": 26,
+            "balls": 21,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by KA Pollard, bowled by MJ McClenaghan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 11,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by KH Pandya",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 40,
+            "balls": 17,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "bowled by JJ Bumrah",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KA Pollard, bowled by MJ McClenaghan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "HH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "MJ McClenaghan",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 2,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 58,
+            "wickets": 0,
+            "economy": 14.5,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 186,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 5,
+          "noballs": 2,
+          "total": 198
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1290,7 +1406,105 @@
       },
       "pressure_index": 0.503,
       "match_shape": 0.998,
-      "target": 199
+      "target": 199,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 37,
+            "balls": 18,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by GJ Maxwell, bowled by MP Stoinis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 77,
+            "balls": 37,
+            "fours": 7,
+            "sixes": 5,
+            "dismissal": "caught by GJ Maxwell, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 62,
+            "balls": 34,
+            "fours": 0,
+            "sixes": 7,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 15,
+            "balls": 4,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 3.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 4.0,
+            "runs_conceded": 58,
+            "wickets": 0,
+            "economy": 14.5,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 2.3,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 11.6,
+            "maidens": 0
+          },
+          {
+            "name": "MP Stoinis",
+            "overs": 2.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Swapnil Singh",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 191,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 5,
+          "noballs": 0,
+          "total": 199
+        }
+      }
     }
   ]
 }

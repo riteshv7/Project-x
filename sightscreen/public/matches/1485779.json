@@ -727,7 +727,151 @@
         }
       },
       "pressure_index": 0.913,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Priyansh Arya",
+            "runs": 6,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by T Stubbs, bowled by Mustafizur Rahman",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Simran Singh",
+            "runs": 28,
+            "balls": 18,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "bowled by V Nigam",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JP Inglis",
+            "runs": 32,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "stumped by T Stubbs, bowled by V Nigam",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 53,
+            "balls": 33,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by MM Sharma, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Wadhera",
+            "runs": 16,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by F du Plessis, bowled by Mukesh Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shashank Singh",
+            "runs": 11,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by T Stubbs, bowled by Mustafizur Rahman",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 44,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Azmatullah Omarzai",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Sameer Rizvi, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Jansen",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by T Stubbs, bowled by Mustafizur Rahman",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Harpreet Brar",
+            "runs": 7,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mukesh Kumar",
+            "overs": 4.0,
+            "runs_conceded": 49,
+            "wickets": 1,
+            "economy": 12.25,
+            "maidens": 0
+          },
+          {
+            "name": "Mustafizur Rahman",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 3,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 0,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "V Nigam",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 2,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 2,
+            "economy": 9.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 198,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 6,
+          "noballs": 2,
+          "total": 206
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1410,7 +1554,123 @@
       },
       "pressure_index": 0.893,
       "match_shape": 0.959,
-      "target": 207
+      "target": 207,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KL Rahul",
+            "runs": 35,
+            "balls": 21,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "caught by Shashank Singh, bowled by M Jansen",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 23,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by Priyansh Arya, bowled by Harpreet Brar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 44,
+            "balls": 26,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "bowled by Harpreet Brar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Sediqullah Atal",
+            "runs": 22,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by Arshdeep Singh, bowled by P Dubey",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Sameer Rizvi",
+            "runs": 58,
+            "balls": 25,
+            "fours": 3,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "T Stubbs",
+            "runs": 18,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Arshdeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "Azmatullah Omarzai",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "Harpreet Brar",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 2,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Jansen",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 1,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "P Dubey",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "MP Stoinis",
+            "overs": 1.3,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 200,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 3,
+          "noballs": 1,
+          "total": 208
+        }
+      }
     }
   ]
 }

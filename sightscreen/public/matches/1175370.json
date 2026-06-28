@@ -712,7 +712,132 @@
         }
       },
       "pressure_index": 0.738,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Q de Kock",
+            "runs": 4,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KM Jadhav, bowled by DL Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 13,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 59,
+            "balls": 43,
+            "fours": 8,
+            "sixes": 1,
+            "dismissal": "caught by RA Jadeja, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AT Rayudu, bowled by Imran Tahir",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 42,
+            "balls": 32,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by RA Jadeja, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 25,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 17,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Imran Tahir",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 2.0,
+            "runs_conceded": 10,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 4.0,
+            "runs_conceded": 49,
+            "wickets": 1,
+            "economy": 12.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 164,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 4,
+          "noballs": 1,
+          "total": 170
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1425,7 +1550,159 @@
       },
       "pressure_index": 0.432,
       "match_shape": 0.468,
-      "target": 171
+      "target": 171,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SR Watson",
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KA Pollard, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Q de Kock, bowled by JP Behrendorff",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 16,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by KA Pollard, bowled by JP Behrendorff",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 58,
+            "balls": 53,
+            "fours": 8,
+            "sixes": 1,
+            "dismissal": "caught by Q de Kock, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 12,
+            "balls": 21,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SA Yadav, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Q de Kock, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 8,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Q de Kock, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DL Chahar",
+            "runs": 7,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JJ Bumrah, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SN Thakur",
+            "runs": 12,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MM Sharma",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JP Behrendorff",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 3,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 3,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "RD Chahar",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 119,
+          "byes": 0,
+          "legbyes": 7,
+          "wides": 5,
+          "noballs": 2,
+          "total": 133
+        }
+      }
     }
   ]
 }

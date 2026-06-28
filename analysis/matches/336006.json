@@ -692,7 +692,168 @@
         }
       },
       "pressure_index": 0.489,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "W Jaffer",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by U Kaul, bowled by S Sreesanth",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CL White",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by S Sreesanth",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by SE Marsh",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 34,
+            "balls": 36,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by S Sreesanth, bowled by IK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Dravid",
+            "runs": 66,
+            "balls": 51,
+            "fours": 9,
+            "sixes": 1,
+            "dismissal": "caught by DPMD Jayawardene, bowled by VRV Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Misbah-ul-Haq",
+            "runs": 8,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by PP Chawla",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "P Kumar",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by U Kaul, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DT Patil",
+            "runs": 4,
+            "balls": 1,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by IK Pathan",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Z Khan",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "A Kumble",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by U Kaul",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "DW Steyn",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Sreesanth",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 2,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 3.2,
+            "runs_conceded": 13,
+            "wickets": 1,
+            "economy": 3.9,
+            "maidens": 0
+          },
+          {
+            "name": "Gagandeep Singh",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "VRV Singh",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 3,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hopes",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 116,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 9,
+          "noballs": 0,
+          "total": 126
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1355,7 +1516,115 @@
       },
       "pressure_index": 0.17,
       "match_shape": 0.987,
-      "target": 127
+      "target": 127,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SE Marsh",
+            "runs": 39,
+            "balls": 34,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "bowled by Z Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JR Hopes",
+            "runs": 5,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by CL White, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Sarwan",
+            "runs": 31,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by DT Patil, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DT Patil, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 17,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 17,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 1
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 4.67,
+            "maidens": 0
+          },
+          {
+            "name": "A Kumble",
+            "overs": 3.2,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 10.8,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 110,
+          "byes": 0,
+          "legbyes": 10,
+          "wides": 7,
+          "noballs": 0,
+          "total": 127
+        }
+      }
     }
   ]
 }

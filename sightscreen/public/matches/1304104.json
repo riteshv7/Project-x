@@ -712,7 +712,141 @@
         }
       },
       "pressure_index": 0.9,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 19,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Lalit Yadav, bowled by MR Marsh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 7,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SN Thakur, bowled by C Sakariya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 50,
+            "balls": 38,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by DA Warner, bowled by MR Marsh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 48,
+            "balls": 30,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "caught by KL Nagarkoti, bowled by A Nortje",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 6,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SN Thakur, bowled by A Nortje",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Parag",
+            "runs": 9,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by R Powell, bowled by C Sakariya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HE van der Dussen",
+            "runs": 12,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "TA Boult",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "C Sakariya",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Nortje",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 2,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 2.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "MR Marsh",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 6.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 154,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 0,
+          "total": 160
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1360,7 +1494,97 @@
       },
       "pressure_index": 0.699,
       "match_shape": 0.995,
-      "target": 161
+      "target": 161,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KS Bharat",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SV Samson, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MR Marsh",
+            "runs": 89,
+            "balls": 62,
+            "fours": 5,
+            "sixes": 7,
+            "dismissal": "caught by KR Sen, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 52,
+            "balls": 41,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RR Pant",
+            "runs": 13,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Prasidh Krishna",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 6.67,
+            "maidens": 1
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "KR Sen",
+            "overs": 3.1,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.11,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 154,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 5,
+          "noballs": 0,
+          "total": 161
+        }
+      }
     }
   ]
 }

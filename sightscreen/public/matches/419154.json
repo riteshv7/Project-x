@@ -702,7 +702,133 @@
         }
       },
       "pressure_index": 0.487,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MJ Lumb",
+            "runs": 9,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by JH Kallis, R Vinay Kumar",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 7,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by Pankaj Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AG Paunikar",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 22,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by KP Pietersen, bowled by JH Kallis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AA Jhunjhunwala",
+            "runs": 13,
+            "balls": 22,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by A Kumble, bowled by Pankaj Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 11,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by DW Steyn",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AC Voges",
+            "runs": 28,
+            "balls": 27,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AS Raut",
+            "runs": 32,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Kumble",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 3.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Pankaj Singh",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 1
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 122,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 2,
+          "noballs": 1,
+          "total": 130
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1250,7 +1376,124 @@
       },
       "pressure_index": 0.18,
       "match_shape": 0.99,
-      "target": 131
+      "target": 131,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MK Pandey",
+            "runs": 14,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by YK Pathan, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Kamran Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KP Pietersen",
+            "runs": 62,
+            "balls": 29,
+            "fours": 10,
+            "sixes": 2,
+            "dismissal": "run out by AC Voges, Kamran Khan",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 26,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "stumped by NV Ojha, bowled by SK Warne",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 14,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SR Watson, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LRPL Taylor",
+            "runs": 10,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Dravid",
+            "runs": 5,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Kamran Khan",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 3.4,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 8.73,
+            "maidens": 0
+          },
+          {
+            "name": "AC Voges",
+            "overs": 1.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 17.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 131,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 0,
+          "noballs": 0,
+          "total": 132
+        }
+      }
     }
   ]
 }

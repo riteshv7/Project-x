@@ -712,7 +712,141 @@
         }
       },
       "pressure_index": 0.917,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PP Shaw",
+            "runs": 24,
+            "balls": 16,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by SR Watson, bowled by DL Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 51,
+            "balls": 47,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "caught by SN Thakur, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 18,
+            "balls": 20,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by Imran Tahir",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 25,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by SN Thakur, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CA Ingram",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SK Raina, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KMA Paul",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by RA Jadeja",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 9,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 11,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "Imran Tahir",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 3,
+            "economy": 8.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 140,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 5,
+          "noballs": 0,
+          "total": 147
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1529,123 @@
       },
       "pressure_index": 0.239,
       "match_shape": 0.989,
-      "target": 148
+      "target": 148,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SR Watson",
+            "runs": 44,
+            "balls": 26,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "stumped by RR Pant, bowled by A Mishra",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SS Iyer, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 30,
+            "balls": 16,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by RR Pant, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 27,
+            "balls": 33,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by RR Pant, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 32,
+            "balls": 35,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "I Sharma",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 3.4,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 7.09,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 2,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Tewatia",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "KMA Paul",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 6.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 142,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 2,
+          "noballs": 1,
+          "total": 150
+        }
+      }
     }
   ]
 }

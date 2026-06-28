@@ -712,7 +712,149 @@
         }
       },
       "pressure_index": 0.869,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 6,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by ML Hayden, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 74,
+            "balls": 37,
+            "fours": 10,
+            "sixes": 3,
+            "dismissal": "caught by JM Kemp, bowled by M Muralitharan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TM Dilshan",
+            "runs": 15,
+            "balls": 24,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SK Raina, bowled by M Muralitharan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 19,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Joginder Sharma",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SK Raina, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Manhas",
+            "runs": 32,
+            "balls": 22,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Bhatia",
+            "runs": 21,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by SK Raina, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Mishra",
+            "runs": 6,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JA Morkel",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Joginder Sharma",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "JM Kemp",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 175,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 5,
+          "noballs": 1,
+          "total": 185
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1547,132 @@
       },
       "pressure_index": 0.59,
       "match_shape": 0.99,
-      "target": 186
+      "target": 186,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 6,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by AB de Villiers",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "ML Hayden",
+            "runs": 93,
+            "balls": 43,
+            "fours": 9,
+            "sixes": 7,
+            "dismissal": "caught by TM Dilshan, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 14,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by A Mishra, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 49,
+            "balls": 34,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Mishra, bowled by TM Dilshan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Kemp",
+            "runs": 4,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by DP Nannes",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "M Vijay",
+            "runs": 14,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DP Nannes",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Sangwan",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 2.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 15.5,
+            "maidens": 0
+          },
+          {
+            "name": "TM Dilshan",
+            "overs": 2.1,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 13.85,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 180,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 8,
+          "noballs": 0,
+          "total": 190
+        }
+      }
     }
   ]
 }

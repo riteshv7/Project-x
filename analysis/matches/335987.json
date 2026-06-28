@@ -697,7 +697,167 @@
         }
       },
       "pressure_index": 0.848,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "K Goel",
+            "runs": 26,
+            "balls": 21,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "bowled by MM Patel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JR Hopes",
+            "runs": 16,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by SK Warne",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 20,
+            "balls": 8,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught and bowled by SK Warne",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by Kamran Akmal, bowled by D Salunkhe",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 57,
+            "balls": 34,
+            "fours": 6,
+            "sixes": 3,
+            "dismissal": "lbw, bowled by SK Warne",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 12,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by SK Trivedi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Sohal",
+            "runs": 4,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by RA Jadeja, Kamran Akmal",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "B Lee",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Kamran Akmal, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 24,
+            "balls": 10,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "WA Mota",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MM Patel",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 3,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "D Salunkhe",
+            "overs": 1.5,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 11.45,
+            "maidens": 0
+          },
+          {
+            "name": "Pankaj Singh",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 162,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 1,
+          "total": 166
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1370,7 +1530,123 @@
       },
       "pressure_index": 0.62,
       "match_shape": 0.991,
-      "target": 167
+      "target": 167,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "M Kaif",
+            "runs": 5,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KC Sangakkara, bowled by S Sreesanth",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by B Lee",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "Kamran Akmal",
+            "runs": 15,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by PP Chawla, bowled by JR Hopes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 76,
+            "balls": 48,
+            "fours": 5,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DS Lehmann",
+            "runs": 17,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by IK Pathan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 36,
+            "balls": 24,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Lee",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "S Sreesanth",
+            "overs": 3.1,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hopes",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 2.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "WA Mota",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 156,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 6,
+          "noballs": 4,
+          "total": 168
+        }
+      }
     }
   ]
 }

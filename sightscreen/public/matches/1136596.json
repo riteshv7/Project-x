@@ -697,7 +697,124 @@
         }
       },
       "pressure_index": 0.934,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PP Shaw",
+            "runs": 65,
+            "balls": 36,
+            "fours": 6,
+            "sixes": 3,
+            "dismissal": "caught by S Kaul, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 44,
+            "balls": 36,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by S Dhawan, bowled by S Kaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 18,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Rashid Khan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 23,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DT Christian",
+            "runs": 7,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 160,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 163
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1512,114 @@
       },
       "pressure_index": 0.675,
       "match_shape": 0.986,
-      "target": 164
+      "target": 164,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AD Hales",
+            "runs": 45,
+            "balls": 30,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "bowled by A Mishra",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 33,
+            "balls": 30,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by A Mishra",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 32,
+            "balls": 30,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 21,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by PP Shaw, bowled by LE Plunkett",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 27,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "Avesh Khan",
+            "overs": 3.0,
+            "runs_conceded": 47,
+            "wickets": 0,
+            "economy": 15.67,
+            "maidens": 0
+          },
+          {
+            "name": "GJ Maxwell",
+            "overs": 1.0,
+            "runs_conceded": 4,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "LE Plunkett",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "DT Christian",
+            "overs": 3.5,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.65,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 158,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 1,
+          "total": 164
+        }
+      }
     }
   ]
 }

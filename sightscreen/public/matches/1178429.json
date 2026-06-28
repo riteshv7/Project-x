@@ -702,7 +702,150 @@
         }
       },
       "pressure_index": 0.88,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WP Saha",
+            "runs": 20,
+            "balls": 11,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by UT Yadav, bowled by Navdeep Saini",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MJ Guptill",
+            "runs": 30,
+            "balls": 23,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by V Kohli, bowled by Washington Sundar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 9,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SO Hetmyer, bowled by Washington Sundar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 70,
+            "balls": 42,
+            "fours": 5,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "V Shankar",
+            "runs": 27,
+            "balls": 18,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "caught by C de Grandhomme, bowled by Washington Sundar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by UT Yadav, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mohammad Nabi",
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Gurkeerat Singh, bowled by Navdeep Saini",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SO Hetmyer, bowled by K Khejroliya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "Navdeep Saini",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 2,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "K Khejroliya",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Washington Sundar",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 3,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "C de Grandhomme",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 171,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 1,
+          "total": 175
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1538,141 @@
       },
       "pressure_index": 0.853,
       "match_shape": 0.979,
-      "target": 176
+      "target": 176,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 16,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by WP Saha, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MJ Guptill, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 75,
+            "balls": 47,
+            "fours": 4,
+            "sixes": 6,
+            "dismissal": "caught by V Shankar, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Gurkeerat Singh",
+            "runs": 65,
+            "balls": 48,
+            "fours": 8,
+            "sixes": 1,
+            "dismissal": "caught by YK Pathan, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "C de Grandhomme",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Washington Sundar",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "UT Yadav",
+            "runs": 9,
+            "balls": 4,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "KK Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 3,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammad Nabi",
+            "overs": 2.2,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 11.14,
+            "maidens": 0
+          },
+          {
+            "name": "Basil Thampi",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "V Shankar",
+            "overs": 1.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 169,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 7,
+          "noballs": 0,
+          "total": 178
+        }
+      }
     }
   ]
 }

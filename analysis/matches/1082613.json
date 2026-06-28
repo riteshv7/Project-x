@@ -692,7 +692,140 @@
         }
       },
       "pressure_index": 0.665,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SP Narine",
+            "runs": 42,
+            "balls": 17,
+            "fours": 9,
+            "sixes": 1,
+            "dismissal": "caught by JP Faulkner, bowled by SK Raina",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 33,
+            "balls": 28,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by SK Raina, bowled by JP Faulkner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 72,
+            "balls": 48,
+            "fours": 8,
+            "sixes": 2,
+            "dismissal": "caught by BB McCullum, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 24,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by Basil Thampi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 11,
+            "balls": 4,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by BB McCullum, KD Karthik",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "Basil Thampi",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "DR Smith",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 184,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 1,
+          "noballs": 0,
+          "total": 187
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1325,7 +1458,141 @@
       },
       "pressure_index": 0.655,
       "match_shape": 0.986,
-      "target": 188
+      "target": 188,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AJ Finch",
+            "runs": 31,
+            "balls": 14,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by MK Pandey, bowled by NM Coulter-Nile",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 33,
+            "balls": 17,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by MK Pandey, bowled by CR Woakes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 84,
+            "balls": 46,
+            "fours": 9,
+            "sixes": 4,
+            "dismissal": "caught by MK Pandey, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by G Gambhir, bowled by NM Coulter-Nile",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 4,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by UT Yadav, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DR Smith",
+            "runs": 5,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by UT Yadav",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 19,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JP Faulkner",
+            "runs": 4,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "NM Coulter-Nile",
+            "overs": 3.2,
+            "runs_conceded": 41,
+            "wickets": 2,
+            "economy": 12.3,
+            "maidens": 0
+          },
+          {
+            "name": "CR Woakes",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 183,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 0,
+          "noballs": 1,
+          "total": 188
+        }
+      }
     }
   ]
 }

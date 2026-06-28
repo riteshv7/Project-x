@@ -702,7 +702,105 @@
         }
       },
       "pressure_index": 0.785,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MEK Hussey",
+            "runs": 56,
+            "balls": 39,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by KK Cooper, bowled by Ankit Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LMP Simmons",
+            "runs": 62,
+            "balls": 50,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "caught by KK Cooper, bowled by Ankit Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 14,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 40,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 4,
+            "dismissal": "run out by JP Faulkner",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Ankit Sharma",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 0,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "KK Cooper",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "STR Binny",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 172,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 2,
+          "noballs": 1,
+          "total": 178
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1513,159 @@
       },
       "pressure_index": 0.391,
       "match_shape": 0.524,
-      "target": 179
+      "target": 179,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KK Nair",
+            "runs": 48,
+            "balls": 24,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "caught by K Santokie, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "UBT Chand",
+            "runs": 2,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MEK Hussey, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 5,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AT Rayudu, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AT Rayudu, bowled by K Santokie",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Cooper",
+            "runs": 5,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KA Pollard, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ankit Sharma",
+            "runs": 4,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AT Rayudu, bowled by S Gopal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 2,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by AP Tare, bowled by S Gopal",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 40,
+            "balls": 30,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "caught by RG Sharma, bowled by K Santokie",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Faulkner",
+            "runs": 31,
+            "balls": 21,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Bhatia",
+            "runs": 6,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JJ Bumrah",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "K Santokie",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 2,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 1.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 13,
+            "wickets": 2,
+            "economy": 3.25,
+            "maidens": 0
+          },
+          {
+            "name": "S Gopal",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 145,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 7,
+          "noballs": 0,
+          "total": 153
+        }
+      }
     }
   ]
 }

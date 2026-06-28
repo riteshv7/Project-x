@@ -707,7 +707,159 @@
         }
       },
       "pressure_index": 0.922,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Q de Kock",
+            "runs": 4,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JM Sharma, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 56,
+            "balls": 31,
+            "fours": 6,
+            "sixes": 4,
+            "dismissal": "caught by Rasikh Salam, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 44,
+            "balls": 26,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "caught by JM Sharma, bowled by Rasikh Salam",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VR Iyer",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by KH Pandya",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "A Raghuvanshi",
+            "runs": 30,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by JM Sharma, bowled by Yash Dayal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RK Singh",
+            "runs": 12,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by KH Pandya",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Suyash Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Ramandeep Singh",
+            "runs": 6,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Harshit Rana",
+            "runs": 5,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JM Sharma, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SH Johnson",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JR Hazlewood",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Dayal",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "Rasikh Salam",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 3,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Suyash Sharma",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 1,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "LS Livingstone",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 168,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 0,
+          "total": 174
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1280,7 +1432,106 @@
       },
       "pressure_index": 0.316,
       "match_shape": 0.997,
-      "target": 175
+      "target": 175,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PD Salt",
+            "runs": 56,
+            "balls": 31,
+            "fours": 9,
+            "sixes": 2,
+            "dismissal": "caught by SH Johnson, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 59,
+            "balls": 36,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 10,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Ramandeep Singh, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RM Patidar",
+            "runs": 34,
+            "balls": 16,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by RK Singh, bowled by VG Arora",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LS Livingstone",
+            "runs": 15,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "VG Arora",
+            "overs": 3.0,
+            "runs_conceded": 42,
+            "wickets": 1,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "SH Johnson",
+            "overs": 2.2,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 13.29,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "Harshit Rana",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 174,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 1,
+          "noballs": 0,
+          "total": 177
+        }
+      }
     }
   ]
 }

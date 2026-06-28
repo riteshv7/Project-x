@@ -717,7 +717,132 @@
         }
       },
       "pressure_index": 0.869,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "B Sai Sudharsan",
+            "runs": 61,
+            "balls": 44,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by PP Hinge, bowled by Sakib Hussain",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 5,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by H Klaasen, bowled by PP Hinge",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 7,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Ishan Kishan, bowled by PP Hinge",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Sindhu",
+            "runs": 22,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by H Klaasen, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Washington Sundar",
+            "runs": 50,
+            "balls": 33,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": "caught by Ishan Kishan, bowled by Sakib Hussain",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JO Holder",
+            "runs": 11,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 4,
+            "balls": 1,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Hinge",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 5.67,
+            "maidens": 0
+          },
+          {
+            "name": "E Malinga",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "Sakib Hussain",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "Shivang Kumar",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 160,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 6,
+          "noballs": 0,
+          "total": 168
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1240,12 +1365,165 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.412,
       "match_shape": 0.487,
-      "target": 169
+      "target": 169,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "TM Head",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by N Sindhu, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 11,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by JC Buttler, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 6,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by K Rabada",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Smaran",
+            "runs": 9,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Shubman Gill, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 14,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by JC Buttler, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Arora",
+            "runs": 16,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by JC Buttler, bowled by M Prasidh Krishna",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Washington Sundar, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PJ Cummins",
+            "runs": 19,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by Mohammed Siraj, bowled by M Prasidh Krishna",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shivang Kumar",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JC Buttler, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PP Hinge",
+            "runs": 3,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by JC Buttler, bowled by Rashid Khan",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "E Malinga",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Siraj",
+            "overs": 3.0,
+            "runs_conceded": 11,
+            "wickets": 1,
+            "economy": 3.67,
+            "maidens": 1
+          },
+          {
+            "name": "K Rabada",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 3,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "JO Holder",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 3,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Prasidh Krishna",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 0.5,
+            "runs_conceded": 3,
+            "wickets": 1,
+            "economy": 3.6,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 84,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 0,
+          "total": 86
+        }
+      }
     }
   ]
 }

@@ -692,7 +692,159 @@
         }
       },
       "pressure_index": 0.908,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 33,
+            "balls": 12,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by DPMD Jayawardene, bowled by SJ Srivastava",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VVS Laxman",
+            "runs": 10,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "retired hurt",
+            "dismissal_type": "retired hurt"
+          },
+          {
+            "name": "HH Gibbs",
+            "runs": 23,
+            "balls": 23,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by Yuvraj Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "A Symonds",
+            "runs": 53,
+            "balls": 38,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by Bipul Sharma, bowled by Yuvraj Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by DPMD Jayawardene",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Anirudh Singh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KC Sangakkara, bowled by Bipul Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TL Suman",
+            "runs": 26,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "run out by KC Sangakkara",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "WPUJC Vaas",
+            "runs": 16,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Bipul Sharma, bowled by IK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Jaskaran Singh",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RP Singh",
+            "runs": 4,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "IK Pathan",
+            "overs": 3.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 5.33,
+            "maidens": 0
+          },
+          {
+            "name": "S Sreesanth",
+            "overs": 4.0,
+            "runs_conceded": 51,
+            "wickets": 0,
+            "economy": 12.75,
+            "maidens": 0
+          },
+          {
+            "name": "SJ Srivastava",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Bipul Sharma",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 169,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 1,
+          "noballs": 0,
+          "total": 170
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1380,7 +1532,159 @@
       },
       "pressure_index": 0.326,
       "match_shape": 0.538,
-      "target": 171
+      "target": 171,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RS Bopara",
+            "runs": 38,
+            "balls": 32,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by A Symonds, bowled by RG Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Bisla",
+            "runs": 0,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by TL Suman",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by WPUJC Vaas",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 4,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by HH Gibbs, bowled by WPUJC Vaas",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 14,
+            "balls": 9,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by A Symonds",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AB Barath",
+            "runs": 7,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 60,
+            "balls": 29,
+            "fours": 3,
+            "sixes": 5,
+            "dismissal": "caught by A Symonds, bowled by Jaskaran Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 9,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by PP Ojha, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Bipul Sharma",
+            "runs": 8,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "S Sreesanth",
+            "runs": 12,
+            "balls": 5,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "WPUJC Vaas",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Symonds",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "RG Sharma",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "Jaskaran Singh",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 152,
+          "byes": 0,
+          "legbyes": 10,
+          "wides": 2,
+          "noballs": 0,
+          "total": 164
+        }
+      }
     }
   ]
 }

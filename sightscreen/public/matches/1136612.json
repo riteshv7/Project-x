@@ -717,7 +717,132 @@
         }
       },
       "pressure_index": 0.822,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PP Shaw",
+            "runs": 17,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by SN Thakur, bowled by DL Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 19,
+            "balls": 22,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by L Ngidi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 38,
+            "balls": 26,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by DJ Bravo, bowled by L Ngidi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 5,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by RA Jadeja",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 36,
+            "balls": 28,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Harbhajan Singh, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HV Patel",
+            "runs": 36,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "L Ngidi",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 4.67,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 4.0,
+            "runs_conceded": 52,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 153,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 6,
+          "noballs": 0,
+          "total": 162
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1520,141 @@
       },
       "pressure_index": 0.785,
       "match_shape": 0.677,
-      "target": 163
+      "target": 163,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SR Watson",
+            "runs": 14,
+            "balls": 23,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by TA Boult, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 50,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 4,
+            "dismissal": "caught by GJ Maxwell, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 15,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by V Shankar, bowled by S Lamichhane",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 17,
+            "balls": 23,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SS Iyer, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SW Billings",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Abhishek Sharma, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 27,
+            "balls": 18,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Shankar, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DL Chahar",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Lamichhane",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "Avesh Khan",
+            "overs": 2.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "GJ Maxwell",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 126,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 0,
+          "noballs": 0,
+          "total": 128
+        }
+      }
     }
   ]
 }

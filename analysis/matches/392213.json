@@ -712,7 +712,167 @@
         }
       },
       "pressure_index": 0.445,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JH Kallis",
+            "runs": 10,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by NK Patel, bowled by MM Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "W Jaffer",
+            "runs": 8,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by LA Carseldine, bowled by A Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 17,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by RA Jadeja",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "R Dravid",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by NV Ojha, bowled by LA Carseldine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 15,
+            "balls": 22,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by M Morkel, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MV Boucher",
+            "runs": 6,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by RA Jadeja",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RE van der Merwe",
+            "runs": 15,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by A Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "D du Preez",
+            "runs": 10,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by NK Patel, bowled by A Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Kumar",
+            "runs": 7,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by M Morkel",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "R Vinay Kumar",
+            "runs": 12,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by A Singh",
+            "dismissal_type": "bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Singh",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 4,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "MM Patel",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "LA Carseldine",
+            "overs": 1.0,
+            "runs_conceded": 6,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 3,
+            "economy": 3.75,
+            "maidens": 0
+          },
+          {
+            "name": "AS Raut",
+            "overs": 1.0,
+            "runs_conceded": 6,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 100,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 4,
+          "noballs": 1,
+          "total": 105
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1250,12 +1410,119 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.145,
       "match_shape": 0.991,
-      "target": 106
+      "target": 106,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "GC Smith",
+            "runs": 20,
+            "balls": 22,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by JH Kallis",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 52,
+            "balls": 38,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "LA Carseldine",
+            "runs": 9,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by V Kohli, MV Boucher",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 22,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by W Jaffer, bowled by D du Preez",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "D du Preez",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Kumble",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "RE van der Merwe",
+            "overs": 1.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 104,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 3,
+          "noballs": 0,
+          "total": 107
+        }
+      }
     }
   ]
 }

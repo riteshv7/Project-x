@@ -707,7 +707,123 @@
         }
       },
       "pressure_index": 0.987,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Q de Kock",
+            "runs": 29,
+            "balls": 27,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by Shubman Gill, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 38,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by KD Karthik, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 68,
+            "balls": 44,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "M Vohra",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by AD Russell",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 19,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by Shivam Mavi, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "C de Grandhomme",
+            "runs": 11,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "PP Chawla",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "MG Johnson",
+            "overs": 3.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 12.67,
+            "maidens": 0
+          },
+          {
+            "name": "Shivam Mavi",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 3,
+            "economy": 10.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 165,
+          "byes": 1,
+          "legbyes": 4,
+          "wides": 5,
+          "noballs": 0,
+          "total": 175
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1511,124 @@
       },
       "pressure_index": 0.629,
       "match_shape": 0.988,
-      "target": 176
+      "target": 176,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CA Lynn",
+            "runs": 62,
+            "balls": 52,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SP Narine",
+            "runs": 27,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by C de Grandhomme, bowled by M Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 36,
+            "balls": 21,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by TG Southee, bowled by M Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 15,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "retired hurt",
+            "dismissal_type": "retired hurt"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Q de Kock, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 23,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by V Kohli, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 5,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TG Southee",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 3.1,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 11.37,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Siraj",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 168,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 7,
+          "noballs": 0,
+          "total": 176
+        }
+      }
     }
   ]
 }

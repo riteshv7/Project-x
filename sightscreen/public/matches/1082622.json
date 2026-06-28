@@ -697,7 +697,132 @@
         }
       },
       "pressure_index": 0.878,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SV Samson",
+            "runs": 60,
+            "balls": 38,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "lbw, bowled by UT Yadav",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 15,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by SP Narine",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 47,
+            "balls": 34,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by NM Coulter-Nile",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 6,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by NM Coulter-Nile",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "CH Morris",
+            "runs": 11,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by CR Woakes, bowled by NM Coulter-Nile",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CJ Anderson",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by SP Jackson, G Gambhir",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "AR Bawne",
+            "runs": 12,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "NM Coulter-Nile",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 3,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "CR Woakes",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "C de Grandhomme",
+            "overs": 1.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 15.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 153,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 6,
+          "noballs": 0,
+          "total": 160
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1270,7 +1395,114 @@
       },
       "pressure_index": 0.394,
       "match_shape": 0.997,
-      "target": 161
+      "target": 161,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SP Narine",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by K Rabada",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 71,
+            "balls": 52,
+            "fours": 11,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 59,
+            "balls": 33,
+            "fours": 5,
+            "sixes": 4,
+            "dismissal": "run out by KK Nair",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 5,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by K Rabada",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SP Jackson",
+            "runs": 12,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 1.1,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 6.86,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 3.2,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "CJ Anderson",
+            "overs": 2.5,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.53,
+            "maidens": 0
+          },
+          {
+            "name": "CH Morris",
+            "overs": 3.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 3.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 151,
+          "byes": 4,
+          "legbyes": 5,
+          "wides": 1,
+          "noballs": 0,
+          "total": 161
+        }
+      }
     }
   ]
 }

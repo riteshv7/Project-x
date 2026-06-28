@@ -707,7 +707,149 @@
         }
       },
       "pressure_index": 0.668,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "ST Jayasuriya",
+            "runs": 52,
+            "balls": 32,
+            "fours": 2,
+            "sixes": 4,
+            "dismissal": "caught by AN Ghosh, bowled by LR Shukla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 68,
+            "balls": 45,
+            "fours": 6,
+            "sixes": 4,
+            "dismissal": "lbw, bowled by LR Shukla",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 18,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by BAW Mendis, bowled by BJ Hodge",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 18,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by LR Shukla, BB McCullum",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by CH Gayle, bowled by LR Shukla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 12,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by BB McCullum, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 4,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "I Sharma",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "AB Dinda",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "SC Ganguly",
+            "overs": 1.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          },
+          {
+            "name": "BAW Mendis",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "CH Gayle",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "BJ Hodge",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "LR Shukla",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 3,
+            "economy": 6.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 178,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 8,
+          "noballs": 0,
+          "total": 187
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1260,7 +1402,159 @@
       },
       "pressure_index": 0.394,
       "match_shape": 0.337,
-      "target": 188
+      "target": 188,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "BB McCullum",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JP Duminy, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 12,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by SR Tendulkar, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 24,
+            "balls": 22,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by AM Nayar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SC Ganguly",
+            "runs": 34,
+            "balls": 30,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by DJ Bravo, bowled by AM Nayar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yashpal Singh",
+            "runs": 8,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PR Shah, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AN Ghosh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SR Tendulkar, bowled by AM Nayar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LR Shukla",
+            "runs": 6,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by ST Jayasuriya, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "I Sharma",
+            "runs": 6,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "BAW Mendis",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SL Malinga",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AB Dinda",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SL Malinga",
+            "dismissal_type": "bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 4.67,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 2.2,
+            "runs_conceded": 11,
+            "wickets": 3,
+            "economy": 4.71,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 2.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "AM Nayar",
+            "overs": 3.0,
+            "runs_conceded": 13,
+            "wickets": 3,
+            "economy": 4.33,
+            "maidens": 0
+          },
+          {
+            "name": "SR Tendulkar",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 91,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 2,
+          "total": 95
+        }
+      }
     }
   ]
 }

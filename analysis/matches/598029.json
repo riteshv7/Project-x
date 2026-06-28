@@ -697,7 +697,132 @@
         }
       },
       "pressure_index": 0.923,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YK Pathan",
+            "runs": 19,
+            "balls": 5,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by Harbhajan Singh, bowled by MG Johnson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 26,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by Harbhajan Singh, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 37,
+            "balls": 38,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Tiwary",
+            "runs": 33,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by SL Malinga",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 31,
+            "balls": 25,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by RG Sharma, bowled by MG Johnson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DB Das",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by SL Malinga",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Bhatia",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Harbhajan Singh",
+            "overs": 2.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 17.5,
+            "maidens": 0
+          },
+          {
+            "name": "MG Johnson",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 153,
+          "byes": 1,
+          "legbyes": 3,
+          "wides": 1,
+          "noballs": 1,
+          "total": 159
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1370,7 +1495,124 @@
       },
       "pressure_index": 0.651,
       "match_shape": 0.918,
-      "target": 160
+      "target": 160,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DR Smith",
+            "runs": 62,
+            "balls": 45,
+            "fours": 3,
+            "sixes": 5,
+            "dismissal": "caught by BB McCullum, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SP Narine",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 7,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by SMSM Senanayake",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 34,
+            "balls": 28,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught and bowled by SP Narine",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 33,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by MK Tiwary, bowled by R Bhatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 13,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 7,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 3,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "SMSM Senanayake",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 1,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 3.5,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.35,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 158,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 0,
+          "noballs": 0,
+          "total": 162
+        }
+      }
     }
   ]
 }

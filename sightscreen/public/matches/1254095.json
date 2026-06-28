@@ -707,7 +707,141 @@
         }
       },
       "pressure_index": 0.89,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JJ Roy",
+            "runs": 44,
+            "balls": 38,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught and bowled by DT Christian",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 13,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by GJ Maxwell, bowled by GHS Garton",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 31,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by HV Patel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "PK Garg",
+            "runs": 15,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by AB de Villiers, bowled by DT Christian",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by YS Chahal",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "JO Holder",
+            "runs": 16,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by DT Christian, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 10,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AB de Villiers, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 7,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Siraj",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 5.67,
+            "maidens": 0
+          },
+          {
+            "name": "GHS Garton",
+            "overs": 2.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 14.5,
+            "maidens": 0
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 3,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "DT Christian",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 4.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 137,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 3,
+          "noballs": 1,
+          "total": 141
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1529,133 @@
       },
       "pressure_index": 0.803,
       "match_shape": 0.745,
-      "target": 142
+      "target": 142,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "V Kohli",
+            "runs": 5,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by B Kumar",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 41,
+            "balls": 52,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by Abdul Samad, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DT Christian",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KS Williamson, bowled by S Kaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KS Bharat",
+            "runs": 12,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by WP Saha, bowled by Umran Malik",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 40,
+            "balls": 25,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "run out by KS Williamson",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 19,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "runs": 14,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by KS Williamson, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GHS Garton",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "JO Holder",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 1
+          },
+          {
+            "name": "Umran Malik",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 134,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 137
+        }
+      }
     }
   ]
 }

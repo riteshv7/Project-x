@@ -692,7 +692,150 @@
         }
       },
       "pressure_index": 0.932,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WG Jacks",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RS Ghosh, bowled by A Kamboj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RD Rickelton",
+            "runs": 37,
+            "balls": 24,
+            "fours": 0,
+            "sixes": 5,
+            "dismissal": "caught by Urvil Patel, bowled by Noor Ahmad",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Naman Dhir",
+            "runs": 57,
+            "balls": 37,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "caught by SN Khan, bowled by J Overton",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 21,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by D Brevis, bowled by RS Ghosh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 5,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RD Gaikwad, bowled by Noor Ahmad",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 18,
+            "balls": 23,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by D Brevis, bowled by A Kamboj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Minz",
+            "runs": 5,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by A Kamboj",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Krish Bhagat",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "TA Boult",
+            "runs": 7,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mukesh Choudhary",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "A Kamboj",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 3,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "PR Veer",
+            "overs": 2.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "RS Ghosh",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "J Overton",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 154,
+          "byes": 2,
+          "legbyes": 2,
+          "wides": 1,
+          "noballs": 0,
+          "total": 159
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1335,7 +1478,105 @@
       },
       "pressure_index": 0.339,
       "match_shape": 0.994,
-      "target": 160
+      "target": 160,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SV Samson",
+            "runs": 11,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by RD Rickelton, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RD Gaikwad",
+            "runs": 67,
+            "balls": 48,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Urvil Patel",
+            "runs": 24,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "bowled by AM Ghazanfar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Kartik Sharma",
+            "runs": 54,
+            "balls": 40,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 3.1,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 11.68,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "Krish Bhagat",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "AM Ghazanfar",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Raghu Sharma",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 156,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 4,
+          "noballs": 0,
+          "total": 160
+        }
+      }
     }
   ]
 }

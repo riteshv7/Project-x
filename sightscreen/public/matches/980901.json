@@ -717,7 +717,159 @@
         }
       },
       "pressure_index": 0.4,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "LMP Simmons",
+            "runs": 8,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by I Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by I Sharma",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 9,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by MR Marsh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Ashwin, bowled by MR Marsh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 22,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by F du Plessis, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 1,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by R Bhatia",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "S Gopal",
+            "runs": 2,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by M Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 45,
+            "balls": 30,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Vinay Kumar",
+            "runs": 12,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by SPD Smith, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MJ McClenaghan",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "RP Singh",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "MR Marsh",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 4.0,
+            "runs_conceded": 10,
+            "wickets": 1,
+            "economy": 2.5,
+            "maidens": 1
+          },
+          {
+            "name": "M Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 108,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 12,
+          "noballs": 0,
+          "total": 121
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1250,12 +1402,101 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.12,
       "match_shape": 0.997,
-      "target": 122
+      "target": 122,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 66,
+            "balls": 41,
+            "fours": 7,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 34,
+            "balls": 33,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "bowled by Harbhajan Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KP Pietersen",
+            "runs": 21,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MJ McClenaghan",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Gopal",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 0.4,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 18.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 121,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 1,
+          "total": 126
+        }
+      }
     }
   ]
 }

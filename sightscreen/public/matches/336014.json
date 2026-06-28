@@ -707,7 +707,131 @@
         }
       },
       "pressure_index": 0.935,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Salman Butt",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by WPUJC Vaas",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SC Ganguly",
+            "runs": 91,
+            "balls": 57,
+            "fours": 11,
+            "sixes": 5,
+            "dismissal": "caught by RP Singh, bowled by DP Vijaykumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Chopra",
+            "runs": 24,
+            "balls": 23,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "run out by HH Gibbs",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 57,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "T Taibu",
+            "runs": 9,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DB Ravi Teja, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LR Shukla",
+            "runs": 14,
+            "balls": 3,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "WPUJC Vaas",
+            "overs": 3.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "DP Vijaykumar",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "SB Styris",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 4.0,
+            "runs_conceded": 59,
+            "wickets": 1,
+            "economy": 14.75,
+            "maidens": 0
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "SB Bangar",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 2.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 199,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 1,
+          "total": 204
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1425,7 +1549,150 @@
       },
       "pressure_index": 0.206,
       "match_shape": 0.249,
-      "target": 205
+      "target": 205,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 24,
+            "balls": 17,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by SC Ganguly, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Gibbs",
+            "runs": 5,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Salman Butt, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DB Ravi Teja",
+            "runs": 10,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by Umar Gul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SB Styris",
+            "runs": 5,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by LR Shukla, bowled by SC Ganguly",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 33,
+            "balls": 22,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by SC Ganguly, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 71,
+            "balls": 41,
+            "fours": 4,
+            "sixes": 6,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SB Bangar",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Chopra, bowled by SC Ganguly",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WPUJC Vaas",
+            "runs": 9,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by LR Shukla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RP Singh",
+            "runs": 6,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AB Dinda",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 3,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Umar Gul",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "SC Ganguly",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Kartik",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "LR Shukla",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 165,
+          "byes": 0,
+          "legbyes": 8,
+          "wides": 4,
+          "noballs": 4,
+          "total": 181
+        }
+      }
     }
   ]
 }

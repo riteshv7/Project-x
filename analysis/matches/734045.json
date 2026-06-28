@@ -687,7 +687,159 @@
         }
       },
       "pressure_index": 0.865,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "LMP Simmons",
+            "runs": 67,
+            "balls": 44,
+            "fours": 5,
+            "sixes": 4,
+            "dismissal": "caught by SK Raina, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MEK Hussey",
+            "runs": 39,
+            "balls": 33,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "bowled by RA Jadeja",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "CJ Anderson",
+            "runs": 20,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by IC Pandey, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 20,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by BB McCullum, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 14,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by MM Sharma, bowled by A Nehra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DJ Hussey, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AP Tare",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by F du Plessis, bowled by A Nehra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Kumar",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by MM Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 7,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "PP Ojha",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Nehra",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "IC Pandey",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 3,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 171,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 0,
+          "noballs": 0,
+          "total": 173
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1355,7 +1507,114 @@
       },
       "pressure_index": 0.599,
       "match_shape": 0.995,
-      "target": 174
+      "target": 174,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DR Smith",
+            "runs": 24,
+            "balls": 20,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by KA Pollard, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 35,
+            "balls": 20,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by BR Dunk, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 54,
+            "balls": 32,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 14,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "stumped by AP Tare, bowled by PP Ojha",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 40,
+            "balls": 29,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "CJ Anderson",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 3.4,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.91,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 3.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 11.33,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 167,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 5,
+          "noballs": 1,
+          "total": 176
+        }
+      }
     }
   ]
 }

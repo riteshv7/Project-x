@@ -717,7 +717,150 @@
         }
       },
       "pressure_index": 0.775,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AJ Finch",
+            "runs": 8,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by M Morkel, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 19,
+            "balls": 14,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by G Gambhir, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 22,
+            "balls": 24,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by YK Pathan, bowled by Shakib Al Hasan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 34,
+            "balls": 18,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by YK Pathan, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KL Rahul",
+            "runs": 14,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by PP Chawla",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 23,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJG Sammy",
+            "runs": 7,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by Shakib Al Hasan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KV Sharma",
+            "runs": 4,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by YK Pathan",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "DW Steyn",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by UT Yadav",
+            "dismissal_type": "bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 3,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "RN ten Doeschate",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 132,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 8,
+          "noballs": 0,
+          "total": 142
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1385,7 +1528,114 @@
       },
       "pressure_index": 0.609,
       "match_shape": 0.986,
-      "target": 143
+      "target": 143,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 40,
+            "balls": 33,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "run out by NV Ojha, DJG Sammy",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 6,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by NV Ojha, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 35,
+            "balls": 32,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by AJ Finch, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 39,
+            "balls": 28,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RN ten Doeschate",
+            "runs": 25,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 3.4,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 10.09,
+            "maidens": 0
+          },
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "DJG Sammy",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 6.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 145,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 0,
+          "noballs": 0,
+          "total": 146
+        }
+      }
     }
   ]
 }

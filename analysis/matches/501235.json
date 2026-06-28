@@ -697,7 +697,141 @@
         }
       },
       "pressure_index": 0.85,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JD Ryder",
+            "runs": 18,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "stumped by DH Yagnik, bowled by J Botha",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 30,
+            "balls": 31,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by LRPL Taylor, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 35,
+            "balls": 21,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "caught by DH Yagnik, bowled by SK Warne",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 7,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by SK Trivedi",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Harpreet Singh",
+            "runs": 13,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Manhas",
+            "runs": 24,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by STR Binny, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NL McCullum",
+            "runs": 11,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Sharma",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by DH Yagnik, SK Trivedi",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "J Botha",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "AL Menaria",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Singh",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 138,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 2,
+          "noballs": 0,
+          "total": 143
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1370,7 +1504,123 @@
       },
       "pressure_index": 0.712,
       "match_shape": 0.985,
-      "target": 144
+      "target": 144,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SR Watson",
+            "runs": 12,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by RV Uthappa, bowled by AC Thomas",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Dravid",
+            "runs": 18,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught and bowled by R Sharma",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "J Botha",
+            "runs": 12,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by R Sharma",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AL Menaria",
+            "runs": 29,
+            "balls": 22,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "caught by AC Thomas, bowled by R Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LRPL Taylor",
+            "runs": 47,
+            "balls": 35,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 15,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "M Kartik",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "AC Thomas",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 1
+          },
+          {
+            "name": "R Sharma",
+            "overs": 4.0,
+            "runs_conceded": 13,
+            "wickets": 3,
+            "economy": 3.25,
+            "maidens": 1
+          },
+          {
+            "name": "JE Taylor",
+            "overs": 3.3,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 6.29,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "NL McCullum",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 7.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 133,
+          "byes": 6,
+          "legbyes": 3,
+          "wides": 1,
+          "noballs": 1,
+          "total": 144
+        }
+      }
     }
   ]
 }

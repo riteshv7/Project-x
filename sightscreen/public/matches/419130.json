@@ -732,7 +732,150 @@
         }
       },
       "pressure_index": 0.767,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "S Dhawan",
+            "runs": 8,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Jaskaran Singh",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 55,
+            "balls": 41,
+            "fours": 9,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 23,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by A Symonds, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 6,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by AC Gilchrist, bowled by PP Ojha",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "R Sathish",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by TL Suman, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by TL Suman, bowled by Jaskaran Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R McLaren",
+            "runs": 13,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 49,
+            "balls": 16,
+            "fours": 8,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KAJ Roach",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Jaskaran Singh",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 3,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Symonds",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "RG Sharma",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 162,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 4,
+          "total": 172
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1360,7 +1503,159 @@
       },
       "pressure_index": 0.755,
       "match_shape": 0.675,
-      "target": 173
+      "target": 173,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SR Tendulkar, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Gibbs",
+            "runs": 27,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by KA Pollard, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MD Mishra",
+            "runs": 13,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by R McLaren, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Symonds",
+            "runs": 1,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DJ Bravo, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 45,
+            "balls": 28,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "bowled by Z Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "TL Suman",
+            "runs": 15,
+            "balls": 17,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught and bowled by Harbhajan Singh",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 7,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by R McLaren, bowled by KA Pollard",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Jaskaran Singh",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JP Duminy, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KAJ Roach",
+            "runs": 10,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Z Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RP Singh",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SL Malinga",
+            "dismissal_type": "bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 3,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "R McLaren",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Z Khan",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 3,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 3.4,
+            "runs_conceded": 12,
+            "wickets": 3,
+            "economy": 3.27,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 120,
+          "byes": 2,
+          "legbyes": 5,
+          "wides": 4,
+          "noballs": 0,
+          "total": 131
+        }
+      }
     }
   ]
 }

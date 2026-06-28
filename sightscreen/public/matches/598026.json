@@ -722,7 +722,123 @@
         }
       },
       "pressure_index": 0.802,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SR Watson",
+            "runs": 101,
+            "balls": 60,
+            "fours": 6,
+            "sixes": 6,
+            "dismissal": "caught by MEK Hussey, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 16,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by R Ashwin",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DH Yagnik",
+            "runs": 7,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by R Ashwin",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "R Dravid",
+            "runs": 6,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 36,
+            "balls": 22,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 9,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MM Sharma",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "JO Holder",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "CH Morris",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 3.0,
+            "runs_conceded": 45,
+            "wickets": 0,
+            "economy": 15.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 175,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 6,
+          "noballs": 1,
+          "total": 185
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1521,140 @@
       },
       "pressure_index": 0.745,
       "match_shape": 0.948,
-      "target": 186
+      "target": 186,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "M Vijay",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by A Chandila",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "MEK Hussey",
+            "runs": 88,
+            "balls": 51,
+            "fours": 13,
+            "sixes": 1,
+            "dismissal": "run out by R Dravid",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 51,
+            "balls": 35,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "lbw, bowled by JP Faulkner",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 21,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by STR Binny, bowled by JP Faulkner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by JP Faulkner",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 15,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "CH Morris",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Chandila",
+            "overs": 3.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 5.33,
+            "maidens": 0
+          },
+          {
+            "name": "R Shukla",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 3,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "KK Cooper",
+            "overs": 4.0,
+            "runs_conceded": 49,
+            "wickets": 0,
+            "economy": 12.25,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 1.5,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 11.45,
+            "maidens": 0
+          },
+          {
+            "name": "STR Binny",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 179,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 3,
+          "noballs": 0,
+          "total": 186
+        }
+      }
     }
   ]
 }

@@ -737,7 +737,114 @@
         }
       },
       "pressure_index": 0.397,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MA Agarwal",
+            "runs": 11,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by TH David, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TM Head",
+            "runs": 62,
+            "balls": 24,
+            "fours": 9,
+            "sixes": 3,
+            "dismissal": "caught by Naman Dhir, bowled by G Coetzee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 63,
+            "balls": 22,
+            "fours": 3,
+            "sixes": 7,
+            "dismissal": "caught by Naman Dhir, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AK Markram",
+            "runs": 42,
+            "balls": 28,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 80,
+            "balls": 33,
+            "fours": 4,
+            "sixes": 7,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KT Maphaka",
+            "overs": 4.0,
+            "runs_conceded": 66,
+            "wickets": 0,
+            "economy": 16.5,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "G Coetzee",
+            "overs": 4.0,
+            "runs_conceded": 57,
+            "wickets": 1,
+            "economy": 14.25,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 2.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 17.0,
+            "maidens": 0
+          },
+          {
+            "name": "SZ Mulani",
+            "overs": 2.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 16.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 258,
+          "byes": 4,
+          "legbyes": 1,
+          "wides": 12,
+          "noballs": 2,
+          "total": 277
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1445,7 +1552,132 @@
       },
       "pressure_index": 0.2,
       "match_shape": 0.35,
-      "target": 278
+      "target": 278,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 26,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by Abhishek Sharma, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 34,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 4,
+            "dismissal": "caught by AK Markram, bowled by Shahbaz Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Naman Dhir",
+            "runs": 30,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by PJ Cummins, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 64,
+            "balls": 33,
+            "fours": 2,
+            "sixes": 6,
+            "dismissal": "caught by MA Agarwal, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 24,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by H Klaasen, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TH David",
+            "runs": 42,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Shepherd",
+            "runs": 15,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 53,
+            "wickets": 0,
+            "economy": 13.25,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 2,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "overs": 3.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 2,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "Umran Malik",
+            "overs": 1.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 15.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Markande",
+            "overs": 4.0,
+            "runs_conceded": 52,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 235,
+          "byes": 1,
+          "legbyes": 4,
+          "wides": 5,
+          "noballs": 1,
+          "total": 246
+        }
+      }
     }
   ]
 }

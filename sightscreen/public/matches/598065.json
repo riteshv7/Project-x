@@ -707,7 +707,158 @@
         }
       },
       "pressure_index": 0.484,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by JP Faulkner",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by JP Faulkner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GH Vihari",
+            "runs": 19,
+            "balls": 28,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Sachin Baby, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CL White",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SK Trivedi, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BB Samantray",
+            "runs": 55,
+            "balls": 46,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "caught by KK Cooper, bowled by JP Faulkner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJG Sammy",
+            "runs": 23,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by BJ Hodge, bowled by JP Faulkner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NLTC Perera",
+            "runs": 17,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DW Steyn",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by JP Faulkner",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KV Sharma",
+            "runs": 4,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by STR Binny, Sachin Baby, KK Cooper",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "BJ Hodge",
+            "overs": 1.0,
+            "runs_conceded": 3,
+            "wickets": 0,
+            "economy": 3.0,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 5,
+            "economy": 4.0,
+            "maidens": 1
+          },
+          {
+            "name": "SR Watson",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "PV Tambe",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "STR Binny",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "KK Cooper",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 121,
+          "byes": 1,
+          "legbyes": 9,
+          "wides": 5,
+          "noballs": 0,
+          "total": 136
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1390,7 +1541,168 @@
       },
       "pressure_index": 0.844,
       "match_shape": 0.808,
-      "target": 137
+      "target": 137,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "R Dravid",
+            "runs": 25,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "run out by CL White",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 12,
+            "balls": 25,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by S Dhawan, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 11,
+            "balls": 20,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DJG Sammy, bowled by NLTC Perera",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 5,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DW Steyn, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 8,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by NLTC Perera",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 8,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by DW Steyn",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Sachin Baby",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by A Mishra",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "JP Faulkner",
+            "runs": 6,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by NLTC Perera, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Cooper",
+            "runs": 26,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by BB Samantray, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PV Tambe",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SK Trivedi",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "DJG Sammy",
+            "overs": 1.0,
+            "runs_conceded": 4,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 8,
+            "wickets": 2,
+            "economy": 2.0,
+            "maidens": 0
+          },
+          {
+            "name": "NLTC Perera",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 8.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 107,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 2,
+          "noballs": 0,
+          "total": 113
+        }
+      }
     }
   ]
 }

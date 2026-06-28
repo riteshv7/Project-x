@@ -732,7 +732,159 @@
         }
       },
       "pressure_index": 0.353,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Reddy",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SR Watson, bowled by A Chandila",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by JP Faulkner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SR Watson, bowled by JP Faulkner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GH Vihari",
+            "runs": 4,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DH Yagnik, bowled by KK Cooper",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KV Sharma",
+            "runs": 6,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by BJ Hodge, bowled by JP Faulkner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NLTC Perera",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KK Cooper, bowled by A Chandila",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJG Sammy",
+            "runs": 60,
+            "balls": 41,
+            "fours": 8,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by JP Faulkner",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "A Mishra",
+            "runs": 21,
+            "balls": 28,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by KK Cooper, bowled by JP Faulkner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Ashish Reddy",
+            "runs": 14,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by STR Binny",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DW Steyn",
+            "runs": 18,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Chandila",
+            "overs": 3.0,
+            "runs_conceded": 13,
+            "wickets": 2,
+            "economy": 4.33,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 5,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "KK Cooper",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "STR Binny",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 133,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 9,
+          "noballs": 0,
+          "total": 144
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1350,7 +1502,105 @@
       },
       "pressure_index": 0.652,
       "match_shape": 0.994,
-      "target": 145
+      "target": 145,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "R Dravid",
+            "runs": 36,
+            "balls": 35,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by GH Vihari, bowled by NLTC Perera",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 1,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KC Sangakkara, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 98,
+            "balls": 53,
+            "fours": 13,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "STR Binny",
+            "runs": 9,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 3.75,
+            "maidens": 1
+          },
+          {
+            "name": "I Sharma",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "NLTC Perera",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "DJG Sammy",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 5.67,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 1.5,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 13.09,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 144,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 0,
+          "total": 146
+        }
+      }
     }
   ]
 }

@@ -707,7 +707,176 @@
         }
       },
       "pressure_index": 0.938,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 51,
+            "balls": 47,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by RP Meredith, bowled by JP Behrendorff",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PP Shaw",
+            "runs": 15,
+            "balls": 10,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by C Green, bowled by HR Shokeen",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 26,
+            "balls": 17,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by JP Behrendorff, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YV Dhull",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by N Wadhera, bowled by RP Meredith",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Powell",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by PP Chawla",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Lalit Yadav",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 54,
+            "balls": 24,
+            "fours": 4,
+            "sixes": 5,
+            "dismissal": "caught by Arshad Khan, bowled by JP Behrendorff",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abishek Porel",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by C Green, bowled by JP Behrendorff",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by N Wadhera",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "A Nortje",
+            "runs": 5,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by RP Meredith",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Mustafizur Rahman",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JP Behrendorff",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 3,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "Arshad Khan",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "C Green",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "HR Shokeen",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "RP Meredith",
+            "overs": 3.4,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 9.27,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 3,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "Tilak Varma",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 161,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 8,
+          "noballs": 2,
+          "total": 172
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1564,123 @@
       },
       "pressure_index": 0.43,
       "match_shape": 0.968,
-      "target": 173
+      "target": 173,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 65,
+            "balls": 45,
+            "fours": 6,
+            "sixes": 4,
+            "dismissal": "caught by Abishek Porel, bowled by Mustafizur Rahman",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 31,
+            "balls": 26,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "run out by Mukesh Kumar, Lalit Yadav",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 41,
+            "balls": 29,
+            "fours": 1,
+            "sixes": 4,
+            "dismissal": "caught by MK Pandey, bowled by Mukesh Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Kuldeep Yadav, bowled by Mukesh Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "C Green",
+            "runs": 17,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "TH David",
+            "runs": 13,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mukesh Kumar",
+            "overs": 2.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 15.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mustafizur Rahman",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Nortje",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "Lalit Yadav",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 167,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 2,
+          "noballs": 0,
+          "total": 173
+        }
+      }
     }
   ]
 }

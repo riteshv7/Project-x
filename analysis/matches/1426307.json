@@ -712,7 +712,132 @@
         }
       },
       "pressure_index": 0.593,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Atharva Taide",
+            "runs": 46,
+            "balls": 27,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by Sanvir Singh, bowled by T Natarajan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Simran Singh",
+            "runs": 71,
+            "balls": 45,
+            "fours": 7,
+            "sixes": 4,
+            "dismissal": "caught by H Klaasen, bowled by V Viyaskanth",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Rossouw",
+            "runs": 49,
+            "balls": 23,
+            "fours": 3,
+            "sixes": 4,
+            "dismissal": "caught by Abdul Samad, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shashank Singh",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by Nithish Kumar Reddy, H Klaasen",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "JM Sharma",
+            "runs": 32,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Ashutosh Sharma",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Sanvir Singh, bowled by T Natarajan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shivam Singh",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "V Viyaskanth",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "overs": 3.0,
+            "runs_conceded": 54,
+            "wickets": 0,
+            "economy": 18.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 204,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 4,
+          "noballs": 1,
+          "total": 214
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1525,149 @@
       },
       "pressure_index": 0.672,
       "match_shape": 0.987,
-      "target": 215
+      "target": 215,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "TM Head",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Arshdeep Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 33,
+            "balls": 17,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by Arshdeep Singh, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 66,
+            "balls": 28,
+            "fours": 5,
+            "sixes": 6,
+            "dismissal": "caught by Shivam Singh, bowled by Shashank Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "runs": 37,
+            "balls": 25,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by Shivam Singh, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 42,
+            "balls": 26,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "bowled by Harpreet Brar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Shashank Singh, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 11,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Sanvir Singh",
+            "runs": 6,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Arshdeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Dhawan",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 4.0,
+            "runs_conceded": 49,
+            "wickets": 2,
+            "economy": 12.25,
+            "maidens": 0
+          },
+          {
+            "name": "RD Chahar",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 0,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "Harpreet Brar",
+            "overs": 3.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shashank Singh",
+            "overs": 1.0,
+            "runs_conceded": 5,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "Atharva Taide",
+            "overs": 0.1,
+            "runs_conceded": 4,
+            "wickets": 0,
+            "economy": 24.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 198,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 10,
+          "noballs": 1,
+          "total": 215
+        }
+      }
     }
   ]
 }

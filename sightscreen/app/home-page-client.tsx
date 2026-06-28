@@ -3,8 +3,9 @@
 import Link from "next/link";
 import { useState } from "react";
 
+import { MatchCard } from "@/app/components/match-card";
 import type { MatchSummary } from "@/lib/types";
-import { formatDisplayDate, teamResultForMatch } from "@/lib/utils";
+import { teamResultForMatch } from "@/lib/utils";
 
 type ResultFilter = "all" | "won" | "lost";
 
@@ -62,6 +63,27 @@ export function HomePageClient({ matches }: { matches: MatchSummary[] }) {
               <div>Seasons</div>
             </div>
           </div>
+        </div>
+
+        <div className="mt-8 grid gap-3 md:grid-cols-3">
+          <Link
+            href="/teams"
+            className="rounded-2xl border border-card-border bg-white/60 px-5 py-4 text-sm font-medium text-foreground transition hover:border-accent/30 hover:text-accent-ink"
+          >
+            Browse by team
+          </Link>
+          <Link
+            href="/seasons"
+            className="rounded-2xl border border-card-border bg-white/60 px-5 py-4 text-sm font-medium text-foreground transition hover:border-accent/30 hover:text-accent-ink"
+          >
+            Browse by season
+          </Link>
+          <Link
+            href="/venues"
+            className="rounded-2xl border border-card-border bg-white/60 px-5 py-4 text-sm font-medium text-foreground transition hover:border-accent/30 hover:text-accent-ink"
+          >
+            Browse by venue
+          </Link>
         </div>
       </header>
 
@@ -135,35 +157,7 @@ export function HomePageClient({ matches }: { matches: MatchSummary[] }) {
 
       <section className="mt-8 grid gap-5 md:grid-cols-2 xl:grid-cols-3">
         {filteredMatches.map((match) => (
-          <Link
-            key={match.match_id}
-            href={`/matches/${match.match_id}`}
-            className="glass-card group rounded-[1.75rem] p-6 transition duration-200 hover:-translate-y-1 hover:border-accent/30"
-          >
-            <div className="flex items-start justify-between gap-4">
-              <div>
-                <p className="section-title">{match.season}</p>
-                <h2 className="mt-3 text-2xl font-semibold tracking-[-0.03em] text-accent-ink">
-                  {match.teams.team1} vs {match.teams.team2}
-                </h2>
-              </div>
-              <span className="rounded-full bg-accent-soft px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-accent-ink">
-                Match
-              </span>
-            </div>
-
-            <div className="mt-6 space-y-3 text-sm text-muted">
-              <p>{formatDisplayDate(match.date)}</p>
-              <p>{match.venue}</p>
-              <p className="font-medium text-foreground">{match.resultText}</p>
-              <p>{match.scoreline}</p>
-            </div>
-
-            <div className="mt-6 flex items-center justify-between border-t border-card-border pt-4 text-sm font-medium text-accent-ink">
-              <span>Open analysis</span>
-              <span className="transition group-hover:translate-x-1">→</span>
-            </div>
-          </Link>
+          <MatchCard key={match.match_id} match={match} />
         ))}
       </section>
     </main>

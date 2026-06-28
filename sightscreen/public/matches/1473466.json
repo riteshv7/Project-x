@@ -707,7 +707,132 @@
         }
       },
       "pressure_index": 0.722,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 18,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by V Nigam",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RD Rickelton",
+            "runs": 41,
+            "balls": 25,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "bowled by Kuldeep Yadav",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 40,
+            "balls": 28,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by MA Starc, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 59,
+            "balls": 33,
+            "fours": 6,
+            "sixes": 3,
+            "dismissal": "caught by Abishek Porel, bowled by Mukesh Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by T Stubbs, bowled by V Nigam",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Naman Dhir",
+            "runs": 38,
+            "balls": 17,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "WG Jacks",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MA Starc",
+            "overs": 3.0,
+            "runs_conceded": 43,
+            "wickets": 0,
+            "economy": 14.33,
+            "maidens": 0
+          },
+          {
+            "name": "Mukesh Kumar",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "V Nigam",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 2,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 3.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 13.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 199,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 5,
+          "noballs": 0,
+          "total": 205
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1380,7 +1505,168 @@
       },
       "pressure_index": 0.902,
       "match_shape": 0.878,
-      "target": 206
+      "target": 206,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "J Fraser-McGurk",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by WG Jacks, bowled by DL Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 89,
+            "balls": 40,
+            "fours": 12,
+            "sixes": 5,
+            "dismissal": "bowled by MJ Santner",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Abishek Porel",
+            "runs": 33,
+            "balls": 25,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by Naman Dhir, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KL Rahul",
+            "runs": 15,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by KV Sharma",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 9,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SA Yadav, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "T Stubbs",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Naman Dhir, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ashutosh Sharma",
+            "runs": 17,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "run out by RD Rickelton, WG Jacks",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "V Nigam",
+            "runs": 14,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "stumped by RD Rickelton, bowled by MJ Santner",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "MA Starc",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by RA Bawa, RD Rickelton",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MM Sharma",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by MJ Santner",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "TA Boult",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "MJ Santner",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 2,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 3,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 180,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 9,
+          "noballs": 0,
+          "total": 193
+        }
+      }
     }
   ]
 }

@@ -702,7 +702,141 @@
         }
       },
       "pressure_index": 0.62,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Q de Kock",
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by M Vijay, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GH Vihari",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by SK Raina",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 63,
+            "balls": 45,
+            "fours": 10,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "CL White",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Mishra",
+            "runs": 15,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by DJ Bravo, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "X Thalaivan Sargunam",
+            "runs": 10,
+            "balls": 17,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by DJ Bravo",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "DJG Sammy",
+            "runs": 19,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by CH Morris, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Ashish Reddy",
+            "runs": 36,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MM Sharma",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "JO Holder",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "CH Morris",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 151,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 3,
+          "noballs": 0,
+          "total": 159
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1529,132 @@
       },
       "pressure_index": 0.65,
       "match_shape": 0.863,
-      "target": 160
+      "target": 160,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MEK Hussey",
+            "runs": 45,
+            "balls": 26,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by Q de Kock, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Vijay",
+            "runs": 18,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "stumped by Q de Kock, bowled by A Mishra",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 16,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DJG Sammy, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 67,
+            "balls": 36,
+            "fours": 7,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 7,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Ashish Reddy, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Mishra, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CH Morris",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DJG Sammy",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 1,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 4.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 2.0,
+            "maidens": 1
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 3,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Ashish Reddy",
+            "overs": 0.4,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 22.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 154,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 4,
+          "noballs": 1,
+          "total": 160
+        }
+      }
     }
   ]
 }

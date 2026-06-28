@@ -702,7 +702,124 @@
         }
       },
       "pressure_index": 0.865,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Nayar",
+            "runs": 23,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by M Kartik",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 13,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "run out by GJ Bailey",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 52,
+            "balls": 34,
+            "fours": 3,
+            "sixes": 4,
+            "dismissal": "bowled by P Awana",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 50,
+            "balls": 29,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "bowled by AR Patel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 12,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by DA Miller, bowled by MG Johnson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SPD Smith",
+            "runs": 27,
+            "balls": 15,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JP Faulkner",
+            "runs": 8,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "MG Johnson",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "P Awana",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Kartik",
+            "overs": 4.0,
+            "runs_conceded": 51,
+            "wickets": 1,
+            "economy": 12.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 185,
+          "byes": 2,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 1,
+          "total": 191
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1360,7 +1477,114 @@
       },
       "pressure_index": 0.735,
       "match_shape": 0.991,
-      "target": 192
+      "target": 192,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CA Pujara",
+            "runs": 40,
+            "balls": 38,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 2,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by STR Binny, bowled by DS Kulkarni",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DS Kulkarni, bowled by JP Faulkner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 89,
+            "balls": 45,
+            "fours": 8,
+            "sixes": 6,
+            "dismissal": "caught by SPD Smith, bowled by KW Richardson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 51,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 6,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KW Richardson",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 1,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 3.4,
+            "runs_conceded": 45,
+            "wickets": 1,
+            "economy": 12.27,
+            "maidens": 0
+          },
+          {
+            "name": "PV Tambe",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 3.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 12.67,
+            "maidens": 0
+          },
+          {
+            "name": "STR Binny",
+            "overs": 1.0,
+            "runs_conceded": 4,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 184,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 4,
+          "noballs": 0,
+          "total": 193
+        }
+      }
     }
   ]
 }

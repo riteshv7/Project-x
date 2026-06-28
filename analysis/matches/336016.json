@@ -707,7 +707,159 @@
         }
       },
       "pressure_index": 0.687,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "J Arunkumar",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DPMD Jayawardene, bowled by S Sreesanth",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 21,
+            "balls": 22,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Misbah-ul-Haq",
+            "runs": 21,
+            "balls": 8,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "hit wicket, bowled by S Sreesanth",
+            "dismissal_type": "hit wicket"
+          },
+          {
+            "name": "R Dravid",
+            "runs": 29,
+            "balls": 26,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by IK Pathan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "CL White",
+            "runs": 10,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by PP Chawla",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "MV Boucher",
+            "runs": 39,
+            "balls": 32,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "run out by PP Chawla, U Kaul",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "P Kumar",
+            "runs": 5,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by S Sreesanth",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Vinay Kumar",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by VRV Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Z Khan",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Kumble",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Sreesanth",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 3,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 1
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "VRV Singh",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 3.75,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hopes",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 128,
+          "byes": 5,
+          "legbyes": 2,
+          "wides": 8,
+          "noballs": 0,
+          "total": 143
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1270,7 +1422,96 @@
       },
       "pressure_index": 0.319,
       "match_shape": 0.998,
-      "target": 144
+      "target": 144,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SE Marsh",
+            "runs": 74,
+            "balls": 51,
+            "fours": 9,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JR Hopes",
+            "runs": 27,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "caught by DW Steyn, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LA Pomersbach",
+            "runs": 34,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 2.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 16.5,
+            "maidens": 0
+          },
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "P Kumar",
+            "overs": 2.4,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 5.62,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Kumble",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "V Kohli",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 135,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 4,
+          "noballs": 0,
+          "total": 144
+        }
+      }
     }
   ]
 }

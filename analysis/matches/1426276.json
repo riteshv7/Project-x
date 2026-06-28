@@ -727,7 +727,160 @@
         }
       },
       "pressure_index": 0.801,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SV Samson, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 10,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by R Powell, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SV Samson, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 65,
+            "balls": 45,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "caught by R Powell, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mohammad Nabi",
+            "runs": 23,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught and bowled by YS Chahal",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "N Wadhera",
+            "runs": 49,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 4,
+            "dismissal": "caught by Sandeep Sharma, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 10,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Avesh Khan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "TH David",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Parag, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Coetzee",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SO Hetmyer, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JJ Bumrah",
+            "runs": 2,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 5,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "Avesh Khan",
+            "overs": 4.0,
+            "runs_conceded": 49,
+            "wickets": 1,
+            "economy": 12.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 169,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 9,
+          "noballs": 0,
+          "total": 179
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1390,7 +1543,104 @@
       },
       "pressure_index": 0.512,
       "match_shape": 0.998,
-      "target": 180
+      "target": 180,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 104,
+            "balls": 60,
+            "fours": 9,
+            "sixes": 7,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 35,
+            "balls": 25,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 38,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "HH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "N Thushara",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "G Coetzee",
+            "overs": 2.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammad Nabi",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "Tilak Varma",
+            "overs": 0.4,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 177,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 4,
+          "noballs": 1,
+          "total": 183
+        }
+      }
     }
   ]
 }

@@ -707,7 +707,105 @@
         }
       },
       "pressure_index": 0.86,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 70,
+            "balls": 49,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "caught by MK Pandey, bowled by S Nadeem",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 5,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Rashid Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 102,
+            "balls": 54,
+            "fours": 10,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "BA Stokes",
+            "runs": 16,
+            "balls": 9,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 55,
+            "wickets": 0,
+            "economy": 13.75,
+            "maidens": 0
+          },
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Nadeem",
+            "overs": 3.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "V Shankar",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 193,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 4,
+          "noballs": 1,
+          "total": 198
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1380,7 +1478,132 @@
       },
       "pressure_index": 0.555,
       "match_shape": 0.985,
-      "target": 199
+      "target": 199,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 69,
+            "balls": 37,
+            "fours": 9,
+            "sixes": 2,
+            "dismissal": "caught by DS Kulkarni, bowled by BA Stokes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Bairstow",
+            "runs": 45,
+            "balls": 28,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "caught by DS Kulkarni, bowled by S Gopal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 14,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by RA Tripathi, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 35,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by P Chopra, bowled by S Gopal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by S Gopal",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 15,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 16,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DS Kulkarni",
+            "overs": 3.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 13.33,
+            "maidens": 0
+          },
+          {
+            "name": "K Gowtham",
+            "overs": 2.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "JC Archer",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "BA Stokes",
+            "overs": 3.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 13.33,
+            "maidens": 0
+          },
+          {
+            "name": "S Gopal",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 3,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 8.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 195,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 5,
+          "noballs": 0,
+          "total": 201
+        }
+      }
     }
   ]
 }

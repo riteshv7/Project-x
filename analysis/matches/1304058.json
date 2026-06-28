@@ -692,7 +692,141 @@
         }
       },
       "pressure_index": 0.754,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KL Rahul",
+            "runs": 68,
+            "balls": 50,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by T Natarajan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Q de Kock",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KS Williamson, bowled by Washington Sundar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "E Lewis",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Washington Sundar",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 11,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by B Kumar, bowled by R Shepherd",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 51,
+            "balls": 33,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by RA Tripathi, bowled by R Shepherd",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Badoni",
+            "runs": 19,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "run out by N Pooran, R Shepherd",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 6,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by T Natarajan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JO Holder",
+            "runs": 8,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "Washington Sundar",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Shepherd",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 2,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "Umran Malik",
+            "overs": 3.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "Abdul Samad",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 165,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 0,
+          "total": 169
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1534,151 @@
       },
       "pressure_index": 0.936,
       "match_shape": 0.736,
-      "target": 170
+      "target": 170,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Abhishek Sharma",
+            "runs": 13,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 16,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by AJ Tye, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 44,
+            "balls": 30,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by Ravi Bishnoi, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AK Markram",
+            "runs": 12,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KL Rahul, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 34,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by DJ Hooda, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Washington Sundar",
+            "runs": 18,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KL Rahul, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Q de Kock, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Shepherd",
+            "runs": 8,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by A Badoni, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Q de Kock, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Umran Malik",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JO Holder",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 3,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "Avesh Khan",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 4,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "AJ Tye",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 147,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 5,
+          "noballs": 1,
+          "total": 157
+        }
+      }
     }
   ]
 }

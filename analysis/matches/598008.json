@@ -702,7 +702,151 @@
         }
       },
       "pressure_index": 0.866,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MS Bisla",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KL Rahul, bowled by MC Henriques",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 59,
+            "balls": 45,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": "caught and bowled by R Vinay Kumar",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 16,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by MC Henriques, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 27,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by R Vinay Kumar, bowled by MC Henriques",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Tiwary",
+            "runs": 23,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by AB de Villiers, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DT Christian, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Bhatia",
+            "runs": 13,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by RP Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R McLaren",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by RP Singh",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "PJ Sangwan",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MC Henriques",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 3,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 148,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 2,
+          "noballs": 1,
+          "total": 154
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1350,7 +1494,105 @@
       },
       "pressure_index": 0.496,
       "match_shape": 0.995,
-      "target": 155
+      "target": 155,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CH Gayle",
+            "runs": 85,
+            "balls": 49,
+            "fours": 4,
+            "sixes": 9,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 6,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by MS Bisla, bowled by R McLaren",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 35,
+            "balls": 26,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by EJG Morgan, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 22,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "R McLaren",
+            "overs": 3.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 11.33,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 1
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 3.3,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 9.43,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Sangwan",
+            "overs": 2.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 17.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 148,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 8,
+          "noballs": 2,
+          "total": 158
+        }
+      }
     }
   ]
 }

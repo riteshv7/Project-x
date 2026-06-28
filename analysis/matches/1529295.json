@@ -752,7 +752,123 @@
         }
       },
       "pressure_index": 0.461,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "B Sai Sudharsan",
+            "runs": 55,
+            "balls": 35,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "caught by JC Archer, bowled by Yash Raj Punja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 84,
+            "balls": 44,
+            "fours": 9,
+            "sixes": 3,
+            "dismissal": "caught by TU Deshpande, bowled by Brijesh Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 13,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by D Ferreira, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Washington Sundar",
+            "runs": 37,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JO Holder",
+            "runs": 7,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by YBK Jaiswal, bowled by Brijesh Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 14,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JC Archer",
+            "overs": 3.0,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 15.33,
+            "maidens": 0
+          },
+          {
+            "name": "TU Deshpande",
+            "overs": 4.0,
+            "runs_conceded": 52,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "Brijesh Sharma",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 2,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Raj Punja",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "D Ferreira",
+            "overs": 1.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 210,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 16,
+          "noballs": 1,
+          "total": 229
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1335,7 +1451,168 @@
       },
       "pressure_index": 0.241,
       "match_shape": 0.274,
-      "target": 230
+      "target": 230,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by N Sindhu, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Suryavanshi",
+            "runs": 36,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by Arshad Khan, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Dhruv Jurel",
+            "runs": 24,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "bowled by Rashid Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JO Holder, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 38,
+            "balls": 25,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "lbw, bowled by Rashid Khan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "D Ferreira",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Rashid Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SB Dubey",
+            "runs": 15,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by Rashid Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MD Shanaka",
+            "runs": 16,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Shubman Gill, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Archer",
+            "runs": 5,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JC Buttler, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TU Deshpande",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Washington Sundar, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Brijesh Sharma",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Siraj",
+            "overs": 4.0,
+            "runs_conceded": 55,
+            "wickets": 1,
+            "economy": 13.75,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Sai Kishore",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 4,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "Washington Sundar",
+            "overs": 2.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "JO Holder",
+            "overs": 2.3,
+            "runs_conceded": 12,
+            "wickets": 3,
+            "economy": 4.8,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 149,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 152
+        }
+      }
     }
   ]
 }

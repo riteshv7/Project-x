@@ -712,7 +712,105 @@
         }
       },
       "pressure_index": 0.733,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KC Sangakkara",
+            "runs": 44,
+            "balls": 32,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by DH Yagnik, bowled by BJ Hodge",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 52,
+            "balls": 43,
+            "fours": 8,
+            "sixes": 0,
+            "dismissal": "caught by BJ Hodge, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DT Christian",
+            "runs": 29,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 58,
+            "balls": 26,
+            "fours": 3,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Pankaj Singh",
+            "overs": 3.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 12.33,
+            "maidens": 0
+          },
+          {
+            "name": "A Singh",
+            "overs": 4.0,
+            "runs_conceded": 55,
+            "wickets": 0,
+            "economy": 13.75,
+            "maidens": 0
+          },
+          {
+            "name": "J Botha",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "GB Hogg",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "BJ Hodge",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 1,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 183,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 11,
+          "noballs": 0,
+          "total": 196
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1410,7 +1508,124 @@
       },
       "pressure_index": 0.898,
       "match_shape": 0.91,
-      "target": 197
+      "target": 197,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "R Dravid",
+            "runs": 42,
+            "balls": 24,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": "bowled by DT Christian",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 44,
+            "balls": 31,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by DT Christian, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AL Menaria",
+            "runs": 22,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by JP Duminy, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "OA Shah",
+            "runs": 12,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AA Jhunjhunwala, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 48,
+            "balls": 20,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "J Botha",
+            "runs": 14,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by T Mishra, bowled by Anand Rajan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DH Yagnik",
+            "runs": 9,
+            "balls": 3,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Ankit Sharma",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "DW Steyn",
+            "overs": 3.4,
+            "runs_conceded": 44,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "DT Christian",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "Anand Rajan",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 1,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 3,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 191,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 1,
+          "total": 197
+        }
+      }
     }
   ]
 }

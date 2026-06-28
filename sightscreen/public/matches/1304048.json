@@ -697,7 +697,132 @@
         }
       },
       "pressure_index": 0.92,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 41,
+            "balls": 32,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by R Powell, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 81,
+            "balls": 48,
+            "fours": 11,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Anmolpreet Singh",
+            "runs": 8,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Lalit Yadav, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 22,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by PP Shaw, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by TL Seifert, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TH David",
+            "runs": 12,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Mandeep Singh, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DR Sams",
+            "runs": 7,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SN Thakur",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 0,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "KK Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "KL Nagarkoti",
+            "overs": 2.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 14.5,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 3,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "Lalit Yadav",
+            "overs": 2.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 174,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 177
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1360,7 +1485,133 @@
       },
       "pressure_index": 0.828,
       "match_shape": 0.986,
-      "target": 178
+      "target": 178,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PP Shaw",
+            "runs": 38,
+            "balls": 24,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by Ishan Kishan, bowled by Basil Thampi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TL Seifert",
+            "runs": 21,
+            "balls": 14,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by M Ashwin",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Tilak Varma, bowled by M Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by TH David, bowled by TS Mills",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Lalit Yadav",
+            "runs": 48,
+            "balls": 38,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Powell",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DR Sams, bowled by Basil Thampi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SN Thakur",
+            "runs": 22,
+            "balls": 11,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by Basil Thampi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 38,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DR Sams",
+            "overs": 4.0,
+            "runs_conceded": 57,
+            "wickets": 0,
+            "economy": 14.25,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 3.2,
+            "runs_conceded": 43,
+            "wickets": 0,
+            "economy": 12.9,
+            "maidens": 0
+          },
+          {
+            "name": "Basil Thampi",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 3,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "M Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "TS Mills",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 8.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 168,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 7,
+          "noballs": 0,
+          "total": 179
+        }
+      }
     }
   ]
 }

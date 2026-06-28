@@ -742,7 +742,132 @@
         }
       },
       "pressure_index": 0.387,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PD Salt",
+            "runs": 75,
+            "balls": 36,
+            "fours": 6,
+            "sixes": 6,
+            "dismissal": "bowled by SM Curran",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 71,
+            "balls": 32,
+            "fours": 9,
+            "sixes": 4,
+            "dismissal": "caught by JM Bairstow, bowled by RD Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VR Iyer",
+            "runs": 39,
+            "balls": 23,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "run out by JM Sharma",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 24,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by HV Patel, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 28,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by K Rabada, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RK Singh",
+            "runs": 5,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Ashutosh Sharma, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ramandeep Singh",
+            "runs": 6,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SM Curran",
+            "overs": 4.0,
+            "runs_conceded": 60,
+            "wickets": 1,
+            "economy": 15.0,
+            "maidens": 0
+          },
+          {
+            "name": "Arshdeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 2,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 3.0,
+            "runs_conceded": 48,
+            "wickets": 1,
+            "economy": 16.0,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 3.0,
+            "runs_conceded": 52,
+            "wickets": 0,
+            "economy": 17.33,
+            "maidens": 0
+          },
+          {
+            "name": "RD Chahar",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "Harpreet Brar",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 248,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 10,
+          "noballs": 1,
+          "total": 261
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1525,113 @@
       },
       "pressure_index": 0.925,
       "match_shape": 0.999,
-      "target": 262
+      "target": 262,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "P Simran Singh",
+            "runs": 54,
+            "balls": 20,
+            "fours": 4,
+            "sixes": 5,
+            "dismissal": "run out by SP Narine",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "JM Bairstow",
+            "runs": 108,
+            "balls": 48,
+            "fours": 8,
+            "sixes": 9,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RR Rossouw",
+            "runs": 26,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by SS Iyer, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shashank Singh",
+            "runs": 68,
+            "balls": 28,
+            "fours": 2,
+            "sixes": 8,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "PVD Chameera",
+            "overs": 3.0,
+            "runs_conceded": 48,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harshit Rana",
+            "overs": 4.0,
+            "runs_conceded": 61,
+            "wickets": 0,
+            "economy": 15.25,
+            "maidens": 0
+          },
+          {
+            "name": "AS Roy",
+            "overs": 2.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 18.0,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 3.0,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 15.33,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 2.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 18.0,
+            "maidens": 0
+          },
+          {
+            "name": "Ramandeep Singh",
+            "overs": 0.4,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 13.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 256,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 0,
+          "total": 262
+        }
+      }
     }
   ]
 }

@@ -707,7 +707,140 @@
         }
       },
       "pressure_index": 0.81,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 15,
+            "balls": 10,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by KC Sangakkara, bowled by B Lee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "ML Hayden",
+            "runs": 25,
+            "balls": 16,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "bowled by IK Pathan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MEK Hussey",
+            "runs": 116,
+            "balls": 54,
+            "fours": 8,
+            "sixes": 9,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by JR Hopes",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 32,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by IK Pathan, bowled by WA Mota",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JDP Oram",
+            "runs": 13,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by IK Pathan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 31,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Lee",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "S Sreesanth",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hopes",
+            "overs": 4.0,
+            "runs_conceded": 53,
+            "wickets": 1,
+            "economy": 13.25,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 2,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "K Goel",
+            "overs": 2.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 1.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 19.0,
+            "maidens": 0
+          },
+          {
+            "name": "WA Mota",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 234,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 1,
+          "total": 240
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1538,115 @@
       },
       "pressure_index": 0.3,
       "match_shape": 0.369,
-      "target": 241
+      "target": 241,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "K Goel",
+            "runs": 24,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by PA Patel, bowled by MS Gony",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JR Hopes",
+            "runs": 71,
+            "balls": 33,
+            "fours": 10,
+            "sixes": 3,
+            "dismissal": "caught by Joginder Sharma, bowled by P Amarnath",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 54,
+            "balls": 33,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by Joginder Sharma, bowled by M Muralitharan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 23,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by P Amarnath, bowled by Joginder Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SM Katich",
+            "runs": 21,
+            "balls": 17,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JDP Oram",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "MS Gony",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "P Amarnath",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "Joginder Sharma",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 1,
+            "economy": 11.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 196,
+          "byes": 2,
+          "legbyes": 4,
+          "wides": 5,
+          "noballs": 0,
+          "total": 207
+        }
+      }
     }
   ]
 }

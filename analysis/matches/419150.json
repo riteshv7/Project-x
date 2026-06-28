@@ -727,7 +727,132 @@
         }
       },
       "pressure_index": 0.8,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "ST Jayasuriya",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AA Jhunjhunwala, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 89,
+            "balls": 59,
+            "fours": 10,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by NV Ojha, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 15,
+            "balls": 9,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by AP Dole, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 31,
+            "balls": 32,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by MJ Lumb, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 25,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "bowled by AP Dole",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Sathish",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "YK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 3,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "AP Dole",
+            "overs": 3.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 11.33,
+            "maidens": 0
+          },
+          {
+            "name": "AA Jhunjhunwala",
+            "overs": 1.0,
+            "runs_conceded": 6,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 162,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 8,
+          "noballs": 0,
+          "total": 174
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1420,7 +1545,150 @@
       },
       "pressure_index": 0.241,
       "match_shape": 0.43,
-      "target": 175
+      "target": 175,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MJ Lumb",
+            "runs": 8,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by JP Duminy, bowled by DS Kulkarni",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 0,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SR Tendulkar, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "FY Fazal",
+            "runs": 10,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by ST Jayasuriya, Harbhajan Singh",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by AT Rayudu",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "AA Jhunjhunwala",
+            "runs": 22,
+            "balls": 22,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by SS Tiwary, AT Rayudu",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "AC Voges",
+            "runs": 28,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by AT Rayudu, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 10,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Harbhajan Singh, bowled by KA Pollard",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AS Raut",
+            "runs": 20,
+            "balls": 17,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AP Dole",
+            "runs": 30,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by S Dhawan, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 4.25,
+            "maidens": 1
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "ST Jayasuriya",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 129,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 7,
+          "noballs": 0,
+          "total": 137
+        }
+      }
     }
   ]
 }

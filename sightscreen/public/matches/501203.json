@@ -702,7 +702,122 @@
         }
       },
       "pressure_index": 0.94,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JH Kallis",
+            "runs": 53,
+            "balls": 45,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": "caught by S Dhawan, bowled by JP Duminy",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Bisla",
+            "runs": 19,
+            "balls": 21,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by A Mishra",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 29,
+            "balls": 18,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by A Mishra",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Tiwary",
+            "runs": 30,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 22,
+            "balls": 15,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by IR Jaggi, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "DT Christian",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "DB Ravi Teja",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "JP Duminy",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 153,
+          "byes": 5,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 0,
+          "total": 163
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1515,159 @@
       },
       "pressure_index": 0.572,
       "match_shape": 0.534,
-      "target": 164
+      "target": 164,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "S Dhawan",
+            "runs": 7,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by EJG Morgan",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "IR Jaggi",
+            "runs": 3,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Iqbal Abdulla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "B Chipli",
+            "runs": 48,
+            "balls": 40,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "caught by JH Kallis, bowled by R Bhatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 16,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by JH Kallis, bowled by R Bhatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 6,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JH Kallis, bowled by Iqbal Abdulla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DT Christian",
+            "runs": 25,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by RN ten Doeschate, bowled by Iqbal Abdulla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DB Ravi Teja",
+            "runs": 14,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by JH Kallis, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DW Steyn",
+            "runs": 13,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by JD Unadkat",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "A Mishra",
+            "runs": 12,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "I Sharma",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Iqbal Abdulla",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 3,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "RN ten Doeschate",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 145,
+          "byes": 2,
+          "legbyes": 3,
+          "wides": 4,
+          "noballs": 0,
+          "total": 154
+        }
+      }
     }
   ]
 }

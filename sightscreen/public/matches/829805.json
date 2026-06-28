@@ -732,7 +732,123 @@
         }
       },
       "pressure_index": 0.803,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "LMP Simmons",
+            "runs": 14,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by MK Pandey, bowled by M Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 21,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by Shakib Al Hasan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 30,
+            "balls": 21,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "bowled by SP Narine",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AD Russell, bowled by Shakib Al Hasan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 33,
+            "balls": 38,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 61,
+            "balls": 29,
+            "fours": 8,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "UT Yadav",
+            "overs": 3.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 12.33,
+            "maidens": 0
+          },
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 161,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 6,
+          "noballs": 3,
+          "total": 171
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1445,7 +1561,158 @@
       },
       "pressure_index": 0.924,
       "match_shape": 0.746,
-      "target": 172
+      "target": 172,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 25,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by SL Malinga, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 38,
+            "balls": 29,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "bowled by J Suchith",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by LMP Simmons",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 52,
+            "balls": 37,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by PA Patel, bowled by KA Pollard",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "runs": 23,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by HH Pandya, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PA Patel, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 11,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by AT Rayudu, bowled by MJ McClenaghan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 1,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "UT Yadav",
+            "runs": 5,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "MJ McClenaghan",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "J Suchith",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 1.0,
+            "runs_conceded": 6,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 158,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 7,
+          "noballs": 0,
+          "total": 166
+        }
+      }
     }
   ]
 }

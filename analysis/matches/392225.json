@@ -707,7 +707,140 @@
         }
       },
       "pressure_index": 0.989,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RJ Quiney",
+            "runs": 51,
+            "balls": 40,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "bowled by SL Malinga",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "GC Smith",
+            "runs": 19,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by JP Duminy, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 17,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by SL Malinga, bowled by C Nanda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 42,
+            "balls": 32,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by DJ Bravo, bowled by ST Jayasuriya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SD Chitnis",
+            "runs": 6,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AM Nayar, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by ST Jayasuriya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "J Botha",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DS Kulkarni",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "JP Duminy",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 5.67,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "C Nanda",
+            "overs": 1.0,
+            "runs_conceded": 4,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "ST Jayasuriya",
+            "overs": 1.0,
+            "runs_conceded": 3,
+            "wickets": 2,
+            "economy": 3.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 138,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 4,
+          "noballs": 0,
+          "total": 145
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1420,7 +1553,168 @@
       },
       "pressure_index": 0.946,
       "match_shape": 0.932,
-      "target": 146
+      "target": 146,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DJ Bravo",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by MM Patel",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "YV Takawale",
+            "runs": 18,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by NV Ojha, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AS Raut, bowled by SK Warne",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 40,
+            "balls": 30,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by SK Warne",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "ST Jayasuriya",
+            "runs": 16,
+            "balls": 20,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by YK Pathan, bowled by SK Warne",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SK Trivedi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 35,
+            "balls": 18,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "run out by NV Ojha",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 7,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DS Kulkarni",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by MM Patel",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "C Nanda",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by YK Pathan",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SL Malinga",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by SK Warne, MM Patel",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "YK Pathan",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "MM Patel",
+            "overs": 3.5,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.74,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 3,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "J Botha",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 1.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 18.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 125,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 14,
+          "noballs": 1,
+          "total": 143
+        }
+      }
     }
   ]
 }

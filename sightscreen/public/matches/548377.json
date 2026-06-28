@@ -747,7 +747,140 @@
         }
       },
       "pressure_index": 0.83,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "R Dravid",
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by DS Kulkarni",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 13,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by DS Kulkarni",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 45,
+            "balls": 36,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by DR Smith, bowled by KA Pollard",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 30,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "run out by KA Pollard",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "OA Shah",
+            "runs": 28,
+            "balls": 24,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AL Menaria",
+            "runs": 21,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught and bowled by DS Kulkarni",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "DH Yagnik",
+            "runs": 6,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by SL Malinga",
+            "dismissal_type": "caught and bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "RP Singh",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 3,
+            "economy": 4.5,
+            "maidens": 1
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "DR Smith",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "JEC Franklin",
+            "overs": 1.0,
+            "runs_conceded": 6,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 148,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 11,
+          "noballs": 2,
+          "total": 162
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1548,87 @@
       },
       "pressure_index": 0.412,
       "match_shape": 0.998,
-      "target": 163
+      "target": 163,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SR Tendulkar",
+            "runs": 58,
+            "balls": 51,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DR Smith",
+            "runs": 87,
+            "balls": 57,
+            "fours": 10,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Chandila",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 5.67,
+            "maidens": 0
+          },
+          {
+            "name": "SW Tait",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "GB Hogg",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "STR Binny",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 145,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 15,
+          "noballs": 1,
+          "total": 163
+        }
+      }
     }
   ]
 }

@@ -727,7 +727,131 @@
         }
       },
       "pressure_index": 0.881,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AG Paunikar",
+            "runs": 9,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by JH Kallis, bowled by Shakib Al Hasan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Dravid",
+            "runs": 35,
+            "balls": 34,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by YK Pathan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AL Menaria",
+            "runs": 27,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught and bowled by YK Pathan",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 22,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "bowled by Shakib Al Hasan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "LRPL Taylor",
+            "runs": 35,
+            "balls": 25,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "J Botha",
+            "runs": 12,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Lee",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 1.0,
+            "runs_conceded": 4,
+            "wickets": 2,
+            "economy": 4.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 140,
+          "byes": 1,
+          "legbyes": 6,
+          "wides": 12,
+          "noballs": 0,
+          "total": 159
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1375,7 +1499,104 @@
       },
       "pressure_index": 0.358,
       "match_shape": 0.997,
-      "target": 160
+      "target": 160,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MS Bisla",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by AG Paunikar, FY Fazal",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 80,
+            "balls": 65,
+            "fours": 7,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 75,
+            "balls": 43,
+            "fours": 11,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AL Menaria",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Singh",
+            "overs": 2.3,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 10.4,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "ND Doshi",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "J Botha",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 156,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 3,
+          "noballs": 1,
+          "total": 160
+        }
+      }
     }
   ]
 }

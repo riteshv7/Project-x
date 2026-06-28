@@ -687,7 +687,141 @@
         }
       },
       "pressure_index": 0.583,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DR Smith",
+            "runs": 18,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by JA Morkel",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 11,
+            "balls": 21,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JP Duminy, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 11,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JP Duminy, bowled by J Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 29,
+            "balls": 23,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by JA Morkel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 27,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by S Nadeem, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 8,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by JP Duminy, bowled by GS Sandhu",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Negi",
+            "runs": 5,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Nadeem",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 4.5,
+            "maidens": 1
+          },
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 9,
+            "wickets": 2,
+            "economy": 2.25,
+            "maidens": 1
+          },
+          {
+            "name": "GS Sandhu",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "JA Morkel",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "J Yadav",
+            "overs": 2.0,
+            "runs_conceded": 8,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 7.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 112,
+          "byes": 0,
+          "legbyes": 7,
+          "wides": 0,
+          "noballs": 0,
+          "total": 119
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1265,7 +1399,123 @@
       },
       "pressure_index": 0.218,
       "match_shape": 0.991,
-      "target": 120
+      "target": 120,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Q de Kock",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Ashwin, bowled by IC Pandey",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 70,
+            "balls": 49,
+            "fours": 10,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by IC Pandey",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 32,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by MM Sharma, bowled by P Negi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 8,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by IC Pandey, bowled by P Negi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "IC Pandey",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 1
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 2.4,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "P Negi",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 9.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 120,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 0,
+          "noballs": 0,
+          "total": 120
+        }
+      }
     }
   ]
 }

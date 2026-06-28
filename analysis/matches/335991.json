@@ -707,7 +707,168 @@
         }
       },
       "pressure_index": 0.957,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "K Goel",
+            "runs": 18,
+            "balls": 21,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "run out by DJ Bravo, L Ronchi",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 6,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DS Kulkarni, bowled by A Nehra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 94,
+            "balls": 56,
+            "fours": 13,
+            "sixes": 1,
+            "dismissal": "caught by DS Kulkarni, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 18,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by DJ Bravo, bowled by SM Pollock",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Sarwan",
+            "runs": 7,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Harbhajan Singh, bowled by A Nehra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 12,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by AM Rahane, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Sohal",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Nehra, bowled by DS Kulkarni",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Lee",
+            "runs": 16,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Harbhajan Singh",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "S Sreesanth",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by L Ronchi, bowled by DS Kulkarni",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VRV Singh",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by Harbhajan Singh, L Ronchi",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SM Pollock",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Nehra",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 3,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "MA Khote",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 175,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 4,
+          "noballs": 1,
+          "total": 182
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1576,160 @@
       },
       "pressure_index": 0.334,
       "match_shape": 0.393,
-      "target": 183
+      "target": 183,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "L Ronchi",
+            "runs": 11,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "run out by B Lee",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "ST Jayasuriya",
+            "runs": 1,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by B Lee",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 21,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by RR Sarwan, bowled by VRV Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 23,
+            "balls": 21,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 17,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SM Pollock",
+            "runs": 22,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by Yuvraj Singh, bowled by S Sreesanth",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PP Chawla, bowled by IK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by IK Pathan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "MA Khote",
+            "runs": 8,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "hit wicket, bowled by S Sreesanth",
+            "dismissal_type": "hit wicket"
+          },
+          {
+            "name": "DS Kulkarni",
+            "runs": 2,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Nehra",
+            "runs": 2,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Lee",
+            "overs": 4.0,
+            "runs_conceded": 9,
+            "wickets": 1,
+            "economy": 2.25,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 4.75,
+            "maidens": 1
+          },
+          {
+            "name": "VRV Singh",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Sreesanth",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 2,
+            "economy": 4.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 109,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 4,
+          "noballs": 2,
+          "total": 116
+        }
+      }
     }
   ]
 }

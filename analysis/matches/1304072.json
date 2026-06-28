@@ -707,7 +707,123 @@
         }
       },
       "pressure_index": 0.69,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KL Rahul",
+            "runs": 103,
+            "balls": 60,
+            "fours": 9,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Q de Kock",
+            "runs": 24,
+            "balls": 13,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by FA Allen",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 38,
+            "balls": 29,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "bowled by M Ashwin",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 10,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by RG Sharma, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 15,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Ishan Kishan, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Tilak Varma",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "TS Mills",
+            "overs": 3.0,
+            "runs_conceded": 54,
+            "wickets": 0,
+            "economy": 18.0,
+            "maidens": 0
+          },
+          {
+            "name": "FA Allen",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 191,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 5,
+          "noballs": 0,
+          "total": 199
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1410,7 +1526,159 @@
       },
       "pressure_index": 0.417,
       "match_shape": 0.446,
-      "target": 200
+      "target": 200,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Ishan Kishan",
+            "runs": 13,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by MP Stoinis",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Q de Kock, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Brevis",
+            "runs": 31,
+            "balls": 13,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "caught by DJ Hooda, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 37,
+            "balls": 27,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by K Gowtham, bowled by Ravi Bishnoi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 26,
+            "balls": 26,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by JO Holder",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 25,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by MP Stoinis, bowled by PVD Chameera",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "FA Allen",
+            "runs": 8,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by PVD Chameera, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JD Unadkat",
+            "runs": 14,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "run out by Q de Kock, MP Stoinis",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "M Ashwin",
+            "runs": 6,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by Q de Kock, PVD Chameera",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "TS Mills",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JO Holder",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "PVD Chameera",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Avesh Khan",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 3,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "MP Stoinis",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 166,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 9,
+          "noballs": 0,
+          "total": 181
+        }
+      }
     }
   ]
 }

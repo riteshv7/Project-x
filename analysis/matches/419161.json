@@ -697,7 +697,158 @@
         }
       },
       "pressure_index": 0.653,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AP Tare",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by M Kartik, bowled by SE Bond",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 10,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by SE Bond",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 46,
+            "balls": 37,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by BB McCullum, bowled by M Kartik",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 19,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by JD Unadkat",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Sathish",
+            "runs": 11,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by M Kartik, bowled by MK Tiwary",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 5,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by WP Saha, bowled by M Kartik",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 27,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "run out by AB Dinda",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 8,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SC Ganguly, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R McLaren",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SE Bond",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "AB Dinda",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "SC Ganguly",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Kartik",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Hussey",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "MK Tiwary",
+            "overs": 1.0,
+            "runs_conceded": 11,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 127,
+          "byes": 2,
+          "legbyes": 2,
+          "wides": 2,
+          "noballs": 0,
+          "total": 133
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1330,7 +1481,104 @@
       },
       "pressure_index": 0.202,
       "match_shape": 0.995,
-      "target": 134
+      "target": 134,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SC Ganguly",
+            "runs": 42,
+            "balls": 36,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by DJ Bravo, bowled by R Sathish",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 57,
+            "balls": 55,
+            "fours": 8,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 20,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AG Murtaza",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "CRD Fernando",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "R McLaren",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 2.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "STR Binny",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "JP Duminy",
+            "overs": 2.3,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 8.8,
+            "maidens": 0
+          },
+          {
+            "name": "R Sathish",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 119,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 9,
+          "noballs": 5,
+          "total": 135
+        }
+      }
     }
   ]
 }

@@ -717,7 +717,105 @@
         }
       },
       "pressure_index": 0.61,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RD Rickelton",
+            "runs": 61,
+            "balls": 38,
+            "fours": 7,
+            "sixes": 3,
+            "dismissal": "bowled by M Theekshana",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 53,
+            "balls": 36,
+            "fours": 9,
+            "sixes": 0,
+            "dismissal": "caught by YBK Jaiswal, bowled by R Parag",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 48,
+            "balls": 23,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 48,
+            "balls": 23,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JC Archer",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "Fazalhaq Farooqi",
+            "overs": 4.0,
+            "runs_conceded": 54,
+            "wickets": 0,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Theekshana",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 1,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "K Kartikeya",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Akash Madhwal",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Parag",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 210,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 6,
+          "noballs": 0,
+          "total": 217
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1295,7 +1393,168 @@
       },
       "pressure_index": 0.121,
       "match_shape": 0.165,
-      "target": 218
+      "target": 218,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 13,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "bowled by TA Boult",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "V Suryavanshi",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by WG Jacks, bowled by DL Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 9,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Tilak Varma, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Parag",
+            "runs": 16,
+            "balls": 8,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Dhruv Jurel",
+            "runs": 11,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught and bowled by KV Sharma",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SA Yadav, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SB Dubey",
+            "runs": 15,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by TA Boult, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Archer",
+            "runs": 30,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by JJ Bumrah, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Theekshana",
+            "runs": 2,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SA Yadav, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "K Kartikeya",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DL Chahar, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Akash Madhwal",
+            "runs": 4,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "TA Boult",
+            "overs": 2.1,
+            "runs_conceded": 28,
+            "wickets": 3,
+            "economy": 12.92,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 2,
+            "economy": 3.75,
+            "maidens": 0
+          },
+          {
+            "name": "C Bosch",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 1.0,
+            "runs_conceded": 2,
+            "wickets": 1,
+            "economy": 2.0,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 3,
+            "economy": 5.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 102,
+          "byes": 0,
+          "legbyes": 7,
+          "wides": 8,
+          "noballs": 0,
+          "total": 117
+        }
+      }
     }
   ]
 }

@@ -702,7 +702,132 @@
         }
       },
       "pressure_index": 0.992,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Q de Kock",
+            "runs": 1,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Zeeshan Ansari, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 7,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by H Klaasen, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 38,
+            "balls": 27,
+            "fours": 1,
+            "sixes": 4,
+            "dismissal": "caught by H Klaasen, bowled by Zeeshan Ansari",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Raghuvanshi",
+            "runs": 50,
+            "balls": 32,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by HV Patel, bowled by PHKD Mendis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VR Iyer",
+            "runs": 60,
+            "balls": 29,
+            "fours": 7,
+            "sixes": 3,
+            "dismissal": "caught by Aniket Verma, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RK Singh",
+            "runs": 32,
+            "balls": 17,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AD Russell",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by H Klaasen",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Simarjeet Singh",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 0,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "Zeeshan Ansari",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "PHKD Mendis",
+            "overs": 1.0,
+            "runs_conceded": 4,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 189,
+          "byes": 0,
+          "legbyes": 8,
+          "wides": 3,
+          "noballs": 0,
+          "total": 200
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1305,7 +1430,160 @@
       },
       "pressure_index": 0.136,
       "match_shape": 0.231,
-      "target": 201
+      "target": 201,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "TM Head",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Harshit Rana, bowled by VG Arora",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by VG Arora",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by VR Iyer, bowled by Harshit Rana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PHKD Mendis",
+            "runs": 27,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by AS Roy, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "runs": 19,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by SP Narine, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 33,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by MM Ali, bowled by VG Arora",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Aniket Verma",
+            "runs": 6,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by VR Iyer, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PJ Cummins",
+            "runs": 14,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Harshit Rana, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HV Patel",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by AD Russell",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "Simarjeet Singh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by CV Varun",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Mohammed Shami",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "VG Arora",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 3,
+            "economy": 7.25,
+            "maidens": 1
+          },
+          {
+            "name": "Harshit Rana",
+            "overs": 3.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 3,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 1.4,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 12.6,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 112,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 5,
+          "noballs": 0,
+          "total": 120
+        }
+      }
     }
   ]
 }

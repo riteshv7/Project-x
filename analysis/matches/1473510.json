@@ -717,7 +717,141 @@
         }
       },
       "pressure_index": 0.758,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 8,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Vijaykumar Vyshak, bowled by MP Stoinis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Bairstow",
+            "runs": 38,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by JP Inglis, bowled by Vijaykumar Vyshak",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 44,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by Priyansh Arya, bowled by KA Jamieson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 44,
+            "balls": 26,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "caught by N Wadhera, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 15,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by JP Inglis, bowled by Azmatullah Omarzai",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Naman Dhir",
+            "runs": 37,
+            "balls": 18,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "caught by MP Stoinis, bowled by Azmatullah Omarzai",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Bawa",
+            "runs": 8,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MJ Santner",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Arshdeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "KA Jamieson",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "MP Stoinis",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "Azmatullah Omarzai",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 2,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "Vijaykumar Vyshak",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 194,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 4,
+          "noballs": 2,
+          "total": 203
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1385,7 +1519,132 @@
       },
       "pressure_index": 0.89,
       "match_shape": 0.99,
-      "target": 204
+      "target": 204,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Priyansh Arya",
+            "runs": 20,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by HH Pandya, bowled by Ashwani Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Simran Singh",
+            "runs": 6,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RJW Topley, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Inglis",
+            "runs": 38,
+            "balls": 21,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by JM Bairstow, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 87,
+            "balls": 40,
+            "fours": 5,
+            "sixes": 8,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "N Wadhera",
+            "runs": 48,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by MJ Santner, bowled by Ashwani Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shashank Singh",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by HH Pandya",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "RJW Topley",
+            "overs": 3.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 13.33,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Ashwani Kumar",
+            "overs": 4.0,
+            "runs_conceded": 55,
+            "wickets": 2,
+            "economy": 13.75,
+            "maidens": 0
+          },
+          {
+            "name": "MJ Santner",
+            "overs": 2.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 203,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 3,
+          "noballs": 1,
+          "total": 207
+        }
+      }
     }
   ]
 }

@@ -692,7 +692,151 @@
         }
       },
       "pressure_index": 0.465,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JJ Roy",
+            "runs": 10,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by TG Southee, bowled by Shivam Mavi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by TG Southee",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 26,
+            "balls": 21,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "run out by Shakib Al Hasan",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "PK Garg",
+            "runs": 21,
+            "balls": 31,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by RA Tripathi, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 6,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by KD Karthik, bowled by Shakib Al Hasan",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 25,
+            "balls": 18,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "caught by Shubman Gill, bowled by TG Southee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JO Holder",
+            "runs": 2,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by VR Iyer, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 8,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by VR Iyer, bowled by Shivam Mavi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 7,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "S Kaul",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TG Southee",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "Shivam Mavi",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 3.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 112,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 0,
+          "noballs": 1,
+          "total": 115
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1370,7 +1514,115 @@
       },
       "pressure_index": 0.3,
       "match_shape": 0.968,
-      "target": 116
+      "target": 116,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Shubman Gill",
+            "runs": 57,
+            "balls": 51,
+            "fours": 10,
+            "sixes": 0,
+            "dismissal": "caught by JO Holder, bowled by S Kaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VR Iyer",
+            "runs": 8,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KS Williamson, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 7,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Abhishek Sharma, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 25,
+            "balls": 33,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 18,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "JO Holder",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Umran Malik",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 3.4,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 4.64,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 117,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 0,
+          "total": 119
+        }
+      }
     }
   ]
 }

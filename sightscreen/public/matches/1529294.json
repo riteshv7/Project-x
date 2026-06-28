@@ -697,7 +697,159 @@
         }
       },
       "pressure_index": 0.823,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "P Nissanka",
+            "runs": 50,
+            "balls": 29,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "stumped by A Raghuvanshi, bowled by AS Roy",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "KL Rahul",
+            "runs": 23,
+            "balls": 14,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by C Green, bowled by Kartik Tyagi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 8,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SP Narine, bowled by C Green",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Sameer Rizvi",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Powell, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "T Stubbs",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by AS Roy",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 11,
+            "balls": 22,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AS Roy, bowled by VG Arora",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ashutosh Sharma",
+            "runs": 39,
+            "balls": 28,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by AM Rahane, bowled by Kartik Tyagi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Nigam",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MA Starc",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by A Raghuvanshi, Kartik Tyagi",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "L Ngidi",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AS Roy",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "VG Arora",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "Kartik Tyagi",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "C Green",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 140,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 0,
+          "total": 142
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1200,12 +1352,110 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.335,
       "match_shape": 0.997,
-      "target": 143
+      "target": 143,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 13,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "run out by MA Starc",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "FH Allen",
+            "runs": 100,
+            "balls": 47,
+            "fours": 5,
+            "sixes": 10,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Raghuvanshi",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by AR Patel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "C Green",
+            "runs": 33,
+            "balls": 27,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MA Starc",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "L Ngidi",
+            "overs": 2.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "V Nigam",
+            "overs": 2.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 17.0,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 3.0,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 13.67,
+            "maidens": 0
+          },
+          {
+            "name": "Mukesh Kumar",
+            "overs": 0.2,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 21.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 147,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 0,
+          "noballs": 0,
+          "total": 147
+        }
+      }
     }
   ]
 }

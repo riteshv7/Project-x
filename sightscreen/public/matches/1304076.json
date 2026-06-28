@@ -722,7 +722,132 @@
         }
       },
       "pressure_index": 0.575,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JC Buttler",
+            "runs": 103,
+            "balls": 60,
+            "fours": 10,
+            "sixes": 5,
+            "dismissal": "caught by CV Varun, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 24,
+            "balls": 18,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "bowled by SP Narine",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 38,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by Shivam Mavi, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 26,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Parag",
+            "runs": 5,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Shivam Mavi, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PJ Cummins, bowled by Shivam Mavi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shivam Mavi",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 2.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 15.0,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 1,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 2.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 14.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 201,
+          "byes": 3,
+          "legbyes": 6,
+          "wides": 6,
+          "noballs": 1,
+          "total": 217
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1455,7 +1580,151 @@
       },
       "pressure_index": 0.927,
       "match_shape": 0.833,
-      "target": 218
+      "target": 218,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AJ Finch",
+            "runs": 58,
+            "balls": 28,
+            "fours": 9,
+            "sixes": 2,
+            "dismissal": "caught by KK Nair, bowled by M Prasidh Krishna",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 85,
+            "balls": 51,
+            "fours": 7,
+            "sixes": 4,
+            "dismissal": "lbw, bowled by YS Chahal",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "N Rana",
+            "runs": 18,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by JC Buttler, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by R Ashwin",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "VR Iyer",
+            "runs": 6,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by SV Samson, bowled by YS Chahal",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "SP Jackson",
+            "runs": 8,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by M Prasidh Krishna, bowled by OC McCoy",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shivam Mavi",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Parag, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PJ Cummins",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SV Samson, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "UT Yadav",
+            "runs": 21,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "bowled by OC McCoy",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "CV Varun",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Prasidh Krishna",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "OC McCoy",
+            "overs": 3.4,
+            "runs_conceded": 41,
+            "wickets": 2,
+            "economy": 11.18,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 5,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 197,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 13,
+          "noballs": 0,
+          "total": 210
+        }
+      }
     }
   ]
 }

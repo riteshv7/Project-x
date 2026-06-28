@@ -692,7 +692,132 @@
         }
       },
       "pressure_index": 0.757,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CH Gayle",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JP Duminy, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 55,
+            "balls": 33,
+            "fours": 9,
+            "sixes": 1,
+            "dismissal": "caught by Mohammed Shami, bowled by CR Brathwaite",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 79,
+            "balls": 48,
+            "fours": 7,
+            "sixes": 3,
+            "dismissal": "caught by SS Iyer, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 33,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by CH Morris, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SN Khan",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by Mohammed Shami",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 9,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "D Wiese",
+            "runs": 5,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 1,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "CH Morris",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "P Negi",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "CR Brathwaite",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 182,
+          "byes": 0,
+          "legbyes": 8,
+          "wides": 1,
+          "noballs": 0,
+          "total": 191
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1380,7 +1505,114 @@
       },
       "pressure_index": 0.849,
       "match_shape": 0.996,
-      "target": 192
+      "target": 192,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Q de Kock",
+            "runs": 108,
+            "balls": 51,
+            "fours": 15,
+            "sixes": 3,
+            "dismissal": "caught by KM Jadhav, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by D Wiese, bowled by S Aravind",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 9,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by YS Chahal, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 54,
+            "balls": 41,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Aravind",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "Parvez Rasool",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 2.1,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 10.62,
+            "maidens": 0
+          },
+          {
+            "name": "D Wiese",
+            "overs": 4.0,
+            "runs_conceded": 49,
+            "wickets": 0,
+            "economy": 12.25,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 178,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 10,
+          "noballs": 1,
+          "total": 192
+        }
+      }
     }
   ]
 }

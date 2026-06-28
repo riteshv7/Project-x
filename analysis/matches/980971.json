@@ -702,7 +702,132 @@
         }
       },
       "pressure_index": 0.97,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "M Vijay",
+            "runs": 25,
+            "balls": 16,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by CR Brathwaite, bowled by CH Morris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 52,
+            "balls": 44,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by SV Samson, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HM Amla",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by Z Khan, Q de Kock",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 52,
+            "balls": 33,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "caught by CH Morris, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 16,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by CH Morris",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 11,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AR Patel",
+            "runs": 16,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Nadeem",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Shami",
+            "overs": 3.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 11.33,
+            "maidens": 0
+          },
+          {
+            "name": "CH Morris",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "Z Khan",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "CR Brathwaite",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 173,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 3,
+          "noballs": 0,
+          "total": 181
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1390,7 +1515,124 @@
       },
       "pressure_index": 0.966,
       "match_shape": 0.82,
-      "target": 182
+      "target": 182,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Q de Kock",
+            "runs": 52,
+            "balls": 30,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "caught by AR Patel, bowled by MP Stoinis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 49,
+            "balls": 35,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by GJ Maxwell, bowled by MP Stoinis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 23,
+            "balls": 25,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DA Miller, bowled by KC Cariappa",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SW Billings",
+            "runs": 6,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by MP Stoinis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CR Brathwaite",
+            "runs": 12,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Gurkeerat Singh, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CH Morris",
+            "runs": 17,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RR Pant",
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "KC Cariappa",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "MP Stoinis",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 3,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 163,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 3,
+          "noballs": 0,
+          "total": 172
+        }
+      }
     }
   ]
 }

@@ -702,7 +702,132 @@
         }
       },
       "pressure_index": 0.808,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 3,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Kamran Khan, bowled by YK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "ML Hayden",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by YK Pathan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 98,
+            "balls": 54,
+            "fours": 10,
+            "sixes": 5,
+            "dismissal": "caught by GC Smith, bowled by MM Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 29,
+            "balls": 27,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "stumped by M Rawat, bowled by SK Warne",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "JDP Oram",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AD Mascarenhas, bowled by MM Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 22,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 4,
+            "balls": 1,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AD Mascarenhas",
+            "overs": 3.2,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 7.8,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 5.67,
+            "maidens": 0
+          },
+          {
+            "name": "Kamran Khan",
+            "overs": 2.4,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 13.12,
+            "maidens": 0
+          },
+          {
+            "name": "MM Patel",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 159,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 2,
+          "noballs": 1,
+          "total": 164
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1380,7 +1505,159 @@
       },
       "pressure_index": 0.567,
       "match_shape": 0.561,
-      "target": 165
+      "target": 165,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RJ Quiney",
+            "runs": 28,
+            "balls": 31,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by SK Raina",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "GC Smith",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Badrinath, bowled by JA Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Asnodkar",
+            "runs": 10,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "hit wicket, bowled by JA Morkel",
+            "dismissal_type": "hit wicket"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 37,
+            "balls": 33,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by ML Hayden, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 20,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by SK Raina, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Mascarenhas",
+            "runs": 8,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by M Muralitharan, bowled by JDP Oram",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Warne",
+            "runs": 3,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Badrinath, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Rawat",
+            "runs": 8,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MM Patel",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PA Patel, bowled by JDP Oram",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Trivedi",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SK Raina, bowled by L Balaji",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Tyagi",
+            "overs": 2.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "JA Morkel",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "JDP Oram",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 3.3,
+            "runs_conceded": 21,
+            "wickets": 4,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 118,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 3,
+          "noballs": 0,
+          "total": 126
+        }
+      }
     }
   ]
 }

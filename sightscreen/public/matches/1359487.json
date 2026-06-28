@@ -722,7 +722,123 @@
         }
       },
       "pressure_index": 0.828,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WP Saha",
+            "runs": 17,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by N Jagadeesan, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 39,
+            "balls": 31,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by UT Yadav, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Sai Sudharsan",
+            "runs": 53,
+            "balls": 38,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by AS Roy, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Manohar",
+            "runs": 14,
+            "balls": 8,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by Suyash Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 63,
+            "balls": 23,
+            "fours": 4,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DA Miller",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "UT Yadav",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 3.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 13.33,
+            "maidens": 0
+          },
+          {
+            "name": "LH Ferguson",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 3,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 2.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "Suyash Sharma",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 188,
+          "byes": 1,
+          "legbyes": 4,
+          "wides": 10,
+          "noballs": 1,
+          "total": 204
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1531,142 @@
       },
       "pressure_index": 0.499,
       "match_shape": 0.646,
-      "target": 205
+      "target": 205,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Rahmanullah Gurbaz",
+            "runs": 15,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Yash Dayal, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Jagadeesan",
+            "runs": 6,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by A Manohar, bowled by J Little",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VR Iyer",
+            "runs": 83,
+            "balls": 40,
+            "fours": 8,
+            "sixes": 5,
+            "dismissal": "caught by Shubman Gill, bowled by AS Joseph",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 45,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "caught by Mohammed Shami, bowled by AS Joseph",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RK Singh",
+            "runs": 48,
+            "balls": 21,
+            "fours": 1,
+            "sixes": 6,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AD Russell",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KS Bharat, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by J Yadav, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SN Thakur",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Rashid Khan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "UT Yadav",
+            "runs": 5,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "J Little",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 1,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "AS Joseph",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Dayal",
+            "overs": 4.0,
+            "runs_conceded": 69,
+            "wickets": 0,
+            "economy": 17.25,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 3,
+            "economy": 9.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 203,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 0,
+          "total": 207
+        }
+      }
     }
   ]
 }

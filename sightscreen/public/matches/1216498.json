@@ -712,7 +712,133 @@
         }
       },
       "pressure_index": 0.717,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KL Rahul",
+            "runs": 27,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by Rashid Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 17,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Rashid Khan, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 20,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by DA Warner, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 12,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DA Warner, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 32,
+            "balls": 28,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by JM Bairstow, bowled by Rashid Khan",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "CJ Jordan",
+            "runs": 7,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KK Ahmed, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Ashwin",
+            "runs": 4,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "KK Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "JO Holder",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 5.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 119,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 5,
+          "noballs": 0,
+          "total": 126
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1531,151 @@
       },
       "pressure_index": 0.364,
       "match_shape": 0.958,
-      "target": 127
+      "target": 127,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 35,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by KL Rahul, bowled by Ravi Bishnoi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Bairstow",
+            "runs": 19,
+            "balls": 20,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by M Ashwin",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 15,
+            "balls": 29,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by J Suchith, bowled by CJ Jordan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by CJ Jordan, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 26,
+            "balls": 27,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by KL Rahul, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JO Holder",
+            "runs": 5,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Mandeep Singh, bowled by CJ Jordan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PK Garg",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by CJ Jordan, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by N Pooran, bowled by CJ Jordan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Sandeep Sharma",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by M Ashwin, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Ahmed",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Arshdeep Singh",
+            "overs": 3.5,
+            "runs_conceded": 23,
+            "wickets": 3,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "overs": 4.0,
+            "runs_conceded": 13,
+            "wickets": 1,
+            "economy": 3.25,
+            "maidens": 0
+          },
+          {
+            "name": "CJ Jordan",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 3,
+            "economy": 4.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 110,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 4,
+          "noballs": 0,
+          "total": 114
+        }
+      }
     }
   ]
 }

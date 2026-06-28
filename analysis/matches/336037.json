@@ -717,7 +717,142 @@
         }
       },
       "pressure_index": 0.681,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 5,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Mukund, bowled by MS Gony",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Gibbs",
+            "runs": 8,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by L Balaji, bowled by M Ntini",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SB Styris",
+            "runs": 20,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by M Muralitharan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 46,
+            "balls": 46,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "run out by MS Gony, PA Patel",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "DB Ravi Teja",
+            "runs": 40,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by A Mukund, bowled by JA Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AS Yadav",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by JA Morkel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RP Singh",
+            "runs": 10,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by JA Morkel, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shahid Afridi",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SK Raina, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PP Ojha",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "M Ntini",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "MS Gony",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "JA Morkel",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 131,
+          "byes": 1,
+          "legbyes": 8,
+          "wides": 7,
+          "noballs": 0,
+          "total": 147
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1550,114 @@
       },
       "pressure_index": 0.414,
       "match_shape": 0.938,
-      "target": 148
+      "target": 148,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 20,
+            "balls": 27,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by Shahid Afridi, bowled by PM Sarvesh Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Fleming",
+            "runs": 14,
+            "balls": 9,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by DP Vijaykumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 54,
+            "balls": 43,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 37,
+            "balls": 25,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by HH Gibbs, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 12,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "RP Singh",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "DP Vijaykumar",
+            "overs": 3.2,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 9.6,
+            "maidens": 0
+          },
+          {
+            "name": "Shahid Afridi",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "PM Sarvesh Kumar",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "SB Styris",
+            "overs": 3.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 5.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 137,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 8,
+          "noballs": 0,
+          "total": 148
+        }
+      }
     }
   ]
 }

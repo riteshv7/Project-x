@@ -727,7 +727,114 @@
         }
       },
       "pressure_index": 0.804,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SR Watson",
+            "runs": 31,
+            "balls": 25,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by KD Karthik, bowled by KA Pollard",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 68,
+            "balls": 54,
+            "fours": 8,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DH Yagnik",
+            "runs": 34,
+            "balls": 22,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by SR Tendulkar, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 4,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by MG Johnson, PP Ojha",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 27,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MG Johnson",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Dhawan",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 164,
+          "byes": 0,
+          "legbyes": 7,
+          "wides": 6,
+          "noballs": 2,
+          "total": 179
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1370,7 +1477,168 @@
       },
       "pressure_index": 0.188,
       "match_shape": 0.391,
-      "target": 180
+      "target": 180,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SR Tendulkar",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SK Trivedi, bowled by A Chandila",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RT Ponting",
+            "runs": 4,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by A Chandila",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 30,
+            "balls": 32,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by BJ Hodge, bowled by JP Faulkner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 2,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SR Watson, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 1,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by STR Binny",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 27,
+            "balls": 29,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by KK Cooper",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "R Dhawan",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JP Faulkner, bowled by STR Binny",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by R Dravid, DH Yagnik",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MG Johnson",
+            "runs": 11,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by JP Faulkner",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SL Malinga",
+            "runs": 7,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by JP Faulkner",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "PP Ojha",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Chandila",
+            "overs": 2.0,
+            "runs_conceded": 6,
+            "wickets": 2,
+            "economy": 3.0,
+            "maidens": 0
+          },
+          {
+            "name": "AA Chavan",
+            "overs": 3.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 3.33,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 3.2,
+            "runs_conceded": 16,
+            "wickets": 3,
+            "economy": 4.8,
+            "maidens": 1
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 4.25,
+            "maidens": 1
+          },
+          {
+            "name": "STR Binny",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 4.67,
+            "maidens": 0
+          },
+          {
+            "name": "KK Cooper",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 85,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 3,
+          "noballs": 0,
+          "total": 92
+        }
+      }
     }
   ]
 }

@@ -717,7 +717,141 @@
         }
       },
       "pressure_index": 0.754,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 74,
+            "balls": 48,
+            "fours": 8,
+            "sixes": 2,
+            "dismissal": "bowled by SR Watson",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "UT Khawaja",
+            "runs": 16,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "run out by SR Watson, STR Binny",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 52,
+            "balls": 39,
+            "fours": 9,
+            "sixes": 0,
+            "dismissal": "stumped by KL Rahul, bowled by YS Chahal",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 9,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Parvez Rasool, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NLTC Perera",
+            "runs": 14,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by SR Watson, bowled by CJ Jordan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Bhatia",
+            "runs": 9,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "GJ Bailey",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KL Rahul, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 10,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "STR Binny",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Parvez Rasool",
+            "overs": 3.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 12.33,
+            "maidens": 0
+          },
+          {
+            "name": "CJ Jordan",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 3,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "VR Aaron",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 184,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 6,
+          "noballs": 0,
+          "total": 191
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1385,7 +1519,114 @@
       },
       "pressure_index": 0.93,
       "match_shape": 0.995,
-      "target": 192
+      "target": 192,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "V Kohli",
+            "runs": 108,
+            "balls": 58,
+            "fours": 8,
+            "sixes": 7,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KL Rahul",
+            "runs": 38,
+            "balls": 35,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by GJ Bailey, bowled by A Zampa",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by NLTC Perera, bowled by A Zampa",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 36,
+            "balls": 13,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "lbw, bowled by RP Singh",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "TM Head",
+            "runs": 6,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AB Dinda",
+            "overs": 3.3,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 7.43,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "NLTC Perera",
+            "overs": 3.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 13.33,
+            "maidens": 0
+          },
+          {
+            "name": "A Zampa",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 2,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 0,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 189,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 0,
+          "noballs": 1,
+          "total": 195
+        }
+      }
     }
   ]
 }

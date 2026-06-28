@@ -722,7 +722,150 @@
         }
       },
       "pressure_index": 0.812,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "V Kohli",
+            "runs": 27,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by Abishek Porel, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by J Fraser-McGurk, bowled by Mukesh Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WG Jacks",
+            "runs": 41,
+            "balls": 29,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by AR Patel, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RM Patidar",
+            "runs": 52,
+            "balls": 32,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by AR Patel, bowled by Rasikh Salam",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "C Green",
+            "runs": 32,
+            "balls": 24,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MK Lomror",
+            "runs": 13,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Abishek Porel, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Kuldeep Yadav, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Swapnil Singh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Kumar Kushagra, bowled by Rasikh Salam",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KV Sharma",
+            "runs": 6,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by SD Hope, Mukesh Kumar",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "I Sharma",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "KK Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "Mukesh Kumar",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 52,
+            "wickets": 1,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "Rasikh Salam",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 7.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 177,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 7,
+          "noballs": 0,
+          "total": 187
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1543,176 @@
       },
       "pressure_index": 0.465,
       "match_shape": 0.436,
-      "target": 188
+      "target": 188,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by WG Jacks, bowled by Swapnil Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "J Fraser-McGurk",
+            "runs": 21,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "run out by Yash Dayal",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Abishek Porel",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by LH Ferguson, bowled by Yash Dayal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SD Hope",
+            "runs": 29,
+            "balls": 23,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by KV Sharma, bowled by LH Ferguson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Kumar Kushagra",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Mohammed Siraj",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 57,
+            "balls": 39,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "caught by F du Plessis, bowled by Yash Dayal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "T Stubbs",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by C Green",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Rasikh Salam",
+            "runs": 10,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by WG Jacks, bowled by C Green",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mukesh Kumar",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Lomror, bowled by LH Ferguson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "runs": 6,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Yash Dayal",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "I Sharma",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Swapnil Singh",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Siraj",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Dayal",
+            "overs": 3.1,
+            "runs_conceded": 20,
+            "wickets": 3,
+            "economy": 6.32,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "LH Ferguson",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "C Green",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "WG Jacks",
+            "overs": 1.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 134,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 5,
+          "noballs": 0,
+          "total": 140
+        }
+      }
     }
   ]
 }

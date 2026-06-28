@@ -737,7 +737,132 @@
         }
       },
       "pressure_index": 0.741,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JC Buttler",
+            "runs": 35,
+            "balls": 26,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by N Pooran, bowled by Umran Malik",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YBK Jaiswal",
+            "runs": 20,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by AK Markram, bowled by R Shepherd",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 55,
+            "balls": 27,
+            "fours": 3,
+            "sixes": 5,
+            "dismissal": "caught by Abdul Samad, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 41,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "bowled by Umran Malik",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 32,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "bowled by T Natarajan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Parag",
+            "runs": 12,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by N Pooran, bowled by T Natarajan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NM Coulter-Nile",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Shepherd",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "Umran Malik",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 2,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "Washington Sundar",
+            "overs": 3.0,
+            "runs_conceded": 47,
+            "wickets": 0,
+            "economy": 15.67,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 2,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "Abhishek Sharma",
+            "overs": 1.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 15.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 196,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 6,
+          "noballs": 4,
+          "total": 210
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1440,7 +1565,150 @@
       },
       "pressure_index": 0.043,
       "match_shape": 0.161,
-      "target": 211
+      "target": 211,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KS Williamson",
+            "runs": 2,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by D Padikkal, bowled by M Prasidh Krishna",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 9,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SO Hetmyer, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SV Samson, bowled by M Prasidh Krishna",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 0,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by TA Boult",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AK Markram",
+            "runs": 57,
+            "balls": 41,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Parag, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Shepherd",
+            "runs": 24,
+            "balls": 18,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "bowled by YS Chahal",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Washington Sundar",
+            "runs": 40,
+            "balls": 14,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by SO Hetmyer, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 1
+          },
+          {
+            "name": "M Prasidh Krishna",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 2,
+            "economy": 4.0,
+            "maidens": 1
+          },
+          {
+            "name": "NM Coulter-Nile",
+            "overs": 3.0,
+            "runs_conceded": 48,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 3,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Parag",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 139,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 4,
+          "noballs": 1,
+          "total": 149
+        }
+      }
     }
   ]
 }

@@ -702,7 +702,168 @@
         }
       },
       "pressure_index": 0.892,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MA Agarwal",
+            "runs": 5,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Rashid Khan, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 35,
+            "balls": 30,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by MS Wade, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Bairstow",
+            "runs": 8,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by R Tewatia, bowled by LH Ferguson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LS Livingstone",
+            "runs": 64,
+            "balls": 27,
+            "fours": 7,
+            "sixes": 4,
+            "dismissal": "caught by DA Miller, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Sharma",
+            "runs": 23,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by Shubman Gill, bowled by DG Nalkande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "OF Smith",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Shubman Gill, bowled by DG Nalkande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Shahrukh Khan",
+            "runs": 15,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "lbw, bowled by Rashid Khan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "K Rabada",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by MS Wade, Mohammed Shami",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "RD Chahar",
+            "runs": 22,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "VG Arora",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Mohammed Shami",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Arshdeep Singh",
+            "runs": 10,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "LH Ferguson",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 3,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "DG Nalkande",
+            "overs": 3.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 12.33,
+            "maidens": 0
+          },
+          {
+            "name": "R Tewatia",
+            "overs": 1.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 24.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 185,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 0,
+          "total": 189
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1561,123 @@
       },
       "pressure_index": 0.935,
       "match_shape": 0.794,
-      "target": 190
+      "target": 190,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MS Wade",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JM Bairstow, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 96,
+            "balls": 59,
+            "fours": 11,
+            "sixes": 1,
+            "dismissal": "caught by MA Agarwal, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Sai Sudharsan",
+            "runs": 35,
+            "balls": 30,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by MA Agarwal, bowled by RD Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 27,
+            "balls": 17,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "run out by JM Bairstow",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 6,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 13,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "VG Arora",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Arshdeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 2,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "RD Chahar",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 1,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "OF Smith",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "LS Livingstone",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 183,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 1,
+          "total": 190
+        }
+      }
     }
   ]
 }

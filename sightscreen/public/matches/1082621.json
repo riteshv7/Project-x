@@ -702,7 +702,168 @@
         }
       },
       "pressure_index": 0.549,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CH Gayle",
+            "runs": 8,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by AJ Tye",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 10,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by AJ Finch, bowled by Basil Thampi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 5,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by RA Jadeja",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "TM Head",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SK Raina, bowled by AJ Tye",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 31,
+            "balls": 18,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "bowled by RA Jadeja",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 8,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RA Jadeja, bowled by AJ Tye",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Negi",
+            "runs": 32,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by Basil Thampi, bowled by Ankit Soni",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Badree",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Ishan Kishan, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Aravind",
+            "runs": 9,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by BB McCullum, bowled by JP Faulkner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Choudhary",
+            "runs": 15,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "YS Chahal",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by BB McCullum, KD Karthik",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "NB Singh",
+            "overs": 2.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "Basil Thampi",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "AJ Tye",
+            "overs": 4.0,
+            "runs_conceded": 12,
+            "wickets": 3,
+            "economy": 3.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Ankit Soni",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 3.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 122,
+          "byes": 0,
+          "legbyes": 9,
+          "wides": 3,
+          "noballs": 0,
+          "total": 134
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1220,12 +1381,119 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.264,
       "match_shape": 0.997,
-      "target": 135
+      "target": 135,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Ishan Kishan",
+            "runs": 16,
+            "balls": 11,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by S Badree",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AB de Villiers, bowled by S Badree",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 34,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AJ Finch",
+            "runs": 72,
+            "balls": 34,
+            "fours": 5,
+            "sixes": 6,
+            "dismissal": "caught by AB de Villiers, bowled by P Negi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Badree",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "S Aravind",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "A Choudhary",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "P Negi",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "TM Head",
+            "overs": 0.5,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 13.2,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 127,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 2,
+          "total": 135
+        }
+      }
     }
   ]
 }

@@ -707,7 +707,130 @@
         }
       },
       "pressure_index": 0.772,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "G Gambhir",
+            "runs": 8,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by MM Patel",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by MM Patel",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 79,
+            "balls": 54,
+            "fours": 8,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "TM Dilshan",
+            "runs": 33,
+            "balls": 41,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by J Botha",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 23,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MM Patel",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 2,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Singh",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "J Botha",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "AS Raut",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 1.0,
+            "runs_conceded": 4,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 145,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 3,
+          "total": 150
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1420,7 +1543,168 @@
       },
       "pressure_index": 0.643,
       "match_shape": 0.653,
-      "target": 151
+      "target": 151,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RJ Quiney",
+            "runs": 6,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DP Nannes, bowled by A Nehra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GC Smith",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AM Salvi, bowled by DP Nannes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 9,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by V Sehwag, bowled by AM Salvi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "J Botha",
+            "runs": 37,
+            "balls": 30,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by V Sehwag, bowled by MF Maharoof",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 24,
+            "balls": 18,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by AM Salvi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by MF Maharoof",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AS Raut",
+            "runs": 11,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by A Mishra",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "A Singh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by KD Karthik, bowled by A Mishra",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "SK Trivedi",
+            "runs": 6,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SK Warne",
+            "runs": 6,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "stumped by KD Karthik, bowled by A Mishra",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "MM Patel",
+            "runs": 23,
+            "balls": 10,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Nehra",
+            "overs": 3.0,
+            "runs_conceded": 8,
+            "wickets": 1,
+            "economy": 2.67,
+            "maidens": 0
+          },
+          {
+            "name": "DP Nannes",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "AM Salvi",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "MF Maharoof",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 3,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "TM Dilshan",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 123,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 5,
+          "noballs": 2,
+          "total": 136
+        }
+      }
     }
   ]
 }

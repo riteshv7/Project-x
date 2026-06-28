@@ -712,7 +712,123 @@
         }
       },
       "pressure_index": 0.726,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 34,
+            "balls": 31,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by R Dravid, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 11,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by JP Faulkner",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "CM Gautam",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SV Samson, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 13,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Sachin Baby, bowled by STR Binny",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BJ Rohrer",
+            "runs": 64,
+            "balls": 40,
+            "fours": 9,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 23,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SW Tait",
+            "overs": 3.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "STR Binny",
+            "overs": 2.0,
+            "runs_conceded": 3,
+            "wickets": 1,
+            "economy": 1.5,
+            "maidens": 0
+          },
+          {
+            "name": "PV Tambe",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 147,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 5,
+          "noballs": 0,
+          "total": 154
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1350,7 +1466,96 @@
       },
       "pressure_index": 0.385,
       "match_shape": 0.997,
-      "target": 155
+      "target": 155,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "R Dravid",
+            "runs": 53,
+            "balls": 48,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "caught by AB Agarkar, bowled by S Kaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 63,
+            "balls": 45,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SR Watson",
+            "runs": 28,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Kaul",
+            "overs": 3.5,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 1
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "AB Agarkar",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "P Negi",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "BJ Rohrer",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 144,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 9,
+          "noballs": 0,
+          "total": 155
+        }
+      }
     }
   ]
 }

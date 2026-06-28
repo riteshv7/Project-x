@@ -722,7 +722,114 @@
         }
       },
       "pressure_index": 0.581,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MR Marsh",
+            "runs": 67,
+            "balls": 36,
+            "fours": 4,
+            "sixes": 5,
+            "dismissal": "caught by JM Sharma, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MP Breetzke",
+            "runs": 14,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by N Thushara",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 118,
+            "balls": 61,
+            "fours": 11,
+            "sixes": 8,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "N Pooran",
+            "runs": 13,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Yash Dayal, bowled by R Shepherd",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "N Thushara",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Dayal",
+            "overs": 3.0,
+            "runs_conceded": 44,
+            "wickets": 0,
+            "economy": 14.67,
+            "maidens": 0
+          },
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "Suyash Sharma",
+            "overs": 3.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Shepherd",
+            "overs": 4.0,
+            "runs_conceded": 51,
+            "wickets": 1,
+            "economy": 12.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 213,
+          "byes": 0,
+          "legbyes": 7,
+          "wides": 6,
+          "noballs": 1,
+          "total": 227
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1385,7 +1492,123 @@
       },
       "pressure_index": 0.843,
       "match_shape": 0.996,
-      "target": 228
+      "target": 228,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PD Salt",
+            "runs": 30,
+            "balls": 19,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by DS Rathi, bowled by Akash Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 54,
+            "balls": 30,
+            "fours": 10,
+            "sixes": 0,
+            "dismissal": "caught by A Badoni, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RM Patidar",
+            "runs": 14,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Abdul Samad, bowled by W O'Rourke",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LS Livingstone",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by W O'Rourke",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 41,
+            "balls": 23,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JM Sharma",
+            "runs": 85,
+            "balls": 32,
+            "fours": 8,
+            "sixes": 6,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Akash Singh",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "W O'Rourke",
+            "overs": 4.0,
+            "runs_conceded": 74,
+            "wickets": 2,
+            "economy": 18.5,
+            "maidens": 0
+          },
+          {
+            "name": "DS Rathi",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "overs": 3.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "Avesh Khan",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "A Badoni",
+            "overs": 0.4,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 13.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 224,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 1,
+          "total": 230
+        }
+      }
     }
   ]
 }

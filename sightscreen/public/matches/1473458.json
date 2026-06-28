@@ -722,7 +722,140 @@
         }
       },
       "pressure_index": 0.674,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PD Salt",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by TA Boult",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 37,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by WG Jacks, bowled by V Puthur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 67,
+            "balls": 42,
+            "fours": 8,
+            "sixes": 2,
+            "dismissal": "caught by Naman Dhir, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RM Patidar",
+            "runs": 64,
+            "balls": 32,
+            "fours": 5,
+            "sixes": 4,
+            "dismissal": "caught by RD Rickelton, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LS Livingstone",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JJ Bumrah, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Sharma",
+            "runs": 40,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "TH David",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 57,
+            "wickets": 2,
+            "economy": 14.25,
+            "maidens": 0
+          },
+          {
+            "name": "DL Chahar",
+            "overs": 2.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 14.5,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "WG Jacks",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "MJ Santner",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 2,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "V Puthur",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 213,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 7,
+          "noballs": 0,
+          "total": 221
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1430,7 +1563,160 @@
       },
       "pressure_index": 0.365,
       "match_shape": 0.584,
-      "target": 222
+      "target": 222,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 17,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by Yash Dayal",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RD Rickelton",
+            "runs": 17,
+            "balls": 10,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by JR Hazlewood",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "WG Jacks",
+            "runs": 22,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by V Kohli, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 28,
+            "balls": 26,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by LS Livingstone, bowled by Yash Dayal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 56,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 4,
+            "dismissal": "caught by PD Salt, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 42,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 4,
+            "dismissal": "caught by LS Livingstone, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Naman Dhir",
+            "runs": 11,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Yash Dayal, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MJ Santner",
+            "runs": 8,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by TH David, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DL Chahar",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by TH David, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TA Boult",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JJ Bumrah",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Dayal",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 2,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hazlewood",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "Suyash Sharma",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 4,
+            "economy": 11.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 202,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 6,
+          "noballs": 0,
+          "total": 209
+        }
+      }
     }
   ]
 }

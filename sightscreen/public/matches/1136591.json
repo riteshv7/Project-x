@@ -702,7 +702,150 @@
         }
       },
       "pressure_index": 0.989,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "M Vohra",
+            "runs": 45,
+            "balls": 31,
+            "fours": 2,
+            "sixes": 4,
+            "dismissal": "lbw, bowled by M Markande",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Q de Kock",
+            "runs": 7,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by MJ McClenaghan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 37,
+            "balls": 24,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 32,
+            "balls": 26,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by KA Pollard, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 14,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by SA Yadav, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Washington Sundar",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "C de Grandhomme",
+            "runs": 23,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "TG Southee",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by BCJ Cutting, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "UT Yadav",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JP Duminy",
+            "overs": 2.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "MJ McClenaghan",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Markande",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 3,
+            "economy": 9.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 161,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 1,
+          "noballs": 2,
+          "total": 167
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1430,7 +1573,141 @@
       },
       "pressure_index": 0.627,
       "match_shape": 0.527,
-      "target": 168
+      "target": 168,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SA Yadav",
+            "runs": 9,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by UT Yadav",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by TG Southee",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 23,
+            "balls": 29,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Q de Kock, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 13,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Q de Kock, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 50,
+            "balls": 42,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by V Kohli, bowled by TG Southee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 23,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Mandeep Singh, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BCJ Cutting",
+            "runs": 12,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TG Southee",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Siraj",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "Washington Sundar",
+            "overs": 1.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 15.0,
+            "maidens": 0
+          },
+          {
+            "name": "C de Grandhomme",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 130,
+          "byes": 1,
+          "legbyes": 4,
+          "wides": 18,
+          "noballs": 0,
+          "total": 153
+        }
+      }
     }
   ]
 }

@@ -722,7 +722,168 @@
         }
       },
       "pressure_index": 0.829,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JJ Roy",
+            "runs": 20,
+            "balls": 18,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by MA Agarwal, bowled by Kartik Tyagi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Rahmanullah Gurbaz",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by HC Brook, bowled by M Jansen",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VR Iyer",
+            "runs": 7,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by H Klaasen, bowled by M Jansen",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 42,
+            "balls": 30,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught and bowled by AK Markram",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "RK Singh",
+            "runs": 46,
+            "balls": 35,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by Abdul Samad, bowled by T Natarajan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 24,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by T Natarajan, bowled by M Markande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MA Agarwal, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SN Thakur",
+            "runs": 8,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Abdul Samad, bowled by T Natarajan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AS Roy",
+            "runs": 13,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Harshit Rana",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by T Natarajan, H Klaasen",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "VG Arora",
+            "runs": 2,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Jansen",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Kartik Tyagi",
+            "overs": 2.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 15.0,
+            "maidens": 0
+          },
+          {
+            "name": "AK Markram",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Markande",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 163,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 5,
+          "noballs": 2,
+          "total": 171
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1435,7 +1596,167 @@
       },
       "pressure_index": 0.874,
       "match_shape": 0.809,
-      "target": 172
+      "target": 172,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Abhishek Sharma",
+            "runs": 9,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AD Russell, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 18,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by Rahmanullah Gurbaz, bowled by Harshit Rana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 20,
+            "balls": 8,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by VG Arora, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AK Markram",
+            "runs": 41,
+            "balls": 40,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by RK Singh, bowled by VG Arora",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HC Brook",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by AS Roy",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 36,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by AD Russell, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 21,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by AS Roy, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Jansen",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Rahmanullah Gurbaz, bowled by VG Arora",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "M Markande",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Harshit Rana",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "VG Arora",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 1.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 15.0,
+            "maidens": 0
+          },
+          {
+            "name": "AS Roy",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 152,
+          "byes": 1,
+          "legbyes": 6,
+          "wides": 4,
+          "noballs": 3,
+          "total": 166
+        }
+      }
     }
   ]
 }

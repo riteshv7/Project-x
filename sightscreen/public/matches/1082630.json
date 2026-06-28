@@ -702,7 +702,106 @@
         }
       },
       "pressure_index": 0.902,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 30,
+            "balls": 21,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "bowled by Mohammed Shami",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 28,
+            "balls": 17,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by SS Iyer, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 24,
+            "balls": 24,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by CH Morris, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 70,
+            "balls": 40,
+            "fours": 11,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MC Henriques",
+            "runs": 25,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "J Yadav",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 4.0,
+            "runs_conceded": 59,
+            "wickets": 0,
+            "economy": 14.75,
+            "maidens": 0
+          },
+          {
+            "name": "CH Morris",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 177,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 2,
+          "noballs": 1,
+          "total": 185
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1365,7 +1464,123 @@
       },
       "pressure_index": 0.719,
       "match_shape": 0.995,
-      "target": 186
+      "target": 186,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SV Samson",
+            "runs": 24,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by S Dhawan, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 39,
+            "balls": 20,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by B Kumar, bowled by S Kaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 34,
+            "balls": 20,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "bowled by Mohammed Siraj",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 33,
+            "balls": 25,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by Mohammed Siraj, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CJ Anderson",
+            "runs": 41,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "CH Morris",
+            "runs": 15,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Siraj",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 2,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "MC Henriques",
+            "overs": 2.1,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 16.62,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 1.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 186,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 189
+        }
+      }
     }
   ]
 }

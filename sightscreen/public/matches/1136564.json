@@ -712,7 +712,160 @@
         }
       },
       "pressure_index": 0.697,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 13,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Rashid Khan, bowled by S Kaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJM Short",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 49,
+            "balls": 42,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by Rashid Khan, bowled by Shakib Al Hasan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BA Stokes",
+            "runs": 5,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KS Williamson, bowled by B Stanlake",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 17,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by Shakib Al Hasan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 6,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Rashid Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "K Gowtham",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by S Kaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Gopal",
+            "runs": 18,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by YK Pathan, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DS Kulkarni",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JD Unadkat",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "B Laughlin",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "B Stanlake",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 117,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 5,
+          "noballs": 0,
+          "total": 125
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1290,7 +1443,104 @@
       },
       "pressure_index": 0.131,
       "match_shape": 0.997,
-      "target": 126
+      "target": 126,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WP Saha",
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by B Laughlin, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 78,
+            "balls": 56,
+            "fours": 13,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 36,
+            "balls": 35,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DS Kulkarni",
+            "overs": 2.5,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 6.35,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "K Gowtham",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "B Laughlin",
+            "overs": 2.1,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 9.23,
+            "maidens": 0
+          },
+          {
+            "name": "S Gopal",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "BA Stokes",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "DJM Short",
+            "overs": 2.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 4.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 119,
+          "byes": 4,
+          "legbyes": 0,
+          "wides": 3,
+          "noballs": 1,
+          "total": 127
+        }
+      }
     }
   ]
 }

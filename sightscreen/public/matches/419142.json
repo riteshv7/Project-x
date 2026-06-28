@@ -727,7 +727,131 @@
         }
       },
       "pressure_index": 0.977,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "M Vijay",
+            "runs": 14,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by Harbhajan Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "ML Hayden",
+            "runs": 35,
+            "balls": 31,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by R Sathish, bowled by KA Pollard",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 23,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by S Dhawan, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 31,
+            "balls": 18,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught and bowled by KA Pollard",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 30,
+            "balls": 21,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MEK Hussey",
+            "runs": 14,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "R McLaren",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "AN Ahmed",
+            "overs": 2.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Sathish",
+            "overs": 1.0,
+            "runs_conceded": 5,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 147,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 15,
+          "noballs": 1,
+          "total": 165
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1450,7 +1574,159 @@
       },
       "pressure_index": 0.723,
       "match_shape": 0.702,
-      "target": 166
+      "target": 166,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "S Dhawan",
+            "runs": 16,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by T Thushara",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 45,
+            "balls": 35,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by M Vijay, bowled by T Thushara",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 14,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by ML Hayden, bowled by SB Jakati",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by MS Dhoni, bowled by SK Raina",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by T Thushara, bowled by S Tyagi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 5,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by M Vijay, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Sathish",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by S Badrinath, MS Dhoni",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "R McLaren",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by R Ashwin",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 33,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "bowled by DE Bollinger",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AN Ahmed",
+            "runs": 4,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Tyagi",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "DE Bollinger",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "T Thushara",
+            "overs": 2.3,
+            "runs_conceded": 16,
+            "wickets": 2,
+            "economy": 6.4,
+            "maidens": 0
+          },
+          {
+            "name": "SB Jakati",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 2.3,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 4.8,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 127,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 7,
+          "noballs": 2,
+          "total": 141
+        }
+      }
     }
   ]
 }

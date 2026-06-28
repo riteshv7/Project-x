@@ -737,7 +737,114 @@
         }
       },
       "pressure_index": 0.414,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MR Marsh",
+            "runs": 96,
+            "balls": 56,
+            "fours": 11,
+            "sixes": 5,
+            "dismissal": "run out by YBK Jaiswal",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "JP Inglis",
+            "runs": 60,
+            "balls": 29,
+            "fours": 7,
+            "sixes": 3,
+            "dismissal": "bowled by Yash Raj Punja",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 16,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by D Ferreira, bowled by Yash Raj Punja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 35,
+            "balls": 23,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "run out by Dhruv Jurel, JC Archer",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "A Badoni",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by JC Archer",
+            "dismissal_type": "bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JC Archer",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "SS Mishra",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "Sandeep Sharma",
+            "overs": 3.0,
+            "runs_conceded": 43,
+            "wickets": 0,
+            "economy": 14.33,
+            "maidens": 0
+          },
+          {
+            "name": "Brijesh Sharma",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Raj Punja",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 2,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "MD Shanaka",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 207,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 9,
+          "noballs": 1,
+          "total": 220
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1420,7 +1527,114 @@
       },
       "pressure_index": 0.753,
       "match_shape": 0.997,
-      "target": 221
+      "target": 221,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 43,
+            "balls": 23,
+            "fours": 8,
+            "sixes": 1,
+            "dismissal": "caught by RR Pant, bowled by Akash Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Suryavanshi",
+            "runs": 93,
+            "balls": 38,
+            "fours": 7,
+            "sixes": 10,
+            "dismissal": "caught by Abdul Samad, bowled by Mohsin Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Dhruv Jurel",
+            "runs": 53,
+            "balls": 38,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "LG Pretorius",
+            "runs": 7,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by A Badoni",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "D Ferreira",
+            "runs": 16,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Akash Singh",
+            "overs": 3.0,
+            "runs_conceded": 54,
+            "wickets": 1,
+            "economy": 18.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mohsin Khan",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "MP Yadav",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "Prince Yadav",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 0,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "DS Rathi",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "overs": 0.1,
+            "runs_conceded": 6,
+            "wickets": 0,
+            "economy": 36.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 212,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 10,
+          "noballs": 0,
+          "total": 225
+        }
+      }
     }
   ]
 }

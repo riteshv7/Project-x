@@ -702,7 +702,123 @@
         }
       },
       "pressure_index": 0.815,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "S Dhawan",
+            "runs": 13,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by JA Morkel, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 17,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by SS Tiwary, bowled by NM Coulter-Nile",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 22,
+            "balls": 25,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by NM Coulter-Nile, bowled by J Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MC Henriques",
+            "runs": 74,
+            "balls": 46,
+            "fours": 1,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KV Sharma",
+            "runs": 16,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by J Yadav, bowled by NM Coulter-Nile",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RS Bopara",
+            "runs": 17,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "J Yadav",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "NM Coulter-Nile",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "JP Duminy",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 3.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 11.33,
+            "maidens": 0
+          },
+          {
+            "name": "JA Morkel",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 11.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 159,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 0,
+          "total": 163
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1385,7 +1501,131 @@
       },
       "pressure_index": 0.927,
       "match_shape": 0.778,
-      "target": 164
+      "target": 164,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Q de Kock",
+            "runs": 50,
+            "balls": 31,
+            "fours": 9,
+            "sixes": 1,
+            "dismissal": "stumped by NV Ojha, bowled by KV Sharma",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 0,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by B Kumar",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 12,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by KV Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 2,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KV Sharma, bowled by Parvez Rasool",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 63,
+            "balls": 34,
+            "fours": 8,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 26,
+            "balls": 25,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "Parvez Rasool",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "P Kumar",
+            "overs": 2.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 17.0,
+            "maidens": 0
+          },
+          {
+            "name": "MC Henriques",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 3.0,
+            "runs_conceded": 12,
+            "wickets": 2,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "RS Bopara",
+            "overs": 1.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 15.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 153,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 1,
+          "noballs": 0,
+          "total": 157
+        }
+      }
     }
   ]
 }

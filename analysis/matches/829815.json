@@ -707,7 +707,176 @@
         }
       },
       "pressure_index": 0.397,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KA Pollard, bowled by MJ McClenaghan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SL Malinga",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 9,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by LMP Simmons, bowled by MJ McClenaghan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MC Henriques",
+            "runs": 11,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "stumped by PA Patel, bowled by J Suchith",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "KL Rahul",
+            "runs": 25,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by Harbhajan Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by J Suchith",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KV Sharma",
+            "runs": 15,
+            "balls": 21,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by J Suchith, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Ashish Reddy",
+            "runs": 17,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by R Vinay Kumar, bowled by KA Pollard",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by HH Pandya, bowled by MJ McClenaghan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Kumar",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by HH Pandya, KA Pollard",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "DW Steyn",
+            "runs": 19,
+            "balls": 11,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "MJ McClenaghan",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 3,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "J Suchith",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 4.67,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 1.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 107,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 0,
+          "total": 113
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1220,12 +1389,93 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.107,
       "match_shape": 0.997,
-      "target": 114
+      "target": 114,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "LMP Simmons",
+            "runs": 48,
+            "balls": 44,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by S Dhawan, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 51,
+            "balls": 37,
+            "fours": 9,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 7,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "B Kumar",
+            "overs": 3.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 5.33,
+            "maidens": 0
+          },
+          {
+            "name": "P Kumar",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "MC Henriques",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 5.67,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 2.5,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 13.41,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 106,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 5,
+          "noballs": 0,
+          "total": 114
+        }
+      }
     }
   ]
 }

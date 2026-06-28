@@ -677,7 +677,160 @@
         }
       },
       "pressure_index": 0.517,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "V Kohli",
+            "runs": 5,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by M Prasidh Krishna",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 22,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by LH Ferguson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KS Bharat",
+            "runs": 16,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Shubman Gill, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 10,
+            "balls": 17,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by CV Varun",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by AD Russell",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Sachin Baby",
+            "runs": 7,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by N Rana, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PWH de Silva",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by CV Varun",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "KA Jamieson",
+            "runs": 4,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by CV Varun",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "HV Patel",
+            "runs": 12,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by LH Ferguson",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Mohammed Siraj",
+            "runs": 8,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by CV Varun, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YS Chahal",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "CV Varun",
+            "overs": 4.0,
+            "runs_conceded": 13,
+            "wickets": 3,
+            "economy": 3.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Prasidh Krishna",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "LH Ferguson",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 3.0,
+            "runs_conceded": 9,
+            "wickets": 3,
+            "economy": 3.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 86,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 1,
+          "noballs": 3,
+          "total": 92
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1075,12 +1228,84 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.043,
       "match_shape": 0.998,
-      "target": 93
+      "target": 93,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Shubman Gill",
+            "runs": 48,
+            "balls": 33,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "caught by Mohammed Siraj, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VR Iyer",
+            "runs": 41,
+            "balls": 27,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Siraj",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "KA Jamieson",
+            "overs": 2.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "PWH de Silva",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 89,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 4,
+          "noballs": 1,
+          "total": 94
+        }
+      }
     }
   ]
 }

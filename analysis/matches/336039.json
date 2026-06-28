@@ -697,7 +697,151 @@
         }
       },
       "pressure_index": 0.373,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SE Marsh",
+            "runs": 23,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "bowled by M Ntini",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JR Hopes",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PA Patel, bowled by M Ntini",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PA Patel, bowled by MS Gony",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 4,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by M Muralitharan, bowled by MS Gony",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 8,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by PA Patel, bowled by JA Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 3,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by M Ntini, MS Gony",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "WA Mota",
+            "runs": 25,
+            "balls": 26,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SK Raina, bowled by JA Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 12,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by M Muralitharan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RR Powar",
+            "runs": 28,
+            "balls": 21,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "S Sreesanth",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "M Ntini",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "MS Gony",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 3.5,
+            "maidens": 1
+          },
+          {
+            "name": "JA Morkel",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 108,
+          "byes": 2,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 0,
+          "total": 112
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1235,12 +1379,101 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.141,
       "match_shape": 0.997,
-      "target": 113
+      "target": 113,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 51,
+            "balls": 48,
+            "fours": 8,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "S Vidyut",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by WA Mota, bowled by IK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 55,
+            "balls": 34,
+            "fours": 4,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Sreesanth",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "RR Powar",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "VRV Singh",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hopes",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 2.5,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 8.12,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 112,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 4,
+          "noballs": 0,
+          "total": 116
+        }
+      }
     }
   ]
 }

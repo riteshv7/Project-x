@@ -702,7 +702,114 @@
         }
       },
       "pressure_index": 0.585,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "B Sai Sudharsan",
+            "runs": 100,
+            "balls": 58,
+            "fours": 11,
+            "sixes": 5,
+            "dismissal": "caught and bowled by JR Hazlewood",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 32,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by D Padikkal, bowled by Suyash Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 25,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by JR Hazlewood, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Washington Sundar",
+            "runs": 19,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JO Holder",
+            "runs": 23,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hazlewood",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Rasikh Salam",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Shepherd",
+            "overs": 1.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 17.0,
+            "maidens": 0
+          },
+          {
+            "name": "Suyash Sharma",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 199,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 3,
+          "noballs": 0,
+          "total": 205
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1360,7 +1467,132 @@
       },
       "pressure_index": 0.742,
       "match_shape": 0.996,
-      "target": 206
+      "target": 206,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JG Bethell",
+            "runs": 14,
+            "balls": 10,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by M Shahrukh Khan, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 81,
+            "balls": 44,
+            "fours": 8,
+            "sixes": 4,
+            "dismissal": "bowled by JO Holder",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 55,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 6,
+            "dismissal": "bowled by Rashid Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RM Patidar",
+            "runs": 8,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Washington Sundar, bowled by MJ Suthar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Sharma",
+            "runs": 10,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by MJ Suthar, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TH David",
+            "runs": 10,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 23,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Siraj",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 0,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "JO Holder",
+            "overs": 3.5,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 9.13,
+            "maidens": 0
+          },
+          {
+            "name": "M Prasidh Krishna",
+            "overs": 2.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 15.5,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 49,
+            "wickets": 2,
+            "economy": 12.25,
+            "maidens": 0
+          },
+          {
+            "name": "MJ Suthar",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 201,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 0,
+          "total": 206
+        }
+      }
     }
   ]
 }

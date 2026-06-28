@@ -712,7 +712,159 @@
         }
       },
       "pressure_index": 1.0,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 46,
+            "balls": 30,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "bowled by J Yadav",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 34,
+            "balls": 37,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by SV Samson, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 27,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by CH Morris",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 8,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by RR Pant, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MC Henriques",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Mohammed Shami",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 10,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "hit wicket, bowled by NM Coulter-Nile",
+            "dismissal_type": "hit wicket"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 7,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SV Samson, bowled by NM Coulter-Nile",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by CH Morris",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "BB Sran",
+            "runs": 1,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Nehra",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "J Yadav",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "NM Coulter-Nile",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Shami",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "CH Morris",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "JP Duminy",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 6.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 135,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 3,
+          "noballs": 2,
+          "total": 146
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1350,7 +1502,122 @@
       },
       "pressure_index": 0.359,
       "match_shape": 0.991,
-      "target": 147
+      "target": 147,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Q de Kock",
+            "runs": 44,
+            "balls": 31,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by NV Ojha, bowled by MC Henriques",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 10,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Yuvraj Singh, bowled by A Nehra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 20,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by MC Henriques",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 34,
+            "balls": 26,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RR Pant",
+            "runs": 39,
+            "balls": 26,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Nehra",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "BB Sran",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mustafizur Rahman",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "MC Henriques",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Hooda",
+            "overs": 1.0,
+            "runs_conceded": 5,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 1.1,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 9.43,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 147,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 3,
+          "noballs": 0,
+          "total": 150
+        }
+      }
     }
   ]
 }

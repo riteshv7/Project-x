@@ -697,7 +697,168 @@
         }
       },
       "pressure_index": 0.81,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DR Smith",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RN ten Doeschate, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 8,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by PP Chawla, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 32,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "lbw, bowled by GB Hogg",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 20,
+            "balls": 11,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "stumped by RV Uthappa, bowled by GB Hogg",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 30,
+            "balls": 32,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by AD Russell",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 24,
+            "balls": 30,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by PJ Cummins, bowled by GB Hogg",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Negi",
+            "runs": 27,
+            "balls": 13,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "bowled by GB Hogg",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "A Nehra",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MM Sharma",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG More",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 54,
+            "wickets": 1,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "GB Hogg",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 4,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 145,
+          "byes": 1,
+          "legbyes": 13,
+          "wides": 6,
+          "noballs": 0,
+          "total": 165
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1556,114 @@
       },
       "pressure_index": 0.819,
       "match_shape": 0.986,
-      "target": 166
+      "target": 166,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 80,
+            "balls": 58,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 19,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by RG More, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 3,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RA Jadeja, bowled by P Negi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DJ Bravo, bowled by RG More",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 55,
+            "balls": 32,
+            "fours": 4,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MM Sharma",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Nehra",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "P Negi",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "RG More",
+            "overs": 3.5,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 8.09,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 2.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 2.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 13.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 159,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 5,
+          "noballs": 0,
+          "total": 169
+        }
+      }
     }
   ]
 }

@@ -702,7 +702,141 @@
         }
       },
       "pressure_index": 0.699,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SC Ganguly",
+            "runs": 14,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AA Chavan, bowled by SW Tait",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MJ Clarke",
+            "runs": 16,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by STR Binny",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 13,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DH Yagnik, bowled by SW Tait",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AP Majumdar",
+            "runs": 30,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "bowled by J Botha",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SPD Smith",
+            "runs": 18,
+            "balls": 22,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AD Mathews",
+            "runs": 11,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by OA Shah",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "M Manhas",
+            "runs": 11,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by SW Tait",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "WD Parnell",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AA Chavan",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "SW Tait",
+            "overs": 4.0,
+            "runs_conceded": 13,
+            "wickets": 3,
+            "economy": 3.25,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "J Botha",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "STR Binny",
+            "overs": 3.0,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 6.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 115,
+          "byes": 0,
+          "legbyes": 7,
+          "wides": 3,
+          "noballs": 0,
+          "total": 125
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1270,7 +1404,122 @@
       },
       "pressure_index": 0.188,
       "match_shape": 0.991,
-      "target": 126
+      "target": 126,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "R Dravid",
+            "runs": 14,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by MJ Clarke, bowled by WD Parnell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SPD Smith, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 90,
+            "balls": 51,
+            "fours": 10,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AL Menaria",
+            "runs": 18,
+            "balls": 21,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by M Manhas, bowled by MJ Clarke",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "OA Shah",
+            "runs": 4,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "WD Parnell",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "B Kumar",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 5.67,
+            "maidens": 0
+          },
+          {
+            "name": "M Kartik",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "A Nehra",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "AD Mathews",
+            "overs": 3.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "MJ Clarke",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "SPD Smith",
+            "overs": 0.2,
+            "runs_conceded": 5,
+            "wickets": 0,
+            "economy": 15.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 126,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 0,
+          "noballs": 0,
+          "total": 126
+        }
+      }
     }
   ]
 }

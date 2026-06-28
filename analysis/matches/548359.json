@@ -702,7 +702,140 @@
         }
       },
       "pressure_index": 0.936,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Mandeep Singh",
+            "runs": 75,
+            "balls": 48,
+            "fours": 8,
+            "sixes": 3,
+            "dismissal": "bowled by A Ashish Reddy",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SE Marsh",
+            "runs": 22,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by S Dhawan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "N Saini",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by A Ashish Reddy",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 16,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by DJ Harris, bowled by V Pratap Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Azhar Mahmood",
+            "runs": 14,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "run out by A Ashish Reddy, J Theron",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 28,
+            "balls": 18,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SD Chitnis",
+            "runs": 6,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AA Jhunjhunwala",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "V Pratap Singh",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 1,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "J Theron",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "S Dhawan",
+            "overs": 2.0,
+            "runs_conceded": 8,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Ashish Reddy",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 2,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Harris",
+            "overs": 2.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 163,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 5,
+          "noballs": 0,
+          "total": 170
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1528,159 @@
       },
       "pressure_index": 0.539,
       "match_shape": 0.57,
-      "target": 171
+      "target": 171,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DJ Harris",
+            "runs": 30,
+            "balls": 29,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by P Awana, bowled by DJ Hussey",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 8,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Azhar Mahmood, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 17,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by P Awana",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "CL White",
+            "runs": 8,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SE Marsh, bowled by DJ Hussey",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by N Saini, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AA Jhunjhunwala",
+            "runs": 19,
+            "balls": 20,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by SE Marsh",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "PA Reddy",
+            "runs": 24,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "stumped by N Saini, bowled by PP Chawla",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "A Ashish Reddy",
+            "runs": 8,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SE Marsh, bowled by P Awana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "J Theron",
+            "runs": 7,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Mishra",
+            "runs": 8,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "RR Powar",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 2,
+            "economy": 3.75,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "P Awana",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "Azhar Mahmood",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Hussey",
+            "overs": 1.0,
+            "runs_conceded": 2,
+            "wickets": 2,
+            "economy": 2.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 133,
+          "byes": 4,
+          "legbyes": 1,
+          "wides": 7,
+          "noballs": 0,
+          "total": 145
+        }
+      }
     }
   ]
 }

@@ -707,7 +707,123 @@
         }
       },
       "pressure_index": 0.581,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "F du Plessis",
+            "runs": 6,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Anmolpreet Singh, bowled by RD Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 10,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by J Yadav, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 5,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by J Yadav",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "M Vijay",
+            "runs": 26,
+            "balls": 26,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "stumped by Q de Kock, bowled by RD Chahar",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 42,
+            "balls": 36,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 37,
+            "balls": 28,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SL Malinga",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "RD Chahar",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "J Yadav",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 126,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 3,
+          "total": 131
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1350,7 +1466,115 @@
       },
       "pressure_index": 0.289,
       "match_shape": 0.988,
-      "target": 132
+      "target": 132,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by DL Chahar",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 71,
+            "balls": 54,
+            "fours": 10,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Q de Kock",
+            "runs": 8,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by F du Plessis, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 28,
+            "balls": 31,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by Imran Tahir",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by Imran Tahir",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 13,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 3.3,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 8.57,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "Imran Tahir",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 8.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 124,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 7,
+          "noballs": 0,
+          "total": 132
+        }
+      }
     }
   ]
 }

@@ -712,7 +712,167 @@
         }
       },
       "pressure_index": 0.321,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by AC Thomas",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SE Marsh",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Sharma, bowled by SB Wagh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PC Valthaty",
+            "runs": 6,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JD Ryder, bowled by AC Thomas",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 0,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Sharma, bowled by SB Wagh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 12,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Yuvraj Singh, bowled by JD Ryder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Sunny Singh",
+            "runs": 12,
+            "balls": 6,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "run out by Yuvraj Singh, RV Uthappa",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "R McLaren",
+            "runs": 51,
+            "balls": 43,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 15,
+            "balls": 28,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by SB Wagh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Kumar",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by WD Parnell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NJ Rimmington",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AC Thomas",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "SB Wagh",
+            "overs": 3.0,
+            "runs_conceded": 16,
+            "wickets": 3,
+            "economy": 5.33,
+            "maidens": 0
+          },
+          {
+            "name": "WD Parnell",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Kartik",
+            "overs": 0.5,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "JD Ryder",
+            "overs": 3.0,
+            "runs_conceded": 9,
+            "wickets": 1,
+            "economy": 3.0,
+            "maidens": 1
+          },
+          {
+            "name": "M Manhas",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 4.67,
+            "maidens": 0
+          },
+          {
+            "name": "R Sharma",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 102,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 5,
+          "noballs": 1,
+          "total": 112
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1195,12 +1355,111 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.154,
       "match_shape": 0.994,
-      "target": 113
+      "target": 113,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "GC Smith",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R McLaren, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Manhas",
+            "runs": 35,
+            "balls": 32,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by AC Gilchrist, bowled by AM Nayar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JD Ryder",
+            "runs": 31,
+            "balls": 17,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by R McLaren",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 22,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 21,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "NJ Rimmington",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "R McLaren",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "AM Nayar",
+            "overs": 3.1,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 8.53,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 109,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 0,
+          "total": 113
+        }
+      }
     }
   ]
 }

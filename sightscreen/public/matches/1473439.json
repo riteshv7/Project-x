@@ -752,7 +752,141 @@
         }
       },
       "pressure_index": 0.37,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Abhishek Sharma",
+            "runs": 24,
+            "balls": 11,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by YBK Jaiswal, bowled by M Theekshana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TM Head",
+            "runs": 67,
+            "balls": 29,
+            "fours": 9,
+            "sixes": 3,
+            "dismissal": "caught by SO Hetmyer, bowled by TU Deshpande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 106,
+            "balls": 46,
+            "fours": 11,
+            "sixes": 6,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "runs": 30,
+            "balls": 15,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by YBK Jaiswal, bowled by M Theekshana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 34,
+            "balls": 14,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by R Parag, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Aniket Verma",
+            "runs": 7,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by JC Archer, bowled by TU Deshpande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Manohar",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Parag, bowled by TU Deshpande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PJ Cummins",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Fazalhaq Farooqi",
+            "overs": 3.0,
+            "runs_conceded": 49,
+            "wickets": 0,
+            "economy": 16.33,
+            "maidens": 0
+          },
+          {
+            "name": "M Theekshana",
+            "overs": 4.0,
+            "runs_conceded": 52,
+            "wickets": 2,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "JC Archer",
+            "overs": 4.0,
+            "runs_conceded": 76,
+            "wickets": 0,
+            "economy": 19.0,
+            "maidens": 0
+          },
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 51,
+            "wickets": 1,
+            "economy": 12.75,
+            "maidens": 0
+          },
+          {
+            "name": "N Rana",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "TU Deshpande",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 3,
+            "economy": 11.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 268,
+          "byes": 5,
+          "legbyes": 1,
+          "wides": 10,
+          "noballs": 3,
+          "total": 286
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1475,7 +1609,141 @@
       },
       "pressure_index": 0.025,
       "match_shape": 0.034,
-      "target": 287
+      "target": 287,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Manohar, bowled by Simarjeet Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 66,
+            "balls": 36,
+            "fours": 7,
+            "sixes": 4,
+            "dismissal": "caught by H Klaasen, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Parag",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by PJ Cummins, bowled by Simarjeet Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 11,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by PJ Cummins, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Dhruv Jurel",
+            "runs": 70,
+            "balls": 35,
+            "fours": 5,
+            "sixes": 6,
+            "dismissal": "caught by Ishan Kishan, bowled by A Zampa",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SB Dubey",
+            "runs": 34,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 42,
+            "balls": 23,
+            "fours": 1,
+            "sixes": 4,
+            "dismissal": "caught by A Manohar, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Archer",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Simarjeet Singh",
+            "overs": 3.0,
+            "runs_conceded": 46,
+            "wickets": 2,
+            "economy": 15.33,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 60,
+            "wickets": 0,
+            "economy": 15.0,
+            "maidens": 0
+          },
+          {
+            "name": "Abhishek Sharma",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Zampa",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 229,
+          "byes": 4,
+          "legbyes": 0,
+          "wides": 7,
+          "noballs": 2,
+          "total": 242
+        }
+      }
     }
   ]
 }

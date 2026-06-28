@@ -702,7 +702,141 @@
         }
       },
       "pressure_index": 0.586,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KL Rahul",
+            "runs": 21,
+            "balls": 21,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by J Suchith, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 5,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KS Williamson, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 14,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Rashid Khan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AK Markram",
+            "runs": 27,
+            "balls": 32,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by Abdul Samad",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 8,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught and bowled by Sandeep Sharma",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 13,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by J Suchith, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Harpreet Brar",
+            "runs": 18,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "NT Ellis",
+            "runs": 12,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by MK Pandey, bowled by B Kumar",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "JO Holder",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 3,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "KK Ahmed",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "Abdul Samad",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 118,
+          "byes": 1,
+          "legbyes": 3,
+          "wides": 3,
+          "noballs": 0,
+          "total": 125
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1529,142 @@
       },
       "pressure_index": 0.958,
       "match_shape": 0.83,
-      "target": 126
+      "target": 126,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KL Rahul, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 1,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Mohammed Shami",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 31,
+            "balls": 37,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by Ravi Bishnoi, Arshdeep Singh",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 13,
+            "balls": 23,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Ravi Bishnoi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 12,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Ravi Bishnoi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by CH Gayle, bowled by Ravi Bishnoi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JO Holder",
+            "runs": 47,
+            "balls": 29,
+            "fours": 0,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by Arshdeep Singh",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 3.5,
+            "maidens": 1
+          },
+          {
+            "name": "Arshdeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "NT Ellis",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harpreet Brar",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 3,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 113,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 0,
+          "total": 120
+        }
+      }
     }
   ]
 }

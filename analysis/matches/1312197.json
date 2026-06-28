@@ -722,7 +722,132 @@
         }
       },
       "pressure_index": 0.915,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 3,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by Yash Dayal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 89,
+            "balls": 55,
+            "fours": 12,
+            "sixes": 2,
+            "dismissal": "run out by WP Saha, AS Joseph",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 47,
+            "balls": 26,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "caught by AS Joseph, bowled by R Sai Kishore",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 28,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "bowled by HH Pandya",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 4,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Tewatia, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Parag",
+            "runs": 4,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by WP Saha, Yash Dayal",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 2,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Dayal",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "AS Joseph",
+            "overs": 2.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 3.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Sai Kishore",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 177,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 10,
+          "noballs": 1,
+          "total": 188
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1425,7 +1550,106 @@
       },
       "pressure_index": 0.941,
       "match_shape": 0.972,
-      "target": 189
+      "target": 189,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WP Saha",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SV Samson, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Wade",
+            "runs": 35,
+            "balls": 30,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by JC Buttler, bowled by OC McCoy",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 35,
+            "balls": 21,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "run out by D Padikkal, SO Hetmyer",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 40,
+            "balls": 27,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DA Miller",
+            "runs": 68,
+            "balls": 37,
+            "fours": 3,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Prasidh Krishna",
+            "overs": 3.3,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 11.43,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "OC McCoy",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 178,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 11,
+          "noballs": 1,
+          "total": 191
+        }
+      }
     }
   ]
 }

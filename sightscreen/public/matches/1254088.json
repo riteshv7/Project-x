@@ -712,7 +712,159 @@
         }
       },
       "pressure_index": 0.531,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 18,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by Mohammad Nabi, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 84,
+            "balls": 32,
+            "fours": 11,
+            "sixes": 4,
+            "dismissal": "caught by WP Saha, bowled by Umran Malik",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 10,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by JJ Roy, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 13,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JJ Roy, bowled by Abhishek Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 82,
+            "balls": 40,
+            "fours": 13,
+            "sixes": 3,
+            "dismissal": "caught by Mohammad Nabi, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JDS Neesham",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Mohammad Nabi, bowled by Abhishek Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 9,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Mohammad Nabi, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NM Coulter-Nile",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Mohammad Nabi, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Abdul Samad, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JJ Bumrah",
+            "runs": 5,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammad Nabi",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 4.0,
+            "runs_conceded": 56,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "JO Holder",
+            "overs": 4.0,
+            "runs_conceded": 52,
+            "wickets": 4,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "Umran Malik",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Abhishek Sharma",
+            "overs": 1.0,
+            "runs_conceded": 4,
+            "wickets": 2,
+            "economy": 4.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 224,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 9,
+          "noballs": 0,
+          "total": 235
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1410,7 +1562,159 @@
       },
       "pressure_index": 0.253,
       "match_shape": 0.314,
-      "target": 236
+      "target": 236,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JJ Roy",
+            "runs": 34,
+            "balls": 21,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by KH Pandya, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 33,
+            "balls": 16,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by NM Coulter-Nile, bowled by JDS Neesham",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 69,
+            "balls": 40,
+            "fours": 7,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Mohammad Nabi",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KA Pollard, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KA Pollard, bowled by JDS Neesham",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PK Garg",
+            "runs": 29,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by HH Pandya, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JO Holder",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by TA Boult, bowled by NM Coulter-Nile",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 9,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught and bowled by JJ Bumrah",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by NM Coulter-Nile",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "S Kaul",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 2,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "NM Coulter-Nile",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "JDS Neesham",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 1.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 183,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 7,
+          "noballs": 1,
+          "total": 193
+        }
+      }
     }
   ]
 }

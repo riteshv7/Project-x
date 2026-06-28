@@ -707,7 +707,114 @@
         }
       },
       "pressure_index": 0.658,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SC Ganguly",
+            "runs": 10,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by JH Kallis, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 158,
+            "balls": 73,
+            "fours": 10,
+            "sixes": 13,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RT Ponting",
+            "runs": 20,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by P Kumar, bowled by JH Kallis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 12,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by CL White, bowled by AA Noffke",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mohammad Hafeez",
+            "runs": 5,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "AA Noffke",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "SB Joshi",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "CL White",
+            "overs": 1.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 24.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 205,
+          "byes": 4,
+          "legbyes": 4,
+          "wides": 9,
+          "noballs": 0,
+          "total": 222
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1290,7 +1397,160 @@
       },
       "pressure_index": 0.044,
       "match_shape": 0.108,
-      "target": 223
+      "target": 223,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "R Dravid",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by I Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "W Jaffer",
+            "runs": 6,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RT Ponting, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by AB Dinda",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 8,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by M Kartik, bowled by AB Agarkar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CL White",
+            "runs": 6,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by AB Agarkar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MV Boucher",
+            "runs": 7,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by M Kartik, bowled by SC Ganguly",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Akhil",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RT Ponting, bowled by AB Agarkar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AA Noffke",
+            "runs": 9,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by AB Agarkar, WP Saha",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "P Kumar",
+            "runs": 18,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Z Khan",
+            "runs": 3,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SC Ganguly",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SB Joshi",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by BB McCullum, bowled by LR Shukla",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AB Dinda",
+            "overs": 3.0,
+            "runs_conceded": 9,
+            "wickets": 2,
+            "economy": 3.0,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 3.0,
+            "runs_conceded": 7,
+            "wickets": 1,
+            "economy": 2.33,
+            "maidens": 0
+          },
+          {
+            "name": "AB Agarkar",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 3,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "SC Ganguly",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "LR Shukla",
+            "overs": 1.1,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 10.29,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 63,
+          "byes": 0,
+          "legbyes": 8,
+          "wides": 11,
+          "noballs": 0,
+          "total": 82
+        }
+      }
     }
   ]
 }

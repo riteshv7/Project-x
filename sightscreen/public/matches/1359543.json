@@ -717,7 +717,132 @@
         }
       },
       "pressure_index": 0.616,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Vivrant Sharma",
+            "runs": 69,
+            "balls": 47,
+            "fours": 9,
+            "sixes": 2,
+            "dismissal": "caught by Ramandeep Singh, bowled by Akash Madhwal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 83,
+            "balls": 46,
+            "fours": 8,
+            "sixes": 4,
+            "dismissal": "caught by Ishan Kishan, bowled by Akash Madhwal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 18,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by Akash Madhwal",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "GD Phillips",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by K Kartikeya, bowled by CJ Jordan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AK Markram",
+            "runs": 13,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "HC Brook",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Akash Madhwal",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Sanvir Singh",
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JP Behrendorff",
+            "overs": 3.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "C Green",
+            "overs": 1.0,
+            "runs_conceded": 2,
+            "wickets": 0,
+            "economy": 2.0,
+            "maidens": 0
+          },
+          {
+            "name": "CJ Jordan",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "Akash Madhwal",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 4,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "K Kartikeya",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 188,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 6,
+          "noballs": 1,
+          "total": 200
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1360,7 +1485,113 @@
       },
       "pressure_index": 0.735,
       "match_shape": 0.999,
-      "target": 201
+      "target": 201,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Ishan Kishan",
+            "runs": 14,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by HC Brook, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 56,
+            "balls": 35,
+            "fours": 8,
+            "sixes": 1,
+            "dismissal": "caught by Nithish Kumar Reddy, bowled by Mayank Dagar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "C Green",
+            "runs": 100,
+            "balls": 45,
+            "fours": 8,
+            "sixes": 8,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 25,
+            "balls": 16,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "Mayank Dagar",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "Kartik Tyagi",
+            "overs": 2.5,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 14.47,
+            "maidens": 0
+          },
+          {
+            "name": "Umran Malik",
+            "overs": 3.0,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 13.67,
+            "maidens": 0
+          },
+          {
+            "name": "Vivrant Sharma",
+            "overs": 1.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 19.0,
+            "maidens": 0
+          },
+          {
+            "name": "AK Markram",
+            "overs": 0.1,
+            "runs_conceded": 1,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 195,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 4,
+          "total": 201
+        }
+      }
     }
   ]
 }

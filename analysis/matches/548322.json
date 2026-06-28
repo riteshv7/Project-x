@@ -707,7 +707,132 @@
         }
       },
       "pressure_index": 0.97,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "F du Plessis",
+            "runs": 43,
+            "balls": 33,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "stumped by RV Uthappa, bowled by R Sharma",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "M Vijay",
+            "runs": 8,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AB Dinda, bowled by AD Mathews",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 20,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SPD Smith, bowled by R Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 26,
+            "balls": 27,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by M Kartik, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 44,
+            "balls": 26,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by SPD Smith, bowled by A Nehra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 5,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "M Kartik",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "AB Dinda",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Nehra",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Sharma",
+            "overs": 3.0,
+            "runs_conceded": 16,
+            "wickets": 2,
+            "economy": 5.33,
+            "maidens": 0
+          },
+          {
+            "name": "MN Samuels",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "AD Mathews",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 149,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 2,
+          "total": 155
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1380,7 +1505,114 @@
       },
       "pressure_index": 0.603,
       "match_shape": 0.918,
-      "target": 156
+      "target": 156,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 10,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by DJ Bravo, KMDN Kulasekara",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "JD Ryder",
+            "runs": 73,
+            "balls": 56,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SC Ganguly",
+            "runs": 16,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by RA Jadeja, R Ashwin",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MN Samuels",
+            "runs": 8,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by VY Mahesh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SPD Smith",
+            "runs": 44,
+            "balls": 22,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KMDN Kulasekara",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "JA Morkel",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "VY Mahesh",
+            "overs": 2.2,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 9.43,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 151,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 0,
+          "total": 156
+        }
+      }
     }
   ]
 }

@@ -682,7 +682,168 @@
         }
       },
       "pressure_index": 0.822,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Abhishek Sharma",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by V Nigam",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "TM Head",
+            "runs": 22,
+            "balls": 12,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by KL Rahul, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by T Stubbs, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AR Patel, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Aniket Verma",
+            "runs": 74,
+            "balls": 41,
+            "fours": 5,
+            "sixes": 6,
+            "dismissal": "caught by J Fraser-McGurk, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 32,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by V Nigam, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Manohar",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by F du Plessis, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PJ Cummins",
+            "runs": 2,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by J Fraser-McGurk, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PWA Mulder",
+            "runs": 9,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by F du Plessis, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HV Patel",
+            "runs": 5,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AR Patel, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mohammed Shami",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MA Starc",
+            "overs": 3.4,
+            "runs_conceded": 35,
+            "wickets": 5,
+            "economy": 9.55,
+            "maidens": 0
+          },
+          {
+            "name": "Mukesh Kumar",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 0,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "V Nigam",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 3,
+            "economy": 5.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 152,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 9,
+          "noballs": 2,
+          "total": 163
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1250,7 +1411,114 @@
       },
       "pressure_index": 0.361,
       "match_shape": 0.996,
-      "target": 164
+      "target": 164,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "J Fraser-McGurk",
+            "runs": 38,
+            "balls": 32,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught and bowled by Zeeshan Ansari",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 50,
+            "balls": 27,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by PWA Mulder, bowled by Zeeshan Ansari",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abishek Porel",
+            "runs": 34,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KL Rahul",
+            "runs": 15,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by Zeeshan Ansari",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "T Stubbs",
+            "runs": 21,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "Abhishek Sharma",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 2.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 5.67,
+            "maidens": 0
+          },
+          {
+            "name": "Zeeshan Ansari",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 3,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "PWA Mulder",
+            "overs": 1.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 158,
+          "byes": 2,
+          "legbyes": 4,
+          "wides": 2,
+          "noballs": 0,
+          "total": 166
+        }
+      }
     }
   ]
 }

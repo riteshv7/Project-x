@@ -747,7 +747,141 @@
         }
       },
       "pressure_index": 0.433,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Abhishek Sharma",
+            "runs": 74,
+            "balls": 28,
+            "fours": 5,
+            "sixes": 8,
+            "dismissal": "caught by Arshdeep Singh, bowled by Shashank Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TM Head",
+            "runs": 38,
+            "balls": 22,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by XC Bartlett, bowled by Shashank Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 27,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by M Jansen, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 39,
+            "balls": 33,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by C Connolly, bowled by XC Bartlett",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Aniket Verma",
+            "runs": 18,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "run out by P Simran Singh, MP Stoinis",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "S Arora",
+            "runs": 9,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by XC Bartlett, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Harsh Dubey",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Arshdeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 2,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "XC Bartlett",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Jansen",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Vijaykumar Vyshak",
+            "overs": 2.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 16.5,
+            "maidens": 0
+          },
+          {
+            "name": "Shashank Singh",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 206,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 11,
+          "noballs": 1,
+          "total": 219
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1549,131 @@
       },
       "pressure_index": 0.615,
       "match_shape": 0.998,
-      "target": 220
+      "target": 220,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Priyansh Arya",
+            "runs": 57,
+            "balls": 20,
+            "fours": 5,
+            "sixes": 5,
+            "dismissal": "caught by Nithish Kumar Reddy, bowled by Shivang Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Simran Singh",
+            "runs": 51,
+            "balls": 25,
+            "fours": 4,
+            "sixes": 4,
+            "dismissal": "caught by H Klaasen, bowled by Shivang Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "C Connolly",
+            "runs": 11,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Aniket Verma, bowled by Shivang Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 69,
+            "balls": 33,
+            "fours": 5,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "N Wadhera",
+            "runs": 14,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by Harsh Dubey",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Shashank Singh",
+            "runs": 16,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Harsh Dubey",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 3.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 13.33,
+            "maidens": 0
+          },
+          {
+            "name": "E Malinga",
+            "overs": 3.0,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 15.33,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 2.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 19.5,
+            "maidens": 0
+          },
+          {
+            "name": "Shivang Kumar",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 3,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Abhishek Sharma",
+            "overs": 0.5,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 8.4,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 218,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 0,
+          "total": 223
+        }
+      }
     }
   ]
 }

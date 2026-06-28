@@ -722,7 +722,105 @@
         }
       },
       "pressure_index": 0.466,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "P Nissanka",
+            "runs": 11,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by P Simran Singh, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KL Rahul",
+            "runs": 152,
+            "balls": 66,
+            "fours": 16,
+            "sixes": 9,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "N Rana",
+            "runs": 91,
+            "balls": 44,
+            "fours": 11,
+            "sixes": 4,
+            "dismissal": "caught by SS Iyer, bowled by XC Bartlett",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Arshdeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 49,
+            "wickets": 1,
+            "economy": 12.25,
+            "maidens": 0
+          },
+          {
+            "name": "XC Bartlett",
+            "overs": 4.0,
+            "runs_conceded": 69,
+            "wickets": 1,
+            "economy": 17.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Jansen",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 0,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "Vijaykumar Vyshak",
+            "overs": 3.0,
+            "runs_conceded": 48,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "MP Stoinis",
+            "overs": 1.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 257,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 6,
+          "noballs": 1,
+          "total": 264
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1430,7 +1528,123 @@
       },
       "pressure_index": 0.881,
       "match_shape": 0.999,
-      "target": 265
+      "target": 265,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Priyansh Arya",
+            "runs": 43,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 5,
+            "dismissal": "caught by Sameer Rizvi, bowled by AR Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Simran Singh",
+            "runs": 76,
+            "balls": 25,
+            "fours": 9,
+            "sixes": 5,
+            "dismissal": "lbw, bowled by Kuldeep Yadav",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "C Connolly",
+            "runs": 17,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by Kuldeep Yadav",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 71,
+            "balls": 36,
+            "fours": 3,
+            "sixes": 7,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "N Wadhera",
+            "runs": 25,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by KK Nair, bowled by V Nigam",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shashank Singh",
+            "runs": 19,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Auqib Nabi",
+            "overs": 2.0,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 20.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mukesh Kumar",
+            "overs": 3.0,
+            "runs_conceded": 55,
+            "wickets": 0,
+            "economy": 18.33,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 3.5,
+            "runs_conceded": 54,
+            "wickets": 0,
+            "economy": 14.09,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 2,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "V Nigam",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 251,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 12,
+          "noballs": 1,
+          "total": 265
+        }
+      }
     }
   ]
 }

@@ -662,7 +662,168 @@
         }
       },
       "pressure_index": 0.531,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 9,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Shahbaz Ahmed, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VR Iyer",
+            "runs": 10,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by Akash Deep",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 13,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by F du Plessis, bowled by PWH de Silva",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 10,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by DJ Willey, bowled by Akash Deep",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 12,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Akash Deep, bowled by PWH de Silva",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SW Billings",
+            "runs": 14,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by V Kohli, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Jackson",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by PWH de Silva",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 25,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by KD Karthik, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TG Southee",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by F du Plessis, bowled by PWH de Silva",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "UT Yadav",
+            "runs": 18,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by Akash Deep",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "CV Varun",
+            "runs": 10,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DJ Willey",
+            "overs": 2.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Siraj",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "Akash Deep",
+            "overs": 3.5,
+            "runs_conceded": 45,
+            "wickets": 3,
+            "economy": 11.74,
+            "maidens": 0
+          },
+          {
+            "name": "PWH de Silva",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 4,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 4.0,
+            "runs_conceded": 11,
+            "wickets": 2,
+            "economy": 2.75,
+            "maidens": 2
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "overs": 1.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 122,
+          "byes": 2,
+          "legbyes": 2,
+          "wides": 1,
+          "noballs": 1,
+          "total": 128
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1345,7 +1506,150 @@
       },
       "pressure_index": 0.568,
       "match_shape": 0.958,
-      "target": 129
+      "target": 129,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "F du Plessis",
+            "runs": 5,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by TG Southee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Anuj Rawat",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SP Jackson, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 12,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SP Jackson, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SE Rutherford",
+            "runs": 28,
+            "balls": 40,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by SP Jackson, bowled by TG Southee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Willey",
+            "runs": 18,
+            "balls": 28,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by N Rana, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "runs": 27,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "stumped by SP Jackson, bowled by CV Varun",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 14,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "PWH de Silva",
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AD Russell, bowled by TG Southee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HV Patel",
+            "runs": 10,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 2,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "TG Southee",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 3,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 2.2,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 15.43,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 3.0,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "VR Iyer",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 118,
+          "byes": 4,
+          "legbyes": 1,
+          "wides": 8,
+          "noballs": 1,
+          "total": 132
+        }
+      }
     }
   ]
 }

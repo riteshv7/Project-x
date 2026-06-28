@@ -722,7 +722,105 @@
         }
       },
       "pressure_index": 0.542,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AK Markram",
+            "runs": 36,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by M Shahrukh Khan, bowled by R Sai Kishore",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MR Marsh",
+            "runs": 117,
+            "balls": 64,
+            "fours": 10,
+            "sixes": 8,
+            "dismissal": "caught by SE Rutherford, bowled by Arshad Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 56,
+            "balls": 26,
+            "fours": 4,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RR Pant",
+            "runs": 16,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Siraj",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "Arshad Khan",
+            "overs": 3.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 0,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Prasidh Krishna",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Sai Kishore",
+            "overs": 3.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 11.33,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 2.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 18.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 225,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 6,
+          "noballs": 1,
+          "total": 235
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1435,7 +1533,159 @@
       },
       "pressure_index": 0.332,
       "match_shape": 0.627,
-      "target": 236
+      "target": 236,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "B Sai Sudharsan",
+            "runs": 21,
+            "balls": 16,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by AK Markram, bowled by W O'Rourke",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 35,
+            "balls": 20,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "caught by Abdul Samad, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 33,
+            "balls": 18,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "bowled by Akash Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SE Rutherford",
+            "runs": 38,
+            "balls": 22,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by Ravi Bishnoi, bowled by W O'Rourke",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Shahrukh Khan",
+            "runs": 57,
+            "balls": 29,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "caught by Ravi Bishnoi, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Himmat Singh, bowled by W O'Rourke",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Arshad Khan",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by W O'Rourke, bowled by Shahbaz Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 4,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "K Rabada",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by A Badoni",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Sai Kishore",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by A Badoni",
+            "dismissal_type": "bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Akash Singh",
+            "overs": 3.1,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 9.16,
+            "maidens": 0
+          },
+          {
+            "name": "Akash Deep",
+            "overs": 4.0,
+            "runs_conceded": 49,
+            "wickets": 0,
+            "economy": 12.25,
+            "maidens": 0
+          },
+          {
+            "name": "W O'Rourke",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 3,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "Avesh Khan",
+            "overs": 3.5,
+            "runs_conceded": 51,
+            "wickets": 2,
+            "economy": 13.3,
+            "maidens": 0
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 1,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "A Badoni",
+            "overs": 1.0,
+            "runs_conceded": 4,
+            "wickets": 2,
+            "economy": 4.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 194,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 7,
+          "noballs": 0,
+          "total": 202
+        }
+      }
     }
   ]
 }

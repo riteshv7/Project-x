@@ -732,7 +732,141 @@
         }
       },
       "pressure_index": 0.928,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SV Samson",
+            "runs": 27,
+            "balls": 12,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by Ishan Kishan, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RD Gaikwad",
+            "runs": 15,
+            "balls": 21,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by E Malinga, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Urvil Patel",
+            "runs": 13,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "bowled by Sakib Hussain",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Kartik Sharma",
+            "runs": 32,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by Nithish Kumar Reddy, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Brevis",
+            "runs": 44,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 4,
+            "dismissal": "bowled by E Malinga",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Dube",
+            "runs": 26,
+            "balls": 23,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "bowled by Sakib Hussain",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "PR Veer",
+            "runs": 11,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught and bowled by PP Hinge",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "AJ Hosein",
+            "runs": 3,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Nithish Kumar Reddy",
+            "overs": 2.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 17.5,
+            "maidens": 0
+          },
+          {
+            "name": "PP Hinge",
+            "overs": 3.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 12.33,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 3,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "E Malinga",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "Sakib Hussain",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Shivang Kumar",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 6.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 171,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 8,
+          "noballs": 1,
+          "total": 180
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1410,7 +1544,132 @@
       },
       "pressure_index": 0.897,
       "match_shape": 0.983,
-      "target": 181
+      "target": 181,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Abhishek Sharma",
+            "runs": 26,
+            "balls": 21,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by SH Johnson, bowled by AJ Hosein",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TM Head",
+            "runs": 6,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by Mukesh Choudhary",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 70,
+            "balls": 47,
+            "fours": 7,
+            "sixes": 3,
+            "dismissal": "caught by Urvil Patel, bowled by A Kamboj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 47,
+            "balls": 26,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "stumped by SV Samson, bowled by Noor Ahmad",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "runs": 11,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Urvil Patel, bowled by Mukesh Choudhary",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Arora",
+            "runs": 10,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Smaran",
+            "runs": 5,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mukesh Choudhary",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "SH Johnson",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "A Kamboj",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "AJ Hosein",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Dube",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 175,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 6,
+          "noballs": 0,
+          "total": 181
+        }
+      }
     }
   ]
 }

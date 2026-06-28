@@ -697,7 +697,133 @@
         }
       },
       "pressure_index": 0.924,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KL Rahul",
+            "runs": 52,
+            "balls": 47,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by JC Archer, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 30,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by SV Samson, bowled by JC Archer",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 26,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by JC Archer, bowled by IS Sodhi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 40,
+            "balls": 26,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by JC Buttler, bowled by DS Kulkarni",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 5,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by JC Archer",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by JC Archer",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 17,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Mujeeb Ur Rahman",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DS Kulkarni",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "JC Archer",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 3,
+            "economy": 3.75,
+            "maidens": 0
+          },
+          {
+            "name": "IS Sodhi",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 1,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "S Gopal",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 170,
+          "byes": 9,
+          "legbyes": 2,
+          "wides": 1,
+          "noballs": 1,
+          "total": 182
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1531,141 @@
       },
       "pressure_index": 0.898,
       "match_shape": 0.743,
-      "target": 183
+      "target": 183,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RA Tripathi",
+            "runs": 50,
+            "balls": 45,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by MA Agarwal, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 23,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by N Pooran, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 27,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by R Ashwin",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 26,
+            "balls": 21,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Mohammed Shami, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AJ Turner",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DA Miller, bowled by M Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Archer",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KL Rahul, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 33,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "S Gopal",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MA Agarwal, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Arshdeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 2,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "Mujeeb Ur Rahman",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 2,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mandeep Singh",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 160,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 9,
+          "noballs": 0,
+          "total": 170
+        }
+      }
     }
   ]
 }

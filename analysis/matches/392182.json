@@ -697,7 +697,150 @@
         }
       },
       "pressure_index": 0.452,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JD Ryder",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by M Rawat, bowled by AD Mascarenhas",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LRPL Taylor",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by AD Mascarenhas",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KP Pietersen",
+            "runs": 32,
+            "balls": 30,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by NK Patel, bowled by T Henderson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 3,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by M Rawat, bowled by AD Mascarenhas",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Dravid",
+            "runs": 66,
+            "balls": 48,
+            "fours": 8,
+            "sixes": 1,
+            "dismissal": "caught by SK Warne, bowled by MM Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 3,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SK Warne",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "B Akhil",
+            "runs": 9,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by SK Warne",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "P Kumar",
+            "runs": 8,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught and bowled by MM Patel",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "R Vinay Kumar",
+            "runs": 8,
+            "balls": 2,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AD Mascarenhas",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 3,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "Kamran Khan",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "MM Patel",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "T Henderson",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 129,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 2,
+          "noballs": 0,
+          "total": 133
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1270,7 +1413,160 @@
       },
       "pressure_index": 0.691,
       "match_shape": 0.783,
-      "target": 134
+      "target": 134,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "GC Smith",
+            "runs": 2,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Dravid, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Asnodkar",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Kohli, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NK Patel",
+            "runs": 4,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Kumble, bowled by JD Ryder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "T Henderson",
+            "runs": 11,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by JD Ryder",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 11,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JD Ryder, bowled by A Kumble",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Mascarenhas",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by V Kohli, RV Uthappa",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 11,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by V Kohli, bowled by A Kumble",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Warne",
+            "runs": 3,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by RV Uthappa, bowled by A Kumble",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "M Rawat",
+            "runs": 4,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MM Patel",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DW Steyn, bowled by A Kumble",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Kamran Khan",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by A Kumble",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 3.0,
+            "runs_conceded": 7,
+            "wickets": 2,
+            "economy": 2.33,
+            "maidens": 0
+          },
+          {
+            "name": "DW Steyn",
+            "overs": 2.0,
+            "runs_conceded": 6,
+            "wickets": 0,
+            "economy": 3.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "JD Ryder",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Kumble",
+            "overs": 3.1,
+            "runs_conceded": 5,
+            "wickets": 5,
+            "economy": 1.58,
+            "maidens": 1
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 49,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 7,
+          "noballs": 1,
+          "total": 58
+        }
+      }
     }
   ]
 }

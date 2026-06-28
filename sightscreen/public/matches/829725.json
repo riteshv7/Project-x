@@ -717,7 +717,140 @@
         }
       },
       "pressure_index": 0.999,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "M Vijay",
+            "runs": 19,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by JP Duminy, bowled by AD Mathews",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 47,
+            "balls": 41,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by NM Coulter-Nile, bowled by JP Duminy",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 39,
+            "balls": 28,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "bowled by A Mishra",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 5,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by JP Duminy",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 15,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by MK Tiwary, bowled by Imran Tahir",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Bailey",
+            "runs": 19,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by SS Iyer, bowled by Imran Tahir",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 13,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by AD Mathews, bowled by Imran Tahir",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "NM Coulter-Nile",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 4.67,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Muthuswami",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "AD Mathews",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Imran Tahir",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 3,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "JP Duminy",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 157,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 6,
+          "noballs": 0,
+          "total": 165
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1430,7 +1563,123 @@
       },
       "pressure_index": 0.67,
       "match_shape": 0.99,
-      "target": 166
+      "target": 166,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MA Agarwal",
+            "runs": 68,
+            "balls": 48,
+            "fours": 7,
+            "sixes": 2,
+            "dismissal": "bowled by Anureet Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Anureet Singh, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 21,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "run out by AR Patel",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 54,
+            "balls": 39,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "caught by Sandeep Sharma, bowled by Anureet Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Anureet Singh, bowled by AR Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Mathews",
+            "runs": 6,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "Anureet Singh",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "MG Johnson",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Dhawan",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 3.5,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.3,
+            "maidens": 0
+          },
+          {
+            "name": "GJ Maxwell",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 158,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 7,
+          "noballs": 1,
+          "total": 169
+        }
+      }
     }
   ]
 }

@@ -722,7 +722,124 @@
         }
       },
       "pressure_index": 0.679,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MA Agarwal",
+            "runs": 52,
+            "balls": 32,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "caught by SA Yadav, bowled by M Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 70,
+            "balls": 50,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "caught by KA Pollard, bowled by Basil Thampi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Bairstow",
+            "runs": 12,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by JD Unadkat",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "LS Livingstone",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by JJ Bumrah",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JM Sharma",
+            "runs": 30,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "M Shahrukh Khan",
+            "runs": 15,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "bowled by Basil Thampi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "OF Smith",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Basil Thampi",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 2,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "TS Mills",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 182,
+          "byes": 0,
+          "legbyes": 8,
+          "wides": 8,
+          "noballs": 0,
+          "total": 198
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1425,7 +1542,159 @@
       },
       "pressure_index": 0.803,
       "match_shape": 0.771,
-      "target": 199
+      "target": 199,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 28,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by VG Arora, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JM Sharma, bowled by VG Arora",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Brevis",
+            "runs": 49,
+            "balls": 25,
+            "fours": 4,
+            "sixes": 5,
+            "dismissal": "caught by Arshdeep Singh, bowled by OF Smith",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 36,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "run out by MA Agarwal, Arshdeep Singh",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 43,
+            "balls": 29,
+            "fours": 1,
+            "sixes": 4,
+            "dismissal": "caught by OF Smith, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 10,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by JM Sharma, OF Smith",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "JD Unadkat",
+            "runs": 12,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by MA Agarwal, bowled by OF Smith",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Ashwin",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JJ Bumrah",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Dhawan, bowled by OF Smith",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TS Mills",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MA Agarwal, bowled by OF Smith",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "VG Arora",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Arshdeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "OF Smith",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 4,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "LS Livingstone",
+            "overs": 1.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "RD Chahar",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 181,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 4,
+          "noballs": 1,
+          "total": 186
+        }
+      }
     }
   ]
 }

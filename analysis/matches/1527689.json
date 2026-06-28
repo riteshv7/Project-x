@@ -702,7 +702,159 @@
         }
       },
       "pressure_index": 0.84,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PD Salt",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Dhruv Jurel, bowled by JC Archer",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 14,
+            "balls": 7,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by SO Hetmyer, bowled by JC Archer",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 32,
+            "balls": 16,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "bowled by Ravi Bishnoi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RM Patidar",
+            "runs": 63,
+            "balls": 40,
+            "fours": 4,
+            "sixes": 4,
+            "dismissal": "caught by D Ferreira, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 1,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SO Hetmyer, bowled by Ravi Bishnoi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Sharma",
+            "runs": 5,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Brijesh Sharma",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "TH David",
+            "runs": 13,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SO Hetmyer, bowled by Brijesh Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Shepherd",
+            "runs": 22,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by Brijesh Sharma, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VR Iyer",
+            "runs": 29,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "B Kumar",
+            "runs": 9,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JC Archer",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "N Burger",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 1,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Brijesh Sharma",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 9.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 188,
+          "byes": 4,
+          "legbyes": 2,
+          "wides": 7,
+          "noballs": 0,
+          "total": 201
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1330,7 +1482,123 @@
       },
       "pressure_index": 0.449,
       "match_shape": 0.997,
-      "target": 202
+      "target": 202,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 13,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by JM Sharma, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Suryavanshi",
+            "runs": 78,
+            "balls": 26,
+            "fours": 8,
+            "sixes": 7,
+            "dismissal": "caught by V Kohli, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Dhruv Jurel",
+            "runs": 81,
+            "balls": 43,
+            "fours": 8,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JR Hazlewood, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Parag",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KH Pandya, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 24,
+            "balls": 25,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hazlewood",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 2,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Abhinandan Singh",
+            "overs": 3.0,
+            "runs_conceded": 54,
+            "wickets": 0,
+            "economy": 18.0,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "TH David",
+            "overs": 1.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 18.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Shepherd",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 199,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 202
+        }
+      }
     }
   ]
 }

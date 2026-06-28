@@ -702,7 +702,151 @@
         }
       },
       "pressure_index": 0.56,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "TM Head",
+            "runs": 7,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AK Markram, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by M Siddharth, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Prince Yadav",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "LS Livingstone",
+            "runs": 14,
+            "balls": 20,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by RR Pant, bowled by DS Rathi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 62,
+            "balls": 41,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by RR Pant, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "runs": 56,
+            "balls": 33,
+            "fours": 3,
+            "sixes": 5,
+            "dismissal": "caught by Prince Yadav, bowled by M Siddharth",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Aniket Verma",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Harsh Dubey",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Avesh Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Shivang Kumar",
+            "runs": 5,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Prince Yadav",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "HV Patel",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by RR Pant",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 9,
+            "wickets": 2,
+            "economy": 2.25,
+            "maidens": 0
+          },
+          {
+            "name": "DS Rathi",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "Prince Yadav",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Siddharth",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Avesh Khan",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 151,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 0,
+          "total": 156
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1375,7 +1519,132 @@
       },
       "pressure_index": 0.45,
       "match_shape": 0.984,
-      "target": 157
+      "target": 157,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AK Markram",
+            "runs": 45,
+            "balls": 27,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "caught by LS Livingstone, bowled by Shivang Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MR Marsh",
+            "runs": 14,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Nithish Kumar Reddy, bowled by E Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 68,
+            "balls": 50,
+            "fours": 9,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Badoni",
+            "runs": 12,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "stumped by Ishan Kishan, bowled by Harsh Dubey",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by Ishan Kishan",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 16,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by LS Livingstone, bowled by Harsh Dubey",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MD Choudhary",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Harsh Dubey",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 3.5,
+            "runs_conceded": 50,
+            "wickets": 0,
+            "economy": 13.04,
+            "maidens": 0
+          },
+          {
+            "name": "E Malinga",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 3.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 5.33,
+            "maidens": 0
+          },
+          {
+            "name": "Shivang Kumar",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 158,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 0,
+          "noballs": 0,
+          "total": 160
+        }
+      }
     }
   ]
 }

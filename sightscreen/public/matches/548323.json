@@ -692,7 +692,168 @@
         }
       },
       "pressure_index": 0.618,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 5,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Tiwary, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 38,
+            "balls": 34,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by RN ten Doeschate, bowled by Shakib Al Hasan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SE Marsh",
+            "runs": 1,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SP Narine",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 32,
+            "balls": 31,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "run out by G Gambhir, R Bhatia",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "P Dogra",
+            "runs": 6,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DB Das, bowled by R Bhatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Bipul Sharma",
+            "runs": 12,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by MS Bisla, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Mascarenhas",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MS Bisla, bowled by R Bhatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 13,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "P Kumar",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SP Narine",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Harmeet Singh",
+            "runs": 14,
+            "balls": 6,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by MS Bisla, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BA Bhatt",
+            "runs": 6,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "YK Pathan",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 5,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 3.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 127,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 1,
+          "noballs": 0,
+          "total": 134
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1380,7 +1541,142 @@
       },
       "pressure_index": 0.567,
       "match_shape": 0.88,
-      "target": 135
+      "target": 135,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JH Kallis",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by P Dogra, bowled by BA Bhatt",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 22,
+            "balls": 13,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught and bowled by AD Mascarenhas",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "MS Bisla",
+            "runs": 27,
+            "balls": 25,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Tiwary",
+            "runs": 20,
+            "balls": 27,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by BA Bhatt",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "runs": 4,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by PP Chawla",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DB Das",
+            "runs": 35,
+            "balls": 23,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RN ten Doeschate",
+            "runs": 11,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Harmeet Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Bhatia",
+            "runs": 3,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "BA Bhatt",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "AD Mascarenhas",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Harmeet Singh",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 3,
+            "economy": 4.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 123,
+          "byes": 4,
+          "legbyes": 3,
+          "wides": 2,
+          "noballs": 0,
+          "total": 132
+        }
+      }
     }
   ]
 }

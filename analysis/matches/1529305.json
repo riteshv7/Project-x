@@ -717,7 +717,159 @@
         }
       },
       "pressure_index": 0.689,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 12,
+            "balls": 9,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by MA Starc, bowled by L Ngidi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Suryavanshi",
+            "runs": 46,
+            "balls": 21,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "caught by DA Miller, bowled by M Tiwari",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Dhruv Jurel",
+            "runs": 53,
+            "balls": 40,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "lbw, bowled by L Ngidi",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "R Parag",
+            "runs": 51,
+            "balls": 26,
+            "fours": 3,
+            "sixes": 5,
+            "dismissal": "caught by AR Patel, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Ferreira",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AR Patel, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ravi Singh",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by MA Starc",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SB Dubey",
+            "runs": 5,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by T Vijay, bowled by M Tiwari",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MD Shanaka",
+            "runs": 10,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by T Stubbs, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Archer",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AF Milne",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MA Starc",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 4,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "L Ngidi",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "T Vijay",
+            "overs": 2.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 14.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mukesh Kumar",
+            "overs": 2.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 20.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Tiwari",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 185,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 6,
+          "noballs": 0,
+          "total": 193
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1410,7 +1562,132 @@
       },
       "pressure_index": 0.642,
       "match_shape": 0.982,
-      "target": 194
+      "target": 194,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Abishek Porel",
+            "runs": 51,
+            "balls": 31,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": "caught by D Ferreira, bowled by Brijesh Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KL Rahul",
+            "runs": 56,
+            "balls": 42,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "bowled by MD Shanaka",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SU Parakh",
+            "runs": 9,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Dhruv Jurel, bowled by JC Archer",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 34,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "T Stubbs",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by YBK Jaiswal, bowled by JC Archer",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 9,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by MD Shanaka, bowled by Brijesh Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ashutosh Sharma",
+            "runs": 18,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JC Archer",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 2,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "AF Milne",
+            "overs": 3.2,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 12.3,
+            "maidens": 0
+          },
+          {
+            "name": "Brijesh Sharma",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 2,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "MD Shanaka",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Raj Punja",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "D Ferreira",
+            "overs": 1.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 181,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 13,
+          "noballs": 0,
+          "total": 197
+        }
+      }
     }
   ]
 }

@@ -692,7 +692,115 @@
         }
       },
       "pressure_index": 0.742,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 31,
+            "balls": 21,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by RR Pant, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MJ Guptill",
+            "runs": 48,
+            "balls": 42,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by KK Nair, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 86,
+            "balls": 37,
+            "fours": 7,
+            "sixes": 6,
+            "dismissal": "bowled by CH Morris",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Q de Kock, bowled by CH Morris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 18,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 13,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Nadeem",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "CH Morris",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "Imran Tahir",
+            "overs": 4.0,
+            "runs_conceded": 59,
+            "wickets": 0,
+            "economy": 14.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 199,
+          "byes": 4,
+          "legbyes": 2,
+          "wides": 1,
+          "noballs": 0,
+          "total": 206
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1350,7 +1458,168 @@
       },
       "pressure_index": 0.203,
       "match_shape": 0.307,
-      "target": 207
+      "target": 207,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MA Agarwal",
+            "runs": 8,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by R Vinay Kumar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Q de Kock",
+            "runs": 40,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by JC Buttler, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 8,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JJ Bumrah, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 6,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by Harbhajan Singh, KH Pandya",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 23,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by JJ Bumrah",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 9,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JC Buttler, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CH Morris",
+            "runs": 20,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "run out by AT Rayudu, JC Buttler",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "A Mishra",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by JJ Bumrah",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Nadeem",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Imran Tahir",
+            "runs": 5,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by R Vinay Kumar",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Z Khan",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by KH Pandya",
+            "dismissal_type": "bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "MJ McClenaghan",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 13,
+            "wickets": 3,
+            "economy": 3.25,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 2.1,
+            "runs_conceded": 15,
+            "wickets": 2,
+            "economy": 6.92,
+            "maidens": 0
+          },
+          {
+            "name": "N Rana",
+            "overs": 1.0,
+            "runs_conceded": 3,
+            "wickets": 0,
+            "economy": 3.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 123,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 0,
+          "total": 126
+        }
+      }
     }
   ]
 }

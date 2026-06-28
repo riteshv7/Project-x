@@ -707,7 +707,123 @@
         }
       },
       "pressure_index": 0.95,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "V Sehwag",
+            "runs": 18,
+            "balls": 8,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by VS Malik, bowled by JP Faulkner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Vohra",
+            "runs": 25,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "run out by STR Binny",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SE Marsh",
+            "runs": 40,
+            "balls": 35,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by AM Rahane, bowled by VS Malik",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 27,
+            "balls": 20,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by R Tewatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 29,
+            "balls": 20,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "GJ Bailey",
+            "runs": 26,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "VS Malik",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 3.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "KK Cooper",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Tewatia",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "PV Tambe",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 165,
+          "byes": 3,
+          "legbyes": 7,
+          "wides": 3,
+          "noballs": 1,
+          "total": 179
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1516,151 @@
       },
       "pressure_index": 0.405,
       "match_shape": 0.48,
-      "target": 180
+      "target": 180,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 23,
+            "balls": 26,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by R Dhawan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 11,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by GJ Bailey, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 30,
+            "balls": 29,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "stumped by WP Saha, bowled by Karanveer Singh",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by R Dhawan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 7,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SE Marsh, bowled by Karanveer Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 16,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Karanveer Singh, bowled by AR Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 31,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "stumped by WP Saha, bowled by AR Patel",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "JP Faulkner",
+            "runs": 35,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KK Cooper",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SE Marsh, bowled by AR Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VS Malik",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "BE Hendricks",
+            "overs": 4.0,
+            "runs_conceded": 57,
+            "wickets": 0,
+            "economy": 14.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Dhawan",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 3,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Karanveer Singh",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 2,
+            "economy": 4.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 156,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 3,
+          "noballs": 0,
+          "total": 163
+        }
+      }
     }
   ]
 }

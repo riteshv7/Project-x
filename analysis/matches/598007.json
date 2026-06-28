@@ -692,7 +692,168 @@
         }
       },
       "pressure_index": 0.74,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Mandeep Singh",
+            "runs": 9,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DJ Bravo, bowled by DP Nannes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AC Gilchrist",
+            "runs": 9,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by MEK Hussey, bowled by DP Nannes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Vohra",
+            "runs": 16,
+            "balls": 11,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by MEK Hussey, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 41,
+            "balls": 36,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by DJ Bravo, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Gurkeerat Singh",
+            "runs": 31,
+            "balls": 26,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by DP Nannes, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Azhar Mahmood",
+            "runs": 8,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Ashwin, bowled by CH Morris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Sathish",
+            "runs": 8,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by CH Morris, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 4,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by M Vijay, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RJ Harris",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DJ Bravo, bowled by CH Morris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Kumar",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by MS Dhoni",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "P Awana",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DP Nannes",
+            "overs": 3.5,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 4.43,
+            "maidens": 0
+          },
+          {
+            "name": "AS Rajpoot",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "CH Morris",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 3,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 7.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 130,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 2,
+          "noballs": 0,
+          "total": 138
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1300,7 +1461,87 @@
       },
       "pressure_index": 0.336,
       "match_shape": 0.998,
-      "target": 139
+      "target": 139,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "M Vijay",
+            "runs": 50,
+            "balls": 50,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MEK Hussey",
+            "runs": 86,
+            "balls": 54,
+            "fours": 11,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 2.2,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 7.71,
+            "maidens": 0
+          },
+          {
+            "name": "RJ Harris",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "Azhar Mahmood",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "P Awana",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Sathish",
+            "overs": 1.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 15.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 136,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 139
+        }
+      }
     }
   ]
 }

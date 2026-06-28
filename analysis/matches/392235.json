@@ -742,7 +742,133 @@
         }
       },
       "pressure_index": 0.726,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "ST Jayasuriya",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by DP Nannes",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 9,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by DP Nannes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 46,
+            "balls": 40,
+            "fours": 8,
+            "sixes": 0,
+            "dismissal": "bowled by R Bhatia",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Mohammad Ashraful",
+            "runs": 2,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by PJ Sangwan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 56,
+            "balls": 41,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by AB de Villiers, bowled by PJ Sangwan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 4,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by AM Salvi",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "PR Shah",
+            "runs": 12,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by DP Nannes",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 12,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DP Nannes",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 3,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "AM Salvi",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Sangwan",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 141,
+          "byes": 6,
+          "legbyes": 6,
+          "wides": 11,
+          "noballs": 1,
+          "total": 165
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1370,7 +1496,149 @@
       },
       "pressure_index": 0.363,
       "match_shape": 0.987,
-      "target": 166
+      "target": 166,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "G Gambhir",
+            "runs": 47,
+            "balls": 38,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "caught by Mohammad Ashraful, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 15,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Mohammad Ashraful, bowled by DS Kulkarni",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 50,
+            "balls": 27,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "bowled by Harbhajan Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "TM Dilshan",
+            "runs": 24,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by PR Shah, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 6,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AM Nayar, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Bhatia",
+            "runs": 2,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Harbhajan Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "A Mishra",
+            "runs": 13,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 3.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Shaikh",
+            "overs": 1.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 4,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "AM Nayar",
+            "overs": 2.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "ST Jayasuriya",
+            "overs": 2.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "JP Duminy",
+            "overs": 1.3,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 157,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 8,
+          "noballs": 1,
+          "total": 166
+        }
+      }
     }
   ]
 }

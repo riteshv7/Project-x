@@ -677,7 +677,168 @@
         }
       },
       "pressure_index": 0.871,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Abhishek Sharma",
+            "runs": 15,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by C Green, bowled by Kartik Tyagi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TM Head",
+            "runs": 61,
+            "balls": 28,
+            "fours": 9,
+            "sixes": 3,
+            "dismissal": "caught by C Green, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 42,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by AS Roy, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 11,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by R Powell, bowled by C Green",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Smaran",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Aniket Verma",
+            "runs": 6,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Arora",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SP Narine",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "PJ Cummins",
+            "runs": 10,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught and bowled by AS Roy",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "Shivang Kumar",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Raghuvanshi, bowled by VG Arora",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "E Malinga",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "HV Patel",
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by VG Arora, bowled by Kartik Tyagi",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "VG Arora",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "Kartik Tyagi",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "C Green",
+            "overs": 3.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 11.33,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 3,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "AS Roy",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 160,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 4,
+          "noballs": 0,
+          "total": 165
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1340,7 +1501,114 @@
       },
       "pressure_index": 0.283,
       "match_shape": 0.996,
-      "target": 166
+      "target": 166,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 43,
+            "balls": 36,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by R Smaran, bowled by Sakib Hussain",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "FH Allen",
+            "runs": 29,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by H Klaasen, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Raghuvanshi",
+            "runs": 59,
+            "balls": 47,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by E Malinga, bowled by Shivang Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RK Singh",
+            "runs": 22,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "C Green",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Abhishek Sharma",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 1,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "E Malinga",
+            "overs": 3.2,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 12.6,
+            "maidens": 0
+          },
+          {
+            "name": "Shivang Kumar",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Sakib Hussain",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 5.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 156,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 12,
+          "noballs": 0,
+          "total": 169
+        }
+      }
     }
   ]
 }

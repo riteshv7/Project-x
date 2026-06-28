@@ -707,7 +707,123 @@
         }
       },
       "pressure_index": 0.87,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SE Marsh",
+            "runs": 81,
+            "balls": 56,
+            "fours": 7,
+            "sixes": 4,
+            "dismissal": "caught by SM Pollock, bowled by SD Chitnis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JR Hopes",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PR Shah, bowled by SM Pollock",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LA Pomersbach",
+            "runs": 79,
+            "balls": 50,
+            "fours": 10,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 7,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DR Smith, bowled by SD Chitnis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by CRD Fernando",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 9,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SM Pollock",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 4.67,
+            "maidens": 0
+          },
+          {
+            "name": "A Nehra",
+            "overs": 3.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 11.33,
+            "maidens": 0
+          },
+          {
+            "name": "VS Yeligati",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 0,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "SD Chitnis",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "CRD Fernando",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "DR Smith",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 177,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 9,
+          "noballs": 0,
+          "total": 189
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1410,7 +1526,168 @@
       },
       "pressure_index": 0.842,
       "match_shape": 0.884,
-      "target": 190
+      "target": 190,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "ST Jayasuriya",
+            "runs": 20,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "lbw, bowled by S Sreesanth",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 65,
+            "balls": 46,
+            "fours": 12,
+            "sixes": 0,
+            "dismissal": "run out by IK Pathan",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "DR Smith",
+            "runs": 20,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "run out by Yuvraj Singh, PP Chawla",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 27,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by TM Srivastava, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 9,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JR Hopes, bowled by Yuvraj Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SM Pollock",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PP Chawla, bowled by Yuvraj Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PR Shah",
+            "runs": 5,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by VRV Singh, bowled by S Sreesanth",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SD Chitnis",
+            "runs": 15,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "run out by TM Srivastava",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "A Nehra",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by TM Srivastava, DPMD Jayawardene, U Kaul",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "CRD Fernando",
+            "runs": 2,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "VS Yeligati",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by Yuvraj Singh",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Sreesanth",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 2,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "VRV Singh",
+            "overs": 4.0,
+            "runs_conceded": 56,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hopes",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 165,
+          "byes": 1,
+          "legbyes": 12,
+          "wides": 9,
+          "noballs": 1,
+          "total": 188
+        }
+      }
     }
   ]
 }

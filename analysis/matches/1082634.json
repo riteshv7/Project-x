@@ -707,7 +707,150 @@
         }
       },
       "pressure_index": 0.728,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 22,
+            "balls": 20,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Yuvraj Singh, bowled by Bipul Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by Bipul Sharma",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SPD Smith",
+            "runs": 34,
+            "balls": 39,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Bipul Sharma, bowled by S Kaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BA Stokes",
+            "runs": 39,
+            "balls": 25,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "bowled by Rashid Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 31,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by NV Ojha, bowled by S Kaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DT Christian",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Rashid Khan, bowled by S Kaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Tiwary",
+            "runs": 9,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by DA Warner, B Kumar",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Washington Sundar",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SN Thakur",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DA Warner, bowled by S Kaul",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Nehra",
+            "overs": 1.1,
+            "runs_conceded": 5,
+            "wickets": 0,
+            "economy": 4.29,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 4,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "MC Henriques",
+            "overs": 2.5,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 5.29,
+            "maidens": 0
+          },
+          {
+            "name": "Bipul Sharma",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 141,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 0,
+          "total": 148
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1538,159 @@
       },
       "pressure_index": 0.742,
       "match_shape": 0.796,
-      "target": 149
+      "target": 149,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 40,
+            "balls": 34,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by SN Thakur, bowled by BA Stokes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 19,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by BA Stokes",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by BA Stokes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 47,
+            "balls": 43,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by RA Tripathi, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MC Henriques",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Imran Tahir",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 9,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by BA Stokes, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Bipul Sharma",
+            "runs": 8,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by BA Stokes, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by JD Unadkat",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Tiwary, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Kaul",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JD Unadkat",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 5,
+            "economy": 7.5,
+            "maidens": 1
+          },
+          {
+            "name": "Washington Sundar",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "BA Stokes",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 3,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "Imran Tahir",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "DT Christian",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 134,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 0,
+          "total": 136
+        }
+      }
     }
   ]
 }

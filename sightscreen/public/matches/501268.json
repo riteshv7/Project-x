@@ -712,7 +712,123 @@
         }
       },
       "pressure_index": 0.989,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MA Agarwal",
+            "runs": 34,
+            "balls": 33,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by DE Bollinger, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 8,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by R Ashwin",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 70,
+            "balls": 44,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 11,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by M Vijay, bowled by SB Jakati",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LA Pomersbach",
+            "runs": 29,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "bowled by DE Bollinger",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 9,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JA Morkel",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "DE Bollinger",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "SB Jakati",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 161,
+          "byes": 2,
+          "legbyes": 7,
+          "wides": 5,
+          "noballs": 0,
+          "total": 175
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1410,7 +1526,123 @@
       },
       "pressure_index": 0.49,
       "match_shape": 0.809,
-      "target": 176
+      "target": 176,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MEK Hussey",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Z Khan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "M Vijay",
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by S Aravind",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 34,
+            "balls": 32,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by S Aravind, bowled by A Mithun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 73,
+            "balls": 48,
+            "fours": 4,
+            "sixes": 6,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 29,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by A Mithun, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 28,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "S Aravind",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "A Mithun",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "V Kohli",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "DL Vettori",
+            "overs": 3.4,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 11.45,
+            "maidens": 0
+          },
+          {
+            "name": "CH Gayle",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 4.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 169,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 4,
+          "noballs": 2,
+          "total": 177
+        }
+      }
     }
   ]
 }

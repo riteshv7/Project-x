@@ -697,7 +697,115 @@
         }
       },
       "pressure_index": 0.888,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 28,
+            "balls": 18,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by AK Markram, bowled by T Natarajan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 38,
+            "balls": 31,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by AK Markram, bowled by M Jansen",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "C Green",
+            "runs": 64,
+            "balls": 40,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 7,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by AK Markram, bowled by M Jansen",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 37,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 4,
+            "dismissal": "caught by MA Agarwal, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TH David",
+            "runs": 16,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "run out by T Natarajan, Abhishek Sharma",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "M Jansen",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 2,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "Washington Sundar",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 1,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Markande",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 8.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 190,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 0,
+          "total": 192
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1410,7 +1518,168 @@
       },
       "pressure_index": 0.459,
       "match_shape": 0.516,
-      "target": 193
+      "target": 193,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "HC Brook",
+            "runs": 9,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SA Yadav, bowled by JP Behrendorff",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 48,
+            "balls": 41,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by TH David, bowled by RP Meredith",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Ishan Kishan, bowled by JP Behrendorff",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AK Markram",
+            "runs": 22,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by HR Shokeen, bowled by C Green",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by TH David, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 36,
+            "balls": 16,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by TH David, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 9,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by Ishan Kishan, HR Shokeen",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "M Jansen",
+            "runs": 13,
+            "balls": 6,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by TH David, bowled by RP Meredith",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Washington Sundar",
+            "runs": 10,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "run out by TH David",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by Arjun Tendulkar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Markande",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Arjun Tendulkar",
+            "overs": 2.5,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 6.35,
+            "maidens": 0
+          },
+          {
+            "name": "JP Behrendorff",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "RP Meredith",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "HR Shokeen",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 2,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "C Green",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 159,
+          "byes": 1,
+          "legbyes": 5,
+          "wides": 13,
+          "noballs": 0,
+          "total": 178
+        }
+      }
     }
   ]
 }

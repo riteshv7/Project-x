@@ -732,7 +732,133 @@
         }
       },
       "pressure_index": 0.544,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "S Dhawan",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by DL Chahar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 24,
+            "balls": 15,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Goswami",
+            "runs": 12,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught and bowled by L Ngidi",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 8,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by RA Jadeja",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "runs": 12,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 24,
+            "balls": 29,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught and bowled by DJ Bravo",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "CR Brathwaite",
+            "runs": 43,
+            "balls": 29,
+            "fours": 1,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "B Kumar",
+            "runs": 7,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "L Ngidi",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 1,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 13,
+            "wickets": 1,
+            "economy": 3.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 130,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 9,
+          "noballs": 0,
+          "total": 139
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1526,159 @@
       },
       "pressure_index": 0.841,
       "match_shape": 0.755,
-      "target": 140
+      "target": 140,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SR Watson",
+            "runs": 0,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SP Goswami, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 22,
+            "balls": 13,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by S Kaul",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 67,
+            "balls": 42,
+            "fours": 5,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by S Kaul",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 9,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Rashid Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 7,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Dhawan, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by Sandeep Sharma",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "DL Chahar",
+            "runs": 10,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by CR Brathwaite, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 2,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SN Thakur",
+            "runs": 15,
+            "balls": 5,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 3.1,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 4.42,
+            "maidens": 0
+          },
+          {
+            "name": "Sandeep Sharma",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "CR Brathwaite",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 11,
+            "wickets": 2,
+            "economy": 2.75,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 135,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 0,
+          "total": 140
+        }
+      }
     }
   ]
 }

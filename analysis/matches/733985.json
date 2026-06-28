@@ -697,7 +697,132 @@
         }
       },
       "pressure_index": 0.746,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Q de Kock",
+            "runs": 10,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by G Gambhir, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Vijay",
+            "runs": 24,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by SP Narine, bowled by JH Kallis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KP Pietersen",
+            "runs": 6,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by RV Uthappa",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 36,
+            "balls": 22,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by JH Kallis, bowled by Shakib Al Hasan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 40,
+            "balls": 28,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "LR Shukla",
+            "runs": 10,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by SP Narine",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 26,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SA Yadav",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 4.0,
+            "runs_conceded": 13,
+            "wickets": 1,
+            "economy": 3.25,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 152,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 2,
+          "noballs": 0,
+          "total": 160
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1330,7 +1455,105 @@
       },
       "pressure_index": 0.338,
       "match_shape": 0.996,
-      "target": 161
+      "target": 161,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 47,
+            "balls": 34,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by WD Parnell",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 69,
+            "balls": 56,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by KD Karthik, bowled by WD Parnell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 23,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 10,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "WD Parnell",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "LR Shukla",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "JP Duminy",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Nadeem",
+            "overs": 3.2,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 10.2,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 149,
+          "byes": 0,
+          "legbyes": 11,
+          "wides": 1,
+          "noballs": 0,
+          "total": 161
+        }
+      }
     }
   ]
 }

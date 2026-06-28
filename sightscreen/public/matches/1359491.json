@@ -717,7 +717,150 @@
         }
       },
       "pressure_index": 0.939,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 10,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by S Dube, bowled by TU Deshpande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 52,
+            "balls": 36,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "bowled by MM Ali",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 38,
+            "balls": 26,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by DP Conway, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by RA Jadeja",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 30,
+            "balls": 22,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by SSB Magala, bowled by Akash Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 30,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Dhruv Jurel",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Dube, bowled by Akash Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JO Holder",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DP Conway, bowled by TU Deshpande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Zampa",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by MS Dhoni, M Theekshana",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Akash Singh",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "TU Deshpande",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Theekshana",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "MM Ali",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "SSB Magala",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 165,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 10,
+          "noballs": 0,
+          "total": 175
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1430,7 +1573,141 @@
       },
       "pressure_index": 0.678,
       "match_shape": 0.67,
-      "target": 176
+      "target": 176,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RD Gaikwad",
+            "runs": 8,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by YBK Jaiswal, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DP Conway",
+            "runs": 50,
+            "balls": 38,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by YBK Jaiswal, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 31,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by R Ashwin",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "S Dube",
+            "runs": 8,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by R Ashwin",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "MM Ali",
+            "runs": 7,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Sandeep Sharma, bowled by A Zampa",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SO Hetmyer, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 25,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 32,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "KR Sen",
+            "overs": 2.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "JO Holder",
+            "overs": 3.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 12.33,
+            "maidens": 0
+          },
+          {
+            "name": "A Zampa",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 162,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 8,
+          "noballs": 0,
+          "total": 172
+        }
+      }
     }
   ]
 }

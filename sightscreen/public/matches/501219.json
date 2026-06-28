@@ -702,7 +702,142 @@
         }
       },
       "pressure_index": 0.716,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "BB McCullum",
+            "runs": 23,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by EJG Morgan, bowled by Shakib Al Hasan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 25,
+            "balls": 27,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by YK Pathan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 9,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by YK Pathan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 2,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by YK Pathan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 29,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by YK Pathan, bowled by B Lee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 12,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Shakib Al Hasan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RV Gomez",
+            "runs": 10,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Vinay Kumar",
+            "runs": 11,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Shakib Al Hasan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RR Powar",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Lee",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 3,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 3,
+            "economy": 5.0,
+            "maidens": 1
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 124,
+          "byes": 1,
+          "legbyes": 4,
+          "wides": 3,
+          "noballs": 0,
+          "total": 132
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1390,7 +1525,160 @@
       },
       "pressure_index": 0.842,
       "match_shape": 0.854,
-      "target": 133
+      "target": 133,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MS Bisla",
+            "runs": 16,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by RA Jadeja",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 6,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KM Jadhav, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by RP Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Tiwary",
+            "runs": 46,
+            "balls": 51,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "stumped by PA Patel, bowled by RA Jadeja",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 10,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by DPMD Jayawardene",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by RP Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 8,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by M Muralitharan, bowled by RR Powar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Bhatia",
+            "runs": 10,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by PA Patel, RA Jadeja",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "B Lee",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KM Jadhav, bowled by M Muralitharan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "runs": 12,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "L Balaji",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "RP Singh",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "RR Powar",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 4.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 115,
+          "byes": 4,
+          "legbyes": 4,
+          "wides": 3,
+          "noballs": 0,
+          "total": 126
+        }
+      }
     }
   ]
 }

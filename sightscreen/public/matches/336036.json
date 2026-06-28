@@ -722,7 +722,150 @@
         }
       },
       "pressure_index": 0.831,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "ST Jayasuriya",
+            "runs": 38,
+            "balls": 37,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by Pankaj Singh, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 30,
+            "balls": 34,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught and bowled by SK Trivedi",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 25,
+            "balls": 18,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Sohail Tanvir",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 3,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by Kamran Akmal, bowled by SK Warne",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "DR Smith",
+            "runs": 8,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by NK Patel, bowled by Sohail Tanvir",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SM Pollock",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Kamran Akmal, bowled by Sohail Tanvir",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Sohail Tanvir",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "YV Takawale",
+            "runs": 24,
+            "balls": 7,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RR Raje",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sohail Tanvir",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 4,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Pankaj Singh",
+            "overs": 2.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 3.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 3.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 132,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 6,
+          "noballs": 1,
+          "total": 145
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1430,7 +1573,140 @@
       },
       "pressure_index": 0.969,
       "match_shape": 0.739,
-      "target": 146
+      "target": 146,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Kamran Akmal",
+            "runs": 18,
+            "balls": 16,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "run out by MK Pandey",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SA Asnodkar",
+            "runs": 17,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by YV Takawale, bowled by CRD Fernando",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Nehra, bowled by CRD Fernando",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 18,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by SR Tendulkar, bowled by RR Raje",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Kaif",
+            "runs": 12,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by RR Raje, ST Jayasuriya",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "NK Patel",
+            "runs": 40,
+            "balls": 29,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 23,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SM Pollock",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Nehra",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "CRD Fernando",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "DR Smith",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "AM Nayar",
+            "overs": 1.0,
+            "runs_conceded": 4,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "RR Raje",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "ST Jayasuriya",
+            "overs": 2.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 130,
+          "byes": 4,
+          "legbyes": 6,
+          "wides": 5,
+          "noballs": 1,
+          "total": 146
+        }
+      }
     }
   ]
 }

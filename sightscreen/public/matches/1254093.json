@@ -702,7 +702,168 @@
         }
       },
       "pressure_index": 0.496,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "E Lewis",
+            "runs": 24,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by JJ Bumrah",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "YBK Jaiswal",
+            "runs": 12,
+            "balls": 9,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by Ishan Kishan, bowled by NM Coulter-Nile",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by J Yadav, bowled by JDS Neesham",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dube",
+            "runs": 3,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by JDS Neesham",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "GD Phillips",
+            "runs": 4,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by NM Coulter-Nile",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 15,
+            "balls": 23,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by NM Coulter-Nile",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 12,
+            "balls": 20,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Ishan Kishan, bowled by JDS Neesham",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Gopal",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Ishan Kishan, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "C Sakariya",
+            "runs": 6,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by NM Coulter-Nile",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "K Yadav",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Mustafizur Rahman",
+            "runs": 8,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "J Yadav",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "NM Coulter-Nile",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 4,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "JDS Neesham",
+            "overs": 4.0,
+            "runs_conceded": 12,
+            "wickets": 3,
+            "economy": 3.0,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 2.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 4.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 87,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 1,
+          "total": 90
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1040,12 +1201,94 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.047,
       "match_shape": 0.997,
-      "target": 91
+      "target": 91,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 22,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by YBK Jaiswal, bowled by C Sakariya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 50,
+            "balls": 23,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 13,
+            "balls": 8,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by MK Lomror, bowled by Mustafizur Rahman",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 5,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mustafizur Rahman",
+            "overs": 2.2,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 13.71,
+            "maidens": 0
+          },
+          {
+            "name": "C Sakariya",
+            "overs": 3.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 1
+          },
+          {
+            "name": "S Gopal",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "K Yadav",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 90,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 2,
+          "total": 94
+        }
+      }
     }
   ]
 }

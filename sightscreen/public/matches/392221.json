@@ -707,7 +707,123 @@
         }
       },
       "pressure_index": 0.85,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "BB McCullum",
+            "runs": 84,
+            "balls": 62,
+            "fours": 10,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SC Ganguly",
+            "runs": 4,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by MV Boucher, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AN Ghosh",
+            "runs": 7,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by MV Boucher, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 43,
+            "balls": 27,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "bowled by B Akhil",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AD Mathews",
+            "runs": 16,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by V Kohli, bowled by A Kumble",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 10,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "R Vinay Kumar",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "JD Ryder",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "A Kumble",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "KP Appanna",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "B Akhil",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 10.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 164,
+          "byes": 5,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 2,
+          "total": 173
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1521,123 @@
       },
       "pressure_index": 0.906,
       "match_shape": 0.968,
-      "target": 174
+      "target": 174,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JD Ryder",
+            "runs": 22,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by SC Ganguly, bowled by AB Agarkar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 32,
+            "balls": 34,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by BB McCullum, bowled by M Kartik",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 7,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AD Mathews, bowled by M Kartik",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LRPL Taylor",
+            "runs": 81,
+            "balls": 33,
+            "fours": 7,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Dravid",
+            "runs": 12,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by BAW Mendis",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "MV Boucher",
+            "runs": 13,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "I Sharma",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "BAW Mendis",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "AB Agarkar",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 1,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "AD Mathews",
+            "overs": 2.2,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 13.29,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Hussey",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Kartik",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 167,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 6,
+          "noballs": 2,
+          "total": 176
+        }
+      }
     }
   ]
 }

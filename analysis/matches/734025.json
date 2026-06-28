@@ -702,7 +702,151 @@
         }
       },
       "pressure_index": 0.879,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "V Sehwag",
+            "runs": 17,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "run out by P Kumar",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "M Vohra",
+            "runs": 36,
+            "balls": 34,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "bowled by S Gopal",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SE Marsh",
+            "runs": 30,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by KA Pollard, bowled by K Santokie",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by S Gopal",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "GJ Bailey",
+            "runs": 39,
+            "balls": 30,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by AT Rayudu, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 3,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by AT Rayudu",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 6,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Dhawan",
+            "runs": 14,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "BE Hendricks",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by JJ Bumrah",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Shivam Sharma",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "K Santokie",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Gopal",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 148,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 3,
+          "noballs": 0,
+          "total": 156
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1380,7 +1524,106 @@
       },
       "pressure_index": 0.226,
       "match_shape": 0.988,
-      "target": 157
+      "target": 157,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "LMP Simmons",
+            "runs": 100,
+            "balls": 61,
+            "fours": 14,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MEK Hussey",
+            "runs": 6,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by AR Patel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 17,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Sehwag, bowled by R Dhawan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 18,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Sandeep Sharma, bowled by BE Hendricks",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 8,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 3.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 12.33,
+            "maidens": 0
+          },
+          {
+            "name": "BE Hendricks",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Dhawan",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "Shivam Sharma",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 149,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 10,
+          "noballs": 0,
+          "total": 159
+        }
+      }
     }
   ]
 }

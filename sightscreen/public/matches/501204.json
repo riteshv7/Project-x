@@ -707,7 +707,133 @@
         }
       },
       "pressure_index": 0.579,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 54,
+            "balls": 44,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "caught by AS Raut, bowled by A Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by R Dravid, bowled by SW Tait",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AJ Finch",
+            "runs": 11,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by J Botha, bowled by SW Tait",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "UBT Chand",
+            "runs": 2,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Dravid, bowled by SK Warne",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SW Tait, bowled by SK Warne",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 60,
+            "balls": 40,
+            "fours": 4,
+            "sixes": 4,
+            "dismissal": "caught by SK Warne, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 9,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RE van der Merwe",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SW Tait",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Singh",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 4.5,
+            "maidens": 1
+          },
+          {
+            "name": "J Botha",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 4.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 142,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 3,
+          "noballs": 2,
+          "total": 151
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1355,7 +1481,115 @@
       },
       "pressure_index": 0.342,
       "match_shape": 0.971,
-      "target": 152
+      "target": 152,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AG Paunikar",
+            "runs": 5,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by AB Dinda",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Dravid",
+            "runs": 38,
+            "balls": 30,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "caught by NV Ojha, bowled by RE van der Merwe",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "J Botha",
+            "runs": 39,
+            "balls": 32,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AL Menaria",
+            "runs": 22,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "caught by V Sehwag, bowled by IK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 18,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by M Morkel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "LRPL Taylor",
+            "runs": 18,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AB Dinda",
+            "overs": 3.3,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 9.71,
+            "maidens": 0
+          },
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 11,
+            "wickets": 1,
+            "economy": 2.75,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "RE van der Merwe",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 1,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "S Nadeem",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 140,
+          "byes": 4,
+          "legbyes": 5,
+          "wides": 1,
+          "noballs": 2,
+          "total": 152
+        }
+      }
     }
   ]
 }

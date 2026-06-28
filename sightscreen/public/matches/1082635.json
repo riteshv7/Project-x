@@ -727,7 +727,114 @@
         }
       },
       "pressure_index": 0.681,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "LMP Simmons",
+            "runs": 66,
+            "balls": 43,
+            "fours": 5,
+            "sixes": 4,
+            "dismissal": "caught by MN Samuels, bowled by CJ Anderson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 25,
+            "balls": 22,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "stumped by RR Pant, bowled by A Mishra",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 63,
+            "balls": 35,
+            "fours": 5,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 10,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by A Mishra, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 29,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 59,
+            "wickets": 0,
+            "economy": 14.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Shami",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "CJ Anderson",
+            "overs": 2.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 14.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 193,
+          "byes": 0,
+          "legbyes": 9,
+          "wides": 10,
+          "noballs": 0,
+          "total": 212
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1215,12 +1322,173 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.071,
       "match_shape": 0.151,
-      "target": 213
+      "target": 213,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SV Samson",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by LMP Simmons, bowled by MJ McClenaghan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 21,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by RG Sharma, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Harbhajan Singh, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by LMP Simmons, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CJ Anderson",
+            "runs": 10,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by KV Sharma, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MN Samuels",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PJ Cummins",
+            "runs": 10,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by PA Patel, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "K Rabada",
+            "runs": 0,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Mishra",
+            "runs": 9,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Mohammed Shami",
+            "runs": 7,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by KA Pollard, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Z Khan",
+            "runs": 2,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by N Rana, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MJ McClenaghan",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 2.0,
+            "runs_conceded": 5,
+            "wickets": 2,
+            "economy": 2.5,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 1.0,
+            "runs_conceded": 6,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 3,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 3.4,
+            "runs_conceded": 11,
+            "wickets": 3,
+            "economy": 3.0,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 1.0,
+            "runs_conceded": 2,
+            "wickets": 0,
+            "economy": 2.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 63,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 0,
+          "total": 66
+        }
+      }
     }
   ]
 }

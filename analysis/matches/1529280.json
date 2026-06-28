@@ -717,7 +717,141 @@
         }
       },
       "pressure_index": 0.545,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SV Samson",
+            "runs": 11,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by JC Buttler, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RD Gaikwad",
+            "runs": 74,
+            "balls": 60,
+            "fours": 6,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Urvil Patel",
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JO Holder, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SN Khan",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JC Buttler, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Brevis",
+            "runs": 2,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Shubman Gill, bowled by MJ Suthar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dube",
+            "runs": 22,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "bowled by Arshad Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Kartik Sharma",
+            "runs": 15,
+            "balls": 9,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by JO Holder, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "J Overton",
+            "runs": 18,
+            "balls": 6,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by M Shahrukh Khan, bowled by Arshad Khan",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Siraj",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 3,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "MJ Suthar",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "JO Holder",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "Arshad Khan",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 2,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 1.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 21.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 146,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 10,
+          "noballs": 0,
+          "total": 158
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1305,7 +1439,105 @@
       },
       "pressure_index": 0.358,
       "match_shape": 0.997,
-      "target": 159
+      "target": 159,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "B Sai Sudharsan",
+            "runs": 87,
+            "balls": 46,
+            "fours": 4,
+            "sixes": 7,
+            "dismissal": "caught by D Brevis, bowled by AJ Hosein",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 33,
+            "balls": 23,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "stumped by SV Samson, bowled by Noor Ahmad",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 39,
+            "balls": 30,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Washington Sundar",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AJ Hosein",
+            "overs": 3.4,
+            "runs_conceded": 46,
+            "wickets": 1,
+            "economy": 12.55,
+            "maidens": 0
+          },
+          {
+            "name": "A Kamboj",
+            "overs": 3.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 5.33,
+            "maidens": 0
+          },
+          {
+            "name": "J Overton",
+            "overs": 2.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "Gurjapneet Singh",
+            "overs": 3.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "S Dube",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 160,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 0,
+          "total": 162
+        }
+      }
     }
   ]
 }

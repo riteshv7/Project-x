@@ -722,7 +722,141 @@
         }
       },
       "pressure_index": 0.966,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PC Valthaty",
+            "runs": 62,
+            "balls": 50,
+            "fours": 7,
+            "sixes": 3,
+            "dismissal": "bowled by IK Pathan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AC Gilchrist",
+            "runs": 9,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by DA Warner, bowled by M Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SE Marsh",
+            "runs": 46,
+            "balls": 28,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "caught by M Morkel, bowled by IK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JR Hopes, bowled by AM Salvi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 27,
+            "balls": 19,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by JR Hopes, bowled by AM Salvi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 11,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by IK Pathan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RJ Harris",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 3,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "VR Aaron",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "AM Salvi",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hopes",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Sriram",
+            "overs": 1.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 25.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 161,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 7,
+          "noballs": 0,
+          "total": 170
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1420,7 +1554,151 @@
       },
       "pressure_index": 0.6,
       "match_shape": 0.592,
-      "target": 171
+      "target": 171,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "NV Ojha",
+            "runs": 28,
+            "balls": 28,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by AC Gilchrist, bowled by SJ Srivastava",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 29,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by AC Gilchrist, bowled by SJ Srivastava",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 16,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by RJ Harris, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Sriram",
+            "runs": 4,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Mandeep Singh, bowled by PC Valthaty",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JR Hopes",
+            "runs": 7,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Y Nagar",
+            "runs": 10,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by RJ Harris",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "TR Birt",
+            "runs": 16,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by RJ Harris, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Morkel",
+            "runs": 16,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "VR Aaron",
+            "runs": 0,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 1
+          },
+          {
+            "name": "RJ Harris",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "SJ Srivastava",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 2,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 3,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "PC Valthaty",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 129,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 8,
+          "noballs": 0,
+          "total": 141
+        }
+      }
     }
   ]
 }

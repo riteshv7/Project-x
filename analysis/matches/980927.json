@@ -717,7 +717,141 @@
         }
       },
       "pressure_index": 0.983,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "V Kohli",
+            "runs": 33,
+            "balls": 30,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by TG Southee, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KL Rahul",
+            "runs": 23,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by Harbhajan Singh, bowled by MJ McClenaghan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 29,
+            "balls": 21,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "stumped by PA Patel, bowled by KH Pandya",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 5,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PA Patel, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TM Head",
+            "runs": 37,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "run out by Harbhajan Singh, PA Patel",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SN Khan",
+            "runs": 28,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by KH Pandya, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by HH Pandya, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KW Richardson",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TG Southee",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "MJ McClenaghan",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 3,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 157,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 10,
+          "noballs": 0,
+          "total": 170
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1350,7 +1484,123 @@
       },
       "pressure_index": 0.732,
       "match_shape": 0.991,
-      "target": 171
+      "target": 171,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 62,
+            "balls": 43,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "caught by AB de Villiers, bowled by Iqbal Abdulla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 5,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AB de Villiers, bowled by KW Richardson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 31,
+            "balls": 23,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by KW Richardson, bowled by Iqbal Abdulla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 28,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by SR Watson, bowled by Iqbal Abdulla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 39,
+            "balls": 19,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "VR Aaron",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "KW Richardson",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 3,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "STR Binny",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 167,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 1,
+          "total": 171
+        }
+      }
     }
   ]
 }

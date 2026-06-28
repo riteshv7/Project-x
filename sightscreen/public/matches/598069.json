@@ -702,7 +702,150 @@
         }
       },
       "pressure_index": 0.67,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MS Bisla",
+            "runs": 15,
+            "balls": 18,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by CL White, bowled by NLTC Perera",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 10,
+            "balls": 17,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by BB Samantray, PA Patel",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 24,
+            "balls": 29,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by S Dhawan, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 9,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by KV Sharma",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 49,
+            "balls": 29,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RN ten Doeschate",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by A Mishra",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "P Dogra",
+            "runs": 5,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by NLTC Perera, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by NLTC Perera, bowled by Anand Rajan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Anand Rajan",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "NLTC Perera",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "DJG Sammy",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 3.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 116,
+          "byes": 0,
+          "legbyes": 7,
+          "wides": 7,
+          "noballs": 0,
+          "total": 130
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1365,7 +1508,132 @@
       },
       "pressure_index": 0.23,
       "match_shape": 0.973,
-      "target": 131
+      "target": 131,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 47,
+            "balls": 37,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Iqbal Abdulla",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 42,
+            "balls": 35,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "lbw, bowled by Iqbal Abdulla",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "GH Vihari",
+            "runs": 6,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by P Dogra, bowled by Iqbal Abdulla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CL White",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by EJG Morgan, MS Bisla",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "NLTC Perera",
+            "runs": 4,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Mohammed Shami",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DJG Sammy",
+            "runs": 17,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "BB Samantray",
+            "runs": 5,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "YK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Sangwan",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 2.75,
+            "maidens": 1
+          },
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "overs": 3.5,
+            "runs_conceded": 29,
+            "wickets": 3,
+            "economy": 7.57,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 123,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 8,
+          "noballs": 0,
+          "total": 132
+        }
+      }
     }
   ]
 }

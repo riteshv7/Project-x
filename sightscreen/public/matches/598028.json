@@ -702,7 +702,106 @@
         }
       },
       "pressure_index": 0.924,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 42,
+            "balls": 26,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught and bowled by IK Pathan",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "SE Marsh",
+            "runs": 45,
+            "balls": 44,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "caught by IK Pathan, bowled by M Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Azhar Mahmood",
+            "runs": 9,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by S Kaul, bowled by A Nehra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 44,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Sathish",
+            "runs": 22,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by BJ Rohrer, bowled by A Nehra",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Nehra",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 2,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 162,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 3,
+          "noballs": 0,
+          "total": 171
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1385,7 +1484,133 @@
       },
       "pressure_index": 0.291,
       "match_shape": 0.458,
-      "target": 172
+      "target": 172,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 39,
+            "balls": 41,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by M Vohra, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "UBT Chand",
+            "runs": 7,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by P Kumar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 1,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SE Marsh, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 30,
+            "balls": 22,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by P Awana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BJ Rohrer",
+            "runs": 49,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "CM Gautam",
+            "runs": 12,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "M Morkel",
+            "runs": 13,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by DA Miller, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "Azhar Mahmood",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 3,
+            "economy": 5.75,
+            "maidens": 1
+          },
+          {
+            "name": "P Awana",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 2,
+            "economy": 11.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 151,
+          "byes": 4,
+          "legbyes": 6,
+          "wides": 0,
+          "noballs": 3,
+          "total": 164
+        }
+      }
     }
   ]
 }

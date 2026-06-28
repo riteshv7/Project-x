@@ -697,7 +697,142 @@
         }
       },
       "pressure_index": 0.712,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 14,
+            "balls": 11,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by DL Chahar",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 23,
+            "balls": 10,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by AT Rayudu, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 6,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DR Shorey, bowled by MJ Santner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SPD Smith",
+            "runs": 15,
+            "balls": 22,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AT Rayudu, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 10,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KM Jadhav, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BA Stokes",
+            "runs": 28,
+            "balls": 26,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by DL Chahar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Parag",
+            "runs": 16,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Archer",
+            "runs": 13,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "S Gopal",
+            "runs": 19,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "MJ Santner",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 2,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "Imran Tahir",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 144,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 6,
+          "noballs": 0,
+          "total": 151
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1530,141 @@
       },
       "pressure_index": 0.599,
       "match_shape": 0.645,
-      "target": 152
+      "target": 152,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SR Watson",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by DS Kulkarni",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 7,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RA Tripathi, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 57,
+            "balls": 47,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by S Gopal, bowled by BA Stokes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 1,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by BA Stokes, bowled by JC Archer",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 58,
+            "balls": 43,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "bowled by BA Stokes",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 9,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MJ Santner",
+            "runs": 10,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DS Kulkarni",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 4.67,
+            "maidens": 1
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "JC Archer",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 1
+          },
+          {
+            "name": "R Parag",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Gopal",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "BA Stokes",
+            "overs": 3.0,
+            "runs_conceded": 39,
+            "wickets": 2,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 146,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 3,
+          "noballs": 1,
+          "total": 155
+        }
+      }
     }
   ]
 }

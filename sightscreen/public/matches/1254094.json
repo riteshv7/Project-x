@@ -722,7 +722,141 @@
         }
       },
       "pressure_index": 0.529,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RD Gaikwad",
+            "runs": 12,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by M Shahrukh Khan, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 76,
+            "balls": 55,
+            "fours": 8,
+            "sixes": 2,
+            "dismissal": "caught by KL Rahul, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MM Ali",
+            "runs": 0,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KL Rahul, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Harpreet Brar, bowled by CJ Jordan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Arshdeep Singh, bowled by CJ Jordan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 12,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by Ravi Bishnoi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 15,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "Harpreet Brar",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "Arshdeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 2,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "CJ Jordan",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "MC Henriques",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 125,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 8,
+          "noballs": 0,
+          "total": 134
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1210,12 +1344,120 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.188,
       "match_shape": 0.996,
-      "target": 135
+      "target": 135,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KL Rahul",
+            "runs": 98,
+            "balls": 42,
+            "fours": 7,
+            "sixes": 8,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 12,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by SN Thakur",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SN Khan",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by F du Plessis, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Shahrukh Khan",
+            "runs": 8,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by DJ Bravo, bowled by DL Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AK Markram",
+            "runs": 13,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by MS Dhoni, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MC Henriques",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hazlewood",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 3,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 2.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 134,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 0,
+          "total": 139
+        }
+      }
     }
   ]
 }

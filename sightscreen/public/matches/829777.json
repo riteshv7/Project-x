@@ -707,7 +707,97 @@
         }
       },
       "pressure_index": 0.838,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 91,
+            "balls": 54,
+            "fours": 9,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SR Watson",
+            "runs": 21,
+            "balls": 24,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by KM Jadhav, bowled by AD Mathews",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 61,
+            "balls": 38,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "caught by A Mishra, bowled by NM Coulter-Nile",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Faulkner",
+            "runs": 8,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "GS Sandhu",
+            "overs": 4.0,
+            "runs_conceded": 49,
+            "wickets": 0,
+            "economy": 12.25,
+            "maidens": 0
+          },
+          {
+            "name": "NM Coulter-Nile",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "AD Mathews",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 10.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 181,
+          "byes": 2,
+          "legbyes": 1,
+          "wides": 5,
+          "noballs": 0,
+          "total": 189
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1440,7 +1530,150 @@
       },
       "pressure_index": 0.397,
       "match_shape": 0.404,
-      "target": 190
+      "target": 190,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MA Agarwal",
+            "runs": 11,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by STR Binny",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 9,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by SR Watson",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 56,
+            "balls": 39,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by DS Kulkarni, bowled by JP Faulkner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 22,
+            "balls": 18,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by STR Binny, bowled by JP Faulkner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Mathews",
+            "runs": 16,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SV Samson, bowled by STR Binny",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 11,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by SR Watson, bowled by DS Kulkarni",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 28,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "NM Coulter-Nile",
+            "runs": 6,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by SPD Smith, bowled by DS Kulkarni",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Mishra",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TG Southee",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 1
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 2,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "STR Binny",
+            "overs": 2.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 1
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 160,
+          "byes": 3,
+          "legbyes": 1,
+          "wides": 11,
+          "noballs": 0,
+          "total": 175
+        }
+      }
     }
   ]
 }

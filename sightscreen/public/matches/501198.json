@@ -692,7 +692,123 @@
         }
       },
       "pressure_index": 0.975,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "S Anirudha",
+            "runs": 64,
+            "balls": 55,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "bowled by JH Kallis",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "M Vijay",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by R Bhatia, bowled by Iqbal Abdulla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 33,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by S Ladda, bowled by YK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 29,
+            "balls": 21,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by MS Bisla, bowled by JH Kallis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 15,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SB Styris",
+            "runs": 5,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Iqbal Abdulla",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 3.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 11.33,
+            "maidens": 0
+          },
+          {
+            "name": "S Ladda",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 6.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 150,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 0,
+          "total": 153
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1385,7 +1501,150 @@
       },
       "pressure_index": 0.566,
       "match_shape": 0.874,
-      "target": 154
+      "target": 154,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MS Bisla",
+            "runs": 27,
+            "balls": 29,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "stumped by MS Dhoni, bowled by SB Jakati",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 54,
+            "balls": 42,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "caught by S Badrinath, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 11,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by MS Dhoni",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MK Tiwary",
+            "runs": 27,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "stumped by MS Dhoni, bowled by S Randiv",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 6,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "stumped by MS Dhoni, bowled by SK Raina",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by SB Styris",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "LR Shukla",
+            "runs": 14,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SB Styris, bowled by TG Southee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Bhatia",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JA Morkel",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "TG Southee",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "S Randiv",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "SB Jakati",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 1.0,
+            "runs_conceded": 3,
+            "wickets": 1,
+            "economy": 3.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 143,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 7,
+          "noballs": 0,
+          "total": 151
+        }
+      }
     }
   ]
 }

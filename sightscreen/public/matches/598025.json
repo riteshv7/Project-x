@@ -707,7 +707,115 @@
         }
       },
       "pressure_index": 0.783,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 37,
+            "balls": 33,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by P Awana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AJ Finch",
+            "runs": 64,
+            "balls": 42,
+            "fours": 8,
+            "sixes": 2,
+            "dismissal": "caught by M Vohra, bowled by MS Gony",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 34,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by Gurkeerat Singh, bowled by Azhar Mahmood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SPD Smith",
+            "runs": 6,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "LJ Wright",
+            "runs": 34,
+            "balls": 10,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "caught by DJ Hussey, bowled by Azhar Mahmood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 1
+          },
+          {
+            "name": "Azhar Mahmood",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 2,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "P Awana",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "MS Gony",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 177,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 4,
+          "noballs": 0,
+          "total": 185
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1385,7 +1493,114 @@
       },
       "pressure_index": 0.808,
       "match_shape": 0.63,
-      "target": 186
+      "target": 186,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Azhar Mahmood",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by BAW Mendis",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "M Vohra",
+            "runs": 22,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by Yuvraj Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 77,
+            "balls": 58,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DA Miller",
+            "runs": 80,
+            "balls": 41,
+            "fours": 5,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "BAW Mendis",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "AB Dinda",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Sharma",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 2.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "LJ Wright",
+            "overs": 2.5,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 12.35,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 183,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 1,
+          "noballs": 0,
+          "total": 186
+        }
+      }
     }
   ]
 }

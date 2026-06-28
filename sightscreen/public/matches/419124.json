@@ -722,7 +722,123 @@
         }
       },
       "pressure_index": 0.866,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MJ Lumb",
+            "runs": 41,
+            "balls": 30,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "stumped by KC Sangakkara, bowled by PP Chawla",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 13,
+            "balls": 9,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by SJ Srivastava, bowled by S Sreesanth",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "FY Fazal",
+            "runs": 45,
+            "balls": 37,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "run out by PP Chawla",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 28,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Yuvraj Singh, bowled by SJ Srivastava",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AC Voges",
+            "runs": 45,
+            "balls": 24,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "P Dogra",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by PP Chawla, IK Pathan",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 0,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "S Sreesanth",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "SJ Srivastava",
+            "overs": 4.0,
+            "runs_conceded": 49,
+            "wickets": 1,
+            "economy": 12.25,
+            "maidens": 0
+          },
+          {
+            "name": "J Theron",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 173,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 5,
+          "noballs": 2,
+          "total": 183
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1511,168 @@
       },
       "pressure_index": 1.0,
       "match_shape": 0.827,
-      "target": 184
+      "target": 184,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RS Bopara",
+            "runs": 25,
+            "balls": 26,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SK Trivedi, bowled by MM Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 29,
+            "balls": 13,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by FY Fazal, bowled by SW Tait",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Bisla",
+            "runs": 35,
+            "balls": 18,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by MJ Lumb, bowled by SK Warne",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 15,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by FY Fazal, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 23,
+            "balls": 21,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by AA Jhunjhunwala, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by AA Jhunjhunwala",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "M Kaif",
+            "runs": 8,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by YK Pathan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 8,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SW Tait, bowled by YK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "J Theron",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MM Patel, bowled by SW Tait",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Sreesanth",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SJ Srivastava",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SW Tait",
+            "dismissal_type": "bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MM Patel",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "SW Tait",
+            "overs": 3.1,
+            "runs_conceded": 22,
+            "wickets": 3,
+            "economy": 6.95,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "AC Voges",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 2.0,
+            "runs_conceded": 9,
+            "wickets": 2,
+            "economy": 4.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 146,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 1,
+          "total": 152
+        }
+      }
     }
   ]
 }

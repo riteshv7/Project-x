@@ -697,7 +697,141 @@
         }
       },
       "pressure_index": 0.894,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "B Chipli",
+            "runs": 10,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by RP Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "W Jaffer",
+            "runs": 44,
+            "balls": 37,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by HH Gibbs, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 38,
+            "balls": 29,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by SB Bangar, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by PP Ojha",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Misbah-ul-Haq",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Shahid Afridi",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "R Dravid",
+            "runs": 26,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by AS Yadav, bowled by SB Styris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MV Boucher",
+            "runs": 16,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by RP Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "P Kumar",
+            "runs": 8,
+            "balls": 4,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "run out by SB Bangar, SB Styris",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DP Vijaykumar",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 3,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "SB Styris",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Shahid Afridi",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "SB Bangar",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 151,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 2,
+          "noballs": 0,
+          "total": 156
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1385,7 +1519,133 @@
       },
       "pressure_index": 0.881,
       "match_shape": 0.835,
-      "target": 157
+      "target": 157,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 10,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by W Jaffer, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VVS Laxman",
+            "runs": 52,
+            "balls": 44,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by P Kumar",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "HH Gibbs",
+            "runs": 5,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by A Kumble, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 57,
+            "balls": 42,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "caught by W Jaffer, bowled by JH Kallis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shahid Afridi",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DW Steyn, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SB Styris",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Z Khan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SB Bangar",
+            "runs": 17,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AS Yadav",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 3,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Kumble",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 0,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 147,
+          "byes": 1,
+          "legbyes": 3,
+          "wides": 2,
+          "noballs": 0,
+          "total": 153
+        }
+      }
     }
   ]
 }

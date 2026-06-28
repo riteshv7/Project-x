@@ -707,7 +707,141 @@
         }
       },
       "pressure_index": 0.794,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Blizzard",
+            "runs": 6,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by AC Thomas",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 24,
+            "balls": 24,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by JD Ryder, bowled by Yuvraj Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 27,
+            "balls": 28,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by Yuvraj Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 12,
+            "balls": 20,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by R Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TL Suman",
+            "runs": 36,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by M Manhas, bowled by R Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 28,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by Yuvraj Singh, bowled by JE Taylor",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Symonds",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by JE Taylor",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 9,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AC Thomas",
+            "overs": 4.0,
+            "runs_conceded": 53,
+            "wickets": 1,
+            "economy": 13.25,
+            "maidens": 0
+          },
+          {
+            "name": "SB Wagh",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "JE Taylor",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Sharma",
+            "overs": 4.0,
+            "runs_conceded": 7,
+            "wickets": 2,
+            "economy": 1.75,
+            "maidens": 0
+          },
+          {
+            "name": "JD Ryder",
+            "overs": 1.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 145,
+          "byes": 4,
+          "legbyes": 7,
+          "wides": 3,
+          "noballs": 1,
+          "total": 160
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1539,150 @@
       },
       "pressure_index": 0.479,
       "match_shape": 0.563,
-      "target": 161
+      "target": 161,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JD Ryder",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DS Kulkarni, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GC Smith",
+            "runs": 6,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AC Blizzard, bowled by MM Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 59,
+            "balls": 47,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "caught by RG Sharma, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AA Jhunjhunwala",
+            "runs": 10,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by AT Rayudu, bowled by KA Pollard",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 20,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by MM Patel, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 34,
+            "balls": 26,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "M Manhas",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by SL Malinga",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "SB Wagh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by AT Rayudu",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "R Sharma",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Harbhajan Singh",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 5.67,
+            "maidens": 1
+          },
+          {
+            "name": "MM Patel",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 3,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "A Symonds",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 129,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 6,
+          "noballs": 0,
+          "total": 139
+        }
+      }
     }
   ]
 }

@@ -697,7 +697,141 @@
         }
       },
       "pressure_index": 0.742,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Reddy",
+            "runs": 27,
+            "balls": 30,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by Yuvraj Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 19,
+            "balls": 18,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by AB Dinda",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 15,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by R Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "CL White",
+            "runs": 10,
+            "balls": 18,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MR Marsh, bowled by MN Samuels",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NLTC Perera",
+            "runs": 30,
+            "balls": 18,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by MK Pandey, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GH Vihari",
+            "runs": 11,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AB Dinda, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Ashish Reddy",
+            "runs": 7,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DB Ravi Teja",
+            "runs": 4,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MN Samuels",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "AB Dinda",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "AD Mathews",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Sharma",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 2.0,
+            "runs_conceded": 8,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 123,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 126
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1350,7 +1484,168 @@
       },
       "pressure_index": 0.857,
       "match_shape": 0.847,
-      "target": 127
+      "target": 127,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 24,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by PA Patel, bowled by NLTC Perera",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 15,
+            "balls": 29,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by CL White, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MN Samuels",
+            "runs": 5,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by CL White, bowled by NLTC Perera",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by PA Patel, bowled by A Mishra",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "LRPL Taylor",
+            "runs": 19,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by A Ashish Reddy",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 19,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by I Sharma, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MR Marsh",
+            "runs": 7,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by NLTC Perera",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "AD Mathews",
+            "runs": 8,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "B Kumar",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by DW Steyn",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Sharma",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by DW Steyn",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AB Dinda",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by CL White, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 3.5,
+            "runs_conceded": 11,
+            "wickets": 3,
+            "economy": 2.87,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "NLTC Perera",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 3,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "CL White",
+            "overs": 1.0,
+            "runs_conceded": 2,
+            "wickets": 0,
+            "economy": 2.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Ashish Reddy",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 102,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 0,
+          "total": 104
+        }
+      }
     }
   ]
 }

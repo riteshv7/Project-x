@@ -702,7 +702,141 @@
         }
       },
       "pressure_index": 0.931,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "R Dravid",
+            "runs": 57,
+            "balls": 43,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "bowled by M Morkel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 42,
+            "balls": 32,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "caught by V Sehwag, bowled by P Negi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 8,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by P Negi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "OA Shah",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by NV Ojha, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Sehwag, bowled by P Negi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AL Menaria",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KP Pietersen, bowled by P Negi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Goswami",
+            "runs": 18,
+            "balls": 21,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AA Chavan",
+            "runs": 7,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "IK Pathan",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "S Nadeem",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "P Negi",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 4,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "V Sehwag",
+            "overs": 2.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 136,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 0,
+          "total": 141
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1245,7 +1379,123 @@
       },
       "pressure_index": 0.214,
       "match_shape": 0.993,
-      "target": 142
+      "target": 142,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by AA Chavan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "KP Pietersen",
+            "runs": 36,
+            "balls": 34,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by OA Shah, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 73,
+            "balls": 38,
+            "fours": 12,
+            "sixes": 1,
+            "dismissal": "caught by R Dravid, bowled by GB Hogg",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LRPL Taylor",
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SP Goswami, bowled by GB Hogg",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Y Nagar",
+            "runs": 9,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 11,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AA Chavan",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Pankaj Singh",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "A Singh",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "GB Hogg",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "AL Menaria",
+            "overs": 0.2,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 30.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 135,
+          "byes": 5,
+          "legbyes": 3,
+          "wides": 1,
+          "noballs": 0,
+          "total": 144
+        }
+      }
     }
   ]
 }

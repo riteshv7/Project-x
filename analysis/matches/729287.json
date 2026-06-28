@@ -707,7 +707,168 @@
         }
       },
       "pressure_index": 0.666,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MEK Hussey",
+            "runs": 16,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by YS Chahal, bowled by JA Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AP Tare",
+            "runs": 17,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by NJ Maddinson, bowled by VR Aaron",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 35,
+            "balls": 37,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AB de Villiers, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AB de Villiers, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Rana, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CJ Anderson",
+            "runs": 18,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by V Kohli, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 8,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by VR Aaron",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Z Khan",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Rana, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SL Malinga",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by Yuvraj Singh",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "PP Ojha",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JJ Bumrah",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MA Starc",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "JA Morkel",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "VR Aaron",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "AB Dinda",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 1.0,
+            "runs_conceded": 6,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 103,
+          "byes": 1,
+          "legbyes": 3,
+          "wides": 7,
+          "noballs": 1,
+          "total": 115
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1315,7 +1476,106 @@
       },
       "pressure_index": 0.345,
       "match_shape": 0.991,
-      "target": 116
+      "target": 116,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "NJ Maddinson",
+            "runs": 12,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by SL Malinga",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 57,
+            "balls": 45,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "V Kohli",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Harbhajan Singh, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Z Khan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 45,
+            "balls": 48,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 3.3,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 8.29,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 114,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 0,
+          "total": 116
+        }
+      }
     }
   ]
 }

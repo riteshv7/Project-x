@@ -717,7 +717,131 @@
         }
       },
       "pressure_index": 0.827,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 13,
+            "balls": 9,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "stumped by Kamran Akmal, bowled by YK Pathan",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "VVS Laxman",
+            "runs": 16,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught and bowled by SK Warne",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "Shahid Afridi",
+            "runs": 10,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by RA Jadeja, bowled by YK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Symonds",
+            "runs": 117,
+            "balls": 52,
+            "fours": 11,
+            "sixes": 7,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 36,
+            "balls": 30,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by D Salunkhe, bowled by SK Warne",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AS Yadav",
+            "runs": 16,
+            "balls": 9,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by Kamran Akmal, bowled by SR Watson",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MM Patel",
+            "overs": 4.0,
+            "runs_conceded": 55,
+            "wickets": 0,
+            "economy": 13.75,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Pankaj Singh",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 3.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 12.33,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 2,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "D Salunkhe",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 208,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 1,
+          "total": 214
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1529,150 @@
       },
       "pressure_index": 0.955,
       "match_shape": 0.898,
-      "target": 215
+      "target": 215,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Kamran Akmal",
+            "runs": 12,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by SB Bangar, bowled by WPUJC Vaas",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GC Smith",
+            "runs": 71,
+            "balls": 45,
+            "fours": 9,
+            "sixes": 2,
+            "dismissal": "caught by D Kalyankrishna, bowled by Shahid Afridi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 61,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 6,
+            "dismissal": "caught by A Symonds, bowled by D Kalyankrishna",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Shahid Afridi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "M Kaif",
+            "runs": 34,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by A Symonds, bowled by Shahid Afridi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by RP Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SK Warne",
+            "runs": 22,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "D Salunkhe",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by VVS Laxman, RP Singh",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Pankaj Singh",
+            "runs": 4,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "WPUJC Vaas",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "D Kalyankrishna",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shahid Afridi",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 3,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Symonds",
+            "overs": 2.5,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 16.24,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 210,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 2,
+          "noballs": 1,
+          "total": 217
+        }
+      }
     }
   ]
 }

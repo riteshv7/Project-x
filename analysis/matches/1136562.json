@@ -707,7 +707,141 @@
         }
       },
       "pressure_index": 0.871,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "C Munro",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Mujeeb Ur Rahman",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 55,
+            "balls": 42,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 11,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by KL Rahul, bowled by AR Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 13,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AR Patel, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 28,
+            "balls": 13,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by AJ Tye, bowled by Mujeeb Ur Rahman",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 9,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by R Ashwin",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "CH Morris",
+            "runs": 27,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DT Christian",
+            "runs": 13,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by MM Sharma",
+            "dismissal_type": "bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "Mujeeb Ur Rahman",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "AJ Tye",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "MP Stoinis",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 160,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 1,
+          "total": 166
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1355,7 +1489,123 @@
       },
       "pressure_index": 0.271,
       "match_shape": 0.993,
-      "target": 167
+      "target": 167,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KL Rahul",
+            "runs": 51,
+            "balls": 16,
+            "fours": 6,
+            "sixes": 4,
+            "dismissal": "caught by Mohammed Shami, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 7,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Mohammed Shami, bowled by CH Morris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 12,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by V Shankar, bowled by R Tewatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 50,
+            "balls": 33,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by TA Boult, bowled by DT Christian",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 24,
+            "balls": 23,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 22,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 3.5,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.87,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Shami",
+            "overs": 2.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "CH Morris",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "DT Christian",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Tewatia",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 166,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 0,
+          "noballs": 1,
+          "total": 167
+        }
+      }
     }
   ]
 }

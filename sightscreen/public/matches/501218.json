@@ -632,7 +632,168 @@
         }
       },
       "pressure_index": 0.516,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JD Ryder",
+            "runs": 12,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SR Tendulkar, bowled by AN Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TD Paine",
+            "runs": 2,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by MM Patel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "M Manhas",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AT Rayudu, bowled by AN Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 45,
+            "balls": 34,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "caught by KA Pollard, bowled by AG Murtaza",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AT Rayudu, bowled by MM Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MD Mishra",
+            "runs": 12,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by AG Murtaza",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Kartik",
+            "runs": 11,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by A Symonds, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WD Parnell",
+            "runs": 9,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by JEC Franklin",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Sharma",
+            "runs": 13,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by AG Murtaza, bowled by MM Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SB Wagh",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Symonds, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AC Thomas",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AG Murtaza",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "AN Ahmed",
+            "overs": 3.0,
+            "runs_conceded": 13,
+            "wickets": 2,
+            "economy": 4.33,
+            "maidens": 1
+          },
+          {
+            "name": "MM Patel",
+            "overs": 2.2,
+            "runs_conceded": 8,
+            "wickets": 3,
+            "economy": 3.43,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "JEC Franklin",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 10.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 106,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 2,
+          "noballs": 4,
+          "total": 118
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1315,7 +1476,122 @@
       },
       "pressure_index": 0.227,
       "match_shape": 0.953,
-      "target": 119
+      "target": 119,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JEC Franklin",
+            "runs": 6,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by M Manhas, bowled by SB Wagh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 35,
+            "balls": 39,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by AC Thomas, bowled by R Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 37,
+            "balls": 40,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by R Sharma, bowled by AC Thomas",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 20,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Symonds",
+            "runs": 16,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AC Thomas",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "SB Wagh",
+            "overs": 2.0,
+            "runs_conceded": 9,
+            "wickets": 1,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Kartik",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "WD Parnell",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Sharma",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 4.67,
+            "maidens": 0
+          },
+          {
+            "name": "JD Ryder",
+            "overs": 2.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 1.0,
+            "runs_conceded": 5,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 114,
+          "byes": 2,
+          "legbyes": 6,
+          "wides": 2,
+          "noballs": 0,
+          "total": 124
+        }
+      }
     }
   ]
 }

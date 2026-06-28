@@ -702,7 +702,132 @@
         }
       },
       "pressure_index": 0.86,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SR Watson",
+            "runs": 31,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by S Nadeem",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 45,
+            "balls": 31,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by JM Bairstow, bowled by V Shankar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 13,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Rashid Khan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 25,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Rashid Khan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SW Billings",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Shankar, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 10,
+            "balls": 20,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "KK Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "S Nadeem",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "V Shankar",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 125,
+          "byes": 2,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 0,
+          "total": 132
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1300,7 +1425,106 @@
       },
       "pressure_index": 0.115,
       "match_shape": 0.993,
-      "target": 133
+      "target": 133,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 50,
+            "balls": 25,
+            "fours": 10,
+            "sixes": 0,
+            "dismissal": "caught by F du Plessis, bowled by DL Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Bairstow",
+            "runs": 61,
+            "balls": 44,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by Imran Tahir",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 7,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SW Billings, bowled by Imran Tahir",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 13,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by F du Plessis, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "Imran Tahir",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 2.5,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 11.65,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 134,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 3,
+          "noballs": 0,
+          "total": 137
+        }
+      }
     }
   ]
 }

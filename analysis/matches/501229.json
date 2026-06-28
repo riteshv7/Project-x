@@ -712,7 +712,150 @@
         }
       },
       "pressure_index": 0.541,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "S Sohal",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by RP Singh",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 4,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RV Gomez, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Chipli",
+            "runs": 4,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Sreesanth, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 65,
+            "balls": 45,
+            "fours": 10,
+            "sixes": 0,
+            "dismissal": "caught by PA Patel, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CL White",
+            "runs": 31,
+            "balls": 34,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by DPMD Jayawardene, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DT Christian",
+            "runs": 9,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by NLTC Perera",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DB Ravi Teja",
+            "runs": 8,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Mishra",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by PA Patel, NLTC Perera",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MS Gony",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "RP Singh",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "S Sreesanth",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 1
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 3,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "NLTC Perera",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "RV Gomez",
+            "overs": 1.0,
+            "runs_conceded": 4,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 8.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 122,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 2,
+          "total": 129
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1305,7 +1448,160 @@
       },
       "pressure_index": 0.621,
       "match_shape": 0.808,
-      "target": 130
+      "target": 130,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "BB McCullum",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KC Sangakkara, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KC Sangakkara, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 4,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KC Sangakkara, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Gomez",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by I Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by I Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by I Sharma",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 23,
+            "balls": 35,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by DT Christian, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NLTC Perera",
+            "runs": 22,
+            "balls": 23,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by CL White, bowled by MS Gony",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Vinay Kumar",
+            "runs": 18,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by DW Steyn",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Sreesanth",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RP Singh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by DW Steyn",
+            "dismissal_type": "bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 3.3,
+            "runs_conceded": 16,
+            "wickets": 3,
+            "economy": 4.57,
+            "maidens": 1
+          },
+          {
+            "name": "I Sharma",
+            "overs": 3.0,
+            "runs_conceded": 12,
+            "wickets": 5,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "DT Christian",
+            "overs": 3.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "MS Gony",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 3.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 67,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 4,
+          "noballs": 0,
+          "total": 74
+        }
+      }
     }
   ]
 }

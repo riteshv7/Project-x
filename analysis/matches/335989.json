@@ -722,7 +722,148 @@
         }
       },
       "pressure_index": 0.803,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 14,
+            "balls": 11,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by L Ronchi, bowled by A Nehra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "ML Hayden",
+            "runs": 81,
+            "balls": 44,
+            "fours": 12,
+            "sixes": 2,
+            "dismissal": "run out by Harbhajan Singh",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MEK Hussey",
+            "runs": 5,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by DS Kulkarni",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 53,
+            "balls": 37,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by DJ Bravo, bowled by MA Khote",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 30,
+            "balls": 16,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by DJ Bravo, bowled by MA Khote",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JDP Oram",
+            "runs": 5,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 2,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SM Pollock",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "A Nehra",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 3.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "VS Yeligati",
+            "overs": 1.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          },
+          {
+            "name": "AM Nayar",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "MA Khote",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 9.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 190,
+          "byes": 4,
+          "legbyes": 3,
+          "wides": 9,
+          "noballs": 2,
+          "total": 208
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1440,7 +1581,142 @@
       },
       "pressure_index": 0.347,
       "match_shape": 0.483,
-      "target": 209
+      "target": 209,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "L Ronchi",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by S Badrinath",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "ST Jayasuriya",
+            "runs": 20,
+            "balls": 11,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by Joginder Sharma, bowled by MS Gony",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 43,
+            "balls": 35,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "bowled by Joginder Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SM Pollock",
+            "runs": 17,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by P Amarnath",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 24,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by JDP Oram, bowled by Joginder Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 45,
+            "balls": 19,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MA Khote",
+            "runs": 9,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by SK Raina, bowled by M Muralitharan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 28,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by S Badrinath, bowled by M Muralitharan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Nehra",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JDP Oram",
+            "overs": 4.0,
+            "runs_conceded": 53,
+            "wickets": 0,
+            "economy": 13.25,
+            "maidens": 0
+          },
+          {
+            "name": "MS Gony",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 4.5,
+            "maidens": 1
+          },
+          {
+            "name": "Joginder Sharma",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "P Amarnath",
+            "overs": 4.0,
+            "runs_conceded": 57,
+            "wickets": 1,
+            "economy": 14.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 189,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 6,
+          "noballs": 2,
+          "total": 202
+        }
+      }
     }
   ]
 }

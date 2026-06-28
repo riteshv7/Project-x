@@ -657,7 +657,168 @@
         }
       },
       "pressure_index": 0.61,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 14,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "run out by MM Sharma, Rashid Khan",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 8,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by MM Sharma, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 30,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by HH Pandya, bowled by J Little",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 12,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Noor Ahmad",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Rashid Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Parag",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Rashid Khan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 7,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Rashid Khan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Dhruv Jurel",
+            "runs": 9,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Noor Ahmad",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "TA Boult",
+            "runs": 15,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by Mohammed Shami",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "A Zampa",
+            "runs": 7,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by A Manohar",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Sandeep Sharma",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 3,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "J Little",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 0.5,
+            "runs_conceded": 5,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 110,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 7,
+          "noballs": 0,
+          "total": 118
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1150,12 +1311,93 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.117,
       "match_shape": 0.998,
-      "target": 119
+      "target": 119,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WP Saha",
+            "runs": 41,
+            "balls": 34,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 36,
+            "balls": 34,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "stumped by SV Samson, bowled by YS Chahal",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 39,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "Sandeep Sharma",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "A Zampa",
+            "overs": 3.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 13.33,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 3.5,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.74,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 116,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 0,
+          "noballs": 1,
+          "total": 119
+        }
+      }
     }
   ]
 }

@@ -722,7 +722,133 @@
         }
       },
       "pressure_index": 0.78,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DR Smith",
+            "runs": 25,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "run out by YK Pathan",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 19,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by PP Chawla",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 17,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by RV Uthappa, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 29,
+            "balls": 29,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 5,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SA Yadav, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 15,
+            "balls": 20,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by GB Hogg",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 9,
+            "balls": 4,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "GB Hogg",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 122,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 9,
+          "noballs": 0,
+          "total": 134
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1541,176 @@
       },
       "pressure_index": 0.716,
       "match_shape": 0.927,
-      "target": 135
+      "target": 135,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 39,
+            "balls": 17,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "caught by BB McCullum, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by IC Pandey",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 15,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by DJ Bravo, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 16,
+            "balls": 26,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DJ Bravo, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 13,
+            "balls": 18,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by DJ Bravo",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RN ten Doeschate",
+            "runs": 38,
+            "balls": 28,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AD Russell",
+            "runs": 4,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by RA Jadeja, MS Dhoni",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "PJ Cummins",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RA Jadeja, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "UT Yadav",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by A Nehra",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "GB Hogg",
+            "runs": 2,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "IC Pandey",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Nehra",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 2.0,
+            "runs_conceded": 5,
+            "wickets": 2,
+            "economy": 2.5,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 3.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 3.67,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 3.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 3,
+            "economy": 7.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 127,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 0,
+          "total": 132
+        }
+      }
     }
   ]
 }

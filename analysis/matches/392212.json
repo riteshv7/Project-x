@@ -707,7 +707,141 @@
         }
       },
       "pressure_index": 0.724,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 25,
+            "balls": 29,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by RR Raje",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "HH Gibbs",
+            "runs": 0,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SR Tendulkar, bowled by DS Kulkarni",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TL Suman",
+            "runs": 20,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by PR Shah, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 38,
+            "balls": 36,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by DJ Bravo, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DR Smith",
+            "runs": 16,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by ST Jayasuriya",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 28,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "run out by DJ Bravo, PR Shah",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "DB Ravi Teja",
+            "runs": 4,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RJ Harris",
+            "runs": 5,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 3.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 5.33,
+            "maidens": 0
+          },
+          {
+            "name": "RR Raje",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "ST Jayasuriya",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 136,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 4,
+          "noballs": 0,
+          "total": 145
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1390,7 +1524,167 @@
       },
       "pressure_index": 0.934,
       "match_shape": 0.797,
-      "target": 146
+      "target": 146,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "ST Jayasuriya",
+            "runs": 5,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RJ Harris, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by RP Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 52,
+            "balls": 48,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by RG Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PR Shah",
+            "runs": 29,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by DR Smith, bowled by TL Suman",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 13,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RJ Harris, bowled by TL Suman",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by RG Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by RG Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by AC Gilchrist, bowled by RG Sharma",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "RR Raje",
+            "runs": 11,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DS Kulkarni",
+            "runs": 7,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "RJ Harris",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "Harmeet Singh",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "DR Smith",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shoaib Ahmed",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "TL Suman",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "RG Sharma",
+            "overs": 2.0,
+            "runs_conceded": 6,
+            "wickets": 4,
+            "economy": 3.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 123,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 1,
+          "noballs": 0,
+          "total": 126
+        }
+      }
     }
   ]
 }

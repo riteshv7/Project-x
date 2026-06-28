@@ -707,7 +707,141 @@
         }
       },
       "pressure_index": 0.895,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Priyansh Arya",
+            "runs": 103,
+            "balls": 41,
+            "fours": 7,
+            "sixes": 9,
+            "dismissal": "caught by V Shankar, bowled by Noor Ahmad",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Simran Singh",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Mukesh Choudhary",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 9,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by KK Ahmed",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 4,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DP Conway, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Wadhera",
+            "runs": 9,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by MS Dhoni, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by R Ashwin",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "Shashank Singh",
+            "runs": 52,
+            "balls": 36,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "M Jansen",
+            "runs": 34,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KK Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 2,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "Mukesh Choudhary",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 2,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "M Pathirana",
+            "overs": 4.0,
+            "runs_conceded": 52,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 212,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 2,
+          "noballs": 2,
+          "total": 219
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1430,7 +1564,140 @@
       },
       "pressure_index": 0.345,
       "match_shape": 0.413,
-      "target": 220
+      "target": 220,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "R Ravindra",
+            "runs": 36,
+            "balls": 22,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "stumped by P Simran Singh, bowled by GJ Maxwell",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "DP Conway",
+            "runs": 69,
+            "balls": 49,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "retired out",
+            "dismissal_type": "retired out"
+          },
+          {
+            "name": "RD Gaikwad",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Shashank Singh, bowled by LH Ferguson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dube",
+            "runs": 42,
+            "balls": 27,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "bowled by LH Ferguson",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 27,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by YS Chahal, bowled by Yash Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 9,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "V Shankar",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Arshdeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Thakur",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "GJ Maxwell",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Jansen",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "LH Ferguson",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "MP Stoinis",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 186,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 9,
+          "noballs": 1,
+          "total": 201
+        }
+      }
     }
   ]
 }

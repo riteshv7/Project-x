@@ -702,7 +702,141 @@
         }
       },
       "pressure_index": 0.921,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "L Ronchi",
+            "runs": 8,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by V Kohli, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "ST Jayasuriya",
+            "runs": 29,
+            "balls": 16,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "run out by Z Khan",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "DJ Thornely",
+            "runs": 0,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "retired hurt",
+            "dismissal_type": "retired hurt"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 48,
+            "balls": 38,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "stumped by MV Boucher, bowled by B Akhil",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "PR Shah",
+            "runs": 19,
+            "balls": 23,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by V Kohli, bowled by B Akhil",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 20,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Z Khan, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SM Pollock",
+            "runs": 28,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "bowled by Z Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 3.0,
+            "runs_conceded": 43,
+            "wickets": 0,
+            "economy": 14.33,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "B Akhil",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 5.67,
+            "maidens": 0
+          },
+          {
+            "name": "SB Joshi",
+            "overs": 2.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 154,
+          "byes": 2,
+          "legbyes": 6,
+          "wides": 3,
+          "noballs": 0,
+          "total": 165
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1529,132 @@
       },
       "pressure_index": 0.737,
       "match_shape": 0.988,
-      "target": 166
+      "target": 166,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "S Chanderpaul",
+            "runs": 16,
+            "balls": 11,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by AM Nayar, bowled by DS Kulkarni",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Dravid",
+            "runs": 32,
+            "balls": 33,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught and bowled by Harbhajan Singh",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "LRPL Taylor",
+            "runs": 23,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by AM Nayar, bowled by ST Jayasuriya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 25,
+            "balls": 24,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by AM Nayar, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 23,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by L Ronchi, bowled by A Nehra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MV Boucher",
+            "runs": 39,
+            "balls": 19,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "B Akhil",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Nehra",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 1,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "SM Pollock",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 2.4,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 7.12,
+            "maidens": 0
+          },
+          {
+            "name": "ST Jayasuriya",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "AM Nayar",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 161,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 0,
+          "total": 166
+        }
+      }
     }
   ]
 }

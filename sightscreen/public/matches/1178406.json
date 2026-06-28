@@ -692,7 +692,141 @@
         }
       },
       "pressure_index": 0.999,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 28,
+            "balls": 20,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by SA Yadav, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 8,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Q de Kock, bowled by JP Behrendorff",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 75,
+            "balls": 51,
+            "fours": 6,
+            "sixes": 4,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MM Ali",
+            "runs": 50,
+            "balls": 32,
+            "fours": 1,
+            "sixes": 5,
+            "dismissal": "caught by HH Pandya, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Nath",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Q de Kock, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Negi",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Q de Kock, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "UT Yadav",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JP Behrendorff",
+            "overs": 4.0,
+            "runs_conceded": 49,
+            "wickets": 1,
+            "economy": 12.25,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 4,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 1
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "RD Chahar",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 163,
+          "byes": 2,
+          "legbyes": 5,
+          "wides": 1,
+          "noballs": 0,
+          "total": 171
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1370,7 +1504,123 @@
       },
       "pressure_index": 0.528,
       "match_shape": 0.991,
-      "target": 172
+      "target": 172,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Q de Kock",
+            "runs": 40,
+            "balls": 26,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "lbw, bowled by MM Ali",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 28,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "bowled by MM Ali",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 29,
+            "balls": 23,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by Navdeep Saini, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 21,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "stumped by PA Patel, bowled by YS Chahal",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 11,
+            "balls": 21,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Milind Kumar, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 37,
+            "balls": 16,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "UT Yadav",
+            "overs": 2.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "Navdeep Saini",
+            "overs": 3.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 11.33,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Siraj",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "P Negi",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 0,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "MM Ali",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 4.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 166,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 6,
+          "noballs": 0,
+          "total": 172
+        }
+      }
     }
   ]
 }

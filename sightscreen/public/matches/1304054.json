@@ -677,7 +677,168 @@
         }
       },
       "pressure_index": 0.676,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MA Agarwal",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by UT Yadav",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 16,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by SW Billings, bowled by TG Southee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PBB Rajapaksa",
+            "runs": 31,
+            "balls": 9,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by TG Southee, bowled by Shivam Mavi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LS Livingstone",
+            "runs": 19,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by TG Southee, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Bawa",
+            "runs": 11,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by SP Narine",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Harpreet Brar",
+            "runs": 14,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by UT Yadav",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "M Shahrukh Khan",
+            "runs": 0,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by N Rana, bowled by TG Southee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "OF Smith",
+            "runs": 9,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RD Chahar",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by N Rana, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "K Rabada",
+            "runs": 25,
+            "balls": 15,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by TG Southee, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Arshdeep Singh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by N Rana, AD Russell",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 4,
+            "economy": 5.75,
+            "maidens": 1
+          },
+          {
+            "name": "TG Southee",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shivam Mavi",
+            "overs": 2.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 19.5,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 0.2,
+            "runs_conceded": 0,
+            "wickets": 1,
+            "economy": 0.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 126,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 7,
+          "noballs": 2,
+          "total": 137
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1210,12 +1371,128 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.382,
       "match_shape": 0.994,
-      "target": 138
+      "target": 138,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 12,
+            "balls": 11,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by OF Smith, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VR Iyer",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Harpreet Brar, bowled by OF Smith",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 26,
+            "balls": 15,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by K Rabada, bowled by RD Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SW Billings",
+            "runs": 24,
+            "balls": 23,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "N Rana",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by RD Chahar",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 70,
+            "balls": 29,
+            "fours": 2,
+            "sixes": 8,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Arshdeep Singh",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "OF Smith",
+            "overs": 2.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 19.5,
+            "maidens": 0
+          },
+          {
+            "name": "RD Chahar",
+            "overs": 4.0,
+            "runs_conceded": 13,
+            "wickets": 2,
+            "economy": 3.25,
+            "maidens": 1
+          },
+          {
+            "name": "Harpreet Brar",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "LS Livingstone",
+            "overs": 0.3,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 26.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 135,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 2,
+          "total": 141
+        }
+      }
     }
   ]
 }

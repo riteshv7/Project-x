@@ -707,7 +707,159 @@
         }
       },
       "pressure_index": 0.389,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PD Salt",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DA Miller, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PK Garg",
+            "runs": 10,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by Rashid Khan",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "RR Rossouw",
+            "runs": 8,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 27,
+            "balls": 30,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by Rashid Khan, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Aman Hakim Khan",
+            "runs": 51,
+            "balls": 44,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by A Manohar, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Patel",
+            "runs": 23,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by HH Pandya, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Nortje",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 11,
+            "wickets": 4,
+            "economy": 2.75,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "J Little",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 8.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 125,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 1,
+          "total": 130
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1557,133 @@
       },
       "pressure_index": 0.914,
       "match_shape": 0.802,
-      "target": 131
+      "target": 131,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WP Saha",
+            "runs": 0,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PD Salt, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by A Nortje",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 59,
+            "balls": 53,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "V Shankar",
+            "runs": 6,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by I Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Kuldeep Yadav",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "A Manohar",
+            "runs": 26,
+            "balls": 33,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Aman Hakim Khan, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 20,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "caught by RR Rossouw, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 3,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KK Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 1
+          },
+          {
+            "name": "I Sharma",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Nortje",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 3.75,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 120,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 0,
+          "total": 125
+        }
+      }
     }
   ]
 }

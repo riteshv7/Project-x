@@ -712,7 +712,141 @@
         }
       },
       "pressure_index": 0.593,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "L Ronchi",
+            "runs": 13,
+            "balls": 11,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by VVS Laxman, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "ST Jayasuriya",
+            "runs": 18,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by Shahid Afridi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 0,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PP Ojha, bowled by SB Bangar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 6,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by Shahid Afridi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SM Pollock",
+            "runs": 31,
+            "balls": 31,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "bowled by SB Bangar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 34,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by AC Gilchrist, bowled by DNT Zoysa",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 34,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by PP Ojha, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MA Khote",
+            "runs": 7,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "RP Singh",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 2,
+            "economy": 3.75,
+            "maidens": 1
+          },
+          {
+            "name": "DNT Zoysa",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "SB Bangar",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Shahid Afridi",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "D Kalyankrishna",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 143,
+          "byes": 2,
+          "legbyes": 4,
+          "wides": 3,
+          "noballs": 2,
+          "total": 154
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1170,12 +1304,100 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.256,
       "match_shape": 0.999,
-      "target": 155
+      "target": 155,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 109,
+            "balls": 47,
+            "fours": 9,
+            "sixes": 10,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "VVS Laxman",
+            "runs": 37,
+            "balls": 26,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Nehra",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "SM Pollock",
+            "overs": 2.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 16.5,
+            "maidens": 0
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "ST Jayasuriya",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "SD Chitnis",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 2.1,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 14.31,
+            "maidens": 0
+          },
+          {
+            "name": "AM Nayar",
+            "overs": 1.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 22.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 146,
+          "byes": 4,
+          "legbyes": 1,
+          "wides": 4,
+          "noballs": 0,
+          "total": 155
+        }
+      }
     }
   ]
 }

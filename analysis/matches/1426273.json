@@ -702,7 +702,141 @@
         }
       },
       "pressure_index": 0.31,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "TM Head",
+            "runs": 89,
+            "balls": 32,
+            "fours": 11,
+            "sixes": 6,
+            "dismissal": "caught by T Stubbs, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 46,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 6,
+            "dismissal": "caught by AR Patel, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AK Markram",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AR Patel, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 15,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "bowled by AR Patel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "runs": 59,
+            "balls": 29,
+            "fours": 2,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "runs": 37,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by DA Warner, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 13,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by A Nortje, bowled by Mukesh Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PJ Cummins",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by T Stubbs, Mukesh Kumar",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KK Ahmed",
+            "overs": 3.0,
+            "runs_conceded": 51,
+            "wickets": 0,
+            "economy": 17.0,
+            "maidens": 0
+          },
+          {
+            "name": "Lalit Yadav",
+            "overs": 2.0,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 20.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Nortje",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 55,
+            "wickets": 4,
+            "economy": 13.75,
+            "maidens": 0
+          },
+          {
+            "name": "Mukesh Kumar",
+            "overs": 4.0,
+            "runs_conceded": 57,
+            "wickets": 1,
+            "economy": 14.25,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 261,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 0,
+          "total": 266
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1390,7 +1524,176 @@
       },
       "pressure_index": 0.236,
       "match_shape": 0.439,
-      "target": 267
+      "target": 267,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PP Shaw",
+            "runs": 16,
+            "balls": 5,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by Abdul Samad, bowled by Washington Sundar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "J Fraser-McGurk",
+            "runs": 65,
+            "balls": 18,
+            "fours": 5,
+            "sixes": 7,
+            "dismissal": "caught by H Klaasen, bowled by M Markande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PJ Cummins, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abishek Porel",
+            "runs": 42,
+            "balls": 22,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": "stumped by H Klaasen, bowled by M Markande",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "T Stubbs",
+            "runs": 10,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Shahbaz Ahmed, bowled by Nithish Kumar Reddy",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 44,
+            "balls": 35,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by T Natarajan, bowled by Nithish Kumar Reddy",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Lalit Yadav",
+            "runs": 7,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by T Natarajan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 6,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PJ Cummins, bowled by T Natarajan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Nortje",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by T Natarajan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by T Natarajan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Mukesh Kumar",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Washington Sundar",
+            "overs": 2.0,
+            "runs_conceded": 46,
+            "wickets": 1,
+            "economy": 23.0,
+            "maidens": 0
+          },
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 4,
+            "economy": 4.75,
+            "maidens": 1
+          },
+          {
+            "name": "M Markande",
+            "overs": 2.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "overs": 1.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 22.0,
+            "maidens": 0
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "overs": 2.1,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 7.85,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 191,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 7,
+          "noballs": 0,
+          "total": 199
+        }
+      }
     }
   ]
 }

@@ -722,7 +722,123 @@
         }
       },
       "pressure_index": 0.347,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "J Fraser-McGurk",
+            "runs": 84,
+            "balls": 26,
+            "fours": 11,
+            "sixes": 6,
+            "dismissal": "caught by Mohammad Nabi, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abishek Porel",
+            "runs": 36,
+            "balls": 27,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by Ishan Kishan, bowled by Mohammad Nabi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SD Hope",
+            "runs": 41,
+            "balls": 17,
+            "fours": 0,
+            "sixes": 5,
+            "dismissal": "caught by Tilak Varma, bowled by L Wood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 29,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by RG Sharma, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "T Stubbs",
+            "runs": 48,
+            "balls": 25,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AR Patel",
+            "runs": 11,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "L Wood",
+            "overs": 4.0,
+            "runs_conceded": 68,
+            "wickets": 1,
+            "economy": 17.0,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "N Thushara",
+            "overs": 4.0,
+            "runs_conceded": 56,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 20.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammad Nabi",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 249,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 6,
+          "noballs": 1,
+          "total": 257
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1440,7 +1556,159 @@
       },
       "pressure_index": 0.116,
       "match_shape": 0.13,
-      "target": 258
+      "target": 258,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Ishan Kishan",
+            "runs": 20,
+            "balls": 14,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by AR Patel, bowled by Mukesh Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 8,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SD Hope, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 26,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by LB Williams, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 63,
+            "balls": 32,
+            "fours": 4,
+            "sixes": 4,
+            "dismissal": "run out by Sumit Kumar, RR Pant",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 46,
+            "balls": 24,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "caught by Mukesh Kumar, bowled by Rasikh Salam",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Wadhera",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RR Pant, bowled by Rasikh Salam",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TH David",
+            "runs": 37,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "lbw, bowled by Mukesh Kumar",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Mohammad Nabi",
+            "runs": 7,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by SD Hope, bowled by Rasikh Salam",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 10,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by SD Hope, bowled by Mukesh Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "L Wood",
+            "runs": 9,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "LB Williams",
+            "overs": 3.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 11.33,
+            "maidens": 0
+          },
+          {
+            "name": "KK Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 2,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "Mukesh Kumar",
+            "overs": 4.0,
+            "runs_conceded": 59,
+            "wickets": 3,
+            "economy": 14.75,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 3.0,
+            "runs_conceded": 47,
+            "wickets": 0,
+            "economy": 15.67,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Rasikh Salam",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 3,
+            "economy": 8.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 230,
+          "byes": 2,
+          "legbyes": 2,
+          "wides": 12,
+          "noballs": 1,
+          "total": 247
+        }
+      }
     }
   ]
 }

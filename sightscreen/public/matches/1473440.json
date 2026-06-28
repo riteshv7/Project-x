@@ -712,7 +712,168 @@
         }
       },
       "pressure_index": 0.673,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Dube, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WG Jacks",
+            "runs": 11,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by S Dube, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RD Rickelton",
+            "runs": 13,
+            "balls": 7,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by KK Ahmed",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 29,
+            "balls": 26,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "stumped by MS Dhoni, bowled by Noor Ahmad",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 31,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "lbw, bowled by Noor Ahmad",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "R Minz",
+            "runs": 3,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RA Jadeja, bowled by Noor Ahmad",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Naman Dhir",
+            "runs": 17,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Noor Ahmad",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MJ Santner",
+            "runs": 11,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by NT Ellis",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "DL Chahar",
+            "runs": 28,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "TA Boult",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RD Gaikwad, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PVSN Raju",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KK Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 3,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "SM Curran",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "NT Ellis",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 4,
+            "economy": 4.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 145,
+          "byes": 4,
+          "legbyes": 1,
+          "wides": 4,
+          "noballs": 1,
+          "total": 155
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1380,7 +1541,149 @@
       },
       "pressure_index": 0.37,
       "match_shape": 0.98,
-      "target": 156
+      "target": 156,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "R Ravindra",
+            "runs": 65,
+            "balls": 45,
+            "fours": 2,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RD Rickelton, bowled by DL Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RD Gaikwad",
+            "runs": 53,
+            "balls": 26,
+            "fours": 6,
+            "sixes": 3,
+            "dismissal": "caught by WG Jacks, bowled by V Puthur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dube",
+            "runs": 9,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Tilak Varma, bowled by V Puthur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PVSN Raju, bowled by V Puthur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SM Curran",
+            "runs": 4,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by WG Jacks",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 17,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by RD Rickelton, DL Chahar",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "DL Chahar",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "PVSN Raju",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "MJ Santner",
+            "overs": 2.1,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 11.08,
+            "maidens": 0
+          },
+          {
+            "name": "WG Jacks",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "V Puthur",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 3,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Naman Dhir",
+            "overs": 3.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 153,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 0,
+          "total": 158
+        }
+      }
     }
   ]
 }

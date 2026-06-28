@@ -692,7 +692,141 @@
         }
       },
       "pressure_index": 0.794,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KL Rahul",
+            "runs": 29,
+            "balls": 27,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "bowled by L Ngidi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 26,
+            "balls": 15,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "bowled by L Ngidi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 12,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Imran Tahir",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 14,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by RA Jadeja",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 62,
+            "balls": 30,
+            "fours": 3,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JDS Neesham",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RD Gaikwad, bowled by L Ngidi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CJ Jordan",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "SM Curran",
+            "overs": 2.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "L Ngidi",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 3,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "Imran Tahir",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 5.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 151,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 1,
+          "noballs": 0,
+          "total": 153
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1350,7 +1484,96 @@
       },
       "pressure_index": 0.313,
       "match_shape": 0.996,
-      "target": 154
+      "target": 154,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RD Gaikwad",
+            "runs": 62,
+            "balls": 49,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 48,
+            "balls": 34,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by KL Rahul, bowled by CJ Jordan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 30,
+            "balls": 30,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JDS Neesham",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "CJ Jordan",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "M Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "CH Gayle",
+            "overs": 0.5,
+            "runs_conceded": 5,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 140,
+          "byes": 0,
+          "legbyes": 7,
+          "wides": 7,
+          "noballs": 0,
+          "total": 154
+        }
+      }
     }
   ]
 }

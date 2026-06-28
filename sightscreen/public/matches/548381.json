@@ -707,7 +707,113 @@
         }
       },
       "pressure_index": 0.694,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MEK Hussey",
+            "runs": 54,
+            "balls": 43,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "bowled by JH Kallis",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "M Vijay",
+            "runs": 42,
+            "balls": 30,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by Shakib Al Hasan, bowled by R Bhatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 73,
+            "balls": 38,
+            "fours": 3,
+            "sixes": 5,
+            "dismissal": "caught by B Lee, bowled by Shakib Al Hasan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 14,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Lee",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 1.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 17.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 183,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 2,
+          "noballs": 2,
+          "total": 190
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1511,124 @@
       },
       "pressure_index": 0.787,
       "match_shape": 0.952,
-      "target": 191
+      "target": 191,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MS Bisla",
+            "runs": 89,
+            "balls": 48,
+            "fours": 8,
+            "sixes": 5,
+            "dismissal": "caught by S Badrinath, bowled by JA Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by BW Hilfenhaus",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 69,
+            "balls": 49,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": "caught by RA Jadeja, bowled by BW Hilfenhaus",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LR Shukla",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MEK Hussey, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Badrinath, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "runs": 11,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MK Tiwary",
+            "runs": 9,
+            "balls": 3,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "BW Hilfenhaus",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "JA Morkel",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 1,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 3.4,
+            "runs_conceded": 49,
+            "wickets": 1,
+            "economy": 13.36,
+            "maidens": 0
+          },
+          {
+            "name": "SB Jakati",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 184,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 6,
+          "noballs": 1,
+          "total": 192
+        }
+      }
     }
   ]
 }

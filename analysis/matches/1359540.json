@@ -717,7 +717,124 @@
         }
       },
       "pressure_index": 0.803,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "P Simran Singh",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by TA Boult",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "Atharva Taide",
+            "runs": 19,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by D Padikkal, bowled by Navdeep Saini",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 17,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by A Zampa",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "LS Livingstone",
+            "runs": 9,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Navdeep Saini",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SM Curran",
+            "runs": 49,
+            "balls": 31,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JM Sharma",
+            "runs": 44,
+            "balls": 28,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by D Ferreira, bowled by Navdeep Saini",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Shahrukh Khan",
+            "runs": 41,
+            "balls": 23,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "Navdeep Saini",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 3,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Zampa",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 181,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 1,
+          "total": 187
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1425,7 +1542,133 @@
       },
       "pressure_index": 0.88,
       "match_shape": 0.928,
-      "target": 188
+      "target": 188,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 50,
+            "balls": 36,
+            "fours": 8,
+            "sixes": 0,
+            "dismissal": "caught by R Dhawan, bowled by NT Ellis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by K Rabada",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 51,
+            "balls": 30,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "caught by Harpreet Brar, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Dhawan, bowled by RD Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 46,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "caught by S Dhawan, bowled by SM Curran",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Parag",
+            "runs": 20,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by Atharva Taide, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Dhruv Jurel",
+            "runs": 10,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "TA Boult",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SM Curran",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Arshdeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "NT Ellis",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "RD Chahar",
+            "overs": 3.4,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.64,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 180,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 7,
+          "noballs": 1,
+          "total": 189
+        }
+      }
     }
   ]
 }

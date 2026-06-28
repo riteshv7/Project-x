@@ -602,7 +602,168 @@
         }
       },
       "pressure_index": 0.718,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "GC Smith",
+            "runs": 5,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by YV Takawale, bowled by SM Pollock",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "SA Asnodkar",
+            "runs": 39,
+            "balls": 36,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by RV Uthappa, bowled by RR Raje",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by A Nehra",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 32,
+            "balls": 20,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "bowled by DJ Bravo",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "M Kaif",
+            "runs": 4,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Nehra, bowled by RR Raje",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by YV Takawale, bowled by DS Kulkarni",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Warne",
+            "runs": 7,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by YV Takawale, bowled by DS Kulkarni",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Sohail Tanvir",
+            "runs": 6,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by A Nehra",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "M Rawat",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by YV Takawale, bowled by A Nehra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Trivedi",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by DJ Bravo",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MM Patel",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SM Pollock",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "A Nehra",
+            "overs": 3.0,
+            "runs_conceded": 13,
+            "wickets": 3,
+            "economy": 4.33,
+            "maidens": 0
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 2.2,
+            "runs_conceded": 12,
+            "wickets": 2,
+            "economy": 5.14,
+            "maidens": 0
+          },
+          {
+            "name": "ST Jayasuriya",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "RR Raje",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 6.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 96,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 5,
+          "noballs": 0,
+          "total": 103
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1175,7 +1336,106 @@
       },
       "pressure_index": 0.116,
       "match_shape": 0.992,
-      "target": 104
+      "target": 104,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YV Takawale",
+            "runs": 27,
+            "balls": 32,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by SK Warne",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "ST Jayasuriya",
+            "runs": 18,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by YK Pathan, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 34,
+            "balls": 21,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SA Asnodkar, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 12,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sohail Tanvir",
+            "overs": 3.1,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 4.11,
+            "maidens": 0
+          },
+          {
+            "name": "MM Patel",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 92,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 10,
+          "noballs": 0,
+          "total": 104
+        }
+      }
     }
   ]
 }

@@ -712,7 +712,159 @@
         }
       },
       "pressure_index": 0.744,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 21,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "bowled by TU Deshpande",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 32,
+            "balls": 21,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by D Pretorius, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "C Green",
+            "runs": 12,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by RA Jadeja",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by MJ Santner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 22,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by RA Jadeja",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Arshad Khan",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by MJ Santner",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "TH David",
+            "runs": 31,
+            "balls": 22,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by AM Rahane, bowled by TU Deshpande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "T Stubbs",
+            "runs": 5,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RD Gaikwad, bowled by SSB Magala",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HR Shokeen",
+            "runs": 18,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 5,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "TU Deshpande",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "SSB Magala",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "MJ Santner",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 3,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "D Pretorius",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 149,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 5,
+          "noballs": 0,
+          "total": 157
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1360,7 +1512,114 @@
       },
       "pressure_index": 0.314,
       "match_shape": 0.992,
-      "target": 158
+      "target": 158,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DP Conway",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by JP Behrendorff",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 61,
+            "balls": 27,
+            "fours": 7,
+            "sixes": 3,
+            "dismissal": "caught by SA Yadav, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RD Gaikwad",
+            "runs": 40,
+            "balls": 36,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "S Dube",
+            "runs": 28,
+            "balls": 26,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by K Kartikeya",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 20,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JP Behrendorff",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Arshad Khan",
+            "overs": 2.1,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 16.15,
+            "maidens": 0
+          },
+          {
+            "name": "C Green",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "K Kartikeya",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "HR Shokeen",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 149,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 6,
+          "noballs": 0,
+          "total": 159
+        }
+      }
     }
   ]
 }

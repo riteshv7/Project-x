@@ -707,7 +707,141 @@
         }
       },
       "pressure_index": 0.913,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by M Morkel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 26,
+            "balls": 23,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught and bowled by RN ten Doeschate",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 29,
+            "balls": 31,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "run out by MK Pandey, RV Uthappa",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 27,
+            "balls": 26,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "run out by MK Pandey, RV Uthappa",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "DJG Sammy",
+            "runs": 29,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by Shakib Al Hasan, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Anirudha",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by RV Uthappa, bowled by Shakib Al Hasan",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "JO Holder",
+            "runs": 16,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "run out by RV Uthappa, R Vinay Kumar",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "KV Sharma",
+            "runs": 5,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 1
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "RN ten Doeschate",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 1
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 139,
+          "byes": 0,
+          "legbyes": 13,
+          "wides": 8,
+          "noballs": 0,
+          "total": 160
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1230,12 +1364,129 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.589,
       "match_shape": 0.994,
-      "target": 161
+      "target": 161,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 41,
+            "balls": 30,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by JO Holder, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 28,
+            "balls": 16,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "bowled by JO Holder",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 2,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DW Steyn, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 72,
+            "balls": 22,
+            "fours": 5,
+            "sixes": 7,
+            "dismissal": "caught by S Dhawan, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RN ten Doeschate",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by NV Ojha, DJG Sammy",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JO Holder, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 12,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 2.2,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 9.43,
+            "maidens": 0
+          },
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 0,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "JO Holder",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 4,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "Parvez Rasool",
+            "overs": 1.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 22.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 156,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 2,
+          "total": 161
+        }
+      }
     }
   ]
 }

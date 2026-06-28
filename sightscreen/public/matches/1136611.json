@@ -697,7 +697,133 @@
         }
       },
       "pressure_index": 0.827,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Kaul, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 12,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by Rashid Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 69,
+            "balls": 39,
+            "fours": 12,
+            "sixes": 1,
+            "dismissal": "caught by S Dhawan, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MM Ali",
+            "runs": 65,
+            "balls": 34,
+            "fours": 2,
+            "sixes": 6,
+            "dismissal": "caught by SP Goswami, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Dhawan, bowled by S Kaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "C de Grandhomme",
+            "runs": 40,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 4,
+            "dismissal": "caught by Rashid Khan, bowled by S Kaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SN Khan",
+            "runs": 22,
+            "balls": 8,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "TG Southee",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 3,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 2,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Basil Thampi",
+            "overs": 4.0,
+            "runs_conceded": 70,
+            "wickets": 0,
+            "economy": 17.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 214,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 218
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1390,7 +1516,114 @@
       },
       "pressure_index": 0.441,
       "match_shape": 0.564,
-      "target": 219
+      "target": 219,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "S Dhawan",
+            "runs": 18,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught and bowled by YS Chahal",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "AD Hales",
+            "runs": 37,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by AB de Villiers, bowled by MM Ali",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 81,
+            "balls": 42,
+            "fours": 7,
+            "sixes": 5,
+            "dismissal": "caught by C de Grandhomme, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 62,
+            "balls": 38,
+            "fours": 7,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "TG Southee",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 0,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Siraj",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "MM Ali",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "C de Grandhomme",
+            "overs": 2.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 17.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 199,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 0,
+          "total": 204
+        }
+      }
     }
   ]
 }

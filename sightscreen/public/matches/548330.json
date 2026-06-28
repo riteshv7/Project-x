@@ -692,7 +692,123 @@
         }
       },
       "pressure_index": 0.933,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "F du Plessis",
+            "runs": 58,
+            "balls": 47,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by AD Mathews, bowled by MN Samuels",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 57,
+            "balls": 48,
+            "fours": 8,
+            "sixes": 0,
+            "dismissal": "caught by AD Mathews, bowled by MN Samuels",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by M Kartik, bowled by A Nehra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 28,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 12,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by AD Mathews, bowled by A Nehra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 7,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by R Sharma, bowled by MN Samuels",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "M Kartik",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Nehra",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "B Kumar",
+            "overs": 3.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 12.33,
+            "maidens": 0
+          },
+          {
+            "name": "MN Samuels",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 3,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Sharma",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "AD Mathews",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 162,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 0,
+          "noballs": 1,
+          "total": 164
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1390,7 +1506,150 @@
       },
       "pressure_index": 0.797,
       "match_shape": 0.652,
-      "target": 165
+      "target": 165,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 8,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by R Ashwin, bowled by KMDN Kulasekara",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JD Ryder",
+            "runs": 9,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by DJ Bravo, bowled by KMDN Kulasekara",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SC Ganguly",
+            "runs": 24,
+            "balls": 26,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by KMDN Kulasekara, bowled by SB Jakati",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 13,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by S Badrinath, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MN Samuels",
+            "runs": 26,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by KMDN Kulasekara, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SPD Smith",
+            "runs": 23,
+            "balls": 20,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by F du Plessis, bowled by DE Bollinger",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Mathews",
+            "runs": 27,
+            "balls": 22,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by DJ Bravo",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "M Kartik",
+            "runs": 4,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DE Bollinger",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "KMDN Kulasekara",
+            "overs": 2.0,
+            "runs_conceded": 10,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "SB Jakati",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 5.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 136,
+          "byes": 1,
+          "legbyes": 6,
+          "wides": 7,
+          "noballs": 1,
+          "total": 151
+        }
+      }
     }
   ]
 }

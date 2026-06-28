@@ -712,7 +712,159 @@
         }
       },
       "pressure_index": 0.724,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PD Salt",
+            "runs": 5,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Tilak Varma, bowled by N Thushara",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 8,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by HH Pandya",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "A Raghuvanshi",
+            "runs": 13,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by SA Yadav, bowled by N Thushara",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 6,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by TH David, bowled by N Thushara",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VR Iyer",
+            "runs": 70,
+            "balls": 52,
+            "fours": 6,
+            "sixes": 3,
+            "dismissal": "bowled by JJ Bumrah",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RK Singh",
+            "runs": 9,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught and bowled by PP Chawla",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 42,
+            "balls": 30,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by D Brevis, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 7,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by N Thushara, HH Pandya",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Ramandeep Singh",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by G Coetzee, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MA Starc",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by JJ Bumrah",
+            "dismissal_type": "bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "N Thushara",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 3,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 3.5,
+            "runs_conceded": 18,
+            "wickets": 3,
+            "economy": 4.7,
+            "maidens": 0
+          },
+          {
+            "name": "G Coetzee",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 2,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Naman Dhir",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 3.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 162,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 5,
+          "noballs": 1,
+          "total": 169
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1380,7 +1532,160 @@
       },
       "pressure_index": 0.663,
       "match_shape": 0.63,
-      "target": 170
+      "target": 170,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Ishan Kishan",
+            "runs": 13,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by MA Starc",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 11,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by MK Pandey, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Naman Dhir",
+            "runs": 11,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by CV Varun",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 56,
+            "balls": 34,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "caught by PD Salt, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SP Narine, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Wadhera",
+            "runs": 6,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by SP Narine",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TH David",
+            "runs": 24,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by SS Iyer, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Coetzee",
+            "runs": 8,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by MA Starc",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SP Narine, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JJ Bumrah",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "VG Arora",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "MA Starc",
+            "overs": 3.5,
+            "runs_conceded": 33,
+            "wickets": 4,
+            "economy": 8.61,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 135,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 6,
+          "noballs": 1,
+          "total": 145
+        }
+      }
     }
   ]
 }

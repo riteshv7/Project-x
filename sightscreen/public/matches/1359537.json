@@ -712,7 +712,123 @@
         }
       },
       "pressure_index": 0.842,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DJ Hooda",
+            "runs": 5,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by TH David, bowled by JP Behrendorff",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Q de Kock",
+            "runs": 16,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by Ishan Kishan, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PN Mankad",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Ishan Kishan, bowled by JP Behrendorff",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 49,
+            "balls": 42,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "retired hurt",
+            "dismissal_type": "retired hurt"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 89,
+            "balls": 47,
+            "fours": 4,
+            "sixes": 8,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "N Pooran",
+            "runs": 8,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JP Behrendorff",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "CJ Jordan",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "HR Shokeen",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "Akash Madhwal",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "C Green",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 167,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 5,
+          "noballs": 0,
+          "total": 177
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1440,7 +1556,132 @@
       },
       "pressure_index": 0.847,
       "match_shape": 0.844,
-      "target": 178
+      "target": 178,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Ishan Kishan",
+            "runs": 59,
+            "balls": 39,
+            "fours": 8,
+            "sixes": 1,
+            "dismissal": "caught by Naveen-ul-Haq, bowled by Ravi Bishnoi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 37,
+            "balls": 25,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by DJ Hooda, bowled by Ravi Bishnoi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 7,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Yash Thakur",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "N Wadhera",
+            "runs": 16,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by K Gowtham, bowled by Mohsin Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TH David",
+            "runs": 32,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Vishnu Vinod",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by N Pooran, bowled by Yash Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "C Green",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "Mohsin Khan",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "Naveen-ul-Haq",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Thakur",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Swapnil Singh",
+            "overs": 1.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 157,
+          "byes": 5,
+          "legbyes": 1,
+          "wides": 8,
+          "noballs": 2,
+          "total": 172
+        }
+      }
     }
   ]
 }

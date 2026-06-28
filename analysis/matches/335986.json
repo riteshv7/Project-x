@@ -677,7 +677,159 @@
         }
       },
       "pressure_index": 0.544,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 23,
+            "balls": 21,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by Mohammad Hafeez, bowled by M Kartik",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 14,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by M Kartik, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VVS Laxman",
+            "runs": 0,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by LR Shukla, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Symonds",
+            "runs": 32,
+            "balls": 39,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by DJ Hussey, bowled by AB Agarkar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by M Kartik",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SB Styris",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Mohammad Hafeez",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AS Yadav",
+            "runs": 10,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by AB Dinda, bowled by DJ Hussey",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SB Bangar",
+            "runs": 14,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by WP Saha, bowled by M Kartik",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WPUJC Vaas",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SC Ganguly, bowled by AB Agarkar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RP Singh",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AB Dinda",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 3.0,
+            "runs_conceded": 9,
+            "wickets": 1,
+            "economy": 3.0,
+            "maidens": 1
+          },
+          {
+            "name": "AB Agarkar",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Kartik",
+            "overs": 3.4,
+            "runs_conceded": 17,
+            "wickets": 3,
+            "economy": 4.64,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammad Hafeez",
+            "overs": 4.0,
+            "runs_conceded": 8,
+            "wickets": 1,
+            "economy": 2.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Hussey",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 11.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 100,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 4,
+          "noballs": 2,
+          "total": 110
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1365,7 +1517,132 @@
       },
       "pressure_index": 0.438,
       "match_shape": 0.919,
-      "target": 111
+      "target": 111,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WP Saha",
+            "runs": 10,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SB Styris, bowled by WPUJC Vaas",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RT Ponting",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by WPUJC Vaas",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SC Ganguly",
+            "runs": 14,
+            "balls": 29,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by PP Ojha",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 38,
+            "balls": 43,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Mohammad Hafeez",
+            "runs": 13,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by A Symonds, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LR Shukla",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "WPUJC Vaas",
+            "overs": 3.0,
+            "runs_conceded": 9,
+            "wickets": 2,
+            "economy": 3.0,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 3.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "SB Styris",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "SB Bangar",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "A Symonds",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 4.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 84,
+          "byes": 4,
+          "legbyes": 8,
+          "wides": 15,
+          "noballs": 1,
+          "total": 112
+        }
+      }
     }
   ]
 }

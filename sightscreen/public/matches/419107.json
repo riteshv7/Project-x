@@ -732,7 +732,149 @@
         }
       },
       "pressure_index": 0.73,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "ST Jayasuriya",
+            "runs": 23,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by A Uniyal",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 17,
+            "balls": 11,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by AD Mascarenhas",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AP Tare",
+            "runs": 23,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by SK Warne, bowled by AD Mascarenhas",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 53,
+            "balls": 33,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by NV Ojha, bowled by SW Tait",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 55,
+            "balls": 33,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "caught by P Dogra, bowled by A Uniyal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Sathish",
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by NV Ojha",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 8,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "retired hurt",
+            "dismissal_type": "retired hurt"
+          },
+          {
+            "name": "R McLaren",
+            "runs": 11,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AD Mascarenhas",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "SW Tait",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "Kamran Khan",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Uniyal",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 2,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "AA Jhunjhunwala",
+            "overs": 2.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 196,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 13,
+          "noballs": 0,
+          "total": 212
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1435,7 +1577,141 @@
       },
       "pressure_index": 0.435,
       "match_shape": 0.882,
-      "target": 213
+      "target": 213,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "GC Smith",
+            "runs": 26,
+            "balls": 22,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught and bowled by R Sathish",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 12,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Z Khan, bowled by AG Murtaza",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AA Jhunjhunwala",
+            "runs": 14,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by SL Malinga",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 100,
+            "balls": 37,
+            "fours": 9,
+            "sixes": 8,
+            "dismissal": "run out by R Sathish",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "P Dogra",
+            "runs": 41,
+            "balls": 29,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "run out by SL Malinga",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "AD Mascarenhas",
+            "runs": 9,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Uniyal",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SL Malinga",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SK Warne",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "R McLaren",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 0,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "AG Murtaza",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Sathish",
+            "overs": 3.0,
+            "runs_conceded": 51,
+            "wickets": 1,
+            "economy": 17.0,
+            "maidens": 0
+          },
+          {
+            "name": "ST Jayasuriya",
+            "overs": 1.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 19.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 203,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 0,
+          "total": 208
+        }
+      }
     }
   ]
 }

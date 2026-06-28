@@ -707,7 +707,124 @@
         }
       },
       "pressure_index": 0.968,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "V Kohli",
+            "runs": 18,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by YBK Jaiswal, bowled by KM Asif",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 55,
+            "balls": 44,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by YBK Jaiswal, bowled by KM Asif",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 54,
+            "balls": 33,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "bowled by Sandeep Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Lomror",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Dhruv Jurel, bowled by A Zampa",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by A Zampa",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "MG Bracewell",
+            "runs": 9,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Anuj Rawat",
+            "runs": 29,
+            "balls": 11,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Zampa",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "KM Asif",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 2,
+            "economy": 10.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 166,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 0,
+          "total": 171
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1105,12 +1222,156 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.365,
       "match_shape": 0.458,
-      "target": 172
+      "target": 172,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Kohli, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 4,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Anuj Rawat, bowled by WD Parnell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Mohammed Siraj, bowled by WD Parnell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JE Root",
+            "runs": 10,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by WD Parnell",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Mohammed Siraj, bowled by MG Bracewell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 35,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 4,
+            "dismissal": "caught by MG Bracewell, bowled by GJ Maxwell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Dhruv Jurel",
+            "runs": 1,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Lomror, bowled by MG Bracewell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Zampa",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by KV Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Sandeep Sharma",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KM Asif",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Kohli, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Siraj",
+            "overs": 2.0,
+            "runs_conceded": 10,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "WD Parnell",
+            "overs": 3.0,
+            "runs_conceded": 10,
+            "wickets": 3,
+            "economy": 3.33,
+            "maidens": 0
+          },
+          {
+            "name": "MG Bracewell",
+            "overs": 3.0,
+            "runs_conceded": 16,
+            "wickets": 2,
+            "economy": 5.33,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 1.3,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 12.67,
+            "maidens": 0
+          },
+          {
+            "name": "GJ Maxwell",
+            "overs": 1.0,
+            "runs_conceded": 3,
+            "wickets": 1,
+            "economy": 3.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 56,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 59
+        }
+      }
     }
   ]
 }

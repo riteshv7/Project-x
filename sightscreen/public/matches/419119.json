@@ -707,7 +707,151 @@
         }
       },
       "pressure_index": 0.641,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "ST Jayasuriya",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by DW Steyn",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 25,
+            "balls": 22,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by R Vinay Kumar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AP Tare",
+            "runs": 9,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by JH Kallis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 25,
+            "balls": 21,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by A Kumble",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MV Boucher, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by R Vinay Kumar",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "R Sathish",
+            "runs": 24,
+            "balls": 22,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by R Dravid, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 21,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by V Kohli, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JH Kallis, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Z Khan",
+            "runs": 23,
+            "balls": 9,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 3,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 3,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "A Kumble",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 4.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 137,
+          "byes": 0,
+          "legbyes": 10,
+          "wides": 4,
+          "noballs": 0,
+          "total": 151
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1360,7 +1504,114 @@
       },
       "pressure_index": 0.299,
       "match_shape": 0.992,
-      "target": 152
+      "target": 152,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MK Pandey",
+            "runs": 40,
+            "balls": 27,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by KA Pollard, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 66,
+            "balls": 55,
+            "fours": 10,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 23,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by SL Malinga, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 17,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "run out by KA Pollard",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 7,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 3.1,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 11.05,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "ST Jayasuriya",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 153,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 0,
+          "noballs": 0,
+          "total": 155
+        }
+      }
     }
   ]
 }

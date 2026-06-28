@@ -712,7 +712,168 @@
         }
       },
       "pressure_index": 0.464,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "P Simran Singh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by B Kumar",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "MW Short",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by M Jansen",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 99,
+            "balls": 66,
+            "fours": 12,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JM Sharma",
+            "runs": 4,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AK Markram, bowled by M Jansen",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SM Curran",
+            "runs": 22,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by B Kumar, bowled by M Markande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Sikandar Raza",
+            "runs": 5,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MA Agarwal, bowled by Umran Malik",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Shahrukh Khan",
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by M Markande",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Harpreet Brar",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Umran Malik",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RD Chahar",
+            "runs": 0,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by M Markande",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "NT Ellis",
+            "runs": 0,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by M Markande",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Mohit Rathee",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Jansen",
+            "overs": 3.0,
+            "runs_conceded": 16,
+            "wickets": 2,
+            "economy": 5.33,
+            "maidens": 1
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Washington Sundar",
+            "overs": 1.0,
+            "runs_conceded": 6,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Markande",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 4,
+            "economy": 3.75,
+            "maidens": 0
+          },
+          {
+            "name": "Umran Malik",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 137,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 5,
+          "noballs": 0,
+          "total": 143
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1305,7 +1466,105 @@
       },
       "pressure_index": 0.475,
       "match_shape": 0.995,
-      "target": 144
+      "target": 144,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "HC Brook",
+            "runs": 13,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by Arshdeep Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 21,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by SM Curran, bowled by RD Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 74,
+            "balls": 48,
+            "fours": 10,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AK Markram",
+            "runs": 37,
+            "balls": 21,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SM Curran",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 4.67,
+            "maidens": 0
+          },
+          {
+            "name": "Arshdeep Singh",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "Harpreet Brar",
+            "overs": 3.1,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.21,
+            "maidens": 0
+          },
+          {
+            "name": "NT Ellis",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "RD Chahar",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "Mohit Rathee",
+            "overs": 2.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 14.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 145,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 0,
+          "noballs": 0,
+          "total": 145
+        }
+      }
     }
   ]
 }

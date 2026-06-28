@@ -697,7 +697,151 @@
         }
       },
       "pressure_index": 0.763,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 6,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by IK Pathan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "VVS Laxman",
+            "runs": 48,
+            "balls": 34,
+            "fours": 8,
+            "sixes": 0,
+            "dismissal": "caught by Yuvraj Singh, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Gibbs",
+            "runs": 7,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by K Goel, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 76,
+            "balls": 42,
+            "fours": 10,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Shahid Afridi",
+            "runs": 13,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Yuvraj Singh, bowled by Gagandeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by Yuvraj Singh, KC Sangakkara",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SB Bangar",
+            "runs": 3,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Sreesanth, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DNT Zoysa",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by S Sreesanth",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "D Kalyankrishna",
+            "runs": 3,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SE Marsh, bowled by IK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RP Singh",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Sreesanth",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "VRV Singh",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 3,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Gagandeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 160,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 164
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1360,7 +1504,114 @@
       },
       "pressure_index": 0.595,
       "match_shape": 0.993,
-      "target": 165
+      "target": 165,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SE Marsh",
+            "runs": 84,
+            "balls": 62,
+            "fours": 11,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RR Sarwan",
+            "runs": 15,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "run out by SB Bangar",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by D Kalyankrishna",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 14,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught and bowled by DNT Zoysa",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 45,
+            "balls": 23,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "RP Singh",
+            "overs": 3.5,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.39,
+            "maidens": 0
+          },
+          {
+            "name": "DNT Zoysa",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shahid Afridi",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "SB Bangar",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "D Kalyankrishna",
+            "overs": 3.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 11.33,
+            "maidens": 0
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 161,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 0,
+          "total": 167
+        }
+      }
     }
   ]
 }

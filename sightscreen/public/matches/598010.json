@@ -712,7 +712,151 @@
         }
       },
       "pressure_index": 0.441,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Anand Rajan, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 12,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by DW Steyn, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 12,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by CL White, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "J Botha",
+            "runs": 9,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by PA Reddy, bowled by Anand Rajan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MC Juneja",
+            "runs": 15,
+            "balls": 22,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by CL White, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 23,
+            "balls": 30,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by GH Vihari, bowled by NLTC Perera",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 30,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "M Morkel",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Ashish Reddy, bowled by NLTC Perera",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Nadeem",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by DW Steyn",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "UT Yadav",
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 11,
+            "wickets": 2,
+            "economy": 2.75,
+            "maidens": 1
+          },
+          {
+            "name": "I Sharma",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 2,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "NLTC Perera",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "Anand Rajan",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 3.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 107,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 1,
+          "total": 114
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1380,7 +1524,150 @@
       },
       "pressure_index": 0.438,
       "match_shape": 0.919,
-      "target": 115
+      "target": 115,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Reddy",
+            "runs": 1,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by S Nadeem",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 19,
+            "balls": 19,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught and bowled by S Nadeem",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 28,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by V Sehwag, bowled by J Botha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GH Vihari",
+            "runs": 17,
+            "balls": 23,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by J Botha, bowled by M Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CL White",
+            "runs": 4,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by KM Jadhav, bowled by S Nadeem",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "A Ashish Reddy",
+            "runs": 16,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by M Morkel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "NLTC Perera",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by J Botha, bowled by IK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Mishra",
+            "runs": 16,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DW Steyn",
+            "runs": 9,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "IK Pathan",
+            "overs": 3.2,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 5.7,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 2.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 1
+          },
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "J Botha",
+            "overs": 3.0,
+            "runs_conceded": 11,
+            "wickets": 1,
+            "economy": 3.67,
+            "maidens": 0
+          },
+          {
+            "name": "S Nadeem",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 4.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 112,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 1,
+          "total": 115
+        }
+      }
     }
   ]
 }

@@ -732,7 +732,141 @@
         }
       },
       "pressure_index": 0.882,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 7,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Z Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 25,
+            "balls": 18,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "run out by A Mithun, AB de Villiers",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "JR Hopes",
+            "runs": 54,
+            "balls": 42,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "caught by AB de Villiers, bowled by A Mithun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Wade",
+            "runs": 8,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by A Mithun",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 24,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by DL Vettori",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 16,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by Z Khan, bowled by S Aravind",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 13,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Y Nagar",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "S Aravind",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "DL Vettori",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "CH Gayle",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mithun",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "J Syed Mohammad",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 147,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 7,
+          "noballs": 2,
+          "total": 160
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1420,7 +1554,150 @@
       },
       "pressure_index": 0.439,
       "match_shape": 0.973,
-      "target": 161
+      "target": 161,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CH Gayle",
+            "runs": 26,
+            "balls": 14,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by Y Venugopal Rao, bowled by JR Hopes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TM Dilshan",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by NV Ojha, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 56,
+            "balls": 38,
+            "fours": 8,
+            "sixes": 2,
+            "dismissal": "bowled by M Morkel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 5,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by DA Warner",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "CA Pujara",
+            "runs": 7,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DA Warner, bowled by Y Nagar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 18,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by NV Ojha, bowled by M Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DL Vettori",
+            "runs": 18,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Mithun",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by UT Yadav, bowled by M Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "J Syed Mohammad",
+            "runs": 13,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AB Dinda",
+            "overs": 3.3,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 10.29,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 3,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hopes",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "Y Nagar",
+            "overs": 1.0,
+            "runs_conceded": 3,
+            "wickets": 1,
+            "economy": 3.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 143,
+          "byes": 5,
+          "legbyes": 4,
+          "wides": 8,
+          "noballs": 1,
+          "total": 161
+        }
+      }
     }
   ]
 }

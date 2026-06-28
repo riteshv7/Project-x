@@ -707,7 +707,158 @@
         }
       },
       "pressure_index": 0.803,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DR Smith",
+            "runs": 9,
+            "balls": 4,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "run out by S Nadeem",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RR Pant, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 77,
+            "balls": 43,
+            "fours": 5,
+            "sixes": 4,
+            "dismissal": "run out by K Rabada",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 65,
+            "balls": 34,
+            "fours": 5,
+            "sixes": 5,
+            "dismissal": "caught by CJ Anderson, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AJ Finch",
+            "runs": 27,
+            "balls": 19,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by RR Pant, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SS Iyer, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 18,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JP Faulkner",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by CR Brathwaite, bowled by CJ Anderson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PJ Sangwan",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Nadeem",
+            "overs": 2.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Shami",
+            "overs": 3.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 13.33,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "MN Samuels",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "CJ Anderson",
+            "overs": 3.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 203,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 4,
+          "noballs": 0,
+          "total": 208
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1335,7 +1486,122 @@
       },
       "pressure_index": 0.755,
       "match_shape": 0.998,
-      "target": 209
+      "target": 209,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SV Samson",
+            "runs": 61,
+            "balls": 31,
+            "fours": 0,
+            "sixes": 7,
+            "dismissal": "caught by JP Faulkner, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 12,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by PJ Sangwan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 97,
+            "balls": 43,
+            "fours": 6,
+            "sixes": 9,
+            "dismissal": "caught by KD Karthik, bowled by Basil Thampi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 14,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "CJ Anderson",
+            "runs": 18,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "PJ Sangwan",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "Basil Thampi",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 2.3,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Ankit Soni",
+            "overs": 2.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 2.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "DR Smith",
+            "overs": 1.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 202,
+          "byes": 1,
+          "legbyes": 6,
+          "wides": 5,
+          "noballs": 0,
+          "total": 214
+        }
+      }
     }
   ]
 }

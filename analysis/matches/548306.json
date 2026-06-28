@@ -717,7 +717,168 @@
         }
       },
       "pressure_index": 0.637,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "F du Plessis",
+            "runs": 3,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by AT Rayudu",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "M Vijay",
+            "runs": 10,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Harbhajan Singh, bowled by JEC Franklin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 36,
+            "balls": 26,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by SL Malinga, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 19,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by KA Pollard, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 3,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PP Ojha, bowled by KA Pollard",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 10,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Harbhajan Singh, bowled by KA Pollard",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by AN Ahmed, KD Karthik",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SL Malinga",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by Harbhajan Singh, KD Karthik",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SB Jakati",
+            "runs": 6,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DE Bollinger",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SL Malinga",
+            "overs": 3.5,
+            "runs_conceded": 16,
+            "wickets": 2,
+            "economy": 4.17,
+            "maidens": 0
+          },
+          {
+            "name": "AN Ahmed",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "JEC Franklin",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 2,
+            "economy": 3.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 100,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 7,
+          "noballs": 0,
+          "total": 112
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1315,7 +1476,114 @@
       },
       "pressure_index": 0.086,
       "match_shape": 0.99,
-      "target": 113
+      "target": 113,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RE Levi",
+            "runs": 50,
+            "balls": 35,
+            "fours": 6,
+            "sixes": 3,
+            "dismissal": "caught by DE Bollinger, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 16,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "retired hurt",
+            "dismissal_type": "retired hurt"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by DE Bollinger",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 18,
+            "balls": 18,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JEC Franklin",
+            "runs": 25,
+            "balls": 30,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JA Morkel",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "DE Bollinger",
+            "overs": 3.5,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.87,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 1.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 4.67,
+            "maidens": 0
+          },
+          {
+            "name": "SB Jakati",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 109,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 3,
+          "noballs": 0,
+          "total": 115
+        }
+      }
     }
   ]
 }

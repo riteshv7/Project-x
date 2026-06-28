@@ -712,7 +712,140 @@
         }
       },
       "pressure_index": 0.973,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KL Rahul",
+            "runs": 24,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by JP Duminy, bowled by M Markande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 50,
+            "balls": 40,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "caught by SA Yadav, bowled by BCJ Cutting",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 14,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 23,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by HH Pandya, bowled by MJ McClenaghan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 13,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by HH Pandya, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 29,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 11,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught and bowled by HH Pandya",
+            "dismissal_type": "caught and bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MJ McClenaghan",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Markande",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "JP Duminy",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "BCJ Cutting",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 164,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 5,
+          "noballs": 0,
+          "total": 174
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1370,7 +1503,123 @@
       },
       "pressure_index": 0.925,
       "match_shape": 0.987,
-      "target": 175
+      "target": 175,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SA Yadav",
+            "runs": 57,
+            "balls": 42,
+            "fours": 6,
+            "sixes": 3,
+            "dismissal": "caught by KL Rahul, bowled by MP Stoinis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "E Lewis",
+            "runs": 10,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KL Rahul, bowled by Mujeeb Ur Rahman",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 25,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "bowled by Mujeeb Ur Rahman",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 23,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by AJ Tye",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 24,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 31,
+            "balls": 12,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "AS Rajpoot",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "AJ Tye",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "Mujeeb Ur Rahman",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "MP Stoinis",
+            "overs": 3.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 12.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 170,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 2,
+          "noballs": 0,
+          "total": 176
+        }
+      }
     }
   ]
 }

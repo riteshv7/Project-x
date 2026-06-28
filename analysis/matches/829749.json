@@ -702,7 +702,168 @@
         }
       },
       "pressure_index": 0.735,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 18,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by HV Patel",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 26,
+            "balls": 22,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by MA Starc, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 16,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by HV Patel, V Kohli",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SPD Smith",
+            "runs": 31,
+            "balls": 28,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Iqbal Abdulla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 4,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by YS Chahal",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 20,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by D Wiese, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Faulkner",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CH Morris",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DS Kulkarni",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by MA Starc",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "PV Tambe",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MA Starc",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 3,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 3.1,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 7.89,
+            "maidens": 0
+          },
+          {
+            "name": "D Wiese",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "V Kohli",
+            "overs": 0.5,
+            "runs_conceded": 4,
+            "wickets": 0,
+            "economy": 4.8,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 126,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 0,
+          "total": 130
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1265,7 +1426,96 @@
       },
       "pressure_index": 0.158,
       "match_shape": 0.997,
-      "target": 131
+      "target": 131,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CH Gayle",
+            "runs": 20,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by SV Samson, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 62,
+            "balls": 46,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 47,
+            "balls": 34,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "CH Morris",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "PV Tambe",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Hooda",
+            "overs": 0.1,
+            "runs_conceded": 4,
+            "wickets": 0,
+            "economy": 24.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 129,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 0,
+          "noballs": 0,
+          "total": 134
+        }
+      }
     }
   ]
 }

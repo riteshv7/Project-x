@@ -742,7 +742,124 @@
         }
       },
       "pressure_index": 0.894,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JM Bairstow",
+            "runs": 56,
+            "balls": 40,
+            "fours": 8,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by YS Chahal",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 12,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by JC Buttler, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PBB Rajapaksa",
+            "runs": 27,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "bowled by YS Chahal",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 15,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by JC Buttler, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Sharma",
+            "runs": 38,
+            "balls": 18,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "LS Livingstone",
+            "runs": 22,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "bowled by M Prasidh Krishna",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Dhawan",
+            "runs": 5,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 1
+          },
+          {
+            "name": "M Prasidh Krishna",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "KR Sen",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 3,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 175,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 10,
+          "noballs": 1,
+          "total": 189
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1440,7 +1557,123 @@
       },
       "pressure_index": 0.615,
       "match_shape": 0.994,
-      "target": 190
+      "target": 190,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 68,
+            "balls": 41,
+            "fours": 9,
+            "sixes": 2,
+            "dismissal": "caught by LS Livingstone, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 30,
+            "balls": 16,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by PBB Rajapaksa, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 23,
+            "balls": 12,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by S Dhawan, bowled by R Dhawan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 31,
+            "balls": 32,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by MA Agarwal, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 31,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Parag",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 1,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "Arshdeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Dhawan",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "RD Chahar",
+            "overs": 3.4,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 10.64,
+            "maidens": 0
+          },
+          {
+            "name": "LS Livingstone",
+            "overs": 1.0,
+            "runs_conceded": 6,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 183,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 7,
+          "noballs": 0,
+          "total": 190
+        }
+      }
     }
   ]
 }

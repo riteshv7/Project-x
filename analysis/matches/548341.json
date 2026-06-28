@@ -697,7 +697,115 @@
         }
       },
       "pressure_index": 0.957,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 24,
+            "balls": 18,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by MK Pandey, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 16,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "run out by MK Pandey, RV Uthappa",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "CL White",
+            "runs": 78,
+            "balls": 46,
+            "fours": 6,
+            "sixes": 5,
+            "dismissal": "caught by AC Thomas, bowled by MN Samuels",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 12,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by R Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 26,
+            "balls": 24,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "IR Jaggi",
+            "runs": 10,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Nehra",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "AC Thomas",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "MN Samuels",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Sharma",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 166,
+          "byes": 4,
+          "legbyes": 5,
+          "wides": 2,
+          "noballs": 0,
+          "total": 177
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1513,150 @@
       },
       "pressure_index": 0.513,
       "match_shape": 0.504,
-      "target": 178
+      "target": 178,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MK Pandey",
+            "runs": 21,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by J Theron",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JD Ryder",
+            "runs": 7,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DJ Harris, bowled by Ankit Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SC Ganguly",
+            "runs": 23,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by DJ Harris, bowled by MS Gony",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 29,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by A Ashish Reddy",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MN Samuels",
+            "runs": 3,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KC Sangakkara, bowled by A Ashish Reddy",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SPD Smith",
+            "runs": 26,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "caught by JP Duminy, bowled by J Theron",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Manhas",
+            "runs": 22,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AC Thomas",
+            "runs": 12,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by PA Patel",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 7,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Ankit Sharma",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "JP Duminy",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "MS Gony",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "J Theron",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "A Ashish Reddy",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 150,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 5,
+          "noballs": 1,
+          "total": 159
+        }
+      }
     }
   ]
 }

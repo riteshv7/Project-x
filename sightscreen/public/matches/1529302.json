@@ -722,7 +722,124 @@
         }
       },
       "pressure_index": 0.94,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SV Samson",
+            "runs": 20,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by MD Choudhary, bowled by Akash Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RD Gaikwad",
+            "runs": 13,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by N Pooran, bowled by Akash Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Urvil Patel",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by MR Marsh, bowled by Akash Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Kartik Sharma",
+            "runs": 71,
+            "balls": 42,
+            "fours": 6,
+            "sixes": 5,
+            "dismissal": "caught by AK Markram, bowled by Shahbaz Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Brevis",
+            "runs": 25,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by Akash Singh, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dube",
+            "runs": 32,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "PR Veer",
+            "runs": 13,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 1,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "Akash Singh",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 3,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "Prince Yadav",
+            "overs": 4.0,
+            "runs_conceded": 49,
+            "wickets": 0,
+            "economy": 12.25,
+            "maidens": 0
+          },
+          {
+            "name": "MP Yadav",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 1,
+            "economy": 11.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 180,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 7,
+          "noballs": 0,
+          "total": 187
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1315,7 +1432,106 @@
       },
       "pressure_index": 0.41,
       "match_shape": 0.996,
-      "target": 188
+      "target": 188,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MR Marsh",
+            "runs": 90,
+            "balls": 38,
+            "fours": 9,
+            "sixes": 7,
+            "dismissal": "run out by Mukesh Choudhary",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "JP Inglis",
+            "runs": 36,
+            "balls": 32,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by Urvil Patel, bowled by Mukesh Choudhary",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 32,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 7,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by SH Johnson",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MD Choudhary",
+            "runs": 13,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mukesh Choudhary",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "SH Johnson",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Kamboj",
+            "overs": 2.4,
+            "runs_conceded": 63,
+            "wickets": 0,
+            "economy": 23.62,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "Gurjapneet Singh",
+            "overs": 3.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 11.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 178,
+          "byes": 1,
+          "legbyes": 6,
+          "wides": 3,
+          "noballs": 0,
+          "total": 188
+        }
+      }
     }
   ]
 }

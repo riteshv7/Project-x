@@ -727,7 +727,141 @@
         }
       },
       "pressure_index": 0.932,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MS Wade",
+            "runs": 19,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Umran Malik",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 7,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RA Tripathi, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Sai Sudharsan",
+            "runs": 11,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by KS Williamson, bowled by T Natarajan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 50,
+            "balls": 42,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DA Miller",
+            "runs": 12,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Abhishek Sharma, bowled by M Jansen",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Manohar",
+            "runs": 35,
+            "balls": 21,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by RA Tripathi, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 6,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by N Pooran, T Natarajan",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by T Natarajan",
+            "dismissal_type": "bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Jansen",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "Washington Sundar",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 4.67,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Umran Malik",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "AK Markram",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 140,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 20,
+          "noballs": 0,
+          "total": 162
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1529,114 @@
       },
       "pressure_index": 0.651,
       "match_shape": 0.995,
-      "target": 163
+      "target": 163,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Abhishek Sharma",
+            "runs": 42,
+            "balls": 32,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by B Sai Sudharsan, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 57,
+            "balls": 46,
+            "fours": 2,
+            "sixes": 4,
+            "dismissal": "caught by R Tewatia, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 17,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "retired hurt",
+            "dismissal_type": "retired hurt"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 34,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AK Markram",
+            "runs": 12,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "LH Ferguson",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "DG Nalkande",
+            "overs": 2.1,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 10.15,
+            "maidens": 0
+          },
+          {
+            "name": "R Tewatia",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 162,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 0,
+          "total": 168
+        }
+      }
     }
   ]
 }

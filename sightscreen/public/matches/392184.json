@@ -682,7 +682,160 @@
         }
       },
       "pressure_index": 0.362,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "BB McCullum",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 10,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Harmeet Singh, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SC Ganguly",
+            "runs": 1,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by VVS Laxman, bowled by Harmeet Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 31,
+            "balls": 34,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by HH Gibbs, bowled by SB Styris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Chopra",
+            "runs": 11,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "stumped by AC Gilchrist, bowled by PP Ojha",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "LR Shukla",
+            "runs": 8,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "stumped by AC Gilchrist, bowled by PP Ojha",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "MC Henriques",
+            "runs": 6,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by SB Styris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB Agarkar",
+            "runs": 7,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by RG Sharma",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "M Kartik",
+            "runs": 10,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "I Sharma",
+            "runs": 9,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by RP Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AB Dinda",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by RP Singh",
+            "dismissal_type": "bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "FH Edwards",
+            "overs": 4.0,
+            "runs_conceded": 6,
+            "wickets": 0,
+            "economy": 1.5,
+            "maidens": 1
+          },
+          {
+            "name": "RP Singh",
+            "overs": 3.4,
+            "runs_conceded": 22,
+            "wickets": 4,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harmeet Singh",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "SB Styris",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 96,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 1,
+          "noballs": 0,
+          "total": 101
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1155,12 +1308,118 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.104,
       "match_shape": 0.996,
-      "target": 102
+      "target": 102,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 13,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by MC Henriques, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Gibbs",
+            "runs": 43,
+            "balls": 26,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "VVS Laxman",
+            "runs": 10,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "run out by LR Shukla, BB McCullum",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 36,
+            "balls": 32,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AB Dinda",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 3.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 4.33,
+            "maidens": 0
+          },
+          {
+            "name": "M Kartik",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "SC Ganguly",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "AB Agarkar",
+            "overs": 1.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 17.0,
+            "maidens": 0
+          },
+          {
+            "name": "CH Gayle",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "MC Henriques",
+            "overs": 0.1,
+            "runs_conceded": 4,
+            "wickets": 0,
+            "economy": 24.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 102,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 1,
+          "noballs": 0,
+          "total": 104
+        }
+      }
     }
   ]
 }

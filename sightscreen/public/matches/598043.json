@@ -717,7 +717,141 @@
         }
       },
       "pressure_index": 0.724,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SR Watson",
+            "runs": 35,
+            "balls": 34,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by SP Narine",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 6,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "stumped by MS Bisla, bowled by SMSM Senanayake",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "JP Faulkner",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by G Gambhir, bowled by Iqbal Abdulla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 40,
+            "balls": 36,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by JH Kallis, bowled by R Bhatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DH Yagnik",
+            "runs": 10,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by SMSM Senanayake",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "OA Shah",
+            "runs": 24,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by JH Kallis",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Dravid",
+            "runs": 6,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Narwal",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "SMSM Senanayake",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 125,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 5,
+          "noballs": 1,
+          "total": 132
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1335,7 +1469,105 @@
       },
       "pressure_index": 0.168,
       "match_shape": 0.992,
-      "target": 133
+      "target": 133,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "G Gambhir",
+            "runs": 12,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "stumped by DH Yagnik, bowled by SR Watson",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "MS Bisla",
+            "runs": 29,
+            "balls": 25,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by AM Rahane, bowled by AA Chavan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 33,
+            "balls": 30,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 49,
+            "balls": 35,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AA Chavan",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "GB Hogg",
+            "overs": 3.2,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 9.3,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "STR Binny",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 123,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 5,
+          "noballs": 0,
+          "total": 133
+        }
+      }
     }
   ]
 }

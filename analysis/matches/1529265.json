@@ -737,7 +737,132 @@
         }
       },
       "pressure_index": 0.735,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SV Samson",
+            "runs": 48,
+            "balls": 32,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "bowled by Kartik Tyagi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RD Gaikwad",
+            "runs": 7,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by R Powell, bowled by AS Roy",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Mhatre",
+            "runs": 38,
+            "balls": 17,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "caught by Ramandeep Singh, bowled by VG Arora",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Brevis",
+            "runs": 41,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by VG Arora, bowled by Kartik Tyagi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SN Khan",
+            "runs": 23,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "bowled by SP Narine",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Dube",
+            "runs": 13,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "J Overton",
+            "runs": 7,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "VG Arora",
+            "overs": 4.0,
+            "runs_conceded": 55,
+            "wickets": 1,
+            "economy": 13.75,
+            "maidens": 0
+          },
+          {
+            "name": "C Green",
+            "overs": 2.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 15.0,
+            "maidens": 0
+          },
+          {
+            "name": "AS Roy",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "Kartik Tyagi",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 2,
+            "economy": 8.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 177,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 11,
+          "noballs": 0,
+          "total": 192
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1440,7 +1565,150 @@
       },
       "pressure_index": 0.286,
       "match_shape": 0.399,
-      "target": 193
+      "target": 193,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "FH Allen",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Dube, bowled by A Kamboj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 24,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by Gurjapneet Singh, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 28,
+            "balls": 22,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by RD Gaikwad, bowled by Noor Ahmad",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Raghuvanshi",
+            "runs": 27,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by D Brevis, bowled by AJ Hosein",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RK Singh",
+            "runs": 6,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Dube, bowled by Noor Ahmad",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "C Green",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Noor Ahmad",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Powell",
+            "runs": 31,
+            "balls": 22,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Ramandeep Singh",
+            "runs": 35,
+            "balls": 23,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by SN Khan, bowled by A Kamboj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AS Roy",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KK Ahmed",
+            "overs": 3.5,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.26,
+            "maidens": 0
+          },
+          {
+            "name": "A Kamboj",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "AJ Hosein",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 3,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "Gurjapneet Singh",
+            "overs": 1.1,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 19.71,
+            "maidens": 0
+          },
+          {
+            "name": "J Overton",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 153,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 5,
+          "noballs": 0,
+          "total": 160
+        }
+      }
     }
   ]
 }

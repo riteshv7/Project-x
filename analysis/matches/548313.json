@@ -707,7 +707,141 @@
         }
       },
       "pressure_index": 0.895,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JD Ryder",
+            "runs": 8,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by P Kumar",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SC Ganguly",
+            "runs": 20,
+            "balls": 18,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by PC Valthaty, bowled by AD Mascarenhas",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MN Samuels",
+            "runs": 46,
+            "balls": 39,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "bowled by Harmeet Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 40,
+            "balls": 33,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "bowled by Harmeet Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "CJ Ferguson",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by Harmeet Singh",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "SPD Smith",
+            "runs": 25,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "bowled by JP Faulkner",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 12,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Sharma",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "AD Mascarenhas",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "Bipul Sharma",
+            "overs": 2.4,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 15.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harmeet Singh",
+            "overs": 3.2,
+            "runs_conceded": 24,
+            "wickets": 3,
+            "economy": 7.2,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 154,
+          "byes": 0,
+          "legbyes": 7,
+          "wides": 3,
+          "noballs": 2,
+          "total": 166
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1539,159 @@
       },
       "pressure_index": 0.339,
       "match_shape": 0.506,
-      "target": 167
+      "target": 167,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 6,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by SPD Smith, RV Uthappa",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "PC Valthaty",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by SPD Smith, M Kartik",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 24,
+            "balls": 22,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by JD Ryder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 24,
+            "balls": 28,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SC Ganguly, bowled by A Nehra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 18,
+            "balls": 17,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by R Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 16,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by MK Pandey, bowled by R Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Mascarenhas",
+            "runs": 5,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JD Ryder, bowled by MN Samuels",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Bipul Sharma",
+            "runs": 35,
+            "balls": 18,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JP Faulkner",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SC Ganguly, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Kumar",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AB Dinda",
+            "overs": 3.0,
+            "runs_conceded": 13,
+            "wickets": 1,
+            "economy": 4.33,
+            "maidens": 0
+          },
+          {
+            "name": "MN Samuels",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Nehra",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "R Sharma",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Kartik",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "JD Ryder",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 133,
+          "byes": 4,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 1,
+          "total": 144
+        }
+      }
     }
   ]
 }

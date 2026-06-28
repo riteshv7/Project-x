@@ -692,7 +692,106 @@
         }
       },
       "pressure_index": 0.957,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DJ Harris",
+            "runs": 19,
+            "balls": 17,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by DPMD Jayawardene, bowled by M Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 84,
+            "balls": 49,
+            "fours": 9,
+            "sixes": 5,
+            "dismissal": "run out by S Nadeem",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 4,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by S Nadeem, bowled by VR Aaron",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CL White",
+            "runs": 65,
+            "balls": 40,
+            "fours": 7,
+            "sixes": 2,
+            "dismissal": "caught by NV Ojha, bowled by VR Aaron",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 13,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AD Russell",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "VR Aaron",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "S Nadeem",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 185,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 0,
+          "total": 187
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1290,7 +1389,96 @@
       },
       "pressure_index": 0.562,
       "match_shape": 0.999,
-      "target": 188
+      "target": 188,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "V Sehwag",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by CL White, bowled by S Dhawan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 109,
+            "balls": 53,
+            "fours": 10,
+            "sixes": 7,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 64,
+            "balls": 45,
+            "fours": 2,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Dhawan",
+            "overs": 2.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "TP Sudhindra",
+            "overs": 3.4,
+            "runs_conceded": 43,
+            "wickets": 0,
+            "economy": 11.73,
+            "maidens": 0
+          },
+          {
+            "name": "MS Gony",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Ashish Reddy",
+            "overs": 2.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 14.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Ankit Sharma",
+            "overs": 1.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 177,
+          "byes": 4,
+          "legbyes": 8,
+          "wides": 2,
+          "noballs": 2,
+          "total": 193
+        }
+      }
     }
   ]
 }

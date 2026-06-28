@@ -687,7 +687,132 @@
         }
       },
       "pressure_index": 0.77,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WP Saha",
+            "runs": 47,
+            "balls": 37,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by DJ Hooda, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Ravi Bishnoi, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 66,
+            "balls": 50,
+            "fours": 2,
+            "sixes": 4,
+            "dismissal": "caught by KL Rahul, bowled by MP Stoinis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Manohar",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Naveen-ul-Haq, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 10,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Naveen-ul-Haq",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 6,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DJ Hooda, bowled by MP Stoinis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Naveen-ul-Haq",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 2,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "Avesh Khan",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "overs": 4.0,
+            "runs_conceded": 49,
+            "wickets": 0,
+            "economy": 12.25,
+            "maidens": 0
+          },
+          {
+            "name": "MP Stoinis",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 2.0,
+            "runs_conceded": 9,
+            "wickets": 1,
+            "economy": 4.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 134,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 0,
+          "noballs": 0,
+          "total": 135
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1370,7 +1495,149 @@
       },
       "pressure_index": 0.318,
       "match_shape": 0.965,
-      "target": 136
+      "target": 136,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KL Rahul",
+            "runs": 68,
+            "balls": 61,
+            "fours": 8,
+            "sixes": 0,
+            "dismissal": "caught by J Yadav, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KR Mayers",
+            "runs": 24,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by Rashid Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 23,
+            "balls": 23,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "stumped by WP Saha, bowled by Noor Ahmad",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 1,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by HH Pandya, bowled by Noor Ahmad",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Badoni",
+            "runs": 8,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by V Shankar, MM Sharma",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DA Miller, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by WP Saha, Rashid Khan",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 1
+          },
+          {
+            "name": "J Yadav",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 5.67,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Tewatia",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 126,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 0,
+          "total": 128
+        }
+      }
     }
   ]
 }

@@ -707,7 +707,131 @@
         }
       },
       "pressure_index": 0.862,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "D Padikkal",
+            "runs": 56,
+            "balls": 42,
+            "fours": 8,
+            "sixes": 0,
+            "dismissal": "bowled by V Shankar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AJ Finch",
+            "runs": 29,
+            "balls": 25,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "lbw, bowled by Abhishek Sharma",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 51,
+            "balls": 30,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 14,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Rashid Khan, bowled by T Natarajan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dube",
+            "runs": 7,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "JR Philippe",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "MR Marsh",
+            "overs": 0.4,
+            "runs_conceded": 6,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "V Shankar",
+            "overs": 1.2,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "Abhishek Sharma",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 158,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 2,
+          "total": 163
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1519,168 @@
       },
       "pressure_index": 0.795,
       "match_shape": 0.848,
-      "target": 164
+      "target": 164,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 6,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "JM Bairstow",
+            "runs": 61,
+            "balls": 43,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "bowled by YS Chahal",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 34,
+            "balls": 33,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by Navdeep Saini, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PK Garg",
+            "runs": 12,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by S Dube",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by YS Chahal",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 7,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Navdeep Saini",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Navdeep Saini",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Sandeep Sharma",
+            "runs": 9,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by V Kohli, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MR Marsh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Kohli, bowled by S Dube",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "T Natarajan",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 3.4,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Navdeep Saini",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "Washington Sundar",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 3,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "S Dube",
+            "overs": 3.0,
+            "runs_conceded": 15,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 138,
+          "byes": 5,
+          "legbyes": 2,
+          "wides": 8,
+          "noballs": 0,
+          "total": 153
+        }
+      }
     }
   ]
 }

@@ -512,7 +512,160 @@
         }
       },
       "pressure_index": 0.428,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PD Salt",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JP Inglis, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RM Patidar",
+            "runs": 23,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by XC Bartlett, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by M Jansen, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LS Livingstone",
+            "runs": 4,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Priyansh Arya, bowled by XC Bartlett",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Sharma",
+            "runs": 2,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by N Wadhera, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by M Jansen",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "TH David",
+            "runs": 50,
+            "balls": 25,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MS Bhandage",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by M Jansen",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 8,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by XC Bartlett, bowled by Harpreet Brar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yash Dayal",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Harpreet Brar",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "JR Hazlewood",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Arshdeep Singh",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "XC Bartlett",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "M Jansen",
+            "overs": 3.0,
+            "runs_conceded": 10,
+            "wickets": 2,
+            "economy": 3.33,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 3.0,
+            "runs_conceded": 11,
+            "wickets": 2,
+            "economy": 3.67,
+            "maidens": 0
+          },
+          {
+            "name": "Harpreet Brar",
+            "overs": 2.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 12.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 94,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 0,
+          "noballs": 1,
+          "total": 95
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -960,12 +1113,129 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.088,
       "match_shape": 0.988,
-      "target": 96
+      "target": 96,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Priyansh Arya",
+            "runs": 16,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by TH David, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Simran Singh",
+            "runs": 13,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by TH David, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 7,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JM Sharma, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Inglis",
+            "runs": 14,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Suyash Sharma, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Wadhera",
+            "runs": 33,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Shashank Singh",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PD Salt, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 7,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Dayal",
+            "overs": 2.1,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 8.31,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hazlewood",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 3,
+            "economy": 4.67,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Suyash Sharma",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 8.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 91,
+          "byes": 4,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 98
+        }
+      }
     }
   ]
 }

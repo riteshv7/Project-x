@@ -727,7 +727,133 @@
         }
       },
       "pressure_index": 0.873,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "VR Iyer",
+            "runs": 7,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by M Jansen",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 28,
+            "balls": 24,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "caught by Shashank Singh, bowled by Umran Malik",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 26,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by Shashank Singh, bowled by Umran Malik",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 15,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by RA Tripathi, bowled by Umran Malik",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SW Billings",
+            "runs": 34,
+            "balls": 29,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by KS Williamson, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RK Singh",
+            "runs": 5,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by T Natarajan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 49,
+            "balls": 28,
+            "fours": 3,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SP Narine",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "M Jansen",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "Washington Sundar",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Umran Malik",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 3,
+            "economy": 8.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 165,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 8,
+          "noballs": 0,
+          "total": 177
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1420,7 +1546,151 @@
       },
       "pressure_index": 0.411,
       "match_shape": 0.443,
-      "target": 178
+      "target": 178,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Abhishek Sharma",
+            "runs": 43,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by SW Billings, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 9,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by AD Russell",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 9,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by TG Southee",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "AK Markram",
+            "runs": 32,
+            "balls": 25,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "bowled by UT Yadav",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by SP Narine",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "Washington Sundar",
+            "runs": 4,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by VR Iyer, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shashank Singh",
+            "runs": 11,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SS Iyer, bowled by TG Southee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Jansen",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SW Billings, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Umran Malik",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "TG Southee",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 3,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 120,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 3,
+          "noballs": 0,
+          "total": 123
+        }
+      }
     }
   ]
 }

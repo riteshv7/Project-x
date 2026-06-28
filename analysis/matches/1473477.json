@@ -692,7 +692,132 @@
         }
       },
       "pressure_index": 0.912,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AK Markram",
+            "runs": 52,
+            "balls": 33,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by T Stubbs, bowled by PVD Chameera",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MR Marsh",
+            "runs": 45,
+            "balls": 36,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "bowled by Mukesh Kumar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 9,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by MA Starc",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 2,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by Mukesh Kumar",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 14,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Badoni",
+            "runs": 36,
+            "balls": 21,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "bowled by Mukesh Kumar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Mukesh Kumar",
+            "dismissal_type": "bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "MA Starc",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "Mukesh Kumar",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 4,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "PVD Chameera",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "V Nigam",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 158,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 1,
+          "noballs": 0,
+          "total": 159
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1320,7 +1445,105 @@
       },
       "pressure_index": 0.371,
       "match_shape": 0.993,
-      "target": 160
+      "target": 160,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Abishek Porel",
+            "runs": 51,
+            "balls": 36,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by DA Miller, bowled by AK Markram",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 15,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by AK Markram",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KL Rahul",
+            "runs": 57,
+            "balls": 42,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AR Patel",
+            "runs": 34,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SN Thakur",
+            "overs": 2.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "DS Rathi",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Prince Yadav",
+            "overs": 2.5,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 8.12,
+            "maidens": 0
+          },
+          {
+            "name": "AK Markram",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Avesh Khan",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "overs": 3.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 157,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 0,
+          "total": 161
+        }
+      }
     }
   ]
 }

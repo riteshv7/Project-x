@@ -732,7 +732,122 @@
         }
       },
       "pressure_index": 0.842,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JH Kallis",
+            "runs": 40,
+            "balls": 42,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by CH Gayle, bowled by DL Vettori",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BJ Haddin",
+            "runs": 18,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by V Kohli, bowled by J Syed Mohammad",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 48,
+            "balls": 37,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by TM Dilshan, bowled by S Aravind",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 46,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by V Kohli, bowled by S Aravind",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 6,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by AB de Villiers, S Aravind",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 53,
+            "wickets": 0,
+            "economy": 13.25,
+            "maidens": 0
+          },
+          {
+            "name": "S Aravind",
+            "overs": 3.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 12.33,
+            "maidens": 0
+          },
+          {
+            "name": "J Syed Mohammad",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "TM Dilshan",
+            "overs": 2.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "V Kohli",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "DL Vettori",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "CH Gayle",
+            "overs": 2.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 4.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 158,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 12,
+          "noballs": 1,
+          "total": 171
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1375,7 +1490,104 @@
       },
       "pressure_index": 0.413,
       "match_shape": 0.998,
-      "target": 172
+      "target": 172,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "TM Dilshan",
+            "runs": 38,
+            "balls": 31,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "bowled by L Balaji",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 102,
+            "balls": 55,
+            "fours": 10,
+            "sixes": 7,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "V Kohli",
+            "runs": 30,
+            "balls": 23,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "YK Pathan",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 2.1,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 13.38,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "MK Tiwary",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 170,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 0,
+          "total": 175
+        }
+      }
     }
   ]
 }

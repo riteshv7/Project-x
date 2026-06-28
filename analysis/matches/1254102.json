@@ -707,7 +707,133 @@
         }
       },
       "pressure_index": 0.98,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "VR Iyer",
+            "runs": 67,
+            "balls": 49,
+            "fours": 9,
+            "sixes": 1,
+            "dismissal": "caught by DJ Hooda, bowled by Ravi Bishnoi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 7,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Arshdeep Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 34,
+            "balls": 26,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by DJ Hooda, bowled by Ravi Bishnoi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 31,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by MA Agarwal, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Mohammed Shami",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 11,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Arshdeep Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "TL Seifert",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by Mohammed Shami",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "FA Allen",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "Arshdeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 3,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "NT Ellis",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 157,
+          "byes": 3,
+          "legbyes": 1,
+          "wides": 4,
+          "noballs": 0,
+          "total": 165
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1390,7 +1516,123 @@
       },
       "pressure_index": 0.605,
       "match_shape": 0.963,
-      "target": 166
+      "target": 166,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KL Rahul",
+            "runs": 67,
+            "balls": 55,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by Shivam Mavi, bowled by VR Iyer",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 40,
+            "balls": 26,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by EJG Morgan, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 12,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Shivam Mavi, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AK Markram",
+            "runs": 18,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Shubman Gill, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RA Tripathi, bowled by Shivam Mavi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Shahrukh Khan",
+            "runs": 22,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TG Southee",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shivam Mavi",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "VR Iyer",
+            "overs": 2.3,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "N Rana",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 162,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 1,
+          "total": 168
+        }
+      }
     }
   ]
 }

@@ -717,7 +717,132 @@
         }
       },
       "pressure_index": 0.719,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Priyansh Arya",
+            "runs": 47,
+            "balls": 23,
+            "fours": 7,
+            "sixes": 2,
+            "dismissal": "caught by B Sai Sudharsan, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Simran Singh",
+            "runs": 5,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Arshad Khan, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 97,
+            "balls": 42,
+            "fours": 5,
+            "sixes": 9,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Azmatullah Omarzai",
+            "runs": 16,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by Arshad Khan, bowled by R Sai Kishore",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by R Sai Kishore",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 20,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by Arshad Khan, bowled by R Sai Kishore",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shashank Singh",
+            "runs": 44,
+            "balls": 16,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Siraj",
+            "overs": 4.0,
+            "runs_conceded": 54,
+            "wickets": 0,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 1,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "Arshad Khan",
+            "overs": 1.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 21.0,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Prasidh Krishna",
+            "overs": 3.0,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 13.67,
+            "maidens": 0
+          },
+          {
+            "name": "R Sai Kishore",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 3,
+            "economy": 7.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 229,
+          "byes": 0,
+          "legbyes": 8,
+          "wides": 6,
+          "noballs": 0,
+          "total": 243
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1435,7 +1560,140 @@
       },
       "pressure_index": 0.434,
       "match_shape": 0.686,
-      "target": 244
+      "target": 244,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "B Sai Sudharsan",
+            "runs": 74,
+            "balls": 41,
+            "fours": 5,
+            "sixes": 6,
+            "dismissal": "caught by Shashank Singh, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 33,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by Priyansh Arya, bowled by GJ Maxwell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 54,
+            "balls": 33,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "bowled by M Jansen",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SE Rutherford",
+            "runs": 46,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "bowled by Arshdeep Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 6,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by Arshdeep Singh",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Arshad Khan",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "M Shahrukh Khan",
+            "runs": 6,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Arshdeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Azmatullah Omarzai",
+            "overs": 2.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 14.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Jansen",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "GJ Maxwell",
+            "overs": 2.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "MP Stoinis",
+            "overs": 2.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 15.5,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 3.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 11.33,
+            "maidens": 0
+          },
+          {
+            "name": "Vijaykumar Vyshak",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 220,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 8,
+          "noballs": 0,
+          "total": 232
+        }
+      }
     }
   ]
 }

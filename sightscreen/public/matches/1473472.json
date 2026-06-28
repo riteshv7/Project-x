@@ -732,7 +732,159 @@
         }
       },
       "pressure_index": 0.766,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Abishek Porel",
+            "runs": 18,
+            "balls": 9,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by Mohammed Siraj, bowled by Arshad Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 31,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by Arshad Khan, bowled by M Prasidh Krishna",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KL Rahul",
+            "runs": 28,
+            "balls": 14,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by M Prasidh Krishna",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 39,
+            "balls": 32,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by JC Buttler, bowled by M Prasidh Krishna",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "T Stubbs",
+            "runs": 31,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by M Prasidh Krishna, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ashutosh Sharma",
+            "runs": 37,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by MK Lomror, bowled by R Sai Kishore",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Nigam",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JC Buttler, bowled by M Prasidh Krishna",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Ferreira",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Sai Kishore, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MA Starc",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "runs": 4,
+            "balls": 1,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Siraj",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 1,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "Arshad Khan",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Prasidh Krishna",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 4,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "R Sai Kishore",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 191,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 9,
+          "noballs": 0,
+          "total": 203
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1567,114 @@
       },
       "pressure_index": 0.918,
       "match_shape": 0.986,
-      "target": 204
+      "target": 204,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "B Sai Sudharsan",
+            "runs": 36,
+            "balls": 21,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by T Stubbs, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by KK Nair",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 97,
+            "balls": 54,
+            "fours": 11,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SE Rutherford",
+            "runs": 43,
+            "balls": 33,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by MA Starc, bowled by Mukesh Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 11,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MA Starc",
+            "overs": 3.2,
+            "runs_conceded": 49,
+            "wickets": 0,
+            "economy": 14.7,
+            "maidens": 0
+          },
+          {
+            "name": "Mukesh Kumar",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "V Nigam",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 2.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 194,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 4,
+          "noballs": 1,
+          "total": 204
+        }
+      }
     }
   ]
 }

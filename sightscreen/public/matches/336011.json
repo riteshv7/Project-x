@@ -697,7 +697,159 @@
         }
       },
       "pressure_index": 0.886,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 61,
+            "balls": 48,
+            "fours": 9,
+            "sixes": 1,
+            "dismissal": "caught by M Rawat, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Gibbs",
+            "runs": 19,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by M Rawat, bowled by MM Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SB Styris",
+            "runs": 13,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by SK Warne, bowled by YK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 5,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by SK Warne",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Shahid Afridi",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MM Patel, bowled by SK Warne",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SB Bangar",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by M Rawat, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DB Ravi Teja",
+            "runs": 6,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by SK Warne",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 23,
+            "balls": 11,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RP Singh",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by M Rawat, Sohail Tanvir",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "PP Ojha",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sohail Tanvir",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "MM Patel",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 3.0,
+            "runs_conceded": 8,
+            "wickets": 1,
+            "economy": 2.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 134,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 1,
+          "noballs": 1,
+          "total": 140
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1280,7 +1432,113 @@
       },
       "pressure_index": 0.23,
       "match_shape": 0.995,
-      "target": 141
+      "target": 141,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "GC Smith",
+            "runs": 40,
+            "balls": 43,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by PP Ojha, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 68,
+            "balls": 37,
+            "fours": 9,
+            "sixes": 2,
+            "dismissal": "caught by HH Gibbs, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Kaif",
+            "runs": 17,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SR Watson",
+            "runs": 5,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DP Vijaykumar",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "SB Styris",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 1,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "Shahid Afridi",
+            "overs": 2.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "SB Bangar",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "overs": 1.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 15.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 130,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 10,
+          "noballs": 0,
+          "total": 141
+        }
+      }
     }
   ]
 }

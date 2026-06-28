@@ -702,7 +702,123 @@
         }
       },
       "pressure_index": 0.893,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 45,
+            "balls": 33,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by RR Pant, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Bairstow",
+            "runs": 53,
+            "balls": 48,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by A Nortje, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by K Rabada, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 41,
+            "balls": 26,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by AR Patel, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 12,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "I Sharma",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "A Nortje",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "MP Stoinis",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 2,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 155,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 3,
+          "noballs": 0,
+          "total": 162
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1516,142 @@
       },
       "pressure_index": 0.564,
       "match_shape": 0.544,
-      "target": 163
+      "target": 163,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PP Shaw",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JM Bairstow, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 17,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Abdul Samad, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 34,
+            "balls": 31,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by JM Bairstow, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 28,
+            "balls": 27,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by PK Garg, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 21,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by MK Pandey, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 11,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by T Natarajan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 5,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by KK Ahmed",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "K Rabada",
+            "runs": 15,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Nortje",
+            "runs": 3,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "KK Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "Abhishek Sharma",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 3,
+            "economy": 3.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 136,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 5,
+          "noballs": 0,
+          "total": 147
+        }
+      }
     }
   ]
 }

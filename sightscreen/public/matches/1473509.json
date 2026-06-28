@@ -707,7 +707,132 @@
         }
       },
       "pressure_index": 0.509,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 81,
+            "balls": 50,
+            "fours": 9,
+            "sixes": 4,
+            "dismissal": "caught by Rashid Khan, bowled by M Prasidh Krishna",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Bairstow",
+            "runs": 47,
+            "balls": 22,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "caught by G Coetzee, bowled by R Sai Kishore",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 33,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by Washington Sundar, bowled by R Sai Kishore",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 25,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "caught by BKG Mendis, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 22,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Naman Dhir",
+            "runs": 9,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Rashid Khan, bowled by M Prasidh Krishna",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MJ Santner",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Siraj",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Prasidh Krishna",
+            "overs": 4.0,
+            "runs_conceded": 53,
+            "wickets": 2,
+            "economy": 13.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Sai Kishore",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 2,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "G Coetzee",
+            "overs": 3.0,
+            "runs_conceded": 51,
+            "wickets": 0,
+            "economy": 17.0,
+            "maidens": 0
+          },
+          {
+            "name": "Washington Sundar",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 217,
+          "byes": 0,
+          "legbyes": 7,
+          "wides": 4,
+          "noballs": 0,
+          "total": 228
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1530,149 @@
       },
       "pressure_index": 0.508,
       "match_shape": 0.639,
-      "target": 229
+      "target": 229,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "B Sai Sudharsan",
+            "runs": 80,
+            "balls": 49,
+            "fours": 10,
+            "sixes": 1,
+            "dismissal": "bowled by RJ Gleeson",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by TA Boult",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "BKG Mendis",
+            "runs": 20,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "hit wicket, bowled by MJ Santner",
+            "dismissal_type": "hit wicket"
+          },
+          {
+            "name": "Washington Sundar",
+            "runs": 48,
+            "balls": 24,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "bowled by JJ Bumrah",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SE Rutherford",
+            "runs": 24,
+            "balls": 15,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by Tilak Varma, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 16,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "M Shahrukh Khan",
+            "runs": 13,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by SA Yadav, bowled by Ashwani Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 56,
+            "wickets": 2,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "RJ Gleeson",
+            "overs": 3.3,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 11.14,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 3.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 12.33,
+            "maidens": 0
+          },
+          {
+            "name": "MJ Santner",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Naman Dhir",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Ashwani Kumar",
+            "overs": 3.3,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 202,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 0,
+          "total": 208
+        }
+      }
     }
   ]
 }

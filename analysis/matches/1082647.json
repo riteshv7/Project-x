@@ -712,7 +712,114 @@
         }
       },
       "pressure_index": 0.807,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 56,
+            "balls": 43,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by KV Sharma",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by MJ McClenaghan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SPD Smith",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by HH Pandya, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Tiwary",
+            "runs": 58,
+            "balls": 47,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "run out by JJ Bumrah",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 40,
+            "balls": 26,
+            "fours": 0,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MJ McClenaghan",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 4.67,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 1.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 15.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 155,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 1,
+          "total": 162
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1425,7 +1532,168 @@
       },
       "pressure_index": 0.65,
       "match_shape": 0.686,
-      "target": 163
+      "target": 163,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "LMP Simmons",
+            "runs": 5,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by SN Thakur",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 52,
+            "balls": 40,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by DT Christian, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Washington Sundar",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SPD Smith, bowled by Washington Sundar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 7,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SPD Smith, bowled by Washington Sundar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 14,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by DT Christian, bowled by LH Ferguson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 15,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by DT Christian, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MJ McClenaghan",
+            "runs": 12,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by JD Unadkat, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KV Sharma",
+            "runs": 4,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JJ Bumrah",
+            "runs": 16,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SL Malinga",
+            "runs": 7,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JD Unadkat",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Washington Sundar",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 3,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "LH Ferguson",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 3,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "A Zampa",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "DT Christian",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 133,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 7,
+          "noballs": 0,
+          "total": 142
+        }
+      }
     }
   ]
 }

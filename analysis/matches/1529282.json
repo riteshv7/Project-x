@@ -602,7 +602,168 @@
         }
       },
       "pressure_index": 0.237,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SU Parakh",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by B Kumar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "N Rana",
+            "runs": 1,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by D Padikkal, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KL Rahul",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JM Sharma, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Sameer Rizvi",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JM Sharma, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "T Stubbs",
+            "runs": 5,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by D Padikkal, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JM Sharma, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abishek Porel",
+            "runs": 30,
+            "balls": 33,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by JR Hazlewood",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 19,
+            "balls": 18,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by JM Sharma, bowled by Rasikh Salam",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Jamieson",
+            "runs": 12,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by KH Pandya",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "runs": 3,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Suyash Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "PVD Chameera",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 3.0,
+            "runs_conceded": 5,
+            "wickets": 3,
+            "economy": 1.67,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hazlewood",
+            "overs": 3.3,
+            "runs_conceded": 12,
+            "wickets": 4,
+            "economy": 3.43,
+            "maidens": 0
+          },
+          {
+            "name": "Rasikh Salam",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Shepherd",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "Suyash Sharma",
+            "overs": 4.0,
+            "runs_conceded": 7,
+            "wickets": 1,
+            "economy": 1.75,
+            "maidens": 1
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 9,
+            "wickets": 1,
+            "economy": 4.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 71,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 4,
+          "noballs": 0,
+          "total": 75
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -870,12 +1031,85 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.029,
       "match_shape": 0.998,
-      "target": 76
+      "target": 76,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JG Bethell",
+            "runs": 20,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by T Natarajan, bowled by KA Jamieson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 23,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 34,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KA Jamieson",
+            "overs": 3.0,
+            "runs_conceded": 42,
+            "wickets": 1,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "PVD Chameera",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 1.0,
+            "runs_conceded": 5,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 0.3,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 24.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 77,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 0,
+          "noballs": 0,
+          "total": 77
+        }
+      }
     }
   ]
 }

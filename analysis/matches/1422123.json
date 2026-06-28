@@ -707,7 +707,149 @@
         }
       },
       "pressure_index": 0.974,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WP Saha",
+            "runs": 19,
+            "balls": 15,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by JJ Bumrah",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 31,
+            "balls": 22,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by RG Sharma, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Sai Sudharsan",
+            "runs": 45,
+            "balls": 39,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by Tilak Varma, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Azmatullah Omarzai",
+            "runs": 17,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Tilak Varma, bowled by G Coetzee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 12,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by HH Pandya, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 6,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 22,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by Naman Dhir, bowled by G Coetzee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 4,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "HH Pandya",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "L Wood",
+            "overs": 2.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 3,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "SZ Mulani",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "Naman Dhir",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "G Coetzee",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 156,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 7,
+          "noballs": 1,
+          "total": 168
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1542,168 @@
       },
       "pressure_index": 0.832,
       "match_shape": 0.854,
-      "target": 169
+      "target": 169,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Ishan Kishan",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by Azmatullah Omarzai",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Naman Dhir",
+            "runs": 20,
+            "balls": 10,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by Azmatullah Omarzai",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 43,
+            "balls": 29,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by R Sai Kishore",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "D Brevis",
+            "runs": 46,
+            "balls": 38,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught and bowled by MM Sharma",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 25,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by A Manohar, bowled by SH Johnson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TH David",
+            "runs": 11,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DA Miller, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Coetzee",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by SH Johnson",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 11,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by R Tewatia, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Rashid Khan, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JJ Bumrah",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SZ Mulani",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Azmatullah Omarzai",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Sai Kishore",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "SH Johnson",
+            "overs": 2.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 159,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 3,
+          "noballs": 0,
+          "total": 162
+        }
+      }
     }
   ]
 }

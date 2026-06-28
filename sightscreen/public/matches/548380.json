@@ -702,7 +702,123 @@
         }
       },
       "pressure_index": 0.643,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "M Vijay",
+            "runs": 113,
+            "balls": 58,
+            "fours": 15,
+            "sixes": 4,
+            "dismissal": "run out by DA Warner, NV Ojha",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MEK Hussey",
+            "runs": 20,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by NV Ojha, bowled by VR Aaron",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 27,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught and bowled by P Negi",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 23,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by P Negi, bowled by VR Aaron",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by NV Ojha, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 33,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sunny Gupta",
+            "overs": 3.0,
+            "runs_conceded": 47,
+            "wickets": 0,
+            "economy": 15.67,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "VR Aaron",
+            "overs": 4.0,
+            "runs_conceded": 63,
+            "wickets": 2,
+            "economy": 15.75,
+            "maidens": 0
+          },
+          {
+            "name": "P Negi",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "V Sehwag",
+            "overs": 1.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 21.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 216,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 5,
+          "noballs": 0,
+          "total": 222
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1310,7 +1426,160 @@
       },
       "pressure_index": 0.164,
       "match_shape": 0.15,
-      "target": 223
+      "target": 223,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 55,
+            "balls": 38,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "bowled by R Ashwin",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by M Vijay, bowled by BW Hilfenhaus",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 1,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MEK Hussey, bowled by JA Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LRPL Taylor",
+            "runs": 24,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by SK Raina, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 16,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by DJ Bravo, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 7,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by M Vijay, bowled by SB Jakati",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 10,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by DJ Bravo, R Ashwin",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "P Negi",
+            "runs": 8,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Sunny Gupta",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by MS Dhoni, bowled by SB Jakati",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "UT Yadav",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by R Ashwin",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "VR Aaron",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by MS Dhoni",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "BW Hilfenhaus",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 5.67,
+            "maidens": 0
+          },
+          {
+            "name": "JA Morkel",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "SB Jakati",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 3.5,
+            "runs_conceded": 23,
+            "wickets": 3,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 125,
+          "byes": 1,
+          "legbyes": 3,
+          "wides": 7,
+          "noballs": 0,
+          "total": 136
+        }
+      }
     }
   ]
 }

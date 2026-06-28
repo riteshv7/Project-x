@@ -722,7 +722,132 @@
         }
       },
       "pressure_index": 0.643,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "S Vidyut",
+            "runs": 16,
+            "balls": 11,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by RR Raje, bowled by SM Pollock",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Fleming",
+            "runs": 26,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by DS Kulkarni",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 1,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by YV Takawale, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 53,
+            "balls": 33,
+            "fours": 7,
+            "sixes": 2,
+            "dismissal": "caught and bowled by DJ Bravo",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "CK Kapugedera",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by YV Takawale, bowled by DS Kulkarni",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 43,
+            "balls": 35,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 5,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by DS Kulkarni",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SM Pollock",
+            "overs": 4.0,
+            "runs_conceded": 9,
+            "wickets": 1,
+            "economy": 2.25,
+            "maidens": 1
+          },
+          {
+            "name": "A Nehra",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 3,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "RR Raje",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Thornely",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 144,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 9,
+          "noballs": 0,
+          "total": 156
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1265,12 +1390,101 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.263,
       "match_shape": 0.999,
-      "target": 157
+      "target": 157,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "ST Jayasuriya",
+            "runs": 114,
+            "balls": 48,
+            "fours": 9,
+            "sixes": 11,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 12,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by Joginder Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 16,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MS Gony",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "JA Morkel",
+            "overs": 3.0,
+            "runs_conceded": 44,
+            "wickets": 0,
+            "economy": 14.67,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 2.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "Joginder Sharma",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "CK Kapugedera",
+            "overs": 0.5,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 31.2,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 142,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 12,
+          "noballs": 0,
+          "total": 158
+        }
+      }
     }
   ]
 }

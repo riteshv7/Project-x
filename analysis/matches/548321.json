@@ -717,7 +717,159 @@
         }
       },
       "pressure_index": 0.932,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KC Sangakkara",
+            "runs": 1,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Y Nagar, bowled by M Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 44,
+            "balls": 29,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by S Nadeem",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 45,
+            "balls": 26,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by DPMD Jayawardene, bowled by S Nadeem",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DT Christian",
+            "runs": 19,
+            "balls": 21,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by S Nadeem, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Sehwag, bowled by S Nadeem",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Chipli",
+            "runs": 25,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AA Jhunjhunwala",
+            "runs": 4,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by NV Ojha, bowled by M Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DW Steyn",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Sehwag, bowled by M Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Mishra",
+            "runs": 6,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by KP Pietersen, NV Ojha",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Ankit Sharma",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "KP Pietersen",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 3,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "AB Agarkar",
+            "overs": 3.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Nadeem",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 3,
+            "economy": 4.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 151,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 1,
+          "total": 157
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1390,7 +1542,132 @@
       },
       "pressure_index": 0.874,
       "match_shape": 0.984,
-      "target": 158
+      "target": 158,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "NV Ojha",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JP Duminy, bowled by V Pratap Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DT Christian, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KP Pietersen",
+            "runs": 103,
+            "balls": 64,
+            "fours": 6,
+            "sixes": 9,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KC Sangakkara, bowled by DT Christian",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LRPL Taylor",
+            "runs": 13,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by S Dhawan",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 5,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PA Patel, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Y Nagar",
+            "runs": 23,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "V Pratap Singh",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "DT Christian",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "JP Duminy",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 2.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "Ankit Sharma",
+            "overs": 2.1,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 8.31,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 158,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 4,
+          "noballs": 0,
+          "total": 162
+        }
+      }
     }
   ]
 }

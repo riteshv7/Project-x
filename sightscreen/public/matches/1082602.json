@@ -707,7 +707,132 @@
         }
       },
       "pressure_index": 0.982,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CH Gayle",
+            "runs": 22,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by PA Patel, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 62,
+            "balls": 47,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by JC Buttler, bowled by MJ McClenaghan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 19,
+            "balls": 21,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by RG Sharma, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 9,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by JJ Bumrah",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "P Negi",
+            "runs": 13,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by MJ McClenaghan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 6,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TG Southee",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "MJ McClenaghan",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 9,
+            "wickets": 1,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 131,
+          "byes": 4,
+          "legbyes": 3,
+          "wides": 3,
+          "noballs": 1,
+          "total": 142
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1380,7 +1505,141 @@
       },
       "pressure_index": 0.807,
       "match_shape": 0.958,
-      "target": 143
+      "target": 143,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 3,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by CH Gayle, bowled by S Badree",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by CH Gayle, bowled by STR Binny",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by S Badree",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MJ McClenaghan",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Mandeep Singh, bowled by S Badree",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 70,
+            "balls": 47,
+            "fours": 3,
+            "sixes": 5,
+            "dismissal": "caught by AB de Villiers, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 11,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by S Aravind, bowled by S Badree",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 37,
+            "balls": 30,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 9,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Badree",
+            "overs": 4.0,
+            "runs_conceded": 9,
+            "wickets": 4,
+            "economy": 2.25,
+            "maidens": 1
+          },
+          {
+            "name": "STR Binny",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Aravind",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "TS Mills",
+            "overs": 3.5,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.39,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "P Negi",
+            "overs": 2.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 132,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 7,
+          "noballs": 0,
+          "total": 145
+        }
+      }
     }
   ]
 }

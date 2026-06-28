@@ -732,7 +732,159 @@
         }
       },
       "pressure_index": 0.744,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "M Klinger",
+            "runs": 24,
+            "balls": 25,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by CH Gayle",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 22,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by KB Arun Karthik, bowled by DL Vettori",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 19,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "run out by M Kaif, AB de Villiers",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AB de Villiers, bowled by DL Vettori",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 5,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Z Khan, bowled by S Aravind",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 23,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by M Kaif, bowled by A Mithun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Gomez",
+            "runs": 7,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by V Kohli, bowled by S Aravind",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Vinay Kumar",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DL Vettori, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Powar",
+            "runs": 8,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "P Parameswaran",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "S Aravind",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "CH Gayle",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "DL Vettori",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mithun",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "TM Dilshan",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 115,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 9,
+          "noballs": 1,
+          "total": 125
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1215,12 +1367,93 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.065,
       "match_shape": 0.998,
-      "target": 126
+      "target": 126,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CH Gayle",
+            "runs": 44,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 5,
+            "dismissal": "bowled by R Vinay Kumar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "TM Dilshan",
+            "runs": 52,
+            "balls": 31,
+            "fours": 8,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "V Kohli",
+            "runs": 27,
+            "balls": 33,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "RP Singh",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "RR Powar",
+            "overs": 2.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "P Parameswaran",
+            "overs": 2.1,
+            "runs_conceded": 44,
+            "wickets": 0,
+            "economy": 20.31,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 123,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 2,
+          "noballs": 1,
+          "total": 128
+        }
+      }
     }
   ]
 }

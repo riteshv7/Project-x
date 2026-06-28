@@ -692,7 +692,151 @@
         }
       },
       "pressure_index": 0.385,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 19,
+            "balls": 23,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by P Kumar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "TL Suman",
+            "runs": 6,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by P Kumar, bowled by Azhar Mahmood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MN Samuels",
+            "runs": 3,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by Mandeep Singh, AC Gilchrist",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "LRPL Taylor",
+            "runs": 15,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Gurkeerat Singh, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Mathews",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by P Awana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 25,
+            "balls": 26,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MR Marsh",
+            "runs": 15,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by RJ Harris",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 8,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Azhar Mahmood",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Sharma",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by PP Chawla",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "RJ Harris",
+            "overs": 4.0,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 3.0,
+            "maidens": 0
+          },
+          {
+            "name": "Azhar Mahmood",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "P Awana",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 96,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 1,
+          "noballs": 0,
+          "total": 99
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1150,12 +1294,102 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.046,
       "match_shape": 0.997,
-      "target": 100
+      "target": 100,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 15,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by MN Samuels, bowled by AD Mathews",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 31,
+            "balls": 26,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by R Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "M Vohra",
+            "runs": 43,
+            "balls": 28,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 8,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "AB Dinda",
+            "overs": 2.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "AD Mathews",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "MR Marsh",
+            "overs": 3.2,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 7.2,
+            "maidens": 0
+          },
+          {
+            "name": "R Sharma",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 6.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 97,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 1,
+          "total": 100
+        }
+      }
     }
   ]
 }

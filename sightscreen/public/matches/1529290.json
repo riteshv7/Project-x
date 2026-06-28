@@ -737,7 +737,132 @@
         }
       },
       "pressure_index": 0.513,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MR Marsh",
+            "runs": 44,
+            "balls": 24,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "caught by Naman Dhir, bowled by C Bosch",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Inglis",
+            "runs": 13,
+            "balls": 5,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by SA Yadav, bowled by AM Ghazanfar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 63,
+            "balls": 21,
+            "fours": 1,
+            "sixes": 8,
+            "dismissal": "caught by RD Rickelton, bowled by C Bosch",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 15,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by RD Rickelton, bowled by WG Jacks",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AK Markram",
+            "runs": 31,
+            "balls": 24,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Akshat Raghuwanshi",
+            "runs": 11,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught and bowled by Raghu Sharma",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "Himmat Singh",
+            "runs": 40,
+            "balls": 29,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 0,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 0,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "AM Ghazanfar",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 1,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "WG Jacks",
+            "overs": 2.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 17.0,
+            "maidens": 0
+          },
+          {
+            "name": "C Bosch",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Raghu Sharma",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 217,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 7,
+          "noballs": 4,
+          "total": 228
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1520,115 @@
       },
       "pressure_index": 0.756,
       "match_shape": 0.992,
-      "target": 229
+      "target": 229,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RD Rickelton",
+            "runs": 83,
+            "balls": 32,
+            "fours": 6,
+            "sixes": 8,
+            "dismissal": "caught by JP Inglis, bowled by Mohsin Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 84,
+            "balls": 44,
+            "fours": 6,
+            "sixes": 7,
+            "dismissal": "caught by Mohammed Shami, bowled by M Siddharth",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 11,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AK Markram, bowled by M Siddharth",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 12,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by N Pooran, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Naman Dhir",
+            "runs": 23,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "WG Jacks",
+            "runs": 10,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 53,
+            "wickets": 1,
+            "economy": 13.25,
+            "maidens": 0
+          },
+          {
+            "name": "Mohsin Khan",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 1,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "Prince Yadav",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Avesh Khan",
+            "overs": 3.4,
+            "runs_conceded": 56,
+            "wickets": 0,
+            "economy": 15.27,
+            "maidens": 0
+          },
+          {
+            "name": "M Siddharth",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 2,
+            "economy": 11.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 223,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 0,
+          "total": 229
+        }
+      }
     }
   ]
 }

@@ -717,7 +717,158 @@
         }
       },
       "pressure_index": 0.592,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "S Sohal",
+            "runs": 9,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by RG Sharma, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SM Katich",
+            "runs": 11,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by PP Ojha, bowled by A Symonds",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LA Pomersbach",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by HH Gibbs, AC Gilchrist",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 20,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by Y Venugopal Rao",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 56,
+            "balls": 42,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by RJ Harris, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WA Mota",
+            "runs": 12,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RJ Harris, bowled by TL Suman",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 17,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by HH Gibbs, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Lee",
+            "runs": 0,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "RJ Harris",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 3,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Symonds",
+            "overs": 2.0,
+            "runs_conceded": 10,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "RG Sharma",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "TL Suman",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "overs": 2.0,
+            "runs_conceded": 8,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 127,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 1,
+          "total": 134
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1566,158 @@
       },
       "pressure_index": 0.734,
       "match_shape": 0.898,
-      "target": 135
+      "target": 135,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 23,
+            "balls": 13,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "stumped by KC Sangakkara, bowled by RR Powar",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "HH Gibbs",
+            "runs": 26,
+            "balls": 37,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by PP Chawla, bowled by Yuvraj Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TL Suman",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by RR Powar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "A Symonds",
+            "runs": 25,
+            "balls": 24,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "stumped by KC Sangakkara, bowled by Yuvraj Singh",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 42,
+            "balls": 25,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "bowled by IK Pathan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Yuvraj Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DB Ravi Teja",
+            "runs": 10,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by KC Sangakkara, B Lee",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "RJ Harris",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RP Singh",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by IK Pathan",
+            "dismissal_type": "caught and bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Lee",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "S Sreesanth",
+            "overs": 2.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "RR Powar",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 4.0,
+            "runs_conceded": 13,
+            "wickets": 3,
+            "economy": 3.25,
+            "maidens": 0
+          },
+          {
+            "name": "WA Mota",
+            "overs": 1.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 18.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 128,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 2,
+          "total": 133
+        }
+      }
     }
   ]
 }

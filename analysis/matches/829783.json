@@ -692,7 +692,141 @@
         }
       },
       "pressure_index": 0.71,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MA Agarwal",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PA Patel, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 28,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught and bowled by J Suchith",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 19,
+            "balls": 18,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by R Vinay Kumar, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 16,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "stumped by PA Patel, bowled by Harbhajan Singh",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 57,
+            "balls": 44,
+            "fours": 7,
+            "sixes": 2,
+            "dismissal": "caught by LMP Simmons, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Mathews",
+            "runs": 12,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by J Suchith, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 13,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "NM Coulter-Nile",
+            "runs": 3,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "MJ McClenaghan",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 11,
+            "wickets": 2,
+            "economy": 2.75,
+            "maidens": 1
+          },
+          {
+            "name": "J Suchith",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 148,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 1,
+          "noballs": 0,
+          "total": 152
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1385,7 +1519,132 @@
       },
       "pressure_index": 0.926,
       "match_shape": 0.983,
-      "target": 153
+      "target": 153,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "LMP Simmons",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Z Khan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 5,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Imran Tahir, bowled by NM Coulter-Nile",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 13,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by A Mishra, bowled by AD Mathews",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 46,
+            "balls": 37,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "bowled by A Mishra",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 5,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by NM Coulter-Nile",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 49,
+            "balls": 40,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 26,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "NM Coulter-Nile",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 1
+          },
+          {
+            "name": "AD Mathews",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 1.0,
+            "runs_conceded": 5,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "Imran Tahir",
+            "overs": 2.3,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 10.8,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 144,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 8,
+          "noballs": 0,
+          "total": 153
+        }
+      }
     }
   ]
 }

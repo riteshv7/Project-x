@@ -717,7 +717,132 @@
         }
       },
       "pressure_index": 0.918,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JD Ryder",
+            "runs": 60,
+            "balls": 26,
+            "fours": 5,
+            "sixes": 5,
+            "dismissal": "caught by AJ Finch, bowled by S Nadeem",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GC Smith",
+            "runs": 12,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by IK Pathan, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Manhas",
+            "runs": 20,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by DA Warner, bowled by JR Hopes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 66,
+            "balls": 32,
+            "fours": 4,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 4,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DA Warner, bowled by S Nadeem",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MD Mishra",
+            "runs": 7,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Sehwag, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WD Parnell",
+            "runs": 10,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Y Venugopal Rao",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "AB Dinda",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 2,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hopes",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "S Nadeem",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 2,
+            "economy": 9.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 179,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 5,
+          "noballs": 1,
+          "total": 187
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1525,149 @@
       },
       "pressure_index": 0.89,
       "match_shape": 0.977,
-      "target": 188
+      "target": 188,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 46,
+            "balls": 28,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "run out by SB Wagh, RV Uthappa",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 37,
+            "balls": 23,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "bowled by JD Ryder",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 14,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SB Wagh, bowled by Yuvraj Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 11,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "stumped by RV Uthappa, bowled by Yuvraj Singh",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 31,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by AA Jhunjhunwala, bowled by Yuvraj Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Wade",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by R Sharma",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AJ Finch",
+            "runs": 25,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught and bowled by Yuvraj Singh",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "JR Hopes",
+            "runs": 13,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AC Thomas",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "SB Wagh",
+            "overs": 3.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 12.67,
+            "maidens": 0
+          },
+          {
+            "name": "WD Parnell",
+            "overs": 2.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Sharma",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "JD Ryder",
+            "overs": 3.2,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 10.2,
+            "maidens": 0
+          },
+          {
+            "name": "AA Jhunjhunwala",
+            "overs": 1.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 4,
+            "economy": 7.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 180,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 9,
+          "noballs": 0,
+          "total": 190
+        }
+      }
     }
   ]
 }

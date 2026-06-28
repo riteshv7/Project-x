@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node scripts/clean-build.mjs && next build && node scripts/verify-export.mjs",
     "export": "node scripts/verify-export.mjs",
     "start": "next start",
     "lint": "eslint"

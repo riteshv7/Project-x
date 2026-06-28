@@ -707,7 +707,159 @@
         }
       },
       "pressure_index": 0.387,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 29,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by Abhishek Sharma, bowled by Shivang Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Suryavanshi",
+            "runs": 97,
+            "balls": 28,
+            "fours": 5,
+            "sixes": 12,
+            "dismissal": "caught by R Smaran, bowled by PP Hinge",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Dhruv Jurel",
+            "runs": 50,
+            "balls": 21,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "caught by Nithish Kumar Reddy, bowled by PP Hinge",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Parag",
+            "runs": 26,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by H Klaasen, bowled by PP Hinge",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Ferreira",
+            "runs": 12,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by Ishan Kishan, Shivang Kumar",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MD Shanaka",
+            "runs": 5,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Abhishek Sharma, bowled by E Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 12,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JC Archer",
+            "runs": 4,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Abhishek Sharma, bowled by Nithish Kumar Reddy",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Burger",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by Ishan Kishan, E Malinga",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SS Mishra",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 64,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          },
+          {
+            "name": "E Malinga",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Sakib Hussain",
+            "overs": 4.0,
+            "runs_conceded": 52,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Hinge",
+            "overs": 4.0,
+            "runs_conceded": 54,
+            "wickets": 3,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "Shivang Kumar",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 237,
+          "byes": 2,
+          "legbyes": 0,
+          "wides": 3,
+          "noballs": 1,
+          "total": 243
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1425,7 +1577,168 @@
       },
       "pressure_index": 0.217,
       "match_shape": 0.358,
-      "target": 244
+      "target": 244,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Abhishek Sharma",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Dhruv Jurel, bowled by JC Archer",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 33,
+            "balls": 11,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by D Ferreira, bowled by JC Archer",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TM Head",
+            "runs": 17,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by JC Archer",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Smaran",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JC Archer, bowled by N Burger",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 18,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by Yash Raj Punja",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "runs": 38,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by MD Shanaka, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Salil Arora",
+            "runs": 35,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by N Burger, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PJ Cummins",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JC Archer, bowled by SS Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shivang Kumar",
+            "runs": 27,
+            "balls": 23,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by V Suryavanshi, bowled by SS Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "E Malinga",
+            "runs": 5,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JC Archer, bowled by N Burger",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Sakib Hussain",
+            "runs": 5,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JC Archer",
+            "overs": 4.0,
+            "runs_conceded": 58,
+            "wickets": 3,
+            "economy": 14.5,
+            "maidens": 0
+          },
+          {
+            "name": "N Burger",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "Brijesh Sharma",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Raj Punja",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "SS Mishra",
+            "overs": 2.2,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 180,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 15,
+          "noballs": 1,
+          "total": 196
+        }
+      }
     }
   ]
 }

@@ -707,7 +707,149 @@
         }
       },
       "pressure_index": 0.545,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JD Ryder",
+            "runs": 1,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Tiwary, bowled by YK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 16,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Iqbal Abdulla",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "CJ Ferguson",
+            "runs": 16,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "stumped by SP Goswami, bowled by Shakib Al Hasan",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "SC Ganguly",
+            "runs": 18,
+            "balls": 22,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by YK Pathan, bowled by Shakib Al Hasan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 12,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by B Lee, bowled by YK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 24,
+            "balls": 26,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SP Goswami, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Rana",
+            "runs": 18,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by L Balaji",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "WD Parnell",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Lee",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "overs": 3.0,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 2,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 106,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 8,
+          "noballs": 1,
+          "total": 118
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1300,7 +1442,114 @@
       },
       "pressure_index": 0.123,
       "match_shape": 0.995,
-      "target": 119
+      "target": 119,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "G Gambhir",
+            "runs": 54,
+            "balls": 46,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SP Goswami",
+            "runs": 6,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by AC Thomas",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Tiwary",
+            "runs": 24,
+            "balls": 24,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by B Kumar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 29,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by SC Ganguly, bowled by WD Parnell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Bhatia",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AC Thomas",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "WD Parnell",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Sharma",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "B Kumar",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Rana",
+            "overs": 0.4,
+            "runs_conceded": 2,
+            "wickets": 0,
+            "economy": 3.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 114,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 1,
+          "total": 119
+        }
+      }
     }
   ]
 }

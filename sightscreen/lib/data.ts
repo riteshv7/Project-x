@@ -5,6 +5,8 @@ import type { MatchJson, MatchSummary } from "@/lib/types";
 import { matchToSummary, sortMatchesByDateDesc } from "@/lib/utils";
 
 const matchesDir = path.join(process.cwd(), "public", "matches");
+let allMatchesPromise: Promise<MatchJson[]> | null = null;
+let allSummariesPromise: Promise<MatchSummary[]> | null = null;
 
 async function readMatchFile(filePath: string): Promise<MatchJson> {
   const source = await fs.readFile(filePath, "utf8");
@@ -28,16 +30,32 @@ export async function getMatch(matchId: string): Promise<MatchJson | null> {
   }
 }
 
-export async function getMatchSummaries(): Promise<MatchSummary[]> {
-  const ids = await getMatchIds();
-  const matches: MatchSummary[] = [];
+export async function getAllMatches(): Promise<MatchJson[]> {
+  if (!allMatchesPromise) {
+    allMatchesPromise = (async () => {
+      const ids = await getMatchIds();
+      const matches: MatchJson[] = [];
 
-  for (const matchId of ids) {
-    const match = await getMatch(matchId);
-    if (match) {
-      matches.push(matchToSummary(match));
-    }
+      for (const matchId of ids) {
+        const match = await getMatch(matchId);
+        if (match) {
+          matches.push(match);
+        }
+      }
+
+      return matches;
+    })();
   }
 
-  return sortMatchesByDateDesc(matches);
+  return allMatchesPromise;
+}
+
+export async function getMatchSummaries(): Promise<MatchSummary[]> {
+  if (!allSummariesPromise) {
+    allSummariesPromise = getAllMatches().then((matches) =>
+      sortMatchesByDateDesc(matches.map((match) => matchToSummary(match))),
+    );
+  }
+
+  return allSummariesPromise;
 }

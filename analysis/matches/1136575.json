@@ -707,7 +707,150 @@
         }
       },
       "pressure_index": 0.886,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 36,
+            "balls": 19,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "stumped by KD Karthik, bowled by N Rana",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "DJM Short",
+            "runs": 44,
+            "balls": 43,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "bowled by N Rana",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 7,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Kuldeep Yadav, bowled by Shivam Mavi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 15,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by AD Russell, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BA Stokes",
+            "runs": 14,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by N Rana, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 24,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "K Gowtham",
+            "runs": 12,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Shivam Mavi, bowled by TK Curran",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Gopal",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by TK Curran",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DS Kulkarni",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shivam Mavi",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "N Rana",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "TK Curran",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 9.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 155,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 1,
+          "total": 160
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1360,7 +1503,114 @@
       },
       "pressure_index": 0.521,
       "match_shape": 0.986,
-      "target": 161
+      "target": 161,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SP Narine",
+            "runs": 35,
+            "balls": 25,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "CA Lynn",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by K Gowtham",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 48,
+            "balls": 36,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "caught by BA Stokes, bowled by K Gowtham",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 35,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 42,
+            "balls": 23,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "K Gowtham",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 3.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 11.33,
+            "maidens": 0
+          },
+          {
+            "name": "B Laughlin",
+            "overs": 3.5,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.65,
+            "maidens": 0
+          },
+          {
+            "name": "S Gopal",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "BA Stokes",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 8.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 160,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 163
+        }
+      }
     }
   ]
 }

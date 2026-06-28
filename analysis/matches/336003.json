@@ -712,7 +712,141 @@
         }
       },
       "pressure_index": 0.96,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SE Marsh",
+            "runs": 40,
+            "balls": 32,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "stumped by WP Saha, bowled by DJ Hussey",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "JR Hopes",
+            "runs": 18,
+            "balls": 12,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by BJ Hodge, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 28,
+            "balls": 20,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "bowled by Umar Gul",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 17,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "stumped by WP Saha, bowled by Mohammad Hafeez",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 10,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by SC Ganguly, bowled by Umar Gul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "K Goel",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by DB Das, DJ Hussey",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 24,
+            "balls": 26,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 21,
+            "balls": 7,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "I Sharma",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "AB Agarkar",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "AB Dinda",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammad Hafeez",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Hussey",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "Umar Gul",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 164,
+          "byes": 4,
+          "legbyes": 5,
+          "wides": 4,
+          "noballs": 1,
+          "total": 178
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1534,141 @@
       },
       "pressure_index": 0.275,
       "match_shape": 0.477,
-      "target": 179
+      "target": 179,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Mohammad Hafeez",
+            "runs": 13,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by IK Pathan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SC Ganguly",
+            "runs": 5,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by IK Pathan, bowled by S Sreesanth",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by IK Pathan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "DB Das",
+            "runs": 5,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Yuvraj Singh, bowled by S Sreesanth",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LR Shukla",
+            "runs": 7,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by VRV Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 71,
+            "balls": 46,
+            "fours": 4,
+            "sixes": 4,
+            "dismissal": "caught by JR Hopes, bowled by Gagandeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 59,
+            "balls": 32,
+            "fours": 2,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AB Agarkar",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Sreesanth",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "VRV Singh",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "Gagandeep Singh",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hopes",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 1.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 162,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 6,
+          "noballs": 0,
+          "total": 169
+        }
+      }
     }
   ]
 }

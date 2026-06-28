@@ -717,7 +717,133 @@
         }
       },
       "pressure_index": 0.682,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by A Kumble",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "TL Suman",
+            "runs": 10,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Gibbs",
+            "runs": 53,
+            "balls": 48,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Symonds",
+            "runs": 33,
+            "balls": 21,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "bowled by A Kumble",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 24,
+            "balls": 23,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by MK Pandey, bowled by A Kumble",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by LRPL Taylor, bowled by A Kumble",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AA Bilakhia",
+            "runs": 6,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by R Vinay Kumar",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RJ Harris",
+            "runs": 9,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Kumble",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 4,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 0,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "RE van der Merwe",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 135,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 6,
+          "noballs": 0,
+          "total": 143
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1526,168 @@
       },
       "pressure_index": 0.855,
       "match_shape": 0.759,
-      "target": 144
+      "target": 144,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JH Kallis",
+            "runs": 15,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by RP Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 4,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RE van der Merwe",
+            "runs": 32,
+            "balls": 21,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "stumped by AC Gilchrist, bowled by PP Ojha",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "R Dravid",
+            "runs": 9,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Harmeet Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "LRPL Taylor",
+            "runs": 27,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by Y Venugopal Rao, bowled by A Symonds",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 7,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "stumped by AC Gilchrist, bowled by A Symonds",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 17,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MV Boucher",
+            "runs": 5,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by HH Gibbs, bowled by Harmeet Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Kumar",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RP Singh, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Vinay Kumar",
+            "runs": 8,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Harmeet Singh, bowled by RJ Harris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Kumble",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "RJ Harris",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 1
+          },
+          {
+            "name": "RP Singh",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Symonds",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 3,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harmeet Singh",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "RG Sharma",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 127,
+          "byes": 0,
+          "legbyes": 9,
+          "wides": 1,
+          "noballs": 0,
+          "total": 137
+        }
+      }
     }
   ]
 }

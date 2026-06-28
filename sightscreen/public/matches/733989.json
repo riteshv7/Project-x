@@ -697,7 +697,168 @@
         }
       },
       "pressure_index": 0.739,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "S Dhawan",
+            "runs": 33,
+            "balls": 20,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "bowled by SR Watson",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AJ Finch",
+            "runs": 9,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by R Bhatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KL Rahul",
+            "runs": 18,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by R Bhatia",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 17,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by R Bhatia",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 6,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by SV Samson, bowled by PV Tambe",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "MC Henriques",
+            "runs": 9,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 21,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KV Sharma",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SV Samson, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DW Steyn",
+            "runs": 9,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by SV Samson",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "A Mishra",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by SV Samson",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KW Richardson",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "DS Kulkarni",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 3,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 3,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "PV Tambe",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 122,
+          "byes": 5,
+          "legbyes": 5,
+          "wides": 2,
+          "noballs": 0,
+          "total": 134
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1556,168 @@
       },
       "pressure_index": 0.941,
       "match_shape": 0.796,
-      "target": 135
+      "target": 135,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DA Warner, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 16,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by KV Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 12,
+            "balls": 9,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by NV Ojha, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 11,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by NV Ojha, bowled by MC Henriques",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 12,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by DA Warner",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SPD Smith",
+            "runs": 22,
+            "balls": 33,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by IK Pathan, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Bhatia",
+            "runs": 4,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DA Warner, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Faulkner",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AJ Finch, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KW Richardson",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by B Kumar",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "DS Kulkarni",
+            "runs": 7,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "PV Tambe",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DW Steyn, bowled by IK Pathan",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 4,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "MC Henriques",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 3.25,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 1.5,
+            "runs_conceded": 8,
+            "wickets": 1,
+            "economy": 4.36,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 92,
+          "byes": 4,
+          "legbyes": 1,
+          "wides": 5,
+          "noballs": 0,
+          "total": 102
+        }
+      }
     }
   ]
 }

@@ -697,7 +697,132 @@
         }
       },
       "pressure_index": 0.941,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Q de Kock",
+            "runs": 50,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "caught by Shivam Mavi, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 41,
+            "balls": 27,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by SS Iyer, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 25,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by AJ Finch, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Badoni",
+            "runs": 15,
+            "balls": 18,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 28,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by SS Iyer, bowled by Shivam Mavi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JO Holder",
+            "runs": 13,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by RK Singh, bowled by TG Southee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PVD Chameera",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by B Indrajith",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TG Southee",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shivam Mavi",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 1,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "AS Roy",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harshit Rana",
+            "overs": 2.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 7.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 172,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 176
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1215,12 +1340,165 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.307,
       "match_shape": 0.412,
-      "target": 177
+      "target": 177,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "B Indrajith",
+            "runs": 0,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Badoni, bowled by Mohsin Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AJ Finch",
+            "runs": 14,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Q de Kock, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 6,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by A Badoni, bowled by PVD Chameera",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 2,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Avesh Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RK Singh",
+            "runs": 6,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KH Pandya, bowled by Ravi Bishnoi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 45,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 5,
+            "dismissal": "caught by JO Holder, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 22,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by KH Pandya, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AS Roy",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Q de Kock, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shivam Mavi",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "TG Southee",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Avesh Khan, bowled by JO Holder",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Harshit Rana",
+            "runs": 2,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by A Badoni, JO Holder",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohsin Khan",
+            "overs": 3.0,
+            "runs_conceded": 6,
+            "wickets": 1,
+            "economy": 2.0,
+            "maidens": 1
+          },
+          {
+            "name": "PVD Chameera",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 4.67,
+            "maidens": 0
+          },
+          {
+            "name": "Avesh Khan",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 3,
+            "economy": 6.33,
+            "maidens": 1
+          },
+          {
+            "name": "JO Holder",
+            "overs": 2.3,
+            "runs_conceded": 31,
+            "wickets": 3,
+            "economy": 12.4,
+            "maidens": 0
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 98,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 101
+        }
+      }
     }
   ]
 }

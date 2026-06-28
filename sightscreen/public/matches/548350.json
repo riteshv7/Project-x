@@ -707,7 +707,140 @@
         }
       },
       "pressure_index": 0.971,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MA Agarwal",
+            "runs": 7,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by RJ Harris",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 45,
+            "balls": 42,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 71,
+            "balls": 42,
+            "fours": 6,
+            "sixes": 4,
+            "dismissal": "caught by DA Miller, bowled by Azhar Mahmood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 17,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by PP Chawla, bowled by Azhar Mahmood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB McDonald",
+            "runs": 9,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by N Saini, bowled by Azhar Mahmood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AUK Pathan",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 2.0,
+            "maidens": 0
+          },
+          {
+            "name": "RJ Harris",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "P Awana",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Azhar Mahmood",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 3,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "AM Nayar",
+            "overs": 1.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Hussey",
+            "overs": 2.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 4.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 152,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 0,
+          "total": 158
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1385,7 +1518,141 @@
       },
       "pressure_index": 0.352,
       "match_shape": 0.989,
-      "target": 159
+      "target": 159,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Mandeep Singh",
+            "runs": 43,
+            "balls": 30,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by KP Appanna",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SE Marsh",
+            "runs": 8,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by AB McDonald",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "N Saini",
+            "runs": 50,
+            "balls": 36,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by DL Vettori, bowled by AB McDonald",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 45,
+            "balls": 29,
+            "fours": 2,
+            "sixes": 4,
+            "dismissal": "run out by R Vinay Kumar, AB de Villiers",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Azhar Mahmood",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by KP Appanna, AB de Villiers",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by V Kohli",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "P Dogra",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 6,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 3.5,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.35,
+            "maidens": 0
+          },
+          {
+            "name": "AB McDonald",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "DL Vettori",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "KP Appanna",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "AUK Pathan",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 159,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 2,
+          "noballs": 0,
+          "total": 163
+        }
+      }
     }
   ]
 }

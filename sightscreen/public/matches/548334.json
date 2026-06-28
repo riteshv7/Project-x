@@ -712,7 +712,141 @@
         }
       },
       "pressure_index": 0.955,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JEC Franklin",
+            "runs": 79,
+            "balls": 51,
+            "fours": 6,
+            "sixes": 4,
+            "dismissal": "caught by DA Miller, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 23,
+            "balls": 23,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "run out by DA Miller, N Saini",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by N Saini, bowled by P Awana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 35,
+            "balls": 20,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "run out by SE Marsh, PP Chawla",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 7,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Mandeep Singh, bowled by P Awana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SD Chitnis, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "NLTC Perera",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 1
+          },
+          {
+            "name": "BA Bhatt",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "P Awana",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "Azhar Mahmood",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Hussey",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 157,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 5,
+          "noballs": 0,
+          "total": 163
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1529,123 @@
       },
       "pressure_index": 0.726,
       "match_shape": 0.981,
-      "target": 164
+      "target": 164,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "N Saini",
+            "runs": 30,
+            "balls": 25,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by PP Ojha",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 24,
+            "balls": 21,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by JEC Franklin, bowled by KA Pollard",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SE Marsh",
+            "runs": 68,
+            "balls": 40,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 21,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by AT Rayudu, bowled by KA Pollard",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Azhar Mahmood",
+            "runs": 10,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by NLTC Perera, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 5,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MM Patel",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "NLTC Perera",
+            "overs": 1.3,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 12.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 158,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 6,
+          "noballs": 0,
+          "total": 164
+        }
+      }
     }
   ]
 }

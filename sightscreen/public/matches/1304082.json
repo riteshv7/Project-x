@@ -612,7 +612,160 @@
         }
       },
       "pressure_index": 0.351,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "F du Plessis",
+            "runs": 5,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by M Jansen",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Anuj Rawat",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AK Markram, bowled by M Jansen",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AK Markram, bowled by M Jansen",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 12,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by KS Williamson, bowled by T Natarajan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Prabhudessai",
+            "runs": 15,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "stumped by N Pooran, bowled by J Suchith",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "runs": 7,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by N Pooran, bowled by Umran Malik",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by N Pooran, bowled by J Suchith",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HV Patel",
+            "runs": 4,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by T Natarajan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "PWH de Silva",
+            "runs": 8,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by T Natarajan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JR Hazlewood",
+            "runs": 3,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Mohammed Siraj",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KS Williamson, bowled by B Kumar",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 2.1,
+            "runs_conceded": 8,
+            "wickets": 1,
+            "economy": 3.69,
+            "maidens": 0
+          },
+          {
+            "name": "M Jansen",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 3,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 3.0,
+            "runs_conceded": 10,
+            "wickets": 3,
+            "economy": 3.33,
+            "maidens": 0
+          },
+          {
+            "name": "J Suchith",
+            "overs": 3.0,
+            "runs_conceded": 12,
+            "wickets": 2,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "Umran Malik",
+            "overs": 4.0,
+            "runs_conceded": 13,
+            "wickets": 1,
+            "economy": 3.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 56,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 11,
+          "noballs": 1,
+          "total": 68
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -930,12 +1083,85 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.024,
       "match_shape": 0.998,
-      "target": 69
+      "target": 69,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Abhishek Sharma",
+            "runs": 47,
+            "balls": 28,
+            "fours": 8,
+            "sixes": 1,
+            "dismissal": "caught by Anuj Rawat, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 16,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 7,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Siraj",
+            "overs": 2.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hazlewood",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "PWH de Silva",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 70,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 0,
+          "total": 72
+        }
+      }
     }
   ]
 }

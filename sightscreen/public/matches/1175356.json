@@ -607,7 +607,168 @@
         }
       },
       "pressure_index": 0.472,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "V Kohli",
+            "runs": 6,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RA Jadeja, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 29,
+            "balls": 35,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by KM Jadhav, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MM Ali",
+            "runs": 9,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught and bowled by Harbhajan Singh",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 9,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RA Jadeja, bowled by Harbhajan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "S Dube",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SR Watson, bowled by Imran Tahir",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "C de Grandhomme",
+            "runs": 4,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Navdeep Saini",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SR Watson, bowled by Imran Tahir",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YS Chahal",
+            "runs": 4,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Harbhajan Singh, bowled by Imran Tahir",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "UT Yadav",
+            "runs": 1,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by RA Jadeja",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Mohammed Siraj",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 3,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 1.0,
+            "runs_conceded": 6,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Imran Tahir",
+            "overs": 4.0,
+            "runs_conceded": 9,
+            "wickets": 3,
+            "economy": 2.25,
+            "maidens": 1
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 2,
+            "economy": 3.75,
+            "maidens": 1
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 0.1,
+            "runs_conceded": 0,
+            "wickets": 1,
+            "economy": 0.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 66,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 0,
+          "noballs": 1,
+          "total": 70
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1235,7 +1396,114 @@
       },
       "pressure_index": 0.069,
       "match_shape": 0.979,
-      "target": 71
+      "target": 71,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SR Watson",
+            "runs": 0,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by YS Chahal",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 28,
+            "balls": 42,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by Mohammed Siraj",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 19,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by S Dube, bowled by MM Ali",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 13,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 6,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 6,
+            "wickets": 1,
+            "economy": 1.5,
+            "maidens": 1
+          },
+          {
+            "name": "Navdeep Saini",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "MM Ali",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 3.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 4.33,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Siraj",
+            "overs": 2.0,
+            "runs_conceded": 5,
+            "wickets": 1,
+            "economy": 2.5,
+            "maidens": 1
+          },
+          {
+            "name": "S Dube",
+            "overs": 0.4,
+            "runs_conceded": 3,
+            "wickets": 0,
+            "economy": 4.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 66,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 1,
+          "total": 71
+        }
+      }
     }
   ]
 }

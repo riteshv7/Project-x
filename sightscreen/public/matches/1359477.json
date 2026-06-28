@@ -712,7 +712,133 @@
         }
       },
       "pressure_index": 0.973,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KL Rahul",
+            "runs": 8,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by AR Patel, bowled by C Sakariya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KR Mayers",
+            "runs": 73,
+            "balls": 38,
+            "fours": 2,
+            "sixes": 7,
+            "dismissal": "bowled by AR Patel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 17,
+            "balls": 18,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DA Warner, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 15,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 12,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by SN Khan, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 36,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by PP Shaw, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Badoni",
+            "runs": 18,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by SN Khan, bowled by C Sakariya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "K Gowtham",
+            "runs": 6,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KK Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mukesh Kumar",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "C Sakariya",
+            "overs": 4.0,
+            "runs_conceded": 53,
+            "wickets": 2,
+            "economy": 13.25,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 185,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 5,
+          "noballs": 0,
+          "total": 193
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1420,7 +1546,168 @@
       },
       "pressure_index": 0.331,
       "match_shape": 0.47,
-      "target": 194
+      "target": 194,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PP Shaw",
+            "runs": 12,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by MA Wood",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 56,
+            "balls": 48,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "caught by K Gowtham, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MR Marsh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by MA Wood",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SN Khan",
+            "runs": 4,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by K Gowtham, bowled by MA Wood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Rossouw",
+            "runs": 30,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by KR Mayers, bowled by Ravi Bishnoi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Powell",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Ravi Bishnoi",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Aman Hakim Khan",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by N Pooran, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 16,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by PN Mankad, bowled by MA Wood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "runs": 6,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "C Sakariya",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KH Pandya, bowled by MA Wood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mukesh Kumar",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KR Mayers",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 3.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "K Gowtham",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "Avesh Khan",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "MA Wood",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 5,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 133,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 9,
+          "noballs": 1,
+          "total": 143
+        }
+      }
     }
   ]
 }

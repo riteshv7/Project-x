@@ -702,7 +702,151 @@
         }
       },
       "pressure_index": 0.475,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 9,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by VR Aaron, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by NV Ojha, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PC Valthaty",
+            "runs": 2,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by IK Pathan, bowled by M Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by IK Pathan, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SD Chitnis",
+            "runs": 38,
+            "balls": 32,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by IK Pathan, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Azhar Mahmood",
+            "runs": 36,
+            "balls": 38,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by UBT Chand, bowled by M Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Gurkeerat Singh",
+            "runs": 26,
+            "balls": 11,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "bowled by M Morkel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by M Morkel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RJ Harris",
+            "runs": 15,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "P Kumar",
+            "runs": 3,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 4,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 3,
+            "economy": 4.75,
+            "maidens": 1
+          },
+          {
+            "name": "VR Aaron",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 4.0,
+            "runs_conceded": 51,
+            "wickets": 1,
+            "economy": 12.75,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 133,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 7,
+          "noballs": 0,
+          "total": 141
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1345,7 +1489,115 @@
       },
       "pressure_index": 0.187,
       "match_shape": 0.991,
-      "target": 142
+      "target": 142,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "UBT Chand",
+            "runs": 18,
+            "balls": 24,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by AC Gilchrist, bowled by Azhar Mahmood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 79,
+            "balls": 44,
+            "fours": 10,
+            "sixes": 4,
+            "dismissal": "caught by Mandeep Singh, bowled by RJ Harris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 21,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 5,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Azhar Mahmood, bowled by RJ Harris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 8,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DJ Hussey, bowled by Azhar Mahmood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 5,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "RJ Harris",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "P Awana",
+            "overs": 3.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 13.33,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Azhar Mahmood",
+            "overs": 3.2,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 6.9,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 136,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 7,
+          "noballs": 0,
+          "total": 145
+        }
+      }
     }
   ]
 }

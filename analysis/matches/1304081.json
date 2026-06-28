@@ -722,7 +722,159 @@
         }
       },
       "pressure_index": 0.952,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WP Saha",
+            "runs": 25,
+            "balls": 25,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by VR Iyer, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SW Billings, bowled by TG Southee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 67,
+            "balls": 49,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by RK Singh, bowled by TG Southee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 27,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by UT Yadav, bowled by Shivam Mavi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 17,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by RK Singh, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by UT Yadav, bowled by TG Southee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Manohar",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RK Singh, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LH Ferguson",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RK Singh, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AS Joseph",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Yash Dayal",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by AD Russell",
+            "dismissal_type": "caught and bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "TG Southee",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 3,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shivam Mavi",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 1.0,
+            "runs_conceded": 5,
+            "wickets": 4,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 146,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 7,
+          "noballs": 0,
+          "total": 156
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1430,7 +1582,151 @@
       },
       "pressure_index": 0.674,
       "match_shape": 0.629,
-      "target": 157
+      "target": 157,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SW Billings",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 12,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by WP Saha, bowled by Yash Dayal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by LH Ferguson, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 2,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by LH Ferguson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RK Singh",
+            "runs": 35,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by WP Saha, bowled by Yash Dayal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VR Iyer",
+            "runs": 17,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by A Manohar, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 48,
+            "balls": 24,
+            "fours": 1,
+            "sixes": 6,
+            "dismissal": "caught by LH Ferguson, bowled by AS Joseph",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shivam Mavi",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Rashid Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "UT Yadav",
+            "runs": 15,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "TG Southee",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Dayal",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 2,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "AS Joseph",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "LH Ferguson",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 141,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 6,
+          "noballs": 1,
+          "total": 148
+        }
+      }
     }
   ]
 }

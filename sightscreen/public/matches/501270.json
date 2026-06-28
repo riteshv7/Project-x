@@ -732,7 +732,123 @@
         }
       },
       "pressure_index": 0.562,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MA Agarwal",
+            "runs": 41,
+            "balls": 31,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by RG Sharma, bowled by KA Pollard",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 89,
+            "balls": 47,
+            "fours": 9,
+            "sixes": 5,
+            "dismissal": "caught by JEC Franklin, bowled by MM Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 8,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by AN Ahmed",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 21,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "LA Pomersbach",
+            "runs": 4,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SL Malinga, bowled by MM Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 8,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AN Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 56,
+            "wickets": 1,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "MM Patel",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "RG Sharma",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 171,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 13,
+          "noballs": 1,
+          "total": 185
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1420,7 +1536,159 @@
       },
       "pressure_index": 0.438,
       "match_shape": 0.473,
-      "target": 186
+      "target": 186,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Blizzard",
+            "runs": 10,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by MA Agarwal, bowled by S Aravind",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 40,
+            "balls": 24,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "stumped by AB de Villiers, bowled by J Syed Mohammad",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 13,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by LA Pomersbach, bowled by S Aravind",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 13,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by LA Pomersbach, bowled by DL Vettori",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JEC Franklin",
+            "runs": 16,
+            "balls": 17,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by Z Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by DL Vettori",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Mithun, bowled by DL Vettori",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Sathish",
+            "runs": 18,
+            "balls": 21,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SL Malinga",
+            "runs": 7,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by LA Pomersbach, bowled by J Syed Mohammad",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AN Ahmed",
+            "runs": 18,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Aravind",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "CH Gayle",
+            "overs": 3.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 3.67,
+            "maidens": 0
+          },
+          {
+            "name": "A Mithun",
+            "overs": 2.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "DL Vettori",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 3,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "J Syed Mohammad",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 138,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 2,
+          "noballs": 0,
+          "total": 142
+        }
+      }
     }
   ]
 }

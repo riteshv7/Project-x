@@ -697,7 +697,150 @@
         }
       },
       "pressure_index": 0.815,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MJ Lumb",
+            "runs": 30,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by T Thushara, bowled by JA Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 80,
+            "balls": 49,
+            "fours": 6,
+            "sixes": 5,
+            "dismissal": "caught by Joginder Sharma, bowled by T Thushara",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "FY Fazal",
+            "runs": 17,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by M Vijay, bowled by SB Jakati",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 8,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SK Raina, bowled by SB Jakati",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AC Voges",
+            "runs": 20,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by M Muralitharan, bowled by JA Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AA Jhunjhunwala",
+            "runs": 11,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by M Vijay, bowled by T Thushara",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Dogra",
+            "runs": 5,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by MS Dhoni, T Thushara",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "S Narwal",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SW Tait",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JA Morkel",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 2,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "T Thushara",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Joginder Sharma",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 2.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "SB Jakati",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 174,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 177
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1390,7 +1533,141 @@
       },
       "pressure_index": 0.814,
       "match_shape": 0.714,
-      "target": 178
+      "target": 178,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "M Vijay",
+            "runs": 42,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "run out by YK Pathan",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "ML Hayden",
+            "runs": 19,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught and bowled by YK Pathan",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 14,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by SK Warne",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 21,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "run out by AC Voges, NV Ojha",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 25,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by YK Pathan, bowled by SW Tait",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 28,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by FY Fazal, bowled by SW Tait",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KB Arun Karthik",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "T Thushara",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "YK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "S Narwal",
+            "overs": 3.0,
+            "runs_conceded": 49,
+            "wickets": 0,
+            "economy": 16.33,
+            "maidens": 0
+          },
+          {
+            "name": "SW Tait",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "AC Voges",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 154,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 3,
+          "noballs": 0,
+          "total": 160
+        }
+      }
     }
   ]
 }

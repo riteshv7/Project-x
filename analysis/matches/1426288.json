@@ -727,7 +727,106 @@
         }
       },
       "pressure_index": 0.912,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "TM Head",
+            "runs": 58,
+            "balls": 44,
+            "fours": 6,
+            "sixes": 3,
+            "dismissal": "bowled by Avesh Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 12,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Dhruv Jurel, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Anmolpreet Singh",
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by YBK Jaiswal, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "runs": 76,
+            "balls": 42,
+            "fours": 3,
+            "sixes": 8,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 42,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Avesh Khan",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 2,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 62,
+            "wickets": 0,
+            "economy": 15.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 193,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 8,
+          "noballs": 0,
+          "total": 201
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1465,7 +1564,149 @@
       },
       "pressure_index": 0.999,
       "match_shape": 0.934,
-      "target": 202
+      "target": 202,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 67,
+            "balls": 39,
+            "fours": 7,
+            "sixes": 2,
+            "dismissal": "bowled by T Natarajan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by M Jansen, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by B Kumar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Parag",
+            "runs": 77,
+            "balls": 48,
+            "fours": 8,
+            "sixes": 4,
+            "dismissal": "caught by M Jansen, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 13,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by M Jansen, bowled by T Natarajan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Powell",
+            "runs": 27,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by B Kumar",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Dhruv Jurel",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Abhishek Sharma, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 3,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Jansen",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 2,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "overs": 1.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 187,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 11,
+          "noballs": 2,
+          "total": 200
+        }
+      }
     }
   ]
 }

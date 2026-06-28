@@ -702,7 +702,141 @@
         }
       },
       "pressure_index": 0.978,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "N Jagadeesan",
+            "runs": 19,
+            "balls": 15,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Mohammed Shami",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Rahmanullah Gurbaz",
+            "runs": 81,
+            "balls": 39,
+            "fours": 5,
+            "sixes": 7,
+            "dismissal": "caught by Rashid Khan, bowled by Noor Ahmad",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SN Thakur",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MM Sharma, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VR Iyer",
+            "runs": 11,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by J Little",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "N Rana",
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by R Tewatia, bowled by J Little",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RK Singh",
+            "runs": 19,
+            "balls": 20,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by J Little, bowled by Noor Ahmad",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 34,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by R Tewatia, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Wiese",
+            "runs": 8,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 3,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 3.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 11.33,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 54,
+            "wickets": 0,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "J Little",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 176,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 3,
+          "noballs": 0,
+          "total": 179
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1330,7 +1464,114 @@
       },
       "pressure_index": 0.814,
       "match_shape": 0.997,
-      "target": 180
+      "target": 180,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WP Saha",
+            "runs": 10,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Harshit Rana, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 49,
+            "balls": 35,
+            "fours": 8,
+            "sixes": 0,
+            "dismissal": "caught by AD Russell, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 26,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by Harshit Rana",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 51,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DA Miller",
+            "runs": 32,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Harshit Rana",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "Suyash Sharma",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "N Rana",
+            "overs": 0.5,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 16.8,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 168,
+          "byes": 0,
+          "legbyes": 9,
+          "wides": 3,
+          "noballs": 0,
+          "total": 180
+        }
+      }
     }
   ]
 }

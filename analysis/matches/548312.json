@@ -702,7 +702,132 @@
         }
       },
       "pressure_index": 0.834,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "R Dravid",
+            "runs": 26,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "run out by Iqbal Abdulla, R Bhatia",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by G Gambhir",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SP Goswami",
+            "runs": 23,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by R Bhatia",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AL Menaria",
+            "runs": 40,
+            "balls": 30,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "bowled by B Lee",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 44,
+            "balls": 29,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by BB McCullum, bowled by B Lee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "OA Shah",
+            "runs": 23,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KK Cooper",
+            "runs": 5,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Lee",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 2.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 161,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 1,
+          "total": 164
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1530,160 @@
       },
       "pressure_index": 0.353,
       "match_shape": 0.525,
-      "target": 165
+      "target": 165,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JH Kallis",
+            "runs": 5,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Dravid, bowled by A Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by AA Chavan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SP Goswami, bowled by A Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DB Das",
+            "runs": 12,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by KK Cooper",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Tiwary",
+            "runs": 59,
+            "balls": 49,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "bowled by J Botha",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 15,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by BJ Hodge, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Bhatia",
+            "runs": 8,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by SK Trivedi",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "LR Shukla",
+            "runs": 8,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by OA Shah, bowled by AA Chavan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Lee",
+            "runs": 25,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "bowled by KK Cooper",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by KK Cooper",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AA Chavan",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Singh",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "KK Cooper",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 3,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 1
+          },
+          {
+            "name": "J Botha",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 135,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 5,
+          "noballs": 0,
+          "total": 142
+        }
+      }
     }
   ]
 }

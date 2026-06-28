@@ -667,7 +667,168 @@
         }
       },
       "pressure_index": 0.455,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Mandeep Singh",
+            "runs": 2,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by STR Binny, bowled by S Sreesanth",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AC Gilchrist",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SK Trivedi, bowled by S Sreesanth",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Vohra",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by JP Faulkner",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 41,
+            "balls": 31,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by R Dravid, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Gurkeerat Singh",
+            "runs": 10,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SV Samson, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Sathish",
+            "runs": 11,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SV Samson, bowled by JP Faulkner",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Azhar Mahmood",
+            "runs": 23,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by KK Cooper",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 7,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by KK Cooper",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RJ Harris",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "P Kumar",
+            "runs": 15,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "run out by SV Samson",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "P Awana",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SV Samson, bowled by JP Faulkner",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Chandila",
+            "overs": 3.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 4.67,
+            "maidens": 0
+          },
+          {
+            "name": "S Sreesanth",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 1
+          },
+          {
+            "name": "KK Cooper",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 3.5,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.83,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "STR Binny",
+            "overs": 1.0,
+            "runs_conceded": 4,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 114,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 7,
+          "noballs": 1,
+          "total": 124
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1340,7 +1501,115 @@
       },
       "pressure_index": 0.24,
       "match_shape": 0.964,
-      "target": 125
+      "target": 125,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SR Watson",
+            "runs": 32,
+            "balls": 19,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "caught by Mandeep Singh, bowled by P Awana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 34,
+            "balls": 42,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Dravid",
+            "runs": 9,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 15,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by PP Chawla",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 27,
+            "balls": 23,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 10,
+            "wickets": 2,
+            "economy": 2.5,
+            "maidens": 1
+          },
+          {
+            "name": "RJ Harris",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "P Awana",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "Azhar Mahmood",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 3.2,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 6.6,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 117,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 3,
+          "noballs": 0,
+          "total": 126
+        }
+      }
     }
   ]
 }

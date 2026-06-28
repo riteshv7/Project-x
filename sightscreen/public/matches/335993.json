@@ -717,7 +717,151 @@
         }
       },
       "pressure_index": 0.65,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SC Ganguly",
+            "runs": 12,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by S Badrinath, bowled by Joginder Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BB McCullum",
+            "runs": 24,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by SK Raina, bowled by JDP Oram",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RT Ponting",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SK Raina, bowled by JDP Oram",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 27,
+            "balls": 16,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "bowled by MS Gony",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Badrinath, bowled by P Amarnath",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mohammad Hafeez",
+            "runs": 16,
+            "balls": 24,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Joginder Sharma, bowled by P Amarnath",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LR Shukla",
+            "runs": 42,
+            "balls": 33,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "run out by MS Dhoni, Joginder Sharma",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "AB Agarkar",
+            "runs": 11,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by M Muralitharan, bowled by MS Gony",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Kartik",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by JDP Oram",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "I Sharma",
+            "runs": 4,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JDP Oram",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 3,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "MS Gony",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 2,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "P Amarnath",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 3.0,
+            "maidens": 0
+          },
+          {
+            "name": "Joginder Sharma",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 139,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 2,
+          "total": 147
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1330,7 +1474,104 @@
       },
       "pressure_index": 0.34,
       "match_shape": 0.997,
-      "target": 148
+      "target": 148,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 21,
+            "balls": 27,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by I Sharma, bowled by AB Agarkar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "ML Hayden",
+            "runs": 70,
+            "balls": 48,
+            "fours": 6,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 43,
+            "balls": 27,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AB Dinda",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "AB Agarkar",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Hussey",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammad Hafeez",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Kartik",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "LR Shukla",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 134,
+          "byes": 1,
+          "legbyes": 4,
+          "wides": 12,
+          "noballs": 1,
+          "total": 152
+        }
+      }
     }
   ]
 }

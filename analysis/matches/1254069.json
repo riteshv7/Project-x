@@ -732,7 +732,159 @@
         }
       },
       "pressure_index": 0.954,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RD Gaikwad",
+            "runs": 10,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by S Dube, bowled by Mustafizur Rahman",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 33,
+            "balls": 17,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by R Parag, bowled by CH Morris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MM Ali",
+            "runs": 26,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by R Parag, bowled by R Tewatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 18,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by CH Morris, bowled by C Sakariya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 27,
+            "balls": 17,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "caught by R Parag, bowled by C Sakariya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 8,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SV Samson, bowled by CH Morris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 18,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by JC Buttler, bowled by C Sakariya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SM Curran",
+            "runs": 13,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 20,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SN Thakur",
+            "runs": 1,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JD Unadkat",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "C Sakariya",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 3,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mustafizur Rahman",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "CH Morris",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Tewatia",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Parag",
+            "overs": 1.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 174,
+          "byes": 1,
+          "legbyes": 4,
+          "wides": 8,
+          "noballs": 1,
+          "total": 188
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1455,7 +1607,159 @@
       },
       "pressure_index": 0.419,
       "match_shape": 0.432,
-      "target": 189
+      "target": 189,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JC Buttler",
+            "runs": 49,
+            "balls": 34,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "bowled by RA Jadeja",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "M Vohra",
+            "runs": 14,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by RA Jadeja, bowled by SM Curran",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DJ Bravo, bowled by SM Curran",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dube",
+            "runs": 17,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by RA Jadeja",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by MM Ali",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "R Parag",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RA Jadeja, bowled by MM Ali",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 20,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by RD Gaikwad, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CH Morris",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RA Jadeja, bowled by MM Ali",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JD Unadkat",
+            "runs": 24,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by RA Jadeja, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mustafizur Rahman",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "SM Curran",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "MM Ali",
+            "overs": 3.0,
+            "runs_conceded": 7,
+            "wickets": 3,
+            "economy": 2.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 130,
+          "byes": 1,
+          "legbyes": 3,
+          "wides": 8,
+          "noballs": 1,
+          "total": 143
+        }
+      }
     }
   ]
 }

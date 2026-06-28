@@ -707,7 +707,141 @@
         }
       },
       "pressure_index": 0.974,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PP Shaw",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Q de Kock, bowled by MJ McClenaghan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 43,
+            "balls": 35,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by SA Yadav, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 16,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by KA Pollard, bowled by MJ McClenaghan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CA Ingram",
+            "runs": 47,
+            "balls": 32,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": "caught by HH Pandya, bowled by BCJ Cutting",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 78,
+            "balls": 27,
+            "fours": 7,
+            "sixes": 7,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KMA Paul",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Q de Kock, bowled by MJ McClenaghan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Rasikh Salam, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 9,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Rasikh Salam",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "MJ McClenaghan",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 3,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 1,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "BCJ Cutting",
+            "overs": 2.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 13.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 207,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 2,
+          "noballs": 2,
+          "total": 213
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1529,159 @@
       },
       "pressure_index": 0.182,
       "match_shape": 0.243,
-      "target": 214
+      "target": 214,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 14,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by R Tewatia, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Q de Kock",
+            "runs": 27,
+            "balls": 16,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by TA Boult, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 21,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by R Tewatia, bowled by KMA Paul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 53,
+            "balls": 35,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "caught by R Tewatia, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by AR Patel",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 32,
+            "balls": 15,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by R Tewatia, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BCJ Cutting",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RR Pant, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MJ McClenaghan",
+            "runs": 10,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "stumped by RR Pant, bowled by R Tewatia",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "Rasikh Salam",
+            "runs": 5,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Tewatia",
+            "overs": 1.2,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "KMA Paul",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 3.0,
+            "runs_conceded": 42,
+            "wickets": 1,
+            "economy": 14.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 167,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 7,
+          "noballs": 0,
+          "total": 176
+        }
+      }
     }
   ]
 }

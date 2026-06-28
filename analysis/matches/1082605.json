@@ -722,7 +722,141 @@
         }
       },
       "pressure_index": 0.974,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SV Samson",
+            "runs": 19,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by EJG Morgan, bowled by KC Cariappa",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SW Billings",
+            "runs": 55,
+            "balls": 39,
+            "fours": 9,
+            "sixes": 0,
+            "dismissal": "caught by DA Miller, bowled by AR Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by VR Aaron",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 22,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by EJG Morgan, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 15,
+            "balls": 9,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by EJG Morgan, bowled by VR Aaron",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CJ Anderson",
+            "runs": 39,
+            "balls": 21,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "CH Morris",
+            "runs": 16,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by MM Sharma, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PJ Cummins",
+            "runs": 12,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 1,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "VR Aaron",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 2,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "KC Cariappa",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "GJ Maxwell",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 178,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 4,
+          "total": 188
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1539,159 @@
       },
       "pressure_index": 0.211,
       "match_shape": 0.307,
-      "target": 189
+      "target": 189,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "M Vohra",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by S Nadeem",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "HM Amla",
+            "runs": 19,
+            "balls": 12,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by SW Billings, bowled by CH Morris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Z Khan, bowled by S Nadeem",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 22,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by KK Nair, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 24,
+            "balls": 28,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by CJ Anderson",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SW Billings, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 44,
+            "balls": 29,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "bowled by CH Morris",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MM Sharma",
+            "runs": 13,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by PJ Cummins",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KC Cariappa",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by CH Morris",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Sandeep Sharma",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "S Nadeem",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "CH Morris",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 3,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 3.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 5.33,
+            "maidens": 0
+          },
+          {
+            "name": "CJ Anderson",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 7.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 135,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 0,
+          "total": 137
+        }
+      }
     }
   ]
 }

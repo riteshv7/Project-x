@@ -692,7 +692,149 @@
         }
       },
       "pressure_index": 0.826,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "TL Suman",
+            "runs": 29,
+            "balls": 19,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by LA Carseldine, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AC Gilchrist",
+            "runs": 10,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by YK Pathan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 9,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by NV Ojha, bowled by RA Jadeja",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "A Symonds",
+            "runs": 30,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by RA Jadeja",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DR Smith",
+            "runs": 47,
+            "balls": 32,
+            "fours": 0,
+            "sixes": 4,
+            "dismissal": "caught by AS Raut, bowled by YK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WPUJC Vaas",
+            "runs": 20,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by LA Carseldine, bowled by YK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 12,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by RA Jadeja, bowled by SK Warne",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DB Ravi Teja",
+            "runs": 7,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "M Morkel",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "MM Patel",
+            "overs": 1.0,
+            "runs_conceded": 3,
+            "wickets": 0,
+            "economy": 3.0,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 3,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "AS Raut",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 164,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 0,
+          "total": 166
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1370,7 +1512,168 @@
       },
       "pressure_index": 0.434,
       "match_shape": 0.506,
-      "target": 167
+      "target": 167,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "GC Smith",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by WPUJC Vaas",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SA Asnodkar",
+            "runs": 44,
+            "balls": 39,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "run out by AC Gilchrist, Y Venugopal Rao",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "LA Carseldine",
+            "runs": 8,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "stumped by AC Gilchrist, bowled by WPUJC Vaas",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 16,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "run out by DB Ravi Teja",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 6,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DR Smith, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 19,
+            "balls": 20,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AS Raut",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by RG Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "M Morkel",
+            "runs": 8,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DB Ravi Teja, bowled by RG Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Warne",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by RG Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SK Trivedi",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by RP Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MM Patel",
+            "runs": 5,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by TL Suman, AC Gilchrist",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "RP Singh",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "WPUJC Vaas",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Symonds",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 3.3,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 7.14,
+            "maidens": 0
+          },
+          {
+            "name": "DR Smith",
+            "overs": 1.0,
+            "runs_conceded": 4,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "RG Sharma",
+            "overs": 3.0,
+            "runs_conceded": 12,
+            "wickets": 3,
+            "economy": 4.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 109,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 0,
+          "total": 113
+        }
+      }
     }
   ]
 }

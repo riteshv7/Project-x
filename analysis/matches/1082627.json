@@ -712,7 +712,105 @@
         }
       },
       "pressure_index": 0.453,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 126,
+            "balls": 59,
+            "fours": 10,
+            "sixes": 8,
+            "dismissal": "caught by G Gambhir, bowled by CR Woakes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 29,
+            "balls": 30,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "run out by Kuldeep Yadav",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 40,
+            "balls": 25,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "run out by NM Coulter-Nile, RV Uthappa",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 6,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "NM Coulter-Nile",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "CR Woakes",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 1,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 1.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 17.0,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 3.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 12.33,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 0,
+            "economy": 10.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 201,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 6,
+          "noballs": 0,
+          "total": 209
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1498,141 @@
       },
       "pressure_index": 0.197,
       "match_shape": 0.223,
-      "target": 210
+      "target": 210,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SP Narine",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DA Warner, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 11,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Rashid Khan, bowled by S Kaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 53,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 4,
+            "dismissal": "caught by DA Warner, bowled by Mohammed Siraj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 39,
+            "balls": 29,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught and bowled by B Kumar",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 12,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Kaul, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Jackson",
+            "runs": 16,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Rashid Khan, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "C de Grandhomme",
+            "runs": 18,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Rashid Khan, bowled by S Kaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CR Woakes",
+            "runs": 6,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Siraj",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "MC Henriques",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "Bipul Sharma",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 156,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 4,
+          "noballs": 0,
+          "total": 161
+        }
+      }
     }
   ]
 }

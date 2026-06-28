@@ -697,7 +697,159 @@
         }
       },
       "pressure_index": 0.7,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Salman Butt",
+            "runs": 24,
+            "balls": 20,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by MM Patel",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Mohammad Hafeez",
+            "runs": 4,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SA Asnodkar, bowled by MM Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SC Ganguly",
+            "runs": 32,
+            "balls": 34,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by M Kaif, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 11,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by YK Pathan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DB Das",
+            "runs": 31,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "bowled by Sohail Tanvir",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "LR Shukla",
+            "runs": 15,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by SA Asnodkar, bowled by Sohail Tanvir",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 11,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AB Agarkar",
+            "runs": 5,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by RA Jadeja, M Rawat",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Umar Gul",
+            "runs": 7,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by M Kaif, bowled by Sohail Tanvir",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "I Sharma",
+            "runs": 2,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sohail Tanvir",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 3,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "MM Patel",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 1
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 142,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 0,
+          "total": 147
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1285,7 +1437,123 @@
       },
       "pressure_index": 0.541,
       "match_shape": 0.992,
-      "target": 148
+      "target": 148,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "GC Smith",
+            "runs": 24,
+            "balls": 24,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by Umar Gul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Asnodkar",
+            "runs": 5,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Sohail Tanvir",
+            "runs": 13,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Salman Butt, bowled by Umar Gul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 19,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by SC Ganguly",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "M Kaif",
+            "runs": 34,
+            "balls": 31,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 48,
+            "balls": 18,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AB Dinda",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "AB Agarkar",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Umar Gul",
+            "overs": 3.3,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 8.57,
+            "maidens": 1
+          },
+          {
+            "name": "SC Ganguly",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "LR Shukla",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 143,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 3,
+          "noballs": 0,
+          "total": 150
+        }
+      }
     }
   ]
 }

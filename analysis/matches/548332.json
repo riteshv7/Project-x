@@ -702,7 +702,114 @@
         }
       },
       "pressure_index": 0.939,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "R Dravid",
+            "runs": 26,
+            "balls": 28,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by DE Bollinger, bowled by SB Jakati",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 15,
+            "balls": 10,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by KMDN Kulasekara, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "OA Shah",
+            "runs": 52,
+            "balls": 43,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "caught by MS Dhoni, bowled by KMDN Kulasekara",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AL Menaria",
+            "runs": 36,
+            "balls": 34,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by SB Jakati, bowled by DE Bollinger",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KMDN Kulasekara",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "DE Bollinger",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "SB Jakati",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 132,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 11,
+          "noballs": 0,
+          "total": 146
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1385,7 +1492,114 @@
       },
       "pressure_index": 0.414,
       "match_shape": 0.915,
-      "target": 147
+      "target": 147,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "S Badrinath",
+            "runs": 15,
+            "balls": 22,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "stumped by SP Goswami, bowled by GB Hogg",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 73,
+            "balls": 52,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "caught by SP Goswami, bowled by KK Cooper",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 26,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by KK Cooper",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 15,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Bravo",
+            "runs": 16,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AL Menaria",
+            "overs": 2.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "STR Binny",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Singh",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 0,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "KK Cooper",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "GB Hogg",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 145,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 0,
+          "total": 147
+        }
+      }
     }
   ]
 }

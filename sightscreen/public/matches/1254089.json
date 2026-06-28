@@ -712,7 +712,123 @@
         }
       },
       "pressure_index": 0.992,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RD Gaikwad",
+            "runs": 101,
+            "balls": 60,
+            "fours": 9,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 25,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "stumped by SV Samson, bowled by R Tewatia",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by S Dube, bowled by R Tewatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MM Ali",
+            "runs": 21,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "stumped by SV Samson, bowled by R Tewatia",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by GD Phillips, bowled by C Sakariya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 32,
+            "balls": 15,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Akash Singh",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "C Sakariya",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "Mustafizur Rahman",
+            "overs": 4.0,
+            "runs_conceded": 51,
+            "wickets": 0,
+            "economy": 12.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Tewatia",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 3,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "M Markande",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "GD Phillips",
+            "overs": 1.0,
+            "runs_conceded": 3,
+            "wickets": 0,
+            "economy": 3.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 184,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 0,
+          "total": 189
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1345,7 +1461,114 @@
       },
       "pressure_index": 0.377,
       "match_shape": 0.998,
-      "target": 190
+      "target": 190,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "E Lewis",
+            "runs": 27,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by JR Hazlewood, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YBK Jaiswal",
+            "runs": 50,
+            "balls": 21,
+            "fours": 6,
+            "sixes": 3,
+            "dismissal": "caught by MS Dhoni, bowled by KM Asif",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 28,
+            "balls": 23,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by RD Gaikwad, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dube",
+            "runs": 64,
+            "balls": 42,
+            "fours": 4,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "GD Phillips",
+            "runs": 14,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SM Curran",
+            "overs": 4.0,
+            "runs_conceded": 55,
+            "wickets": 0,
+            "economy": 13.75,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hazlewood",
+            "overs": 4.0,
+            "runs_conceded": 54,
+            "wickets": 0,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "KM Asif",
+            "overs": 2.1,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 8.31,
+            "maidens": 0
+          },
+          {
+            "name": "MM Ali",
+            "overs": 2.2,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 9.86,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 183,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 4,
+          "noballs": 2,
+          "total": 190
+        }
+      }
     }
   ]
 }

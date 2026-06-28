@@ -727,7 +727,149 @@
         }
       },
       "pressure_index": 0.935,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Shubman Gill",
+            "runs": 47,
+            "balls": 34,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught and bowled by JC Archer",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 15,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by JD Unadkat",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "N Rana",
+            "runs": 22,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by R Parag, bowled by R Tewatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 24,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "caught by JD Unadkat, bowled by AS Rajpoot",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JC Buttler, bowled by JC Archer",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 34,
+            "balls": 23,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "PJ Cummins",
+            "runs": 12,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SV Samson, bowled by TK Curran",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KL Nagarkoti",
+            "runs": 8,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JC Archer",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "AS Rajpoot",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "TK Curran",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "S Gopal",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 0,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Parag",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Tewatia",
+            "overs": 1.0,
+            "runs_conceded": 6,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 163,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 8,
+          "noballs": 0,
+          "total": 174
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1410,7 +1552,168 @@
       },
       "pressure_index": 0.341,
       "match_shape": 0.51,
-      "target": 175
+      "target": 175,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JC Buttler",
+            "runs": 21,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by CV Varun, bowled by Shivam Mavi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SPD Smith",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 8,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SP Narine, bowled by Shivam Mavi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 2,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Shivam Mavi, bowled by KL Nagarkoti",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Parag",
+            "runs": 1,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Shubman Gill, bowled by KL Nagarkoti",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 14,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by CV Varun",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "TK Curran",
+            "runs": 54,
+            "balls": 36,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "S Gopal",
+            "runs": 5,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Archer",
+            "runs": 6,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by KL Nagarkoti, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JD Unadkat",
+            "runs": 9,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KL Nagarkoti, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AS Rajpoot",
+            "runs": 7,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 3.0,
+            "runs_conceded": 13,
+            "wickets": 1,
+            "economy": 4.33,
+            "maidens": 0
+          },
+          {
+            "name": "Shivam Mavi",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "KL Nagarkoti",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 6.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 130,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 1,
+          "noballs": 0,
+          "total": 137
+        }
+      }
     }
   ]
 }

@@ -712,7 +712,142 @@
         }
       },
       "pressure_index": 0.616,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Atharva Taide",
+            "runs": 15,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by KR Sen, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Bairstow",
+            "runs": 15,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SO Hetmyer, bowled by KA Maharaj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Simran Singh",
+            "runs": 10,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Dhruv Jurel, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SM Curran",
+            "runs": 6,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Dhruv Jurel, bowled by KA Maharaj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Sharma",
+            "runs": 29,
+            "balls": 24,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by R Parag, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shashank Singh",
+            "runs": 9,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Dhruv Jurel, bowled by KR Sen",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LS Livingstone",
+            "runs": 21,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "run out by Tanush Kotian, SV Samson",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Ashutosh Sharma",
+            "runs": 31,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by KA Maharaj, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Harpreet Brar",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "KR Sen",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "Avesh Khan",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "KA Maharaj",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 139,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 5,
+          "noballs": 1,
+          "total": 147
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1535,141 @@
       },
       "pressure_index": 0.637,
       "match_shape": 0.84,
-      "target": 148
+      "target": 148,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 39,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by HV Patel, bowled by K Rabada",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tanush Kotian",
+            "runs": 24,
+            "balls": 31,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by LS Livingstone",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 18,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by K Rabada",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "R Parag",
+            "runs": 23,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by K Rabada, bowled by Arshdeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Dhruv Jurel",
+            "runs": 6,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Shashank Singh, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 27,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Powell",
+            "runs": 11,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by JM Sharma, bowled by SM Curran",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Maharaj",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by LS Livingstone, bowled by SM Curran",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Arshdeep Singh",
+            "overs": 3.5,
+            "runs_conceded": 45,
+            "wickets": 1,
+            "economy": 11.74,
+            "maidens": 0
+          },
+          {
+            "name": "K Rabada",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "SM Curran",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 2,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "LS Livingstone",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "Harpreet Brar",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 7.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 149,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 3,
+          "noballs": 0,
+          "total": 152
+        }
+      }
     }
   ]
 }

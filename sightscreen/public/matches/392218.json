@@ -722,7 +722,105 @@
         }
       },
       "pressure_index": 0.948,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "ST Jayasuriya",
+            "runs": 29,
+            "balls": 27,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by RE van der Merwe",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SR Tendulkar",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MV Boucher, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 62,
+            "balls": 49,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 59,
+            "balls": 41,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JH Kallis",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Mithun",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Kumble",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "RE van der Merwe",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 5.67,
+            "maidens": 0
+          },
+          {
+            "name": "KP Appanna",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 150,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 7,
+          "noballs": 0,
+          "total": 157
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1440,7 +1538,142 @@
       },
       "pressure_index": 0.66,
       "match_shape": 0.671,
-      "target": 158
+      "target": 158,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JH Kallis",
+            "runs": 12,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by DS Kulkarni, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 20,
+            "balls": 22,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by JP Duminy, bowled by C Nanda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 4,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SR Tendulkar, bowled by DS Kulkarni",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LRPL Taylor",
+            "runs": 16,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by SL Malinga",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Dravid",
+            "runs": 10,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by SL Malinga, Harbhajan Singh",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MV Boucher",
+            "runs": 48,
+            "balls": 33,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RE van der Merwe",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by YV Takawale, bowled by Harbhajan Singh",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "R Vinay Kumar",
+            "runs": 7,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by YV Takawale, bowled by Harbhajan Singh",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "A Kumble",
+            "runs": 7,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DS Kulkarni",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "C Nanda",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 2,
+            "economy": 3.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 127,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 8,
+          "noballs": 0,
+          "total": 141
+        }
+      }
     }
   ]
 }

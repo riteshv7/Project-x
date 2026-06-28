@@ -697,7 +697,150 @@
         }
       },
       "pressure_index": 0.931,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MA Agarwal",
+            "runs": 16,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by DG Nalkande, bowled by Azmatullah Omarzai",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TM Head",
+            "runs": 19,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by Noor Ahmad",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 29,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by Shubman Gill, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AK Markram",
+            "runs": 17,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Rashid Khan, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 24,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "bowled by Rashid Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "runs": 22,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by R Tewatia, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 29,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "run out by WP Saha, Noor Ahmad",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Washington Sundar",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Rashid Khan, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PJ Cummins",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Azmatullah Omarzai",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 3,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "DG Nalkande",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 158,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 2,
+          "noballs": 0,
+          "total": 162
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1370,7 +1513,114 @@
       },
       "pressure_index": 0.532,
       "match_shape": 0.994,
-      "target": 163
+      "target": 163,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WP Saha",
+            "runs": 25,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by PJ Cummins, bowled by Shahbaz Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 36,
+            "balls": 28,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by Abdul Samad, bowled by M Markande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Sai Sudharsan",
+            "runs": 45,
+            "balls": 36,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by Abhishek Sharma, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 44,
+            "balls": 27,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "V Shankar",
+            "runs": 14,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 3.1,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 10.42,
+            "maidens": 0
+          },
+          {
+            "name": "Washington Sundar",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Markande",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 164,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 4,
+          "noballs": 0,
+          "total": 168
+        }
+      }
     }
   ]
 }

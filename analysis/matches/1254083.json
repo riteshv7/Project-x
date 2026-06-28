@@ -707,7 +707,132 @@
         }
       },
       "pressure_index": 0.993,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KL Rahul",
+            "runs": 91,
+            "balls": 57,
+            "fours": 7,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "P Simran Singh",
+            "runs": 7,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by V Kohli, bowled by KA Jamieson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 46,
+            "balls": 24,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "caught by AB de Villiers, bowled by DR Sams",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Shahbaz Ahmed, bowled by KA Jamieson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 5,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RM Patidar, bowled by Shahbaz Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Shahrukh Khan",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by YS Chahal",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Harpreet Brar",
+            "runs": 25,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DR Sams",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Siraj",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "KA Jamieson",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 4.0,
+            "runs_conceded": 53,
+            "wickets": 0,
+            "economy": 13.25,
+            "maidens": 0
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 174,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 4,
+          "noballs": 0,
+          "total": 179
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1520,159 @@
       },
       "pressure_index": 0.372,
       "match_shape": 0.452,
-      "target": 180
+      "target": 180,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "V Kohli",
+            "runs": 35,
+            "balls": 34,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "bowled by Harpreet Brar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 7,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by RP Meredith",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RM Patidar",
+            "runs": 31,
+            "balls": 30,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by N Pooran, bowled by CJ Jordan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Harpreet Brar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 3,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KL Rahul, bowled by Harpreet Brar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "runs": 8,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Harpreet Brar, bowled by Ravi Bishnoi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DR Sams",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Ravi Bishnoi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "HV Patel",
+            "runs": 31,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by Ravi Bishnoi, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Jamieson",
+            "runs": 16,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Mohammed Siraj",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "RP Meredith",
+            "overs": 3.2,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 8.7,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Shami",
+            "overs": 3.4,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.64,
+            "maidens": 0
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "Harpreet Brar",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 3,
+            "economy": 4.75,
+            "maidens": 1
+          },
+          {
+            "name": "CJ Jordan",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Hooda",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 134,
+          "byes": 0,
+          "legbyes": 8,
+          "wides": 3,
+          "noballs": 0,
+          "total": 145
+        }
+      }
     }
   ]
 }

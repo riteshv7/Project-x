@@ -707,7 +707,122 @@
         }
       },
       "pressure_index": 0.855,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MS Bisla",
+            "runs": 28,
+            "balls": 24,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by GH Vihari, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 53,
+            "balls": 45,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "bowled by A Ashish Reddy",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 41,
+            "balls": 27,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "run out by A Mishra, PA Patel",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 47,
+            "balls": 21,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "run out by DW Steyn",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "GH Vihari",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "NLTC Perera",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Ashish Reddy",
+            "overs": 2.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 172,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 4,
+          "noballs": 0,
+          "total": 180
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1515,142 @@
       },
       "pressure_index": 0.484,
       "match_shape": 0.465,
-      "target": 181
+      "target": 181,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 27,
+            "balls": 31,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by JH Kallis",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "CL White",
+            "runs": 34,
+            "balls": 31,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by YK Pathan, bowled by JH Kallis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Tiwary, bowled by R Bhatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DB Ravi Teja",
+            "runs": 10,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Tiwary, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NLTC Perera",
+            "runs": 36,
+            "balls": 25,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by JH Kallis",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "A Ashish Reddy",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SMSM Senanayake",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KV Sharma",
+            "runs": 5,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "GH Vihari",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Tiwary, bowled by R Bhatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Mishra",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "SMSM Senanayake",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 13,
+            "wickets": 3,
+            "economy": 3.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 8.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 120,
+          "byes": 1,
+          "legbyes": 6,
+          "wides": 5,
+          "noballs": 0,
+          "total": 132
+        }
+      }
     }
   ]
 }

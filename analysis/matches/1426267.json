@@ -712,7 +712,131 @@
         }
       },
       "pressure_index": 0.864,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 5,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by HH Pandya, bowled by G Coetzee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Ravindra",
+            "runs": 21,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by Ishan Kishan, bowled by S Gopal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RD Gaikwad",
+            "runs": 69,
+            "balls": 40,
+            "fours": 5,
+            "sixes": 5,
+            "dismissal": "caught by Mohammad Nabi, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dube",
+            "runs": 66,
+            "balls": 38,
+            "fours": 10,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Mitchell",
+            "runs": 17,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Mohammad Nabi, bowled by HH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 20,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammad Nabi",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "G Coetzee",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "Akash Madhwal",
+            "overs": 3.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 12.33,
+            "maidens": 0
+          },
+          {
+            "name": "S Gopal",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 3.0,
+            "runs_conceded": 43,
+            "wickets": 2,
+            "economy": 14.33,
+            "maidens": 0
+          },
+          {
+            "name": "R Shepherd",
+            "overs": 2.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 16.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 198,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 5,
+          "noballs": 0,
+          "total": 206
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1410,7 +1534,133 @@
       },
       "pressure_index": 0.54,
       "match_shape": 0.565,
-      "target": 207
+      "target": 207,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 105,
+            "balls": 63,
+            "fours": 11,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 23,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by SN Thakur, bowled by M Pathirana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Mustafizur Rahman, bowled by M Pathirana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 31,
+            "balls": 20,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by SN Thakur, bowled by M Pathirana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RA Jadeja, bowled by TU Deshpande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TH David",
+            "runs": 13,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by R Ravindra, bowled by Mustafizur Rahman",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Shepherd",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by M Pathirana",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Mohammad Nabi",
+            "runs": 4,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TU Deshpande",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Mustafizur Rahman",
+            "overs": 4.0,
+            "runs_conceded": 55,
+            "wickets": 1,
+            "economy": 13.75,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Pathirana",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 4,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 179,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 5,
+          "noballs": 0,
+          "total": 186
+        }
+      }
     }
   ]
 }

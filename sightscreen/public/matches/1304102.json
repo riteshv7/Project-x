@@ -717,7 +717,159 @@
         }
       },
       "pressure_index": 0.917,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "VR Iyer",
+            "runs": 43,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 4,
+            "dismissal": "caught by DR Sams, bowled by K Kartikeya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 25,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by K Kartikeya",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "N Rana",
+            "runs": 43,
+            "balls": 26,
+            "fours": 3,
+            "sixes": 4,
+            "dismissal": "caught by Ishan Kishan, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 6,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Ishan Kishan, bowled by M Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 9,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by KA Pollard, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RK Singh",
+            "runs": 23,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SP Jackson",
+            "runs": 5,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DR Sams, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PJ Cummins",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Tilak Varma, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by JJ Bumrah",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "TG Southee",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KA Pollard, bowled by DR Sams",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DR Sams",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 10,
+            "wickets": 5,
+            "economy": 2.5,
+            "maidens": 1
+          },
+          {
+            "name": "RP Meredith",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "K Kartikeya",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 2.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 154,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 10,
+          "noballs": 0,
+          "total": 165
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1330,7 +1482,159 @@
       },
       "pressure_index": 0.706,
       "match_shape": 0.515,
-      "target": 166
+      "target": 166,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SP Jackson, bowled by TG Southee",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 51,
+            "balls": 43,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "caught by RK Singh, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by N Rana, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ramandeep Singh",
+            "runs": 12,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by N Rana, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TH David",
+            "runs": 13,
+            "balls": 9,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 15,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by SS Iyer, CV Varun",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "DR Sams",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SP Jackson, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Ashwin",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by CV Varun, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "K Kartikeya",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by AM Rahane, SP Jackson",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "RP Meredith",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TG Southee",
+            "overs": 3.0,
+            "runs_conceded": 10,
+            "wickets": 1,
+            "economy": 3.33,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 3,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 2.3,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 8.8,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "VR Iyer",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 103,
+          "byes": 1,
+          "legbyes": 7,
+          "wides": 2,
+          "noballs": 0,
+          "total": 113
+        }
+      }
     }
   ]
 }

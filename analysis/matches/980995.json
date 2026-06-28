@@ -712,7 +712,132 @@
         }
       },
       "pressure_index": 0.93,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by Iqbal Abdulla",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 51,
+            "balls": 34,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "run out by SR Watson, Iqbal Abdulla",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 50,
+            "balls": 35,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by AB de Villiers, bowled by S Aravind",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 6,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by KL Rahul, bowled by YS Chahal",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Iqbal Abdulla, bowled by S Aravind",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 39,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "runs": 18,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "STR Binny",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Aravind",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 2,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "CJ Jordan",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 7.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 171,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 6,
+          "noballs": 0,
+          "total": 183
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1360,7 +1485,96 @@
       },
       "pressure_index": 0.656,
       "match_shape": 0.997,
-      "target": 184
+      "target": 184,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CH Gayle",
+            "runs": 49,
+            "balls": 31,
+            "fours": 5,
+            "sixes": 4,
+            "dismissal": "lbw, bowled by SP Narine",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 75,
+            "balls": 51,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 59,
+            "balls": 30,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AD Russell",
+            "overs": 2.3,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 12.8,
+            "maidens": 0
+          },
+          {
+            "name": "M Morkel",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 3.1,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.11,
+            "maidens": 0
+          },
+          {
+            "name": "AS Rajpoot",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 183,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 1,
+          "total": 186
+        }
+      }
     }
   ]
 }

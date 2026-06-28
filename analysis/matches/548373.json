@@ -707,7 +707,150 @@
         }
       },
       "pressure_index": 0.648,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "R Dravid",
+            "runs": 39,
+            "balls": 36,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by CA Lynn, bowled by MS Gony",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by S Dhawan, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 13,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by A Mishra",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 7,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by A Mishra",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "OA Shah",
+            "runs": 28,
+            "balls": 31,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by PA Patel",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "AL Menaria",
+            "runs": 20,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by S Dhawan, bowled by V Pratap Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "J Botha",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by DW Steyn",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "SP Goswami",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by V Pratap Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "A Chandila",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JP Duminy",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 2,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "MS Gony",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "V Pratap Singh",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Ashish Reddy",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 119,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 1,
+          "total": 126
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1380,7 +1523,132 @@
       },
       "pressure_index": 0.173,
       "match_shape": 0.968,
-      "target": 127
+      "target": 127,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Reddy",
+            "runs": 42,
+            "balls": 35,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by OA Shah, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 26,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by A Chandila, bowled by J Botha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 24,
+            "balls": 31,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by OA Shah, bowled by STR Binny",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CL White",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by A Chandila",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "CA Lynn",
+            "runs": 6,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SR Watson, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 10,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Ashish Reddy",
+            "runs": 10,
+            "balls": 4,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Chandila",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "SW Tait",
+            "overs": 3.4,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 9.55,
+            "maidens": 0
+          },
+          {
+            "name": "J Botha",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "STR Binny",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 119,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 8,
+          "noballs": 0,
+          "total": 128
+        }
+      }
     }
   ]
 }

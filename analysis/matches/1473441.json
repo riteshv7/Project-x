@@ -712,7 +712,158 @@
         }
       },
       "pressure_index": 0.628,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AK Markram",
+            "runs": 15,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by MA Starc, bowled by V Nigam",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MR Marsh",
+            "runs": 72,
+            "balls": 36,
+            "fours": 6,
+            "sixes": 6,
+            "dismissal": "caught by T Stubbs, bowled by Mukesh Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 75,
+            "balls": 30,
+            "fours": 6,
+            "sixes": 7,
+            "dismissal": "bowled by MA Starc",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 0,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by F du Plessis, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 27,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Badoni",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by T Stubbs, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SN Thakur",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by Abishek Porel, AR Patel",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "runs": 9,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by T Vijay, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by MA Starc",
+            "dismissal_type": "bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MA Starc",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 3,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "V Nigam",
+            "overs": 2.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 17.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mukesh Kumar",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "T Stubbs",
+            "overs": 1.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 28.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 202,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 1,
+          "total": 209
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1546,168 @@
       },
       "pressure_index": 0.407,
       "match_shape": 0.892,
-      "target": 210
+      "target": 210,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "J Fraser-McGurk",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Badoni, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "F du Plessis",
+            "runs": 29,
+            "balls": 18,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by DA Miller, bowled by Ravi Bishnoi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abishek Porel",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by N Pooran, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Sameer Rizvi",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RR Pant, bowled by M Siddharth",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 22,
+            "balls": 11,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by N Pooran, bowled by DS Rathi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "T Stubbs",
+            "runs": 34,
+            "balls": 22,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "bowled by M Siddharth",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Ashutosh Sharma",
+            "runs": 66,
+            "balls": 31,
+            "fours": 5,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "V Nigam",
+            "runs": 39,
+            "balls": 15,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by M Siddharth, bowled by DS Rathi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MA Starc",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RR Pant, bowled by Ravi Bishnoi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by RR Pant, Prince Yadav",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MM Sharma",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SN Thakur",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Siddharth",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 2,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "DS Rathi",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "overs": 4.0,
+            "runs_conceded": 53,
+            "wickets": 2,
+            "economy": 13.25,
+            "maidens": 0
+          },
+          {
+            "name": "Prince Yadav",
+            "overs": 4.0,
+            "runs_conceded": 47,
+            "wickets": 0,
+            "economy": 11.75,
+            "maidens": 0
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "overs": 1.3,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 14.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 203,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 8,
+          "noballs": 0,
+          "total": 211
+        }
+      }
     }
   ]
 }

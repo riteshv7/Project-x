@@ -702,7 +702,105 @@
         }
       },
       "pressure_index": 0.606,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SV Samson",
+            "runs": 115,
+            "balls": 56,
+            "fours": 15,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RD Gaikwad",
+            "runs": 15,
+            "balls": 18,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by P Nissanka, bowled by AR Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Mhatre",
+            "runs": 59,
+            "balls": 36,
+            "fours": 3,
+            "sixes": 4,
+            "dismissal": "retired out",
+            "dismissal_type": "retired out"
+          },
+          {
+            "name": "S Dube",
+            "runs": 20,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Auqib Nabi",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mukesh Kumar",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 4.0,
+            "runs_conceded": 54,
+            "wickets": 0,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "L Ngidi",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 209,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 3,
+          "noballs": 0,
+          "total": 212
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1425,7 +1523,168 @@
       },
       "pressure_index": 0.461,
       "match_shape": 0.506,
-      "target": 213
+      "target": 213,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "P Nissanka",
+            "runs": 41,
+            "balls": 22,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by D Brevis, bowled by A Kamboj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KL Rahul",
+            "runs": 18,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by J Overton, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SN Khan, bowled by Gurjapneet Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Sameer Rizvi",
+            "runs": 6,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by D Brevis, bowled by J Overton",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 17,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by J Overton",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "T Stubbs",
+            "runs": 60,
+            "balls": 38,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "caught by Noor Ahmad, bowled by J Overton",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ashutosh Sharma",
+            "runs": 19,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by A Kamboj, bowled by Noor Ahmad",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Auqib Nabi",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AJ Hosein, bowled by J Overton",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "runs": 4,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by D Brevis, bowled by A Kamboj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "L Ngidi",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Gurjapneet Singh, bowled by A Kamboj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "T Natarajan",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AJ Hosein",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "KK Ahmed",
+            "overs": 3.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 13.33,
+            "maidens": 0
+          },
+          {
+            "name": "A Kamboj",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 3,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "Gurjapneet Singh",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "J Overton",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 4,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 3.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 174,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 11,
+          "noballs": 3,
+          "total": 189
+        }
+      }
     }
   ]
 }

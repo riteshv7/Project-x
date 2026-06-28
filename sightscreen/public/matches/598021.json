@@ -697,7 +697,159 @@
         }
       },
       "pressure_index": 0.653,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Mandeep Singh",
+            "runs": 10,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Q de Kock, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AC Gilchrist",
+            "runs": 26,
+            "balls": 25,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by I Sharma, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PC Valthaty",
+            "runs": 6,
+            "balls": 17,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by NLTC Perera, bowled by KV Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 22,
+            "balls": 24,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by PA Reddy, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 23,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "run out by PA Reddy, NLTC Perera",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Gurkeerat Singh",
+            "runs": 17,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by DW Steyn",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Azhar Mahmood",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by A Ashish Reddy, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Vohra",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by I Sharma, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Kumar",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AD Mascarenhas",
+            "runs": 5,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "GH Vihari",
+            "overs": 1.0,
+            "runs_conceded": 2,
+            "wickets": 0,
+            "economy": 2.0,
+            "maidens": 0
+          },
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "NLTC Perera",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 3.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 6.33,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 116,
+          "byes": 4,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 123
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1345,7 +1497,124 @@
       },
       "pressure_index": 0.445,
       "match_shape": 0.962,
-      "target": 124
+      "target": 124,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Q de Kock",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by P Kumar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "GH Vihari",
+            "runs": 46,
+            "balls": 39,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by DJ Hussey, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PA Reddy",
+            "runs": 19,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Azhar Mahmood, bowled by MS Gony",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CL White",
+            "runs": 16,
+            "balls": 23,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by MS Gony",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "BB Samantray",
+            "runs": 10,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Azhar Mahmood",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "NLTC Perera",
+            "runs": 23,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Ashish Reddy",
+            "runs": 7,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 3.0,
+            "runs_conceded": 12,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 1
+          },
+          {
+            "name": "AD Mascarenhas",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "Azhar Mahmood",
+            "overs": 3.5,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.39,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "MS Gony",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 121,
+          "byes": 4,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 0,
+          "total": 127
+        }
+      }
     }
   ]
 }

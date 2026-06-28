@@ -707,7 +707,124 @@
         }
       },
       "pressure_index": 0.904,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "R Dravid",
+            "runs": 46,
+            "balls": 39,
+            "fours": 8,
+            "sixes": 0,
+            "dismissal": "caught by P Awana, bowled by RJ Harris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 5,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by N Saini, bowled by RJ Harris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 36,
+            "balls": 17,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by RJ Harris, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AL Menaria",
+            "runs": 34,
+            "balls": 27,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by Gurkeerat Singh, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 36,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by SE Marsh, bowled by RJ Harris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "J Botha",
+            "runs": 14,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "STR Binny",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SE Marsh, bowled by RJ Harris",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "RJ Harris",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 4,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "P Awana",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Azhar Mahmood",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 2,
+            "economy": 9.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 171,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 1,
+          "total": 177
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1420,7 +1537,159 @@
       },
       "pressure_index": 0.35,
       "match_shape": 0.437,
-      "target": 178
+      "target": 178,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SE Marsh",
+            "runs": 34,
+            "balls": 27,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "bowled by J Botha",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 7,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by SK Trivedi, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Saini",
+            "runs": 2,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by SW Tait",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 8,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by BJ Hodge, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Azhar Mahmood",
+            "runs": 24,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by STR Binny",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Gurkeerat Singh",
+            "runs": 23,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught and bowled by J Botha",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 9,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 5,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by SR Watson",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RJ Harris",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by J Botha, bowled by SW Tait",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Kumar",
+            "runs": 7,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AA Chavan",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 1
+          },
+          {
+            "name": "SW Tait",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "J Botha",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "STR Binny",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 122,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 6,
+          "noballs": 1,
+          "total": 134
+        }
+      }
     }
   ]
 }

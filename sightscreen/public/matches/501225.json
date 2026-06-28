@@ -702,7 +702,160 @@
         }
       },
       "pressure_index": 0.581,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 13,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by J Botha",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "VVS Laxman",
+            "runs": 8,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by R Dravid",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 32,
+            "balls": 34,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "stumped by DH Yagnik, bowled by SK Warne",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 8,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SK Warne",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 22,
+            "balls": 23,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught and bowled by SK Warne",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "NLTC Perera",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by STR Binny, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Gomez",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SR Watson, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KM Jadhav",
+            "runs": 5,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DH Yagnik, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Vinay Kumar",
+            "runs": 5,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SR Watson, bowled by A Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Muralitharan",
+            "runs": 5,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RP Singh",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by J Botha, DH Yagnik",
+            "dismissal_type": "run out"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Singh",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "J Botha",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 3,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 3,
+            "economy": 4.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 100,
+          "byes": 2,
+          "legbyes": 4,
+          "wides": 2,
+          "noballs": 1,
+          "total": 109
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1205,12 +1358,110 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.102,
       "match_shape": 0.996,
-      "target": 110
+      "target": 110,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SR Watson",
+            "runs": 49,
+            "balls": 40,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "bowled by RA Jadeja",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Dravid",
+            "runs": 44,
+            "balls": 37,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "run out by KM Jadhav, PA Patel",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "J Botha",
+            "runs": 14,
+            "balls": 7,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "LRPL Taylor",
+            "runs": 2,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "RP Singh",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 3.1,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 8.84,
+            "maidens": 0
+          },
+          {
+            "name": "NLTC Perera",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "RV Gomez",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 109,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 0,
+          "total": 111
+        }
+      }
     }
   ]
 }

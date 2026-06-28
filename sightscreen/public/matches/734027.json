@@ -712,7 +712,123 @@
         }
       },
       "pressure_index": 0.953,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 83,
+            "balls": 50,
+            "fours": 10,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by YV Takawale, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 13,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by MA Starc, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 22,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "run out by V Kohli, YV Takawale",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "runs": 60,
+            "balls": 38,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": "bowled by AN Ahmed",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RN ten Doeschate",
+            "runs": 6,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MA Starc",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "AB Dinda",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "AN Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "Yuvraj Singh",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 188,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 4,
+          "noballs": 1,
+          "total": 195
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1516,124 @@
       },
       "pressure_index": 0.269,
       "match_shape": 0.276,
-      "target": 196
+      "target": 196,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CH Gayle",
+            "runs": 6,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by UT Yadav",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "YV Takawale",
+            "runs": 45,
+            "balls": 36,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "bowled by SP Narine",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 38,
+            "balls": 31,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by M Morkel, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 22,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by R Vinay Kumar, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 13,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by SP Narine",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Rana",
+            "runs": 19,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MA Starc",
+            "runs": 12,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 1,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 4,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 155,
+          "byes": 0,
+          "legbyes": 8,
+          "wides": 1,
+          "noballs": 1,
+          "total": 165
+        }
+      }
     }
   ]
 }

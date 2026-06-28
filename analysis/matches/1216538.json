@@ -702,7 +702,132 @@
         }
       },
       "pressure_index": 0.859,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RG Sharma",
+            "runs": 6,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by JM Bairstow, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 27,
+            "balls": 18,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by T Natarajan, bowled by S Kaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Q de Kock",
+            "runs": 67,
+            "balls": 39,
+            "fours": 4,
+            "sixes": 4,
+            "dismissal": "caught and bowled by Rashid Khan",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 31,
+            "balls": 22,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by MK Pandey, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 28,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "bowled by S Kaul",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 25,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 20,
+            "balls": 4,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 2,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 4.0,
+            "runs_conceded": 64,
+            "wickets": 2,
+            "economy": 16.0,
+            "maidens": 0
+          },
+          {
+            "name": "Abdul Samad",
+            "overs": 2.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "KS Williamson",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 204,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 1,
+          "total": 208
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1425,7 +1550,150 @@
       },
       "pressure_index": 0.492,
       "match_shape": 0.506,
-      "target": 209
+      "target": 209,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DA Warner",
+            "runs": 60,
+            "balls": 44,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by Ishan Kishan, bowled by JL Pattinson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Bairstow",
+            "runs": 25,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by HH Pandya, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 30,
+            "balls": 19,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by KA Pollard, bowled by JL Pattinson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Q de Kock, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PK Garg",
+            "runs": 8,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RD Chahar, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 10,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by JJ Bumrah",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 20,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by RG Sharma, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Sandeep Sharma",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "JL Pattinson",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 2,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "KA Pollard",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "RD Chahar",
+            "overs": 1.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 159,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 10,
+          "noballs": 0,
+          "total": 174
+        }
+      }
     }
   ]
 }

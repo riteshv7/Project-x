@@ -697,7 +697,140 @@
         }
       },
       "pressure_index": 0.686,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "G Gambhir",
+            "runs": 86,
+            "balls": 53,
+            "fours": 11,
+            "sixes": 1,
+            "dismissal": "caught by P Kumar, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 24,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "run out by LRPL Taylor",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 50,
+            "balls": 33,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "caught by R Dravid, bowled by JH Kallis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shoaib Malik",
+            "runs": 6,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by DW Steyn",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by JH Kallis",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Tiwary",
+            "runs": 11,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Bhatia",
+            "runs": 8,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 2.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 2,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "V Kohli",
+            "overs": 1.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "SB Joshi",
+            "overs": 1.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 19.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 187,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 1,
+          "noballs": 1,
+          "total": 191
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1380,7 +1513,140 @@
       },
       "pressure_index": 0.636,
       "match_shape": 0.647,
-      "target": 192
+      "target": 192,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "P Kumar",
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by S Dhawan, bowled by GD McGrath",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LRPL Taylor",
+            "runs": 29,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by S Dhawan, bowled by GD McGrath",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "W Jaffer",
+            "runs": 10,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by VY Mahesh, bowled by GD McGrath",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 54,
+            "balls": 44,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "bowled by DL Vettori",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Dravid",
+            "runs": 38,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by V Sehwag, bowled by GD McGrath",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MV Boucher",
+            "runs": 31,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "V Kohli",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "GD McGrath",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 4,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammad Asif",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "VY Mahesh",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "DL Vettori",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shoaib Malik",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "V Sehwag",
+            "overs": 2.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 15.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 169,
+          "byes": 1,
+          "legbyes": 10,
+          "wides": 0,
+          "noballs": 1,
+          "total": 181
+        }
+      }
     }
   ]
 }

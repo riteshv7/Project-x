@@ -702,7 +702,168 @@
         }
       },
       "pressure_index": 0.446,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "NV Ojha",
+            "runs": 22,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "caught by SS Shaikh, bowled by CK Langeveldt",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RJ Quiney",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SS Shaikh, bowled by CK Langeveldt",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Asnodkar",
+            "runs": 4,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by AB Dinda",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "NK Patel",
+            "runs": 14,
+            "balls": 22,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SC Ganguly, bowled by CK Langeveldt",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "J Botha",
+            "runs": 8,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by AB Agarkar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 9,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by LR Shukla",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 14,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by SS Sarkar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "T Henderson",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by DJ Hussey",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SK Warne",
+            "runs": 18,
+            "balls": 29,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by AB Agarkar",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MM Patel",
+            "runs": 5,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Singh",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "BJ Hodge",
+            "overs": 1.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 22.0,
+            "maidens": 0
+          },
+          {
+            "name": "CK Langeveldt",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 3,
+            "economy": 3.75,
+            "maidens": 0
+          },
+          {
+            "name": "AB Dinda",
+            "overs": 4.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 3.0,
+            "maidens": 0
+          },
+          {
+            "name": "AB Agarkar",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 2,
+            "economy": 3.75,
+            "maidens": 0
+          },
+          {
+            "name": "SS Sarkar",
+            "overs": 3.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "LR Shukla",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 96,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 0,
+          "total": 101
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1375,7 +1536,141 @@
       },
       "pressure_index": 0.559,
       "match_shape": 0.944,
-      "target": 102
+      "target": 102,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "BB McCullum",
+            "runs": 9,
+            "balls": 4,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by A Singh",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SC Ganguly",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RA Jadeja, bowled by MM Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yashpal Singh",
+            "runs": 6,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RJ Quiney, bowled by MM Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 6,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "stumped by NV Ojha, bowled by J Botha",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 9,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by NK Patel, bowled by J Botha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LR Shukla",
+            "runs": 48,
+            "balls": 46,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SS Shaikh",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by J Botha, YK Pathan",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "AB Agarkar",
+            "runs": 13,
+            "balls": 17,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MM Patel",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Singh",
+            "overs": 3.3,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 5.43,
+            "maidens": 0
+          },
+          {
+            "name": "J Botha",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 2,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "T Henderson",
+            "overs": 2.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 97,
+          "byes": 2,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 1,
+          "total": 102
+        }
+      }
     }
   ]
 }

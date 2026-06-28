@@ -702,7 +702,106 @@
         }
       },
       "pressure_index": 0.894,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 21,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by JH Kallis, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "ML Hayden",
+            "runs": 13,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by Z Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MEK Hussey",
+            "runs": 47,
+            "balls": 37,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by R Dravid, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 28,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "run out by W Jaffer, MV Boucher",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 65,
+            "balls": 30,
+            "fours": 9,
+            "sixes": 3,
+            "dismissal": "caught by R Vinay Kumar, bowled by Z Khan",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 3,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "B Akhil",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 174,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 0,
+          "total": 178
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1499,160 @@
       },
       "pressure_index": 0.936,
       "match_shape": 0.858,
-      "target": 179
+      "target": 179,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "B Chipli",
+            "runs": 8,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by MS Gony",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "W Jaffer",
+            "runs": 50,
+            "balls": 33,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by JDP Oram, bowled by P Amarnath",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "LRPL Taylor",
+            "runs": 53,
+            "balls": 34,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by SK Raina, bowled by P Amarnath",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 14,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by Joginder Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MV Boucher",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MEK Hussey, bowled by MS Gony",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 12,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by JA Morkel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Dravid",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by MS Gony",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "P Kumar",
+            "runs": 6,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by Joginder Sharma, JDP Oram, MS Dhoni",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Z Khan",
+            "runs": 8,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by SK Raina, MS Dhoni",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "B Akhil",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DW Steyn",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MEK Hussey, bowled by Joginder Sharma",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JDP Oram",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "MS Gony",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 3,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "JA Morkel",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "P Amarnath",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 2,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "Joginder Sharma",
+            "overs": 3.4,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 7.36,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 158,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 6,
+          "noballs": 0,
+          "total": 165
+        }
+      }
     }
   ]
 }

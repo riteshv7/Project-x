@@ -702,7 +702,133 @@
         }
       },
       "pressure_index": 0.635,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "M Vijay",
+            "runs": 15,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by RJ Harris",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "ML Hayden",
+            "runs": 8,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by A Symonds, bowled by RJ Harris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 37,
+            "balls": 41,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "run out by AC Gilchrist",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by A Symonds",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 30,
+            "balls": 32,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by Harmeet Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 4,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Symonds, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Anirudha",
+            "runs": 24,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by HH Gibbs, bowled by RJ Harris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "A Symonds",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "RJ Harris",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 3,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "Harmeet Singh",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 126,
+          "byes": 8,
+          "legbyes": 5,
+          "wides": 3,
+          "noballs": 0,
+          "total": 142
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1370,7 +1496,168 @@
       },
       "pressure_index": 0.636,
       "match_shape": 0.719,
-      "target": 143
+      "target": 143,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 15,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by S Anirudha, bowled by DE Bollinger",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Gibbs",
+            "runs": 18,
+            "balls": 26,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by SB Jakati",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "TL Suman",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SK Raina, bowled by DE Bollinger",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by M Muralitharan, bowled by JA Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Symonds",
+            "runs": 23,
+            "balls": 22,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by M Vijay, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MD Mishra",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by MS Dhoni, bowled by SB Jakati",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "B Sumanth",
+            "runs": 16,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by DE Bollinger",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RJ Harris",
+            "runs": 15,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by M Vijay, bowled by DE Bollinger",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Harmeet Singh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by M Muralitharan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "PP Ojha",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DE Bollinger, bowled by SK Raina",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RP Singh",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "DE Bollinger",
+            "overs": 4.0,
+            "runs_conceded": 13,
+            "wickets": 4,
+            "economy": 3.25,
+            "maidens": 1
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "JA Morkel",
+            "overs": 3.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "SB Jakati",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 2,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Raina",
+            "overs": 0.2,
+            "runs_conceded": 0,
+            "wickets": 1,
+            "economy": 0.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 96,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 6,
+          "noballs": 0,
+          "total": 104
+        }
+      }
     }
   ]
 }

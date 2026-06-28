@@ -522,7 +522,168 @@
         }
       },
       "pressure_index": 0.528,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Priyansh Arya",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KH Pandya, bowled by Yash Dayal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Simran Singh",
+            "runs": 18,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by JM Sharma, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Inglis",
+            "runs": 4,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by B Kumar, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JM Sharma, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Wadhera",
+            "runs": 8,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by Yash Dayal",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 26,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "bowled by Suyash Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Shashank Singh",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Suyash Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Musheer Khan",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Suyash Sharma",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Azmatullah Omarzai",
+            "runs": 18,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by JM Sharma, bowled by JR Hazlewood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Harpreet Brar",
+            "runs": 4,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by R Shepherd",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KA Jamieson",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Dayal",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hazlewood",
+            "overs": 3.1,
+            "runs_conceded": 21,
+            "wickets": 3,
+            "economy": 6.63,
+            "maidens": 0
+          },
+          {
+            "name": "Suyash Sharma",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 3,
+            "economy": 5.67,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Shepherd",
+            "overs": 1.0,
+            "runs_conceded": 5,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 90,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 5,
+          "noballs": 1,
+          "total": 101
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -895,12 +1056,102 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.062,
       "match_shape": 0.997,
-      "target": 102
+      "target": 102,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PD Salt",
+            "runs": 56,
+            "balls": 27,
+            "fours": 6,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "V Kohli",
+            "runs": 12,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by JP Inglis, bowled by KA Jamieson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 19,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by SS Iyer, bowled by Musheer Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RM Patidar",
+            "runs": 15,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Arshdeep Singh",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "KA Jamieson",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 1
+          },
+          {
+            "name": "Azmatullah Omarzai",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harpreet Brar",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Musheer Khan",
+            "overs": 2.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 13.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 102,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 0,
+          "noballs": 0,
+          "total": 106
+        }
+      }
     }
   ]
 }

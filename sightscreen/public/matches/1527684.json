@@ -707,7 +707,114 @@
         }
       },
       "pressure_index": 0.665,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PD Salt",
+            "runs": 46,
+            "balls": 30,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by Noor Ahmad, bowled by S Dube",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 28,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by S Dube, bowled by A Kamboj",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 50,
+            "balls": 29,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "bowled by J Overton",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RM Patidar",
+            "runs": 48,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 6,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "TH David",
+            "runs": 70,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 8,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KK Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "MJ Henry",
+            "overs": 3.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Kamboj",
+            "overs": 4.0,
+            "runs_conceded": 52,
+            "wickets": 1,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 4.0,
+            "runs_conceded": 49,
+            "wickets": 0,
+            "economy": 12.25,
+            "maidens": 0
+          },
+          {
+            "name": "J Overton",
+            "overs": 3.0,
+            "runs_conceded": 42,
+            "wickets": 1,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "S Dube",
+            "overs": 2.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 15.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 242,
+          "byes": 1,
+          "legbyes": 3,
+          "wides": 3,
+          "noballs": 1,
+          "total": 250
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1507,168 @@
       },
       "pressure_index": 0.096,
       "match_shape": 0.112,
-      "target": 251
+      "target": 251,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SV Samson",
+            "runs": 9,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by D Padikkal, bowled by JA Duffy",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RD Gaikwad",
+            "runs": 7,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by D Padikkal, bowled by JA Duffy",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Mhatre",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RM Patidar, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SN Khan",
+            "runs": 50,
+            "balls": 24,
+            "fours": 8,
+            "sixes": 2,
+            "dismissal": "stumped by JM Sharma, bowled by KH Pandya",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "Kartik Sharma",
+            "runs": 6,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Abhinandan Singh, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dube",
+            "runs": 18,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by JM Sharma, bowled by Abhinandan Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PR Veer",
+            "runs": 43,
+            "balls": 29,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "caught by RM Patidar, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "J Overton",
+            "runs": 37,
+            "balls": 15,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by JG Bethell, bowled by Suyash Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Kamboj",
+            "runs": 19,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Noor Ahmad",
+            "runs": 8,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by V Kohli, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MJ Henry",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PD Salt, bowled by Abhinandan Singh",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JA Duffy",
+            "overs": 4.0,
+            "runs_conceded": 58,
+            "wickets": 2,
+            "economy": 14.5,
+            "maidens": 0
+          },
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 3,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "Abhinandan Singh",
+            "overs": 3.4,
+            "runs_conceded": 30,
+            "wickets": 2,
+            "economy": 8.18,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 3.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Suyash Sharma",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Shepherd",
+            "overs": 1.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 19.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 200,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 2,
+          "total": 207
+        }
+      }
     }
   ]
 }

@@ -707,7 +707,124 @@
         }
       },
       "pressure_index": 0.999,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KL Rahul",
+            "runs": 52,
+            "balls": 32,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "caught by YK Pathan, bowled by PP Chawla",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 7,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by RV Uthappa, bowled by M Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 52,
+            "balls": 44,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by AD Russell, bowled by M Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by PP Chawla",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 34,
+            "balls": 21,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "run out by MK Pandey, RV Uthappa",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Sachin Baby",
+            "runs": 16,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught and bowled by AD Russell",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "STR Binny",
+            "runs": 16,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by MK Pandey, bowled by UT Yadav",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AD Russell",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 0,
+            "economy": 11.25,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 4.0,
+            "runs_conceded": 56,
+            "wickets": 1,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 181,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 2,
+          "noballs": 2,
+          "total": 185
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1522,132 @@
       },
       "pressure_index": 0.675,
       "match_shape": 0.993,
-      "target": 186
+      "target": 186,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Kohli, bowled by STR Binny",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 37,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by S Aravind",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "CA Lynn",
+            "runs": 15,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by YS Chahal",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 8,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Sachin Baby, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 60,
+            "balls": 29,
+            "fours": 6,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AD Russell",
+            "runs": 39,
+            "balls": 24,
+            "fours": 1,
+            "sixes": 4,
+            "dismissal": "caught by STR Binny, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SA Yadav",
+            "runs": 10,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "STR Binny",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "S Aravind",
+            "overs": 2.1,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 7.38,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 3.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 12.67,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 2,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "VR Aaron",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "T Shamsi",
+            "overs": 4.0,
+            "runs_conceded": 51,
+            "wickets": 0,
+            "economy": 12.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 170,
+          "byes": 4,
+          "legbyes": 2,
+          "wides": 13,
+          "noballs": 0,
+          "total": 189
+        }
+      }
     }
   ]
 }

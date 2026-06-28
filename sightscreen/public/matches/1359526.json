@@ -712,7 +712,105 @@
         }
       },
       "pressure_index": 0.552,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 35,
+            "balls": 18,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by T Natarajan, bowled by M Jansen",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 95,
+            "balls": 59,
+            "fours": 10,
+            "sixes": 4,
+            "dismissal": "lbw, bowled by B Kumar",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 66,
+            "balls": 38,
+            "fours": 4,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SO Hetmyer",
+            "runs": 7,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Jansen",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Markande",
+            "overs": 4.0,
+            "runs_conceded": 51,
+            "wickets": 0,
+            "economy": 12.75,
+            "maidens": 0
+          },
+          {
+            "name": "Abhishek Sharma",
+            "overs": 2.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "Vivrant Sharma",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 203,
+          "byes": 1,
+          "legbyes": 5,
+          "wides": 5,
+          "noballs": 0,
+          "total": 214
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1415,7 +1513,141 @@
       },
       "pressure_index": 0.475,
       "match_shape": 0.539,
-      "target": 215
+      "target": 215,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Anmolpreet Singh",
+            "runs": 33,
+            "balls": 25,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by SO Hetmyer, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 55,
+            "balls": 34,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by YS Chahal, bowled by R Ashwin",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 47,
+            "balls": 29,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by YBK Jaiswal, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 26,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by JC Buttler, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AK Markram",
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by YS Chahal",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "GD Phillips",
+            "runs": 25,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by SO Hetmyer, bowled by K Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 17,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "M Jansen",
+            "runs": 3,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "K Yadav",
+            "overs": 4.0,
+            "runs_conceded": 50,
+            "wickets": 1,
+            "economy": 12.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 4,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Ashwin",
+            "overs": 3.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "OC McCoy",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 212,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 4,
+          "noballs": 1,
+          "total": 217
+        }
+      }
     }
   ]
 }

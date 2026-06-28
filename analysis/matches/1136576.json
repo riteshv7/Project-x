@@ -702,7 +702,114 @@
         }
       },
       "pressure_index": 0.796,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KL Rahul",
+            "runs": 18,
+            "balls": 21,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Rashid Khan",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 104,
+            "balls": 63,
+            "fours": 1,
+            "sixes": 11,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 18,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by DJ Hooda, bowled by S Kaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 31,
+            "balls": 21,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by S Dhawan, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AJ Finch",
+            "runs": 14,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "CJ Jordan",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 55,
+            "wickets": 1,
+            "economy": 13.75,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Hooda",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 2.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 185,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 3,
+          "noballs": 0,
+          "total": 193
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1430,7 +1537,124 @@
       },
       "pressure_index": 0.333,
       "match_shape": 0.307,
-      "target": 194
+      "target": 194,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WP Saha",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by MM Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "retired hurt",
+            "dismissal_type": "retired hurt"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 54,
+            "balls": 41,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by AJ Finch, bowled by AJ Tye",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 19,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by MM Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 57,
+            "balls": 42,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 5,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Tiwary, bowled by AJ Tye",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "runs": 24,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "BB Sran",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 4.0,
+            "runs_conceded": 51,
+            "wickets": 2,
+            "economy": 12.75,
+            "maidens": 0
+          },
+          {
+            "name": "AJ Tye",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 53,
+            "wickets": 0,
+            "economy": 13.25,
+            "maidens": 0
+          },
+          {
+            "name": "Mujeeb Ur Rahman",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 165,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 10,
+          "noballs": 1,
+          "total": 178
+        }
+      }
     }
   ]
 }

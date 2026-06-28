@@ -727,7 +727,150 @@
         }
       },
       "pressure_index": 0.693,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PP Shaw",
+            "runs": 24,
+            "balls": 23,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by Ishan Kishan, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 5,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JJ Bumrah, bowled by DR Sams",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MR Marsh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by JJ Bumrah",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 39,
+            "balls": 33,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by Ishan Kishan, bowled by Ramandeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SN Khan",
+            "runs": 10,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Ishan Kishan, bowled by M Markande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Powell",
+            "runs": 43,
+            "balls": 34,
+            "fours": 1,
+            "sixes": 4,
+            "dismissal": "bowled by JJ Bumrah",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AR Patel",
+            "runs": 19,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SN Thakur",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by TH David, bowled by Ramandeep Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DR Sams",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "HR Shokeen",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 3,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Markande",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "RP Meredith",
+            "overs": 2.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "Ramandeep Singh",
+            "overs": 2.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 14.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 145,
+          "byes": 4,
+          "legbyes": 2,
+          "wides": 8,
+          "noballs": 0,
+          "total": 159
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1543,132 @@
       },
       "pressure_index": 0.944,
       "match_shape": 0.973,
-      "target": 160
+      "target": 160,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Ishan Kishan",
+            "runs": 48,
+            "balls": 35,
+            "fours": 3,
+            "sixes": 4,
+            "dismissal": "caught by DA Warner, bowled by Kuldeep Yadav",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 2,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SN Thakur, bowled by A Nortje",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "D Brevis",
+            "runs": 37,
+            "balls": 33,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "bowled by SN Thakur",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Tilak Varma",
+            "runs": 21,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by RR Pant, bowled by A Nortje",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TH David",
+            "runs": 34,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 4,
+            "dismissal": "caught by PP Shaw, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ramandeep Singh",
+            "runs": 13,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DR Sams",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KK Ahmed",
+            "overs": 3.1,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 7.58,
+            "maidens": 0
+          },
+          {
+            "name": "A Nortje",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "MR Marsh",
+            "overs": 2.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 155,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 1,
+          "total": 160
+        }
+      }
     }
   ]
 }

@@ -707,7 +707,140 @@
         }
       },
       "pressure_index": 0.842,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "BB McCullum",
+            "runs": 45,
+            "balls": 32,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by DP Nannes, bowled by V Kohli",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VVS Laxman",
+            "runs": 36,
+            "balls": 28,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by CA Pujara, bowled by TM Dilshan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 18,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "stumped by AB de Villiers, bowled by DL Vettori",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 27,
+            "balls": 21,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by Z Khan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 23,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RV Gomez",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by SS Tiwary, bowled by DP Nannes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PA Patel",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "DP Nannes",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 10.33,
+            "maidens": 0
+          },
+          {
+            "name": "DL Vettori",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "TM Dilshan",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Mithun",
+            "overs": 1.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 19.0,
+            "maidens": 0
+          },
+          {
+            "name": "V Kohli",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "AUK Pathan",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 150,
+          "byes": 1,
+          "legbyes": 2,
+          "wides": 7,
+          "noballs": 1,
+          "total": 161
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1390,7 +1523,123 @@
       },
       "pressure_index": 0.669,
       "match_shape": 0.984,
-      "target": 162
+      "target": 162,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MA Agarwal",
+            "runs": 33,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by R Vinay Kumar, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TM Dilshan",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by BB McCullum, bowled by S Sreesanth",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 23,
+            "balls": 18,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by R Vinay Kumar",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 54,
+            "balls": 40,
+            "fours": 1,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 26,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by DPMD Jayawardene, bowled by RV Gomez",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AUK Pathan",
+            "runs": 12,
+            "balls": 4,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "RP Singh",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "S Sreesanth",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 3.4,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 7.09,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "RV Gomez",
+            "overs": 1.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 20.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 149,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 7,
+          "noballs": 2,
+          "total": 162
+        }
+      }
     }
   ]
 }

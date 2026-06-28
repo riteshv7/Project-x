@@ -737,7 +737,123 @@
         }
       },
       "pressure_index": 0.959,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CH Gayle",
+            "runs": 14,
+            "balls": 11,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by MS Bisla, bowled by SJ Srivastava",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SC Ganguly",
+            "runs": 50,
+            "balls": 40,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "caught by PP Chawla, bowled by IK Pathan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 4,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by B Lee, bowled by SJ Srivastava",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Tiwary",
+            "runs": 75,
+            "balls": 46,
+            "fours": 8,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AD Mathews",
+            "runs": 19,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by B Lee, bowled by IK Pathan",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Lee",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 2,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "SJ Srivastava",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "VS Malik",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "RS Bopara",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 165,
+          "byes": 8,
+          "legbyes": 0,
+          "wides": 8,
+          "noballs": 2,
+          "total": 183
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1440,7 +1556,149 @@
       },
       "pressure_index": 0.349,
       "match_shape": 0.375,
-      "target": 184
+      "target": 184,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RS Bopara",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by SE Bond",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "MS Bisla",
+            "runs": 22,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by DJ Hussey, bowled by AB Agarkar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Yuvraj Singh",
+            "runs": 24,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by MK Tiwary, bowled by AB Agarkar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 30,
+            "balls": 27,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "stumped by WP Saha, bowled by CH Gayle",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "DPMD Jayawardene",
+            "runs": 16,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by AD Mathews",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 22,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught and bowled by SE Bond",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "K Goel",
+            "runs": 17,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "B Lee",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SE Bond",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "AB Dinda",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "CH Gayle",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "AB Agarkar",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "AD Mathews",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Hussey",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 138,
+          "byes": 1,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 0,
+          "total": 144
+        }
+      }
     }
   ]
 }

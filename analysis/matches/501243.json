@@ -712,7 +712,140 @@
         }
       },
       "pressure_index": 0.972,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "S Dhawan",
+            "runs": 29,
+            "balls": 18,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by AM Salvi, bowled by AB Agarkar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DB Ravi Teja",
+            "runs": 2,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by NV Ojha, bowled by AM Salvi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KC Sangakkara",
+            "runs": 44,
+            "balls": 36,
+            "fours": 8,
+            "sixes": 0,
+            "dismissal": "caught by V Sehwag, bowled by JR Hopes",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 55,
+            "balls": 30,
+            "fours": 2,
+            "sixes": 4,
+            "dismissal": "run out by AB Agarkar, NV Ojha",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "DT Christian",
+            "runs": 27,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "B Chipli",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AJ Finch, bowled by AB Agarkar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "I Malhotra",
+            "runs": 7,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "M Morkel",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "AM Salvi",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "AB Agarkar",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hopes",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "overs": 1.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Y Nagar",
+            "overs": 1.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 20.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 165,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 4,
+          "noballs": 2,
+          "total": 175
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1533,149 @@
       },
       "pressure_index": 0.979,
       "match_shape": 0.978,
-      "target": 176
+      "target": 176,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AJ Finch",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DT Christian, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 7,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KC Sangakkara, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 119,
+            "balls": 55,
+            "fours": 13,
+            "sixes": 6,
+            "dismissal": "caught by KC Sangakkara, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 3,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JP Duminy, bowled by I Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TR Birt",
+            "runs": 4,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by DT Christian",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 12,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "stumped by KC Sangakkara, bowled by A Mishra",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "JR Hopes",
+            "runs": 17,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Y Nagar",
+            "runs": 7,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "I Sharma",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 2,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "DT Christian",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "I Malhotra",
+            "overs": 1.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 23.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 53,
+            "wickets": 1,
+            "economy": 13.25,
+            "maidens": 0
+          },
+          {
+            "name": "B Chipli",
+            "overs": 1.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 20.0,
+            "maidens": 0
+          },
+          {
+            "name": "JP Duminy",
+            "overs": 1.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 169,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 8,
+          "noballs": 1,
+          "total": 179
+        }
+      }
     }
   ]
 }

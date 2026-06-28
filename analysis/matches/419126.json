@@ -722,7 +722,167 @@
         }
       },
       "pressure_index": 0.705,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by YK Pathan, bowled by S Narwal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VVS Laxman",
+            "runs": 10,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by YK Pathan, bowled by SW Tait",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Gibbs",
+            "runs": 25,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "stumped by NV Ojha, bowled by SK Warne",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "A Symonds",
+            "runs": 22,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "run out by AA Jhunjhunwala, SK Warne",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 49,
+            "balls": 35,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by MJ Lumb, bowled by SW Tait",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TL Suman",
+            "runs": 9,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SW Tait",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by AA Jhunjhunwala",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "WPUJC Vaas",
+            "runs": 8,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by P Dogra",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "R Sharma",
+            "runs": 10,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by AA Jhunjhunwala, bowled by S Narwal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RP Singh",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Narwal",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 2,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "AA Jhunjhunwala",
+            "overs": 1.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "SW Tait",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 3,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 3.75,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 2.0,
+            "runs_conceded": 12,
+            "wickets": 0,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "AC Voges",
+            "overs": 2.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 4.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 137,
+          "byes": 2,
+          "legbyes": 2,
+          "wides": 7,
+          "noballs": 0,
+          "total": 148
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1285,7 +1445,105 @@
       },
       "pressure_index": 0.246,
       "match_shape": 0.997,
-      "target": 149
+      "target": 149,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MJ Lumb",
+            "runs": 45,
+            "balls": 32,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "run out by RP Singh, AC Gilchrist",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "NV Ojha",
+            "runs": 14,
+            "balls": 17,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "stumped by AC Gilchrist, bowled by PP Ojha",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 73,
+            "balls": 34,
+            "fours": 2,
+            "sixes": 8,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "FY Fazal",
+            "runs": 8,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "WPUJC Vaas",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "RG Sharma",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Sharma",
+            "overs": 3.4,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 8.18,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 3.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 13.33,
+            "maidens": 0
+          },
+          {
+            "name": "A Symonds",
+            "overs": 2.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 4.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 140,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 7,
+          "noballs": 0,
+          "total": 151
+        }
+      }
     }
   ]
 }

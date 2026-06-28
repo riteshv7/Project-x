@@ -727,7 +727,132 @@
         }
       },
       "pressure_index": 0.849,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AK Markram",
+            "runs": 6,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RA Tripathi, bowled by KK Ahmed",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MR Marsh",
+            "runs": 30,
+            "balls": 25,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "bowled by RA Jadeja",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 8,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by A Kamboj",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 63,
+            "balls": 49,
+            "fours": 4,
+            "sixes": 4,
+            "dismissal": "caught by MS Dhoni, bowled by M Pathirana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Badoni",
+            "runs": 22,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "stumped by MS Dhoni, bowled by RA Jadeja",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 20,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "run out by MS Dhoni",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SN Thakur",
+            "runs": 6,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SK Rasheed, bowled by M Pathirana",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KK Ahmed",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Kamboj",
+            "overs": 3.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 6.67,
+            "maidens": 0
+          },
+          {
+            "name": "J Overton",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 4.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 3.25,
+            "maidens": 0
+          },
+          {
+            "name": "M Pathirana",
+            "overs": 4.0,
+            "runs_conceded": 45,
+            "wickets": 2,
+            "economy": 11.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 155,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 8,
+          "noballs": 1,
+          "total": 166
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1435,7 +1560,132 @@
       },
       "pressure_index": 0.711,
       "match_shape": 0.957,
-      "target": 167
+      "target": 167,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SK Rasheed",
+            "runs": 27,
+            "balls": 19,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by N Pooran, bowled by Avesh Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Ravindra",
+            "runs": 37,
+            "balls": 22,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by AK Markram",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 9,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught and bowled by Ravi Bishnoi",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 7,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AK Markram, bowled by Ravi Bishnoi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dube",
+            "runs": 43,
+            "balls": 36,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "V Shankar",
+            "runs": 9,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Avesh Khan, bowled by DS Rathi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 26,
+            "balls": 11,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SN Thakur",
+            "overs": 4.0,
+            "runs_conceded": 56,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "Akash Deep",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "DS Rathi",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "Avesh Khan",
+            "overs": 3.3,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 9.14,
+            "maidens": 0
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "AK Markram",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 6.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 158,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 8,
+          "noballs": 1,
+          "total": 168
+        }
+      }
     }
   ]
 }

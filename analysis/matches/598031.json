@@ -687,7 +687,141 @@
         }
       },
       "pressure_index": 0.884,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 27,
+            "balls": 27,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by EJG Morgan, bowled by R Bhatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 25,
+            "balls": 20,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by EJG Morgan, bowled by JH Kallis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Vohra",
+            "runs": 31,
+            "balls": 21,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by DB Das, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 21,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SMSM Senanayake, bowled by JH Kallis",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 10,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by S Ladda",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Gurkeerat Singh",
+            "runs": 28,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Azhar Mahmood",
+            "runs": 2,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by JH Kallis, MS Bisla",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "SMSM Senanayake",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 1
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "S Ladda",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 144,
+          "byes": 1,
+          "legbyes": 4,
+          "wides": 0,
+          "noballs": 0,
+          "total": 149
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1330,7 +1464,115 @@
       },
       "pressure_index": 0.51,
       "match_shape": 0.993,
-      "target": 150
+      "target": 150,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MS Bisla",
+            "runs": 51,
+            "balls": 44,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 8,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by Azhar Mahmood",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by Azhar Mahmood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JH Kallis",
+            "runs": 37,
+            "balls": 33,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by AC Gilchrist, bowled by Harmeet Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "EJG Morgan",
+            "runs": 42,
+            "balls": 26,
+            "fours": 3,
+            "sixes": 4,
+            "dismissal": "caught by Gurkeerat Singh, bowled by Azhar Mahmood",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SMSM Senanayake",
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Azhar Mahmood",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 3,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "BA Bhatt",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "Harmeet Singh",
+            "overs": 3.2,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 7.2,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 138,
+          "byes": 4,
+          "legbyes": 5,
+          "wides": 2,
+          "noballs": 1,
+          "total": 150
+        }
+      }
     }
   ]
 }

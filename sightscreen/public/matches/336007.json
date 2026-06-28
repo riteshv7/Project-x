@@ -707,7 +707,150 @@
         }
       },
       "pressure_index": 0.545,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 4,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RP Singh, bowled by DP Vijaykumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Anirudha",
+            "runs": 1,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Shahid Afridi, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Fleming",
+            "runs": 14,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by SB Styris",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 32,
+            "balls": 21,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by RG Sharma, bowled by SB Bangar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by HH Gibbs, bowled by Shahid Afridi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 23,
+            "balls": 31,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by Shahid Afridi, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 29,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Joginder Sharma",
+            "runs": 16,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by RP Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MS Gony",
+            "runs": 15,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DP Vijaykumar",
+            "overs": 3.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 5.67,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 3.0,
+            "runs_conceded": 12,
+            "wickets": 2,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "SB Styris",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Shahid Afridi",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "SB Bangar",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 134,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 4,
+          "noballs": 0,
+          "total": 144
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1345,7 +1488,106 @@
       },
       "pressure_index": 0.324,
       "match_shape": 0.994,
-      "target": 145
+      "target": 145,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 54,
+            "balls": 34,
+            "fours": 7,
+            "sixes": 2,
+            "dismissal": "caught by S Badrinath, bowled by JA Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Gibbs",
+            "runs": 10,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught and bowled by MS Gony",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "SB Styris",
+            "runs": 36,
+            "balls": 41,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 23,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by S Badrinath, bowled by M Muralitharan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shahid Afridi",
+            "runs": 20,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "M Ntini",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "MS Gony",
+            "overs": 3.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "JA Morkel",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "Joginder Sharma",
+            "overs": 3.0,
+            "runs_conceded": 45,
+            "wickets": 0,
+            "economy": 15.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 143,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 2,
+          "total": 148
+        }
+      }
     }
   ]
 }

@@ -702,7 +702,132 @@
         }
       },
       "pressure_index": 0.771,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 69,
+            "balls": 45,
+            "fours": 9,
+            "sixes": 2,
+            "dismissal": "caught by HV Patel, bowled by DL Vettori",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JD Ryder",
+            "runs": 34,
+            "balls": 22,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by MA Agarwal, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SC Ganguly",
+            "runs": 6,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MA Agarwal, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MN Samuels",
+            "runs": 34,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "run out by AB de Villiers",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SPD Smith",
+            "runs": 16,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by AB de Villiers, R Vinay Kumar",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "AD Mathews",
+            "runs": 10,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by V Kohli, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Manhas",
+            "runs": 6,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "TM Dilshan",
+            "overs": 2.0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "DL Vettori",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "KP Appanna",
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 175,
+          "byes": 1,
+          "legbyes": 3,
+          "wides": 3,
+          "noballs": 0,
+          "total": 182
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1525,123 @@
       },
       "pressure_index": 0.538,
       "match_shape": 0.7,
-      "target": 183
+      "target": 183,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "TM Dilshan",
+            "runs": 4,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by AB Dinda",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 81,
+            "balls": 48,
+            "fours": 4,
+            "sixes": 8,
+            "dismissal": "bowled by A Nehra",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 9,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by M Manhas, bowled by MN Samuels",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 16,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by R Sharma, bowled by AD Mathews",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 36,
+            "balls": 22,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 33,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AB Dinda",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Nehra",
+            "overs": 4.0,
+            "runs_conceded": 54,
+            "wickets": 1,
+            "economy": 13.5,
+            "maidens": 0
+          },
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "MN Samuels",
+            "overs": 2.0,
+            "runs_conceded": 5,
+            "wickets": 1,
+            "economy": 2.5,
+            "maidens": 0
+          },
+          {
+            "name": "AD Mathews",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Sharma",
+            "overs": 2.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 17.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 179,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 2,
+          "total": 186
+        }
+      }
     }
   ]
 }

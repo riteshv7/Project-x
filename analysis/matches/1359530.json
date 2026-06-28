@@ -692,7 +692,150 @@
         }
       },
       "pressure_index": 0.79,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JJ Roy",
+            "runs": 10,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SO Hetmyer, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Rahmanullah Gurbaz",
+            "runs": 18,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by Sandeep Sharma, bowled by TA Boult",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VR Iyer",
+            "runs": 57,
+            "balls": 42,
+            "fours": 2,
+            "sixes": 4,
+            "dismissal": "caught by TA Boult, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 22,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by SO Hetmyer, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 10,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by R Ashwin, bowled by KM Asif",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RK Singh",
+            "runs": 16,
+            "balls": 18,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by JE Root, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SN Thakur",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by YS Chahal",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "AS Roy",
+            "runs": 6,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SP Narine",
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JE Root, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "TA Boult",
+            "overs": 3.0,
+            "runs_conceded": 15,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "JE Root",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 4,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "KM Asif",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 146,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 1,
+          "noballs": 0,
+          "total": 149
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1175,12 +1318,109 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.122,
       "match_shape": 0.999,
-      "target": 150
+      "target": 150,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "YBK Jaiswal",
+            "runs": 98,
+            "balls": 47,
+            "fours": 13,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "JC Buttler",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by AD Russell",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 48,
+            "balls": 29,
+            "fours": 2,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "N Rana",
+            "overs": 1.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 26.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harshit Rana",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 1.1,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 15.43,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "Suyash Sharma",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "AS Roy",
+            "overs": 1.0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "economy": 20.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 146,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 0,
+          "total": 151
+        }
+      }
     }
   ]
 }

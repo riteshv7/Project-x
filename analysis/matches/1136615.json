@@ -712,7 +712,123 @@
         }
       },
       "pressure_index": 0.999,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PP Shaw",
+            "runs": 12,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 22,
+            "balls": 18,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "bowled by JJ Bumrah",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 6,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KH Pandya, bowled by M Markande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RR Pant",
+            "runs": 64,
+            "balls": 44,
+            "fours": 4,
+            "sixes": 4,
+            "dismissal": "caught by KA Pollard, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 43,
+            "balls": 30,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 15,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KH Pandya",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Mustafizur Rahman",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Markande",
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "BCJ Cutting",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 162,
+          "byes": 1,
+          "legbyes": 6,
+          "wides": 5,
+          "noballs": 0,
+          "total": 174
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1516,159 @@
       },
       "pressure_index": 0.884,
       "match_shape": 0.696,
-      "target": 175
+      "target": 175,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "SA Yadav",
+            "runs": 12,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by V Shankar, bowled by S Lamichhane",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "E Lewis",
+            "runs": 48,
+            "balls": 31,
+            "fours": 3,
+            "sixes": 4,
+            "dismissal": "stumped by RR Pant, bowled by A Mishra",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 5,
+            "balls": 13,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Shankar, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 7,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by TA Boult, bowled by S Lamichhane",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by R Tewatia, bowled by S Lamichhane",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 27,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by R Tewatia, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 13,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by TA Boult, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BCJ Cutting",
+            "runs": 37,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by GJ Maxwell, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Markande",
+            "runs": 3,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by TA Boult",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JJ Bumrah",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by TA Boult, bowled by HV Patel",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "S Lamichhane",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 3,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "TA Boult",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "GJ Maxwell",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 2.3,
+            "runs_conceded": 28,
+            "wickets": 3,
+            "economy": 11.2,
+            "maidens": 0
+          },
+          {
+            "name": "LE Plunkett",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 3,
+            "economy": 4.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 156,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 6,
+          "noballs": 0,
+          "total": 163
+        }
+      }
     }
   ]
 }

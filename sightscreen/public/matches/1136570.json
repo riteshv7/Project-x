@@ -702,7 +702,142 @@
         }
       },
       "pressure_index": 0.741,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 3,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CA Lynn",
+            "runs": 49,
+            "balls": 34,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": "caught and bowled by Shakib Al Hasan",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "N Rana",
+            "runs": 18,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by MK Pandey, bowled by B Stanlake",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 9,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KS Williamson, bowled by Shakib Al Hasan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KD Karthik",
+            "runs": 29,
+            "balls": 26,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by WP Saha, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 9,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by MK Pandey, bowled by B Stanlake",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 3,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Shakib Al Hasan, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shivam Mavi",
+            "runs": 7,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by B Kumar, bowled by S Kaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MG Johnson",
+            "runs": 4,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 3,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "B Stanlake",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "S Kaul",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 131,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 3,
+          "noballs": 2,
+          "total": 138
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1375,7 +1510,132 @@
       },
       "pressure_index": 0.385,
       "match_shape": 0.935,
-      "target": 139
+      "target": 139,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WP Saha",
+            "runs": 24,
+            "balls": 15,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 7,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by SP Narine",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "KS Williamson",
+            "runs": 50,
+            "balls": 44,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by AD Russell, bowled by MG Johnson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 4,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Kuldeep Yadav",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "Shakib Al Hasan",
+            "runs": 27,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 5,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 17,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MG Johnson",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 3.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 5.75,
+            "maidens": 0
+          },
+          {
+            "name": "Shivam Mavi",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 134,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 0,
+          "total": 139
+        }
+      }
     }
   ]
 }

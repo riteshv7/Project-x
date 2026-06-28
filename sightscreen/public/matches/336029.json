@@ -692,7 +692,151 @@
         }
       },
       "pressure_index": 0.488,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JH Kallis",
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SP Fleming, bowled by MS Gony",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Goswami",
+            "runs": 10,
+            "balls": 19,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by PA Patel, bowled by MS Gony",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 10,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by JA Morkel, bowled by M Muralitharan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Dravid",
+            "runs": 47,
+            "balls": 39,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by JA Morkel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Misbah-ul-Haq",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by PA Patel, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MV Boucher",
+            "runs": 17,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by JA Morkel",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "B Akhil",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "P Kumar",
+            "runs": 21,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by JA Morkel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Vinay Kumar",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by JA Morkel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "A Kumble",
+            "runs": 2,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "M Ntini",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "MS Gony",
+            "overs": 4.0,
+            "runs_conceded": 11,
+            "wickets": 2,
+            "economy": 2.75,
+            "maidens": 1
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "JA Morkel",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 4,
+            "economy": 8.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 122,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 1,
+          "noballs": 0,
+          "total": 126
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1544,159 @@
       },
       "pressure_index": 0.5,
       "match_shape": 0.942,
-      "target": 127
+      "target": 127,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 24,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught and bowled by A Kumble",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "SP Fleming",
+            "runs": 45,
+            "balls": 39,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by B Akhil, bowled by A Kumble",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 4,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by A Kumble, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 21,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by A Kumble",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by R Vinay Kumar, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Vidyut",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by JH Kallis, bowled by DW Steyn",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Gony",
+            "runs": 4,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DW Steyn, bowled by P Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "L Balaji",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by R Dravid, SP Goswami",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "M Ntini",
+            "runs": 0,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Kumble",
+            "overs": 4.0,
+            "runs_conceded": 14,
+            "wickets": 3,
+            "economy": 3.5,
+            "maidens": 0
+          },
+          {
+            "name": "JH Kallis",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 3.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "B Akhil",
+            "overs": 1.0,
+            "runs_conceded": 4,
+            "wickets": 0,
+            "economy": 4.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 100,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 8,
+          "noballs": 2,
+          "total": 112
+        }
+      }
     }
   ]
 }

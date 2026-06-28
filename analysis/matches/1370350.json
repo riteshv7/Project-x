@@ -697,7 +697,133 @@
         }
       },
       "pressure_index": 0.911,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RD Gaikwad",
+            "runs": 60,
+            "balls": 43,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": "caught by DA Miller, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DP Conway",
+            "runs": 40,
+            "balls": 34,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by Rashid Khan, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dube",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Noor Ahmad",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 17,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Shubman Gill, bowled by DG Nalkande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 17,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by MD Shanaka, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 22,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by Mohammed Shami",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by HH Pandya, bowled by MM Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MM Ali",
+            "runs": 9,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "DG Nalkande",
+            "overs": 4.0,
+            "runs_conceded": 44,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 1,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "Noor Ahmad",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 167,
+          "byes": 2,
+          "legbyes": 2,
+          "wides": 0,
+          "noballs": 2,
+          "total": 172
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1435,7 +1561,160 @@
       },
       "pressure_index": 0.553,
       "match_shape": 0.524,
-      "target": 173
+      "target": 173,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WP Saha",
+            "runs": 12,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by M Pathirana, bowled by DL Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 42,
+            "balls": 38,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by DP Conway, bowled by DL Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 8,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RA Jadeja, bowled by M Theekshana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MD Shanaka",
+            "runs": 17,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by M Theekshana, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by RA Jadeja",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 14,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by RD Gaikwad, bowled by M Pathirana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by M Theekshana",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 30,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "caught by DP Conway, bowled by TU Deshpande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DG Nalkande",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by Subhransu Senapati",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Noor Ahmad",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Mohammed Shami",
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DL Chahar, bowled by M Pathirana",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "TU Deshpande",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "M Theekshana",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Pathirana",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 9.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 142,
+          "byes": 0,
+          "legbyes": 2,
+          "wides": 13,
+          "noballs": 0,
+          "total": 157
+        }
+      }
     }
   ]
 }

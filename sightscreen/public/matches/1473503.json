@@ -702,7 +702,141 @@
         }
       },
       "pressure_index": 0.65,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Abhishek Sharma",
+            "runs": 34,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by PD Salt, bowled by L Ngidi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TM Head",
+            "runs": 17,
+            "balls": 10,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by R Shepherd, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 24,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by R Shepherd, bowled by Suyash Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Ishan Kishan",
+            "runs": 94,
+            "balls": 48,
+            "fours": 7,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Aniket Verma",
+            "runs": 26,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": "caught by B Kumar, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "runs": 4,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KH Pandya, bowled by R Shepherd",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Manohar",
+            "runs": 12,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by PD Salt, bowled by R Shepherd",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PJ Cummins",
+            "runs": 13,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Yash Dayal",
+            "overs": 3.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 43,
+            "wickets": 1,
+            "economy": 10.75,
+            "maidens": 0
+          },
+          {
+            "name": "L Ngidi",
+            "overs": 4.0,
+            "runs_conceded": 51,
+            "wickets": 1,
+            "economy": 12.75,
+            "maidens": 0
+          },
+          {
+            "name": "Suyash Sharma",
+            "overs": 3.0,
+            "runs_conceded": 45,
+            "wickets": 1,
+            "economy": 15.0,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Shepherd",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 224,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 2,
+          "noballs": 1,
+          "total": 231
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1400,7 +1534,168 @@
       },
       "pressure_index": 0.611,
       "match_shape": 0.677,
-      "target": 232
+      "target": 232,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PD Salt",
+            "runs": 62,
+            "balls": 31,
+            "fours": 4,
+            "sixes": 5,
+            "dismissal": "caught by HV Patel, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 43,
+            "balls": 25,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": "caught by Abhishek Sharma, bowled by Harsh Dubey",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 11,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Ishan Kishan, bowled by Nithish Kumar Reddy",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RM Patidar",
+            "runs": 18,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by E Malinga",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "JM Sharma",
+            "runs": 24,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by A Manohar, bowled by JD Unadkat",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Shepherd",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught and bowled by E Malinga",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "TH David",
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by H Klaasen, bowled by E Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 8,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "hit wicket, bowled by PJ Cummins",
+            "dismissal_type": "hit wicket"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 3,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by PJ Cummins",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Yash Dayal",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by Aniket Verma, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "L Ngidi",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "PJ Cummins",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 3,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 1,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 3.5,
+            "runs_conceded": 39,
+            "wickets": 1,
+            "economy": 10.17,
+            "maidens": 0
+          },
+          {
+            "name": "E Malinga",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 2,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "Harsh Dubey",
+            "overs": 2.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "overs": 2.0,
+            "runs_conceded": 13,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 173,
+          "byes": 0,
+          "legbyes": 11,
+          "wides": 4,
+          "noballs": 1,
+          "total": 189
+        }
+      }
     }
   ]
 }

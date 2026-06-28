@@ -742,7 +742,123 @@
         }
       },
       "pressure_index": 0.84,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 38,
+            "balls": 17,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "bowled by R Ashwin",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "VVS Laxman",
+            "runs": 12,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "run out by SK Raina, MS Dhoni",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "HH Gibbs",
+            "runs": 45,
+            "balls": 36,
+            "fours": 5,
+            "sixes": 1,
+            "dismissal": "run out by JA Morkel",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "A Symonds",
+            "runs": 50,
+            "balls": 43,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "run out by ML Hayden",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 19,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "TL Suman",
+            "runs": 10,
+            "balls": 4,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "JA Morkel",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "S Tyagi",
+            "overs": 1.5,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 21.27,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "JM Kemp",
+            "overs": 2.1,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 6.92,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 174,
+          "byes": 2,
+          "legbyes": 3,
+          "wides": 9,
+          "noballs": 2,
+          "total": 190
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1435,7 +1551,176 @@
       },
       "pressure_index": 0.207,
       "match_shape": 0.296,
-      "target": 191
+      "target": 191,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "M Vijay",
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by WPUJC Vaas",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "ML Hayden",
+            "runs": 17,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by RP Singh, bowled by WPUJC Vaas",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SK Raina",
+            "runs": 6,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by AC Gilchrist, bowled by WPUJC Vaas",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Badrinath",
+            "runs": 5,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by RP Singh, bowled by PP Ojha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Kemp",
+            "runs": 22,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "stumped by AC Gilchrist, bowled by PP Ojha",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 42,
+            "balls": 29,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": "bowled by A Symonds",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JA Morkel",
+            "runs": 42,
+            "balls": 26,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Ashwin",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RP Singh, bowled by RG Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "L Balaji",
+            "runs": 15,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Anirudh Singh, bowled by RP Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Muralitharan",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by A Symonds",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "S Tyagi",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "WPUJC Vaas",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 3,
+            "economy": 5.25,
+            "maidens": 1
+          },
+          {
+            "name": "RG Sharma",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 3.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "PP Ojha",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Jaskaran Singh",
+            "overs": 1.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          },
+          {
+            "name": "TL Suman",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Symonds",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 9.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 156,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 3,
+          "noballs": 0,
+          "total": 159
+        }
+      }
     }
   ]
 }

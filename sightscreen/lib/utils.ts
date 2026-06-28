@@ -4,6 +4,27 @@ export function seasonFromDate(date: string): string {
   return new Date(date).getUTCFullYear().toString();
 }
 
+export function slugifySegment(value: string): string {
+  return value
+    .toLowerCase()
+    .replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+export function unslugVsPair(value: string): [string, string] | null {
+  const parts = value.split("-vs-");
+  if (parts.length !== 2 || !parts[0] || !parts[1]) {
+    return null;
+  }
+  return [parts[0], parts[1]];
+}
+
+export function buildH2HSlug(teamA: string, teamB: string): string {
+  const [first, second] = [teamA, teamB].sort((a, b) => a.localeCompare(b));
+  return `${slugifySegment(first)}-vs-${slugifySegment(second)}`;
+}
+
 export function formatDisplayDate(date: string): string {
   return new Intl.DateTimeFormat("en-US", {
     month: "short",
@@ -43,6 +64,15 @@ export function sortMatchesByDateDesc(matches: MatchSummary[]): MatchSummary[] {
       return a.match_id.localeCompare(b.match_id);
     }
     return a.date < b.date ? 1 : -1;
+  });
+}
+
+export function sortMatchesByDateAsc(matches: MatchSummary[]): MatchSummary[] {
+  return [...matches].sort((a, b) => {
+    if (a.date === b.date) {
+      return a.match_id.localeCompare(b.match_id);
+    }
+    return a.date > b.date ? 1 : -1;
   });
 }
 
@@ -99,4 +129,12 @@ export function phaseRows(innings: InningsAnalysis) {
     ["Middle", innings.phases.middle],
     ["Death", innings.phases.death],
   ] as const;
+}
+
+export function formatAverage(value: number): string {
+  return value.toFixed(1);
+}
+
+export function formatPercentage(value: number): string {
+  return `${value.toFixed(1)}%`;
 }

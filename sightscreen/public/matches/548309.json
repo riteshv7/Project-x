@@ -722,7 +722,123 @@
         }
       },
       "pressure_index": 0.77,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "R Dravid",
+            "runs": 28,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by JP Faulkner, bowled by Harmeet Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 98,
+            "balls": 66,
+            "fours": 16,
+            "sixes": 1,
+            "dismissal": "bowled by JP Faulkner",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AL Menaria",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 21,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "bowled by JP Faulkner",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "OA Shah",
+            "runs": 14,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "KK Cooper",
+            "runs": 11,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 42,
+            "wickets": 0,
+            "economy": 10.5,
+            "maidens": 0
+          },
+          {
+            "name": "JP Faulkner",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 2,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 1,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "Bipul Sharma",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "Harmeet Singh",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "PC Valthaty",
+            "overs": 1.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 172,
+          "byes": 0,
+          "legbyes": 8,
+          "wides": 11,
+          "noballs": 0,
+          "total": 191
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1410,7 +1526,168 @@
       },
       "pressure_index": 0.354,
       "match_shape": 0.43,
-      "target": 192
+      "target": 192,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AC Gilchrist",
+            "runs": 27,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by KK Cooper, bowled by A Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PC Valthaty",
+            "runs": 13,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by A Singh, bowled by KK Cooper",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SE Marsh",
+            "runs": 7,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by R Dravid, bowled by KK Cooper",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Nayar",
+            "runs": 10,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by SP Goswami, bowled by KK Cooper",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Mandeep Singh",
+            "runs": 34,
+            "balls": 25,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "bowled by AA Chavan",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 13,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by KK Cooper, bowled by SK Trivedi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Bipul Sharma",
+            "runs": 18,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by AA Chavan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "PP Chawla",
+            "runs": 10,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by KK Cooper",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "JP Faulkner",
+            "runs": 11,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "P Kumar",
+            "runs": 10,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "run out by KK Cooper, SP Goswami",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Harmeet Singh",
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "J Botha",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Singh",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "KK Cooper",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 4,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "BJ Hodge",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "AA Chavan",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 2,
+            "economy": 9.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 154,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 1,
+          "noballs": 1,
+          "total": 160
+        }
+      }
     }
   ]
 }

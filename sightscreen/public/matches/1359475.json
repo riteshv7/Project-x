@@ -692,7 +692,150 @@
         }
       },
       "pressure_index": 0.998,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "DP Conway",
+            "runs": 1,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by Mohammed Shami",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RD Gaikwad",
+            "runs": 92,
+            "balls": 50,
+            "fours": 4,
+            "sixes": 9,
+            "dismissal": "caught by Shubman Gill, bowled by AS Joseph",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MM Ali",
+            "runs": 23,
+            "balls": 16,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by WP Saha, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BA Stokes",
+            "runs": 7,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by Rashid Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 12,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by J Little",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Dube",
+            "runs": 19,
+            "balls": 18,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by Rashid Khan, bowled by Mohammed Shami",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Shankar, bowled by AS Joseph",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 14,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MJ Santner",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 2,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "J Little",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 1,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "AS Joseph",
+            "overs": 4.0,
+            "runs_conceded": 33,
+            "wickets": 2,
+            "economy": 8.25,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Dayal",
+            "overs": 1.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 170,
+          "byes": 1,
+          "legbyes": 6,
+          "wides": 0,
+          "noballs": 1,
+          "total": 178
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1380,7 +1523,124 @@
       },
       "pressure_index": 0.622,
       "match_shape": 0.991,
-      "target": 179
+      "target": 179,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WP Saha",
+            "runs": 25,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by S Dube, bowled by RS Hangargekar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 63,
+            "balls": 36,
+            "fours": 6,
+            "sixes": 3,
+            "dismissal": "caught by RD Gaikwad, bowled by TU Deshpande",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Sai Sudharsan",
+            "runs": 22,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by RS Hangargekar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 8,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by RA Jadeja",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 27,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught by MJ Santner, bowled by RS Hangargekar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 15,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 10,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "TU Deshpande",
+            "overs": 3.2,
+            "runs_conceded": 51,
+            "wickets": 1,
+            "economy": 15.3,
+            "maidens": 0
+          },
+          {
+            "name": "RS Hangargekar",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 3,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "MJ Santner",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 170,
+          "byes": 0,
+          "legbyes": 6,
+          "wides": 4,
+          "noballs": 2,
+          "total": 182
+        }
+      }
     }
   ]
 }

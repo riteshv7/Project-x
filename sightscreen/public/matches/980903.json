@@ -637,7 +637,168 @@
         }
       },
       "pressure_index": 0.497,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MA Agarwal",
+            "runs": 9,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by GB Hogg, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Q de Kock",
+            "runs": 17,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by YK Pathan, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by AD Russell",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 3,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by JW Hastings",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 15,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by GB Hogg",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Negi",
+            "runs": 11,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "stumped by RV Uthappa, bowled by GB Hogg",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "CR Brathwaite",
+            "runs": 6,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by PP Chawla",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "CH Morris",
+            "runs": 11,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by PP Chawla",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "NM Coulter-Nile",
+            "runs": 7,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "A Mishra",
+            "runs": 3,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by G Gambhir, bowled by GB Hogg",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Z Khan",
+            "runs": 4,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by JW Hastings",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AD Russell",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 3,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "UT Yadav",
+            "overs": 3.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "JW Hastings",
+            "overs": 2.4,
+            "runs_conceded": 6,
+            "wickets": 2,
+            "economy": 2.25,
+            "maidens": 1
+          },
+          {
+            "name": "C Munro",
+            "overs": 1.0,
+            "runs_conceded": 7,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "GB Hogg",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 3,
+            "economy": 4.75,
+            "maidens": 1
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 2,
+            "economy": 5.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 86,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 12,
+          "noballs": 0,
+          "total": 98
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1160,12 +1321,93 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.052,
       "match_shape": 0.996,
-      "target": 99
+      "target": 99,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RV Uthappa",
+            "runs": 35,
+            "balls": 32,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "caught by CH Morris, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "G Gambhir",
+            "runs": 38,
+            "balls": 41,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MK Pandey",
+            "runs": 15,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "NM Coulter-Nile",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "Z Khan",
+            "overs": 2.1,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": 11.08,
+            "maidens": 0
+          },
+          {
+            "name": "CH Morris",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 5.25,
+            "maidens": 0
+          },
+          {
+            "name": "CR Brathwaite",
+            "overs": 2.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 2.0,
+            "runs_conceded": 11,
+            "wickets": 1,
+            "economy": 5.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 88,
+          "byes": 2,
+          "legbyes": 0,
+          "wides": 8,
+          "noballs": 1,
+          "total": 99
+        }
+      }
     }
   ]
 }

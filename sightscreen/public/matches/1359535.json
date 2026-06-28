@@ -712,7 +712,141 @@
         }
       },
       "pressure_index": 0.749,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RD Gaikwad",
+            "runs": 17,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by VG Arora, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DP Conway",
+            "runs": 30,
+            "balls": 28,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by RK Singh, bowled by SN Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 16,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by JJ Roy, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 4,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SP Narine",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Dube",
+            "runs": 48,
+            "balls": 34,
+            "fours": 1,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MM Ali",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SP Narine",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 20,
+            "balls": 23,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by CV Varun, bowled by VG Arora",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "VG Arora",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "Harshit Rana",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 2,
+            "economy": 3.75,
+            "maidens": 0
+          },
+          {
+            "name": "SN Thakur",
+            "overs": 3.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "Suyash Sharma",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 9.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 138,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 4,
+          "noballs": 2,
+          "total": 144
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1380,7 +1514,123 @@
       },
       "pressure_index": 0.493,
       "match_shape": 0.988,
-      "target": 145
+      "target": 145,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JJ Roy",
+            "runs": 12,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by M Pathirana, bowled by DL Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Rahmanullah Gurbaz",
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by TU Deshpande, bowled by DL Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VR Iyer",
+            "runs": 9,
+            "balls": 4,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by RA Jadeja, bowled by DL Chahar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "N Rana",
+            "runs": 57,
+            "balls": 44,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RK Singh",
+            "runs": 54,
+            "balls": 42,
+            "fours": 4,
+            "sixes": 3,
+            "dismissal": "run out by MM Ali",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "AD Russell",
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DL Chahar",
+            "overs": 3.0,
+            "runs_conceded": 27,
+            "wickets": 3,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "TU Deshpande",
+            "overs": 3.3,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 7.14,
+            "maidens": 0
+          },
+          {
+            "name": "MM Ali",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "M Theekshana",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "M Pathirana",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 2.0,
+            "runs_conceded": 18,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 135,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 10,
+          "noballs": 1,
+          "total": 147
+        }
+      }
     }
   ]
 }

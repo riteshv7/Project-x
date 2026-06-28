@@ -707,7 +707,168 @@
         }
       },
       "pressure_index": 0.661,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "TM Head",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by MA Starc",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 55,
+            "balls": 34,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": "run out by Rahmanullah Gurbaz, AD Russell",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Abhishek Sharma",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AD Russell, bowled by VG Arora",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "runs": 9,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by Rahmanullah Gurbaz, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shahbaz Ahmed",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by MA Starc",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "H Klaasen",
+            "runs": 32,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by RK Singh, bowled by CV Varun",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 16,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by SS Iyer, bowled by Harshit Rana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Sanvir Singh",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SP Narine",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "PJ Cummins",
+            "runs": 30,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by Rahmanullah Gurbaz, bowled by AD Russell",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "B Kumar",
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by CV Varun",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "V Viyaskanth",
+            "runs": 7,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MA Starc",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 3,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "VG Arora",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Harshit Rana",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "AD Russell",
+            "overs": 1.3,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "CV Varun",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 152,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 5,
+          "noballs": 2,
+          "total": 159
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1200,12 +1361,110 @@
           "runs": 0,
           "wickets": 0,
           "run_rate": 0.0,
-          "required_run_rate": NaN
+          "required_run_rate": null
         }
       },
       "pressure_index": 0.278,
       "match_shape": 0.998,
-      "target": 160
+      "target": 160,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Rahmanullah Gurbaz",
+            "runs": 23,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "caught by V Viyaskanth, bowled by T Natarajan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SP Narine",
+            "runs": 21,
+            "balls": 16,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by V Viyaskanth, bowled by PJ Cummins",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "VR Iyer",
+            "runs": 51,
+            "balls": 28,
+            "fours": 5,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SS Iyer",
+            "runs": 58,
+            "balls": 24,
+            "fours": 5,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 3.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 9.33,
+            "maidens": 0
+          },
+          {
+            "name": "PJ Cummins",
+            "overs": 3.0,
+            "runs_conceded": 38,
+            "wickets": 1,
+            "economy": 12.67,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 3.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 7.33,
+            "maidens": 0
+          },
+          {
+            "name": "V Viyaskanth",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "TM Head",
+            "overs": 1.4,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 19.2,
+            "maidens": 0
+          },
+          {
+            "name": "Nithish Kumar Reddy",
+            "overs": 1.0,
+            "runs_conceded": 13,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 153,
+          "byes": 0,
+          "legbyes": 9,
+          "wides": 2,
+          "noballs": 0,
+          "total": 164
+        }
+      }
     }
   ]
 }

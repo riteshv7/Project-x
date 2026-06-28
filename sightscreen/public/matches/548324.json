@@ -692,7 +692,105 @@
         }
       },
       "pressure_index": 0.844,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "R Dravid",
+            "runs": 25,
+            "balls": 32,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "stumped by AB de Villiers, bowled by DL Vettori",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "AM Rahane",
+            "runs": 103,
+            "balls": 60,
+            "fours": 12,
+            "sixes": 5,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "OA Shah",
+            "runs": 60,
+            "balls": 26,
+            "fours": 5,
+            "sixes": 5,
+            "dismissal": "caught by R Vinay Kumar, bowled by Z Khan",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "BJ Hodge",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Z Khan",
+            "overs": 4.0,
+            "runs_conceded": 15,
+            "wickets": 1,
+            "economy": 3.75,
+            "maidens": 1
+          },
+          {
+            "name": "S Aravind",
+            "overs": 3.0,
+            "runs_conceded": 48,
+            "wickets": 0,
+            "economy": 16.0,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 4.0,
+            "runs_conceded": 51,
+            "wickets": 0,
+            "economy": 12.75,
+            "maidens": 0
+          },
+          {
+            "name": "DL Vettori",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Muralitharan",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "CH Gayle",
+            "overs": 1.0,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 21.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 189,
+          "byes": 4,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 0,
+          "total": 195
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1370,7 +1468,160 @@
       },
       "pressure_index": 0.329,
       "match_shape": 0.433,
-      "target": 196
+      "target": 196,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "MA Agarwal",
+            "runs": 34,
+            "balls": 21,
+            "fours": 3,
+            "sixes": 3,
+            "dismissal": "caught by OA Shah, bowled by Pankaj Singh",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 8,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by Pankaj Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 22,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by SK Trivedi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 6,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SK Trivedi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 17,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "bowled by SK Trivedi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "M Kaif",
+            "runs": 14,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by BJ Hodge, bowled by J Botha",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DL Vettori",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by SK Trivedi",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "R Vinay Kumar",
+            "runs": 11,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "bowled by A Singh",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Z Khan",
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by GB Hogg",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Aravind",
+            "runs": 14,
+            "balls": 8,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "M Muralitharan",
+            "runs": 6,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by A Singh",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "J Botha",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "Pankaj Singh",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 2,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "A Singh",
+            "overs": 3.5,
+            "runs_conceded": 43,
+            "wickets": 2,
+            "economy": 11.22,
+            "maidens": 0
+          },
+          {
+            "name": "GB Hogg",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 4,
+            "economy": 6.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 133,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 136
+        }
+      }
     }
   ]
 }

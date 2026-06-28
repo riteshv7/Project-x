@@ -712,7 +712,115 @@
         }
       },
       "pressure_index": 0.945,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RD Gaikwad",
+            "runs": 73,
+            "balls": 48,
+            "fours": 5,
+            "sixes": 5,
+            "dismissal": "caught by A Manohar, bowled by Yash Dayal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RV Uthappa",
+            "runs": 3,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by Mohammed Shami",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "MM Ali",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by AS Joseph",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 46,
+            "balls": 30,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": "caught by V Shankar, bowled by AS Joseph",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "S Dube",
+            "runs": 19,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "run out by DA Miller, LH Ferguson",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 22,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mohammed Shami",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 1,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Dayal",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 1,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "AS Joseph",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 2,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "LH Ferguson",
+            "overs": 4.0,
+            "runs_conceded": 46,
+            "wickets": 0,
+            "economy": 11.5,
+            "maidens": 0
+          },
+          {
+            "name": "Rashid Khan",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 7.25,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 164,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 4,
+          "noballs": 1,
+          "total": 169
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1503,141 @@
       },
       "pressure_index": 0.544,
       "match_shape": 0.881,
-      "target": 170
+      "target": 170,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "WP Saha",
+            "runs": 11,
+            "balls": 18,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RD Gaikwad, bowled by RA Jadeja",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Shubman Gill",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RV Uthappa, bowled by Mukesh Choudhary",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Shankar",
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MS Dhoni, bowled by M Theekshana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Manohar",
+            "runs": 12,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by MM Ali, bowled by M Theekshana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 94,
+            "balls": 50,
+            "fours": 8,
+            "sixes": 6,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Tewatia",
+            "runs": 6,
+            "balls": 14,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by RA Jadeja, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Rashid Khan",
+            "runs": 40,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by MM Ali, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AS Joseph",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by CJ Jordan, bowled by DJ Bravo",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Mukesh Choudhary",
+            "overs": 3.0,
+            "runs_conceded": 18,
+            "wickets": 1,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Theekshana",
+            "overs": 4.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 6.0,
+            "maidens": 0
+          },
+          {
+            "name": "CJ Jordan",
+            "overs": 3.5,
+            "runs_conceded": 58,
+            "wickets": 0,
+            "economy": 15.13,
+            "maidens": 0
+          },
+          {
+            "name": "RA Jadeja",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 1,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "MM Ali",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Bravo",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 3,
+            "economy": 5.75,
+            "maidens": 1
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 163,
+          "byes": 4,
+          "legbyes": 1,
+          "wides": 1,
+          "noballs": 1,
+          "total": 170
+        }
+      }
     }
   ]
 }

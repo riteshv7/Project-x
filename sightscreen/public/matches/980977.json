@@ -707,7 +707,123 @@
         }
       },
       "pressure_index": 0.964,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "V Kohli",
+            "runs": 20,
+            "balls": 21,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by M Vijay, bowled by KC Cariappa",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KL Rahul",
+            "runs": 42,
+            "balls": 25,
+            "fours": 6,
+            "sixes": 1,
+            "dismissal": "bowled by KC Cariappa",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 64,
+            "balls": 35,
+            "fours": 5,
+            "sixes": 2,
+            "dismissal": "caught by KC Cariappa, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by AR Patel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "Sachin Baby",
+            "runs": 33,
+            "balls": 29,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by DA Miller, WP Saha",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "TM Head",
+            "runs": 11,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by M Vijay, bowled by Sandeep Sharma",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 49,
+            "wickets": 2,
+            "economy": 12.25,
+            "maidens": 0
+          },
+          {
+            "name": "Anureet Singh",
+            "overs": 3.0,
+            "runs_conceded": 15,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "MM Sharma",
+            "overs": 3.0,
+            "runs_conceded": 33,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "MP Stoinis",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "KC Cariappa",
+            "overs": 3.0,
+            "runs_conceded": 16,
+            "wickets": 2,
+            "economy": 5.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 171,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 4,
+          "noballs": 0,
+          "total": 175
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1511,123 @@
       },
       "pressure_index": 0.944,
       "match_shape": 0.722,
-      "target": 176
+      "target": 176,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "HM Amla",
+            "runs": 21,
+            "balls": 20,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by STR Binny, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "M Vijay",
+            "runs": 89,
+            "balls": 57,
+            "fours": 12,
+            "sixes": 1,
+            "dismissal": "caught by YS Chahal, bowled by SR Watson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "WP Saha",
+            "runs": 16,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by KL Rahul",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by KL Rahul, bowled by YS Chahal",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 34,
+            "balls": 22,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "F Behardien",
+            "runs": 9,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "STR Binny",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 30,
+            "wickets": 1,
+            "economy": 7.5,
+            "maidens": 0
+          },
+          {
+            "name": "CJ Jordan",
+            "overs": 4.0,
+            "runs_conceded": 52,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "VR Aaron",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "Iqbal Abdulla",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 169,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 2,
+          "noballs": 0,
+          "total": 174
+        }
+      }
     }
   ]
 }

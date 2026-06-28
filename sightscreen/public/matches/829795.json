@@ -712,7 +712,96 @@
         }
       },
       "pressure_index": 0.71,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CH Gayle",
+            "runs": 13,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by LMP Simmons, bowled by SL Malinga",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 82,
+            "balls": 50,
+            "fours": 6,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 133,
+            "balls": 58,
+            "fours": 19,
+            "sixes": 4,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MJ McClenaghan",
+            "overs": 4.0,
+            "runs_conceded": 40,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          },
+          {
+            "name": "SL Malinga",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 1
+          },
+          {
+            "name": "JJ Bumrah",
+            "overs": 4.0,
+            "runs_conceded": 52,
+            "wickets": 0,
+            "economy": 13.0,
+            "maidens": 0
+          },
+          {
+            "name": "J Suchith",
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 0,
+            "economy": 11.67,
+            "maidens": 0
+          },
+          {
+            "name": "Harbhajan Singh",
+            "overs": 2.0,
+            "runs_conceded": 30,
+            "wickets": 0,
+            "economy": 15.0,
+            "maidens": 0
+          },
+          {
+            "name": "HH Pandya",
+            "overs": 3.0,
+            "runs_conceded": 51,
+            "wickets": 0,
+            "economy": 17.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 228,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 6,
+          "noballs": 1,
+          "total": 235
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1494,142 @@
       },
       "pressure_index": 0.099,
       "match_shape": 0.126,
-      "target": 236
+      "target": 236,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "PA Patel",
+            "runs": 19,
+            "balls": 11,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "run out by V Kohli, KD Karthik",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "LMP Simmons",
+            "runs": 68,
+            "balls": 53,
+            "fours": 5,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "RG Sharma",
+            "runs": 15,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by Mandeep Singh, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KA Pollard",
+            "runs": 49,
+            "balls": 24,
+            "fours": 6,
+            "sixes": 2,
+            "dismissal": "caught by MA Starc, bowled by S Aravind",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "HH Pandya",
+            "runs": 8,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "stumped by KD Karthik, bowled by YS Chahal",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "AT Rayudu",
+            "runs": 14,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": "caught by AB de Villiers, bowled by HV Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "runs": 3,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by V Kohli, bowled by MA Starc",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "J Suchith",
+            "runs": 4,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by KD Karthik, bowled by YS Chahal",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MJ McClenaghan",
+            "runs": 12,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MA Starc",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 1,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "S Aravind",
+            "overs": 4.0,
+            "runs_conceded": 29,
+            "wickets": 1,
+            "economy": 7.25,
+            "maidens": 0
+          },
+          {
+            "name": "D Wiese",
+            "overs": 4.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "HV Patel",
+            "overs": 4.0,
+            "runs_conceded": 36,
+            "wickets": 2,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "YS Chahal",
+            "overs": 4.0,
+            "runs_conceded": 51,
+            "wickets": 2,
+            "economy": 12.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 192,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 3,
+          "noballs": 0,
+          "total": 196
+        }
+      }
     }
   ]
 }

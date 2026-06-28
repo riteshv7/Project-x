@@ -697,7 +697,106 @@
         }
       },
       "pressure_index": 0.817,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 19,
+            "balls": 13,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught and bowled by JR Hazlewood",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "FH Allen",
+            "runs": 18,
+            "balls": 8,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "caught by JM Sharma, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "A Raghuvanshi",
+            "runs": 71,
+            "balls": 46,
+            "fours": 7,
+            "sixes": 3,
+            "dismissal": "run out by D Padikkal, B Kumar",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "C Green",
+            "runs": 32,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "bowled by Rasikh Salam",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "RK Singh",
+            "runs": 49,
+            "balls": 29,
+            "fours": 3,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "JA Duffy",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "JR Hazlewood",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "Rasikh Salam",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 39,
+            "wickets": 0,
+            "economy": 9.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 189,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 192
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1395,7 +1494,123 @@
       },
       "pressure_index": 0.642,
       "match_shape": 0.989,
-      "target": 193
+      "target": 193,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "JG Bethell",
+            "runs": 15,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "caught and bowled by Kartik Tyagi",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 105,
+            "balls": 60,
+            "fours": 11,
+            "sixes": 3,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "D Padikkal",
+            "runs": 39,
+            "balls": 27,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": "caught by AM Rahane, bowled by Kartik Tyagi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RM Patidar",
+            "runs": 11,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by AM Rahane, bowled by SP Narine",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "TH David",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MK Pandey, bowled by Kartik Tyagi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JM Sharma",
+            "runs": 8,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "SR Dubey",
+            "overs": 2.1,
+            "runs_conceded": 21,
+            "wickets": 0,
+            "economy": 9.69,
+            "maidens": 0
+          },
+          {
+            "name": "VG Arora",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "Kartik Tyagi",
+            "overs": 4.0,
+            "runs_conceded": 32,
+            "wickets": 3,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "SP Narine",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "C Green",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "AS Roy",
+            "overs": 3.0,
+            "runs_conceded": 36,
+            "wickets": 0,
+            "economy": 12.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 180,
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 10,
+          "noballs": 0,
+          "total": 194
+        }
+      }
     }
   ]
 }

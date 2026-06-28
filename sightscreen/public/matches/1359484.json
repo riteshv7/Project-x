@@ -697,7 +697,149 @@
         }
       },
       "pressure_index": 0.616,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Anmolpreet Singh",
+            "runs": 31,
+            "balls": 26,
+            "fours": 3,
+            "sixes": 1,
+            "dismissal": "lbw, bowled by KH Pandya",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "MA Agarwal",
+            "runs": 8,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by MP Stoinis, bowled by KH Pandya",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "RA Tripathi",
+            "runs": 34,
+            "balls": 41,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "caught by A Mishra, bowled by Yash Thakur",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AK Markram",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by KH Pandya",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "HC Brook",
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "stumped by N Pooran, bowled by Ravi Bishnoi",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "Washington Sundar",
+            "runs": 16,
+            "balls": 28,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by DJ Hooda, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Abdul Samad",
+            "runs": 21,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "AU Rashid",
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DJ Hooda, bowled by A Mishra",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "KR Mayers",
+            "overs": 1.0,
+            "runs_conceded": 5,
+            "wickets": 0,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "JD Unadkat",
+            "overs": 3.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 8.67,
+            "maidens": 0
+          },
+          {
+            "name": "KH Pandya",
+            "overs": 4.0,
+            "runs_conceded": 18,
+            "wickets": 3,
+            "economy": 4.5,
+            "maidens": 0
+          },
+          {
+            "name": "Yash Thakur",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "Ravi Bishnoi",
+            "overs": 4.0,
+            "runs_conceded": 16,
+            "wickets": 1,
+            "economy": 4.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJ Hooda",
+            "overs": 1.0,
+            "runs_conceded": 8,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 5.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 117,
+          "byes": 1,
+          "legbyes": 1,
+          "wides": 2,
+          "noballs": 0,
+          "total": 121
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1280,7 +1422,140 @@
       },
       "pressure_index": 0.112,
       "match_shape": 0.992,
-      "target": 122
+      "target": 122,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "KR Mayers",
+            "runs": 13,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "caught by MA Agarwal, bowled by Fazalhaq Farooqi",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KL Rahul",
+            "runs": 35,
+            "balls": 31,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by AU Rashid",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "DJ Hooda",
+            "runs": 7,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught and bowled by B Kumar",
+            "dismissal_type": "caught and bowled"
+          },
+          {
+            "name": "KH Pandya",
+            "runs": 34,
+            "balls": 23,
+            "fours": 4,
+            "sixes": 1,
+            "dismissal": "caught by Anmolpreet Singh, bowled by Umran Malik",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MP Stoinis",
+            "runs": 10,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Shepherd",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by AU Rashid",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "N Pooran",
+            "runs": 11,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "B Kumar",
+            "overs": 2.0,
+            "runs_conceded": 19,
+            "wickets": 1,
+            "economy": 9.5,
+            "maidens": 0
+          },
+          {
+            "name": "Washington Sundar",
+            "overs": 1.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          },
+          {
+            "name": "Fazalhaq Farooqi",
+            "overs": 3.0,
+            "runs_conceded": 13,
+            "wickets": 1,
+            "economy": 4.33,
+            "maidens": 0
+          },
+          {
+            "name": "AK Markram",
+            "overs": 2.0,
+            "runs_conceded": 14,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "AU Rashid",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 2,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "T Natarajan",
+            "overs": 3.0,
+            "runs_conceded": 23,
+            "wickets": 0,
+            "economy": 7.67,
+            "maidens": 0
+          },
+          {
+            "name": "Umran Malik",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 110,
+          "byes": 2,
+          "legbyes": 0,
+          "wides": 15,
+          "noballs": 0,
+          "total": 127
+        }
+      }
     }
   ]
 }

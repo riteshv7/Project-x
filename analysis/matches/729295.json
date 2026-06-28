@@ -707,7 +707,123 @@
         }
       },
       "pressure_index": 0.807,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CA Pujara",
+            "runs": 35,
+            "balls": 32,
+            "fours": 6,
+            "sixes": 0,
+            "dismissal": "caught by Y Venugopal Rao, bowled by DJG Sammy",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 30,
+            "balls": 22,
+            "fours": 2,
+            "sixes": 3,
+            "dismissal": "caught by DJG Sammy, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Maxwell",
+            "runs": 95,
+            "balls": 42,
+            "fours": 5,
+            "sixes": 9,
+            "dismissal": "caught by DJG Sammy, bowled by A Mishra",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 10,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by DA Warner, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "GJ Bailey",
+            "runs": 10,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by DA Warner, bowled by B Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MG Johnson",
+            "runs": 4,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by B Kumar",
+            "dismissal_type": "bowled"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "DW Steyn",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "B Kumar",
+            "overs": 4.0,
+            "runs_conceded": 19,
+            "wickets": 3,
+            "economy": 4.75,
+            "maidens": 0
+          },
+          {
+            "name": "IK Pathan",
+            "overs": 2.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "KV Sharma",
+            "overs": 4.0,
+            "runs_conceded": 37,
+            "wickets": 0,
+            "economy": 9.25,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 56,
+            "wickets": 2,
+            "economy": 14.0,
+            "maidens": 0
+          },
+          {
+            "name": "DJG Sammy",
+            "overs": 2.0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": 11.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 184,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 3,
+          "noballs": 1,
+          "total": 193
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1390,7 +1506,168 @@
       },
       "pressure_index": 0.234,
       "match_shape": 0.318,
-      "target": 194
+      "target": 194,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AJ Finch",
+            "runs": 19,
+            "balls": 14,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "bowled by L Balaji",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by WP Saha, bowled by MG Johnson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Warner",
+            "runs": 8,
+            "balls": 11,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by GJ Maxwell, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KL Rahul",
+            "runs": 27,
+            "balls": 27,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by DA Miller, bowled by AR Patel",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Y Venugopal Rao",
+            "runs": 11,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by Sandeep Sharma",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "IK Pathan",
+            "runs": 5,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by AR Patel",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "DJG Sammy",
+            "runs": 15,
+            "balls": 11,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by AR Patel, bowled by L Balaji",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KV Sharma",
+            "runs": 10,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by DA Miller, bowled by MG Johnson",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DW Steyn",
+            "runs": 12,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by L Balaji",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "A Mishra",
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "B Kumar",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by MG Johnson, bowled by R Dhawan",
+            "dismissal_type": "caught"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Sandeep Sharma",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 1,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "MG Johnson",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "L Balaji",
+            "overs": 4.0,
+            "runs_conceded": 13,
+            "wickets": 4,
+            "economy": 3.25,
+            "maidens": 0
+          },
+          {
+            "name": "R Dhawan",
+            "overs": 2.2,
+            "runs_conceded": 23,
+            "wickets": 1,
+            "economy": 9.86,
+            "maidens": 0
+          },
+          {
+            "name": "AR Patel",
+            "overs": 4.0,
+            "runs_conceded": 20,
+            "wickets": 2,
+            "economy": 5.0,
+            "maidens": 0
+          },
+          {
+            "name": "GJ Maxwell",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 113,
+          "byes": 0,
+          "legbyes": 3,
+          "wides": 3,
+          "noballs": 2,
+          "total": 121
+        }
+      }
     }
   ]
 }

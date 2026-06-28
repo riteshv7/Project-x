@@ -697,7 +697,151 @@
         }
       },
       "pressure_index": 0.519,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "T Kohli",
+            "runs": 7,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 1,
+            "dismissal": "caught by M Manhas, bowled by GD McGrath",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "YK Pathan",
+            "runs": 10,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SR Watson",
+            "runs": 21,
+            "balls": 15,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": "run out",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "M Kaif",
+            "runs": 9,
+            "balls": 19,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "caught by B Geeves, bowled by R Bhatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DS Lehmann",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by MF Maharoof",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "RA Jadeja",
+            "runs": 29,
+            "balls": 23,
+            "fours": 2,
+            "sixes": 2,
+            "dismissal": "bowled by DL Vettori",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "M Rawat",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by R Bhatia",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "D Salunkhe",
+            "runs": 26,
+            "balls": 20,
+            "fours": 4,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "SK Warne",
+            "runs": 14,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissal": "bowled by MF Maharoof",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SK Trivedi",
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "GD McGrath",
+            "overs": 4.0,
+            "runs_conceded": 21,
+            "wickets": 1,
+            "economy": 5.25,
+            "maidens": 1
+          },
+          {
+            "name": "B Geeves",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 0,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "MF Maharoof",
+            "overs": 4.0,
+            "runs_conceded": 11,
+            "wickets": 2,
+            "economy": 2.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 4.0,
+            "runs_conceded": 17,
+            "wickets": 2,
+            "economy": 4.25,
+            "maidens": 0
+          },
+          {
+            "name": "DL Vettori",
+            "overs": 4.0,
+            "runs_conceded": 35,
+            "wickets": 1,
+            "economy": 8.75,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 122,
+          "byes": 1,
+          "legbyes": 3,
+          "wides": 3,
+          "noballs": 0,
+          "total": 129
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1260,7 +1404,96 @@
       },
       "pressure_index": 0.137,
       "match_shape": 0.997,
-      "target": 130
+      "target": 130,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "G Gambhir",
+            "runs": 58,
+            "balls": 46,
+            "fours": 7,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "V Sehwag",
+            "runs": 12,
+            "balls": 4,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "bowled by SR Watson",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "S Dhawan",
+            "runs": 52,
+            "balls": 41,
+            "fours": 8,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "MM Patel",
+            "overs": 3.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 8.33,
+            "maidens": 0
+          },
+          {
+            "name": "SR Watson",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 1,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "SK Trivedi",
+            "overs": 3.0,
+            "runs_conceded": 32,
+            "wickets": 0,
+            "economy": 10.67,
+            "maidens": 0
+          },
+          {
+            "name": "SK Warne",
+            "overs": 2.0,
+            "runs_conceded": 16,
+            "wickets": 0,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "YK Pathan",
+            "overs": 2.1,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 7.85,
+            "maidens": 0
+          },
+          {
+            "name": "D Salunkhe",
+            "overs": 1.0,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "economy": 11.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 122,
+          "byes": 0,
+          "legbyes": 0,
+          "wides": 10,
+          "noballs": 0,
+          "total": 132
+        }
+      }
     }
   ]
 }

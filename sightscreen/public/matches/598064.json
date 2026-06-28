@@ -712,7 +712,106 @@
         }
       },
       "pressure_index": 0.725,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "CA Pujara",
+            "runs": 51,
+            "balls": 48,
+            "fours": 8,
+            "sixes": 0,
+            "dismissal": "bowled by MS Gony",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "CH Gayle",
+            "runs": 61,
+            "balls": 32,
+            "fours": 6,
+            "sixes": 3,
+            "dismissal": "bowled by MS Gony",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "V Kohli",
+            "runs": 14,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by SE Marsh, bowled by P Awana",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "AB de Villiers",
+            "runs": 38,
+            "balls": 19,
+            "fours": 4,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "MC Henriques",
+            "runs": 16,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "P Kumar",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 0,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "P Awana",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "MS Gony",
+            "overs": 4.0,
+            "runs_conceded": 41,
+            "wickets": 2,
+            "economy": 10.25,
+            "maidens": 0
+          },
+          {
+            "name": "MG Neser",
+            "overs": 4.0,
+            "runs_conceded": 62,
+            "wickets": 0,
+            "economy": 15.5,
+            "maidens": 0
+          },
+          {
+            "name": "PP Chawla",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 0,
+            "economy": 6.5,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 180,
+          "byes": 0,
+          "legbyes": 5,
+          "wides": 4,
+          "noballs": 1,
+          "total": 190
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1355,7 +1454,123 @@
       },
       "pressure_index": 0.622,
       "match_shape": 0.995,
-      "target": 191
+      "target": 191,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "Mandeep Singh",
+            "runs": 16,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by KB Arun Karthik, bowled by R Vinay Kumar",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "SE Marsh",
+            "runs": 6,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by AB de Villiers, bowled by R Rampaul",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "Gurkeerat Singh",
+            "runs": 20,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "lbw, bowled by M Kartik",
+            "dismissal_type": "lbw"
+          },
+          {
+            "name": "DJ Hussey",
+            "runs": 13,
+            "balls": 14,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "caught by MC Henriques, bowled by M Kartik",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "DA Miller",
+            "runs": 101,
+            "balls": 37,
+            "fours": 8,
+            "sixes": 7,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "R Sathish",
+            "runs": 27,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "R Rampaul",
+            "overs": 4.0,
+            "runs_conceded": 27,
+            "wickets": 1,
+            "economy": 6.75,
+            "maidens": 0
+          },
+          {
+            "name": "RP Singh",
+            "overs": 3.0,
+            "runs_conceded": 38,
+            "wickets": 0,
+            "economy": 12.67,
+            "maidens": 0
+          },
+          {
+            "name": "MC Henriques",
+            "overs": 3.0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": 9.67,
+            "maidens": 0
+          },
+          {
+            "name": "R Vinay Kumar",
+            "overs": 4.0,
+            "runs_conceded": 48,
+            "wickets": 1,
+            "economy": 12.0,
+            "maidens": 0
+          },
+          {
+            "name": "M Kartik",
+            "overs": 3.0,
+            "runs_conceded": 24,
+            "wickets": 2,
+            "economy": 8.0,
+            "maidens": 0
+          },
+          {
+            "name": "CH Gayle",
+            "overs": 1.0,
+            "runs_conceded": 22,
+            "wickets": 0,
+            "economy": 22.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 183,
+          "byes": 4,
+          "legbyes": 2,
+          "wides": 4,
+          "noballs": 1,
+          "total": 194
+        }
+      }
     }
   ]
 }

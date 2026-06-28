@@ -722,7 +722,150 @@
         }
       },
       "pressure_index": 0.834,
-      "match_shape": null
+      "match_shape": null,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "RR Pant",
+            "runs": 2,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "bowled by AB Dinda",
+            "dismissal_type": "bowled"
+          },
+          {
+            "name": "SV Samson",
+            "runs": 20,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 0,
+            "dismissal": "caught by R Ashwin, bowled by SM Boland",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "KK Nair",
+            "runs": 32,
+            "balls": 22,
+            "fours": 5,
+            "sixes": 0,
+            "dismissal": "caught by NLTC Perera, bowled by R Bhatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "JP Duminy",
+            "runs": 34,
+            "balls": 32,
+            "fours": 1,
+            "sixes": 0,
+            "dismissal": "run out by AM Rahane, MS Dhoni",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "SW Billings",
+            "runs": 24,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by AM Rahane, bowled by R Bhatia",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "CR Brathwaite",
+            "runs": 20,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 3,
+            "dismissal": "caught by NLTC Perera, bowled by SM Boland",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "P Negi",
+            "runs": 19,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "J Yadav",
+            "runs": 1,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": "run out by SS Tiwary",
+            "dismissal_type": "run out"
+          },
+          {
+            "name": "Mohammed Shami",
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "AB Dinda",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "NLTC Perera",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "SM Boland",
+            "overs": 4.0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": 7.75,
+            "maidens": 0
+          },
+          {
+            "name": "R Ashwin",
+            "overs": 4.0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "R Bhatia",
+            "overs": 4.0,
+            "runs_conceded": 22,
+            "wickets": 2,
+            "economy": 5.5,
+            "maidens": 0
+          },
+          {
+            "name": "M Ashwin",
+            "overs": 3.0,
+            "runs_conceded": 31,
+            "wickets": 0,
+            "economy": 10.33,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 154,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 6,
+          "noballs": 1,
+          "total": 162
+        }
+      }
     },
     {
       "innings_number": 2,
@@ -1405,7 +1548,122 @@
       },
       "pressure_index": 0.606,
       "match_shape": 0.994,
-      "target": 163
+      "target": 163,
+      "scorecard": {
+        "batters": [
+          {
+            "name": "AM Rahane",
+            "runs": 63,
+            "balls": 48,
+            "fours": 7,
+            "sixes": 0,
+            "dismissal": null,
+            "dismissal_type": null
+          },
+          {
+            "name": "UT Khawaja",
+            "runs": 30,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 1,
+            "dismissal": "stumped by SV Samson, bowled by A Mishra",
+            "dismissal_type": "stumped"
+          },
+          {
+            "name": "SS Tiwary",
+            "runs": 21,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 1,
+            "dismissal": "caught by SW Billings, bowled by Imran Tahir",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "MS Dhoni",
+            "runs": 27,
+            "balls": 20,
+            "fours": 1,
+            "sixes": 2,
+            "dismissal": "caught by SW Billings, bowled by Imran Tahir",
+            "dismissal_type": "caught"
+          },
+          {
+            "name": "NLTC Perera",
+            "runs": 14,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 2,
+            "dismissal": null,
+            "dismissal_type": null
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "J Yadav",
+            "overs": 4.0,
+            "runs_conceded": 25,
+            "wickets": 0,
+            "economy": 6.25,
+            "maidens": 0
+          },
+          {
+            "name": "CR Brathwaite",
+            "overs": 2.0,
+            "runs_conceded": 17,
+            "wickets": 0,
+            "economy": 8.5,
+            "maidens": 0
+          },
+          {
+            "name": "Mohammed Shami",
+            "overs": 3.1,
+            "runs_conceded": 50,
+            "wickets": 0,
+            "economy": 15.79,
+            "maidens": 0
+          },
+          {
+            "name": "A Mishra",
+            "overs": 4.0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "economy": 7.0,
+            "maidens": 0
+          },
+          {
+            "name": "JP Duminy",
+            "overs": 1.0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": 9.0,
+            "maidens": 0
+          },
+          {
+            "name": "Imran Tahir",
+            "overs": 4.0,
+            "runs_conceded": 26,
+            "wickets": 2,
+            "economy": 6.5,
+            "maidens": 0
+          },
+          {
+            "name": "P Negi",
+            "overs": 1.0,
+            "runs_conceded": 10,
+            "wickets": 0,
+            "economy": 10.0,
+            "maidens": 0
+          }
+        ],
+        "runs_breakdown": {
+          "runs_off_bat": 155,
+          "byes": 0,
+          "legbyes": 1,
+          "wides": 7,
+          "noballs": 3,
+          "total": 166
+        }
+      }
     }
   ]
 }
