@@ -21,6 +21,40 @@ export interface PhaseSummary {
   required_run_rate: number | null;
 }
 
+export interface BatterScorecardRow {
+  name: string;
+  runs: number;
+  balls: number;
+  fours: number;
+  sixes: number;
+  dismissal: string;
+  dismissal_type: string;
+}
+
+export interface BowlerScorecardRow {
+  name: string;
+  overs: number;
+  runs_conceded: number;
+  wickets: number;
+  economy: number;
+  maidens: number;
+}
+
+export interface RunsBreakdown {
+  runs_off_bat: number;
+  byes: number;
+  legbyes: number;
+  wides: number;
+  noballs: number;
+  total: number;
+}
+
+export interface InningsScorecard {
+  batters: BatterScorecardRow[];
+  bowlers: BowlerScorecardRow[];
+  runs_breakdown: RunsBreakdown;
+}
+
 export interface InningsAnalysis {
   innings_number: number;
   batting_team: string;
@@ -38,6 +72,7 @@ export interface InningsAnalysis {
   };
   pressure_index: number;
   match_shape: number | null;
+  scorecard: InningsScorecard;
 }
 
 export interface MatchResult {
