@@ -71,7 +71,13 @@ export function HomePageClient({ matches }: { matches: MatchSummary[] }) {
           </div>
         </div>
 
-        <div className="mt-8 grid gap-3 md:grid-cols-2 xl:grid-cols-4">
+        <div className="mt-8 grid gap-3 md:grid-cols-2 xl:grid-cols-6">
+          <Link
+            href="/explore"
+            className="rounded-2xl border border-card-border bg-white/60 px-5 py-4 text-sm font-medium text-foreground transition hover:border-accent/30 hover:text-accent-ink"
+          >
+            Advanced filters
+          </Link>
           <Link
             href="/leagues"
             className="rounded-2xl border border-card-border bg-white/60 px-5 py-4 text-sm font-medium text-foreground transition hover:border-accent/30 hover:text-accent-ink"
@@ -83,6 +89,12 @@ export function HomePageClient({ matches }: { matches: MatchSummary[] }) {
             className="rounded-2xl border border-card-border bg-white/60 px-5 py-4 text-sm font-medium text-foreground transition hover:border-accent/30 hover:text-accent-ink"
           >
             Browse by team
+          </Link>
+          <Link
+            href="/players"
+            className="rounded-2xl border border-card-border bg-white/60 px-5 py-4 text-sm font-medium text-foreground transition hover:border-accent/30 hover:text-accent-ink"
+          >
+            Browse players
           </Link>
           <Link
             href="/seasons"

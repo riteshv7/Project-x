@@ -13,15 +13,15 @@ export const dynamicParams = false;
 export async function generateStaticParams() {
   const matches = await getAllMatches();
   const seasons = Array.from(new Set(matches.map((match) => new Date(match.date).getUTCFullYear().toString())));
-  return seasons.sort((a, b) => Number(b) - Number(a)).map((season) => ({ season }));
+  return seasons.sort((a, b) => Number(b) - Number(a)).map((season) => ({ league_or_season: season }));
 }
 
 export async function generateMetadata({
   params,
 }: {
-  params: Promise<{ season: string }>;
+  params: Promise<{ league_or_season: string }>;
 }): Promise<Metadata> {
-  const { season } = await params;
+  const { league_or_season: season } = await params;
   return {
     title: `${season} seasons`,
     description: `League chooser for ${season} across the Sightscreen archive.`,
@@ -31,9 +31,9 @@ export async function generateMetadata({
 export default async function SeasonChooserPage({
   params,
 }: {
-  params: Promise<{ season: string }>;
+  params: Promise<{ league_or_season: string }>;
 }) {
-  const { season } = await params;
+  const { league_or_season: season } = await params;
   const matches = await getAllMatches();
   const options = getAllLeagues(matches)
     .map((league) => ({

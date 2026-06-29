@@ -13,6 +13,7 @@ import {
 } from "recharts";
 
 import { LeagueBadge } from "@/app/components/league-badge";
+import { AddToPlaylistButton } from "@/app/playlists/add-to-playlist-button";
 import type {
   BatterScorecardRow,
   BowlerScorecardRow,
@@ -30,6 +31,7 @@ import {
   momentSwingText,
   phaseRows,
   pressureLabel,
+  slugifySegment,
 } from "@/lib/utils";
 
 type MatchDetailTab = "analysis" | "scorecard";
@@ -317,7 +319,14 @@ function BattersTable({ batters }: { batters: BatterScorecardRow[] }) {
         <tbody className="divide-y divide-card-border">
           {sortedBatters.map((batter, index) => (
             <tr key={`${batter.name}-${index}`} className={dataRowClass(index)}>
-              <td className="px-4 py-3 font-medium text-foreground">{batter.name}</td>
+              <td className="px-4 py-3 font-medium text-foreground">
+                <Link
+                  href={`/players/${slugifySegment(batter.name)}`}
+                  className="text-accent-ink hover:underline"
+                >
+                  {batter.name}
+                </Link>
+              </td>
               <td className="px-4 py-3 text-base font-semibold text-accent-ink">{batter.runs}</td>
               <td className="px-4 py-3 text-foreground">{batter.balls}</td>
               <td className="px-4 py-3 text-foreground">{batter.fours}</td>
@@ -357,7 +366,14 @@ function BowlersTable({ bowlers }: { bowlers: BowlerScorecardRow[] }) {
         <tbody className="divide-y divide-card-border">
           {sortedBowlers.map((bowler, index) => (
             <tr key={`${bowler.name}-${index}`} className={dataRowClass(index)}>
-              <td className="px-4 py-3 font-medium text-foreground">{bowler.name}</td>
+              <td className="px-4 py-3 font-medium text-foreground">
+                <Link
+                  href={`/players/${slugifySegment(bowler.name)}`}
+                  className="text-accent-ink hover:underline"
+                >
+                  {bowler.name}
+                </Link>
+              </td>
               <td className="px-4 py-3 text-foreground">{bowler.overs.toFixed(1)}</td>
               <td className="px-4 py-3 text-foreground">{bowler.runs_conceded}</td>
               <td className="px-4 py-3 text-base font-semibold text-[#873f2f]">{bowler.wickets}</td>
@@ -539,6 +555,9 @@ export function MatchDetailClient({ match }: { match: MatchJson }) {
               </div>
             </div>
           </div>
+        </div>
+        <div className="mt-6">
+          <AddToPlaylistButton matchId={match.match_id} />
         </div>
       </section>
 

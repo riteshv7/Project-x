@@ -80,10 +80,16 @@ export function TeamPageClient({ stats }: { stats: TeamStats }) {
         </TableCard>
 
         <div className="glass-card rounded-[1.75rem] p-5 sm:p-6">
-          <p className="section-title">Head To Head</p>
+          <p className="section-title">Team Tools</p>
           <h2 className="mt-2 text-2xl font-semibold tracking-[-0.03em] text-accent-ink">
-            Frequent opponents
+            Frequent opponents and analytics
           </h2>
+          <Link
+            href={`/teams/${stats.slug}/analytics`}
+            className="mt-5 inline-flex rounded-2xl border border-accent/20 bg-accent px-4 py-3 text-sm font-semibold text-white transition hover:bg-accent-ink"
+          >
+            Open analytics hub
+          </Link>
           <div className="mt-5 flex flex-wrap gap-3">
             {stats.opponents.map((opponent) => (
               <Link

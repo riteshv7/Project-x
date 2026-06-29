@@ -3,8 +3,12 @@ import Link from "next/link";
 export function SiteHeader() {
   const links = [
     { href: "/", label: "Home" },
+    { href: "/explore", label: "Explore" },
+    { href: "/playlists", label: "Playlists" },
+    { href: "/leaderboards", label: "Leaderboards" },
     { href: "/leagues", label: "Leagues" },
     { href: "/teams", label: "Teams" },
+    { href: "/players", label: "Players" },
     { href: "/seasons", label: "Seasons" },
     { href: "/venues", label: "Venues" },
   ];

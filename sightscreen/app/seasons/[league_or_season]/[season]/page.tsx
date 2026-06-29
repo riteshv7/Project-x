@@ -22,7 +22,7 @@ export async function generateStaticParams() {
   const matches = await getAllMatches();
   return getAllLeagues(matches).flatMap((league) =>
     getSeasonsByLeague(league, matches).map((season) => ({
-      league: getLeagueMetadata(league).slug,
+      league_or_season: getLeagueMetadata(league).slug,
       season,
     })),
   );
@@ -31,10 +31,10 @@ export async function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: {
-  params: Promise<{ league: string; season: string }>;
+  params: Promise<{ league_or_season: string; season: string }>;
 }): Promise<Metadata> {
-  const { league, season } = await params;
-  const leagueCode = getLeagueBySlug(league);
+  const { league_or_season, season } = await params;
+  const leagueCode = getLeagueBySlug(league_or_season);
 
   if (!leagueCode) {
     return { title: "Season not found" };
@@ -49,11 +49,11 @@ export async function generateMetadata({
 export default async function LeagueSeasonDetailPage({
   params,
 }: {
-  params: Promise<{ league: string; season: string }>;
+  params: Promise<{ league_or_season: string; season: string }>;
 }) {
-  const { league, season } = await params;
+  const { league_or_season, season } = await params;
   const matches = await getAllMatches();
-  const leagueCode = getLeagueBySlug(league);
+  const leagueCode = getLeagueBySlug(league_or_season);
 
   if (!leagueCode) {
     notFound();

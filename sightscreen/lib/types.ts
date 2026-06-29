@@ -38,8 +38,8 @@ export interface BatterScorecardRow {
   balls: number;
   fours: number;
   sixes: number;
-  dismissal: string;
-  dismissal_type: string;
+  dismissal: string | null;
+  dismissal_type: string | null;
 }
 
 export interface BowlerScorecardRow {
@@ -253,4 +253,177 @@ export interface LeagueStats {
   leaderboard: LeagueTeamRow[];
   seasonBreakdown: LeagueSeasonRow[];
   matchSummaries: MatchSummary[];
+}
+
+export interface PlaylistSummary {
+  slug: string;
+  name: string;
+  description: string;
+  matchCount: number;
+  generatedAt: string;
+  criteria: string;
+}
+
+export interface MatchPlaylist {
+  slug: string;
+  name: string;
+  description: string;
+  criteria: string;
+  generatedAt: string;
+  matches: MatchSummary[];
+  availableLeagues: LeagueCode[];
+  availableSeasons: string[];
+  availableVenues: string[];
+}
+
+export interface PersonalPlaylist {
+  id: string;
+  name: string;
+  description: string;
+  created_at: string;
+  matches: string[];
+}
+
+export interface TeamAnalyticsBatterRow {
+  name: string;
+  matches: number;
+  runs: number;
+  average: number | null;
+  strikeRate: number;
+  fours: number;
+  sixes: number;
+}
+
+export interface TeamAnalyticsBowlerRow {
+  name: string;
+  matches: number;
+  overs: number;
+  runs: number;
+  wickets: number;
+  economy: number;
+  avgWicketsPerMatch: number;
+}
+
+export interface TeamAnalyticsSplitRow {
+  matches: number;
+  wins: number;
+  losses: number;
+  winPercent: number;
+  avgScore: number;
+  avgOppositionScore: number;
+}
+
+export interface TeamAnalyticsSeasonRow {
+  season: string;
+  matches: number;
+  wins: number;
+  losses: number;
+  winPercent: number;
+  avgScore: number;
+  avgOppositionScore: number;
+}
+
+export interface TeamAnalyticsStats {
+  teamName: string;
+  slug: string;
+  leagues: LeagueCode[];
+  homeGround: string | null;
+  batterStats: TeamAnalyticsBatterRow[];
+  bowlerStats: TeamAnalyticsBowlerRow[];
+  homeAway: {
+    home: TeamAnalyticsSplitRow;
+    away: TeamAnalyticsSplitRow;
+  };
+  seasonTrends: TeamAnalyticsSeasonRow[];
+  battingInsight: string;
+  bowlingInsight: string;
+  homeAwayInsight: string;
+  seasonInsight: string;
+}
+
+export type LeaderboardMetric =
+  | "runs"
+  | "wickets"
+  | "strike_rate"
+  | "economy"
+  | "average"
+  | "sixes"
+  | "fours"
+  | "all_rounder_score";
+
+export type LeaderboardRole = "any" | "batter" | "bowler" | "all_rounder";
+
+export type LeaderboardThresholdType = "innings" | "dismissals" | "overs" | "matches";
+
+export interface LeaderboardThreshold {
+  type: LeaderboardThresholdType;
+  value: number;
+}
+
+export interface LeaderboardAggregateSlice {
+  player: string;
+  slug: string;
+  league: LeagueCode;
+  season: string;
+  matches: number;
+  innings: number;
+  runs: number;
+  balls: number;
+  dismissals: number;
+  fours: number;
+  sixes: number;
+  highestScore: number;
+  scoreSumSquares: number;
+  wickets: number;
+  bowlingMatches: number;
+  bowlingBalls: number;
+  runsConceded: number;
+  deathBalls: number;
+  deathRunsConceded: number;
+  deathWickets: number;
+}
+
+export interface LeaderboardRow {
+  rank: number;
+  player: string;
+  slug: string;
+  leagueLabel: string;
+  matches: number;
+  innings: number;
+  runs: number;
+  wickets: number;
+  average: number | null;
+  strikeRate: number;
+  economy: number | null;
+  overs: number;
+  dismissals: number;
+  fours: number;
+  sixes: number;
+  highestScore: number;
+  allRounderScore: number;
+  consistency: number | null;
+  deathEconomy: number | null;
+  metricValue: number;
+  metricLabel: string;
+}
+
+export interface PopularLeaderboard {
+  slug: string;
+  name: string;
+  description: string;
+  metric: LeaderboardMetric | "consistency" | "death_economy" | "highest_score" | "improvement";
+  filtersLabel: string;
+  cutoffDate: string;
+  rows: LeaderboardRow[];
+}
+
+export interface CustomLeaderboardConfig {
+  id: string;
+  name: string;
+  metric: LeaderboardMetric;
+  league: LeagueCode | "all";
+  season: string | "all";
+  role: LeaderboardRole;
+  minThreshold: LeaderboardThreshold;
+  created_at: string;
 }
